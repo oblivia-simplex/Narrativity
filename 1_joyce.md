@@ -104,31 +104,31 @@ the causal chains which are narrative\'s stock-in-trade?
 Therefore:
 
 
-while detailed depositions state
-how further on
-within the wood
-. . .
-
-
-the bright axe
-blossom suddenly
-
-
-the long bones lever
-up from it like anthers
-and beyond the startling
-calyx of teeth
-
-
-an avid buzzing perishable
-fruit set thicken
-and disintegrate
-to load with sweet
-
-
-secure deposits
-of afflicting gold
-their remote cells . . .
+| while detailed depositions state
+| how further on
+| within the wood
+| . . .
+|
+| 
+| the bright axe
+| blossom suddenly
+|
+|
+| the long bones lever
+| up from it like anthers
+| and beyond the startling
+| calyx of teeth
+|
+|
+| an avid buzzing perishable
+| fruit set thicken
+| and disintegrate
+| to load with sweet
+|
+|
+| secure deposits
+| of afflicting gold
+| their remote cells . . .
 
 
 Here is not just one narrative, but two. Firstly, the sequence of
@@ -275,20 +275,20 @@ expecting to find there an exact mirror-image of the world I know, but
 rather to have it deliver me one I don\'t.
 
 
-We will read
-every day
-in the afternoon
-When shall we learn
-to write?
-We shall soon
-learn
-I once went
-to Europe
-but I do not now
-remember
-what I saw
-there
-
+| We will read
+| every day
+| in the afternoon
+| When shall we learn
+| to write?
+| We shall soon
+| learn
+| I once went
+| to Europe
+| but I do not now
+| remember
+| what I saw
+| there
+| 
 
 It is in preferring to concentrate on the unpredictable ground rather
 than to people it with puppets of my own making that I have elected in
@@ -301,10 +301,16 @@ denouement; attachment understood embraced abandoned; wanting
 executive or summary.
 
 
-Notes
-1 All quotations are from **Syzygy** (Wild Honey Press, Dublin, 1998),
+## Notes
+
+All quotations are from **Syzygy** (Wild Honey Press, Dublin, 1998),
 available on the web at the Sound Eye site
 http://indigo.ie/\~tjac/Poets/Trevor\_Joyce/Syzygy/syzygy.htm
+
+<!-- 
+
+I'll need to restore the footnotes manually, I think. They seem to have disappeared.
+
 2 **Without Asylum** (Wild Honey Press, Dublin, 1998)
 3 "Damaged, we bleed time." This is the central one of a sequence of
 three prose-poems called **Hopeful Monsters** (Wild Honey Press,
@@ -329,4 +335,4 @@ California).
 14 Ibid, section XXVII
 
 
-
+-->

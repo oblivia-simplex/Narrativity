@@ -76,25 +76,25 @@ book **Name**, which I found useful in its treatment of the tie
 between language and self; is language a function of the word or of
 the self? Or vice versa?
 
-
-The cryptic tongue.
-We are getting ourselves
-in the mood to have been
-done with having been done
-with this again.
-It\'s all very irreversible
-which is what
-makes its guts open up.
-I wonder how long it will
-be until this writes
-itself, in
-my direction. And we
-haven\'t proved
-that it isn\'t true yet.
-When I think of you
-the sentences come,
-but I don\'t.
-
+| 
+| The cryptic tongue.
+| We are getting ourselves
+| in the mood to have been
+| done with having been done
+| with this again.
+| It\'s all very irreversible
+| which is what
+| makes its guts open up.
+| I wonder how long it will
+| be until this writes
+| itself, in
+| my direction. And we
+| haven\'t proved
+| that it isn\'t true yet.
+| When I think of you
+| the sentences come,
+| but I don\'t.
+| 
 
 
 

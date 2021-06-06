@@ -4,32 +4,32 @@
 Jeff Derkson
 
 
-> > \"That the widespread textualization of the outside world in
-> > contemporary thought (the body as a text, the state as a text,
-> > consumption as a text) should itself be seen as a fundamental form
-> > of postmodern spatialization\...\" (158)
-> >
-> > \--Jameson, **Postmodernism: Or the Cultural Logic Of Late
-> > Capitalism**
-> >
-> > \"For its part the poststructuralist version of postmodernism
-> > worked to exceed both formal aesthetic categories (the
-> > disciplinary order of painting, sculpture, and so on) and
-> > traditional cultural distinctions (high versus mass culture,
-> > autonomous versus utilitarian art) with a new model of art as
-> > text.\" (72).
-> >
-> > \--Hal Foster, **The Return of the Real**
-> >
-> > \"A provisional conclusion might be that in advanced art practices
-> > of the past thirty years the operative definition of the site has
-> > been transformed from a physical location---grounded, fixed,
-> > actual---to a discursive vector---ungrounded, fluid, virtual.\"
-> >
-> > Miwon Kwon, **One Place After Another: Notes on Site
-> > Specificity**, October 80 (Spring 97): 95.
-> >
-> >  
+> \"That the widespread textualization of the outside world in
+> contemporary thought (the body as a text, the state as a text,
+> consumption as a text) should itself be seen as a fundamental form
+> of postmodern spatialization\...\" (158)
+>
+> \--Jameson, **Postmodernism: Or the Cultural Logic Of Late
+> Capitalism**
+>
+> \"For its part the poststructuralist version of postmodernism
+> worked to exceed both formal aesthetic categories (the
+> disciplinary order of painting, sculpture, and so on) and
+> traditional cultural distinctions (high versus mass culture,
+> autonomous versus utilitarian art) with a new model of art as
+> text.\" (72).
+>
+> \--Hal Foster, **The Return of the Real**
+>
+> \"A provisional conclusion might be that in advanced art practices
+> of the past thirty years the operative definition of the site has
+> been transformed from a physical location---grounded, fixed,
+> actual---to a discursive vector---ungrounded, fluid, virtual.\"
+>
+> Miwon Kwon, **One Place After Another: Notes on Site
+> Specificity**, October 80 (Spring 97): 95.
+>
+>  
 
 I\'ve started with this top-heavy loading of quotations to highlight a
 general movement from textualization of (generally) the \"outside
@@ -184,8 +184,5 @@ constitutive elements of the repressed history and emergent history.
 The site of writing then becomes imagined as a place of intersecting
 discourses: not groundless and fluid but both determined and
 determining.
-
-::: {.Section1}
-:::
 
 

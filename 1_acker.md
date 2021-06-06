@@ -268,7 +268,9 @@ a world that is open and dangerous, that is limitless. To play, then,
 both in structure and in content, is to desire to live in wonder.
 
 
-Note: Kathy Acker gave this talk on a panel called \"In Extremis,
+## Note 
+
+Kathy Acker gave this talk on a panel called \"In Extremis,
 Writing at the Century\'s End.\" The panel was presented by Small
 Press Traffic in the New College Theater in San Francisco on April 29,
 1993. Fortunately, the event was videotaped by S.S. Kush for his Cloud

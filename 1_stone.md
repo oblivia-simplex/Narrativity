@@ -1,11 +1,10 @@
 
-**Why write narrative when you could be the next guest on the Jerry
-Springer show!**
+# Why write narrative when you could be the next guest on the Jerry
+Springer show!
 
 Anne Stone
 
 
-::: {.Section1}
 I met someone whose tattoo had been sliced out of his arm, leaving a
 jagged scar in place of the name of city he was born. I understood the
 urge, to inject a place under your skin, only to have it removed like
@@ -210,8 +209,4 @@ cigarette.
 
 I think you should know that I am familiar with the practical
 applications of luting agents.
-
- 
-:::
-
 

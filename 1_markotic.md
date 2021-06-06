@@ -4,7 +4,7 @@
 Nicole Markotic
 
 
-.
+
 
 I am interested in a dialogue about \"new\" narrative, which is
 perhaps not so much *new*, as newly theorized. Many prose writers do
@@ -93,23 +93,23 @@ deviate away from story. For example, Robert Kroetsch, in his poem
 \"The Sad Phoenician,\" pursues an elusive and/but dialogue that
 generates a bifurcated and pending narrative:
 
-> and        the Phoenicians gave us the whole works
-> but        what does that matter to a world that ignores
->              them, the Greeks got all the credit of
->              course, because they stole the alphabet
-> and        the girl from Swift Current, she more or less
->              took everything
-> but        the kitchen sink, claiming all my books, my
->              my records, my prints; she moved in with that
->              photographer from Saskatoon, the one who
->              takes those sterling pictures of the wind
-> and        I should sue
-> but        she follows large flocks of birds, I hear,
->              calling my name
-> and        pleading
-> but        why she developed a thing for adverbs, that\'s
->              too rich for my blood, I want to tell you
-> and
+|  and        the Phoenicians gave us the whole works
+|  but        what does that matter to a world that ignores
+|               them, the Greeks got all the credit of
+|               course, because they stole the alphabet
+|  and        the girl from Swift Current, she more or less
+|               took everything
+|  but        the kitchen sink, claiming all my books, my
+|               my records, my prints; she moved in with that
+|               photographer from Saskatoon, the one who
+|               takes those sterling pictures of the wind
+|  and        I should sue
+|  but        she follows large flocks of birds, I hear,
+|               calling my name
+|  and        pleading
+|  but        why she developed a thing for adverbs, that\'s
+|               too rich for my blood, I want to tell you
+|  and
 
 Readers wander through an and/but tug-of-war that is also a narrative
 wandering, from the Phoenicians and Greeks to Saskatchewan, to the
@@ -126,13 +126,15 @@ by social lines such as race or class. Harryette Mullen, in her prose
 poetry book, **S\*PeRM\*\*K\*T**, investigates the connective links
 between the social and the linguistic:
 
-Eat junk, don\'t shoot. Fast food leaves hunger off the hook.
-Employees must wash
-hands. Bleach your needles, cook the works. Stick it to the frying
-pan, hyped again.
-Another teflon prez. Caught in the fire around midnight, quick and
-dirty biz. Smoked
-in the self-cleaning oven.
+| 
+| Eat junk, don\'t shoot. Fast food leaves hunger off the hook.
+| Employees must wash
+| hands. Bleach your needles, cook the works. Stick it to the frying
+| pan, hyped again.
+| Another teflon prez. Caught in the fire around midnight, quick and
+| dirty biz. Smoked
+| in the self-cleaning oven.
+| 
 
 Mullen\'s disconnected sentences can be read to produce meanings that
 address subjects ranging from drugs to poverty in contemporary USA.
@@ -177,6 +179,5 @@ and echo cheerfully what Kathleen Fraser describes as \"fragments of a
 wholeness only guessed at\" (**Each Next**). My prose poems
 want/desire/lust after such guessing contortions.
 
-.
 
 

@@ -6,17 +6,15 @@ Rob Halpern
 
 
 
-::: {align="center"}
 
-| *I was already being prepared for \[the world\'s\] tournaments by a
-| training
-| which taught me to have a horror of faulty grammar instead of
-| teaching me,
-| when I committed these faults, not to envy others who avoided them.*
-|
-|              --Saint Augustine, Bishop of Hippo
+> I was already being prepared for \[the world\'s\] tournaments by a
+> training
+> which taught me to have a horror of faulty grammar instead of
+> teaching me,
+> when I committed these faults, not to envy others who avoided them.
+>
+>              --Saint Augustine, Bishop of Hippo
 
-:::
 
 **Once upon a time** is always here. Crisis, my origin: this fault.
 Someone is called where I am compelled to explain. To make narrative
@@ -29,7 +27,7 @@ default simply because there is no other way actively to be here.
 bound to practice. In Latin, the root meaning appears to have doubled,
 manifesting an otherwise latent critical difference. There is at once
 *(g)narus*: knowing, expert, skillful; and *narro*: to relate or tell.
-(1) A fault---mine, and ours---runs thru the space between. *Fault*:
+([^1]) A fault---mine, and ours---runs thru the space between. *Fault*:
 deficiency, lack, scarcity; as well as slip, error, mistake. Also,
 more critically: *fault* as dislocation or a break in continuity of
 the strata or vein. *Here*, knowing is held in suspense and knowledge
@@ -41,21 +39,12 @@ one who tells. Here, between the overdetermined and the indeterminate,
 *narrative determines*, that is, it constrains and enables, just as it
 struggles and responds, testing the tension between knowing and
 composing. *Here, we make our narratives ourselves, but, in the first
-place, under very definite assumptions and conditions.* (2)
+place, under very definite assumptions and conditions.* ([^2])
 
 
 
 
-::: {align="right"}
-:::
-
-::: {align="center"}
-
-| ::: {align="center"}
-| **I. Poetically**
-| :::
-
-:::
+## I. Poetically
 
 
 **At once wayless and wayward**, I positions a self *here* at the site
@@ -186,19 +175,15 @@ Augustine and Stein, I am drawn to this, the faultiness of narrative,
 its promise.
 
 
-**To I this plot**
+### To I this plot
 
-::: {align="center"}
---------------------------------------------------------------------------
-*Grant me Lord to know and understand whether a man is first to pray to
-you for help or to praise you, and whether he must know you before he
-can call you to his aid. If he does not know you, how can he pray to
-you? For he may call for some other help, mistaking it for yours.*
 
-           --Saint Augustine
-
---------------------------------------------------------------------------
-:::
+> Grant me Lord to know and understand whether a man is first to pray to
+> you for help or to praise you, and whether he must know you before he
+> can call you to his aid. If he does not know you, how can he pray to
+> you? For he may call for some other help, mistaking it for yours.
+>
+>           --Saint Augustine
 
 
 
@@ -228,57 +213,55 @@ and risks a world. Between belief and doubt, this communication
 without guarantees: the very condition of narrative possibility.
 
 
-**A crisis of audience**
+### A crisis of audience
 
-::: {align="center"}
 
-| *How shall I call upon my God for aid, when the call I make is for
-| my
-| Lord and my God to come into myself?\... Does this then mean, O Lord
-| my
-| God, that there is in me something fit to contain you? Can even
-| heaven
-| and earth, which you made and in which you made me, contain you? Or
-| since nothing that exists could exist without you, does this mean
-| that
-| whatever exists does, in this sense, contain you? If this is so,
-| since
-| I too exist, why do I ask you to come into me? For I should not be
-| there at all unless, in this way, you were already present within
-| me\...
-| But if I exist in you, how can I call upon you to come to me? And
-| where
-| would you come from? For you, my God, have said that you fill heaven
-| and earth, but I cannot go beyond heaven and earth so that you may
-| leave
-| them to come to me.*
-|
-|            --Saint Augustine
-| 
-| 
-| *So then beside as any one can come to be certain of then if it is as
-| it
-| is that is an audience is what it is what is it if an audience is
-| this,
-| pretty soon then can feel again that an audience is this, and then
-| introspection can go on but the habit of this thing makes it cease to
-| be
-| this, because the audience and is it this keeps going on\...That is
-| to
-| say can does any one separate themselves from the land so they can
-| see
-| it and if they see it are they the audience of it or to it. If you
-| see
-| anything are you its audience and if you tell anything are you its
-| audience, and is there any audience for it but the audience that sees
-| or
-| hears it\...And all this has so much to do with writing a narrative
-| of
-| anything that I can almost cry about it.*
-|
-|             --Gertrude Stein
+> How shall I call upon my God for aid, when the call I make is for
+> my
+> Lord and my God to come into myself?\... Does this then mean, O Lord
+> my
+> God, that there is in me something fit to contain you? Can even
+> heaven
+> and earth, which you made and in which you made me, contain you? Or
+> since nothing that exists could exist without you, does this mean
+> that
+> whatever exists does, in this sense, contain you? If this is so,
+> since
+> I too exist, why do I ask you to come into me? For I should not be
+> there at all unless, in this way, you were already present within
+> me\...
+> But if I exist in you, how can I call upon you to come to me? And
+> where
+> would you come from? For you, my God, have said that you fill heaven
+> and earth, but I cannot go beyond heaven and earth so that you may
+> leave
+> them to come to me.
+>
+>            --Saint Augustine
+> 
+> 
+> So then beside as any one can come to be certain of then if it is as
+> it
+> is that is an audience is what it is what is it if an audience is
+> this,
+> pretty soon then can feel again that an audience is this, and then
+> introspection can go on but the habit of this thing makes it cease to
+> be
+> this, because the audience and is it this keeps going on\...That is
+> to
+> say can does any one separate themselves from the land so they can
+> see
+> it and if they see it are they the audience of it or to it. If you
+> see
+> anything are you its audience and if you tell anything are you its
+> audience, and is there any audience for it but the audience that sees
+> or
+> hears it\...And all this has so much to do with writing a narrative
+> of
+> anything that I can almost cry about it.
+>
+>             --Gertrude Stein
 
-:::
 
 
 
@@ -321,26 +304,25 @@ opens onto narrative possibility, becomes paradoxically the very
 ground of love and faith.
 
 
-**Intentional fallacies**
+### Intentional fallacies
 
-::: {align="center"}
 
-| *They who write narrative and history do not do what they say they
-| will
-| do when they start out to do what they are about to do.
-| *
-|             --Gertrude Stein
-| 
-| *What the storyteller narrates must necessarily be hidden from the
-| actor
-| himself, at least as long as he is in the act or caught in its
-| consequences, because to him the meaningfulness of his act is not in
-| the
-| story that follows.*
-|
-|             --Hannah Arendt
+> They who write narrative and history do not do what they say they
+> will
+> do when they start out to do what they are about to do.
+> 
+>             --Gertrude Stein
+> 
 
-:::
+> What the storyteller narrates must necessarily be hidden from the
+> actor
+> himself, at least as long as he is in the act or caught in its
+> consequences, because to him the meaningfulness of his act is not in
+> the
+> story that follows.
+>
+>             --Hannah Arendt
+
 
 
 
@@ -358,19 +340,17 @@ soul\" that defines the narrative fault; rather the I itself---the
 risk and the promise.
 
 
-**\"Something more\"**
+### "Something more"
 
-::: {align="center"}
 
-| *Do heaven and earth, then, contain the whole of you, since you fill
-| them? Or, when once you have filled them, is some part of you left
-| over because they are too small to hold you? If this is so, when you
-| have filled heaven and earth, does that part of you which remains
-| flow over into some other place?*
-|
-|             --Augustine
+> Do heaven and earth, then, contain the whole of you, since you fill
+> them? Or, when once you have filled them, is some part of you left
+> over because they are too small to hold you? If this is so, when you
+> have filled heaven and earth, does that part of you which remains
+> flow over into some other place?
+>
+>             --Augustine
 
-:::
 
 
 
@@ -394,16 +374,10 @@ equidistant from and coincident with I\'s every utterance. In relation
 to you, I\'s meanings are measured. Thus is I realistic without being
 real. Risking nothing short of love, the voice aims at \"a particular
 absolute\... it aims beyond particular objects to that \'something
-more\' that exceeds them.\" (3) That part of you that always remains.
+more\' that exceeds them.\" ([^3]) That part of you that always remains.
 
 
-::: {align="center"}
-
-| ::: {align="center"}
-| **II. Politically**
-| :::
-
-:::
+## II. Politically
 
 
 **Narrative as counter-statement**. What is the difference between
@@ -451,19 +425,17 @@ paradoxically, this intervention in the orders of state. Thus would
 the wound\'s articulation make it all \"connectedly different."
 
 
-**Narrative difference**
+## Narrative difference
 
-::: {align="center"}
 
-| *When you consider the very long history of how everyone ever acts or
-| has
-| felt, it is interesting that nothing inside them in all of them makes
-| it
-| connectedly different.*
-|
-|             --Gertrude Stein, \"Composition as Explanation\"
+> When you consider the very long history of how everyone ever acts or
+> has
+> felt, it is interesting that nothing inside them in all of them makes
+> it
+> connectedly different.
+>
+>             --Gertrude Stein, \"Composition as Explanation\"
 
-:::
 
 
 
@@ -565,17 +537,13 @@ resistance to a prior call by way of a new response. Ethics are
 ideological, but they allow one to narrate one\'s imagined relations
 to real conditions differently, that is, to imagine it differently.
 
+## Critical faith
 
-**Critical faith**
 
-::: {align="center"}
-
-| *Only, how are they to call upon the lord until they have learned to
-| believe in him?*
-|
-|             --Saint Augustine
-
-:::
+> Only, how are they to call upon the lord until they have learned to
+> believe in him?*
+>
+>             --Saint Augustine
 
 
 
@@ -621,34 +589,10 @@ and intensify our desire for another way.
 
 
 And only by way of narrative might we unriddle \"this knot of
-imaginary servitude that love must always undo again." (4)
+imaginary servitude that love must always undo again." ([^4])
 
 
-*Note:* Many thanks are due to Earl Jackson Jr.\'s generous reading of
-this piece and all the accompanying conversation.
-
-
-**Notes**
-
-1\. Hayden White notes this etymology in **The Content of the Form***.*
-
-2\. Frederich Engels writes in his letter to Joseph Block, September 21,
-1890: \"We make our history ourselves, but, in the first place under
-very definite assumptions and conditions.\" Glossing this line in
-**Marxism and Literature**, Raymond Williams writes, \"What this
-restores, as against the alternative development, is the idea of direct
-agency: \'we make our history ourselves.\' The \'definite\' or
-\'objective\' assumptions and conditions are then the qualifying terms
-of this agency: in fact \'determination\' as \'the setting of
-limits\'\".
-
-3\. Copjec, Joan, **Read My Desire**, p. 148.
-
-4\. Lacan, \"The Mirror Stage.*\"*
-
-
-
-**Bibliography**
+## Bibliography
 
 Althusser, Louis, **Lenin and Philosophy and Other Essays**. London:
 New left Books, 1971.
@@ -677,6 +621,25 @@ University Press, 1987.
 Williams, Raymond, **Marxism and Literature**, Oxford University
 Press, 1977.
 
+
+
+
+
+[^1]: Hayden White notes this etymology in **The Content of the Form***.*
+
+[^2]: Frederich Engels writes in his letter to Joseph Block, September 21,
+1890: \"We make our history ourselves, but, in the first place under
+very definite assumptions and conditions.\" Glossing this line in
+**Marxism and Literature**, Raymond Williams writes, \"What this
+restores, as against the alternative development, is the idea of direct
+agency: \'we make our history ourselves.\' The \'definite\' or
+\'objective\' assumptions and conditions are then the qualifying terms
+of this agency: in fact \'determination\' as \'the setting of
+limits\'\".
+
+[^3]: Copjec, Joan, **Read My Desire**, p. 148.
+
+[^4]: Lacan, \"The Mirror Stage.*\"*
 
 
 

@@ -96,7 +96,7 @@ its packed with information, almost to the point of being insensible.
 
 The streets I walk measure me. They measure you too, through
 mechanisms both criminal and friendly. Including that knowledge is a
-kind of spectacular innocence\-\--the moment of saturation feels
+kind of spectacular innocence---the moment of saturation feels
 dazzling, but there is probably no point. Still I love it, formally
 and erotically and intimately. Its all about nested structures. I
 entrust my twisted little pieces to the warm nest of the sick social
@@ -111,7 +111,7 @@ dont know if youre creating a monster.
 
 As a narrative writer I improvise recognition. Its like a location
 from which mutant beings emerge. This feels true, in life they never
-stop emerging. Look\-\--they even swarm through this text. I allow it
+stop emerging. Look---they even swarm through this text. I allow it
 because Im terrified and seduced. To encounter them via narrative is
 to formalize a moment of surrender.
 

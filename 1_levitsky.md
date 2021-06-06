@@ -4,7 +4,9 @@
 Rachel Levitsky
 
 
-A. Alphabets WHY? Because I love to quote myself. Because I have a
+## A. Alphabets 
+
+WHY? Because I love to quote myself. Because I have a
 fantasy of saying it all. Because of the dense foundation. Because it
 is that difficult to imagine it\'s a girl. Because, I want to write a
 beautiful sentence. (Violet Leduc) Because, A fine rain was filling
@@ -23,7 +25,9 @@ elasticity, strength, reliability, trust, safety. In other words to my
 dismay, my absences, my blanks, my ambiguities are most comfortable to
 men, meaning, they will define them, but it is women that I want.
 
-B. Bully Because I\'m a poet I will tell you this is about narrativity
+## B. Bully 
+
+Because I\'m a poet I will tell you this is about narrativity
 and I hope you will believe me. Because it is narrative and I am a
 poet I expect you to believe me. I got together with Judy the Pothead
 DumDum. She didn\'t ask me about my writing or say that I looked good.
@@ -64,7 +68,9 @@ Instead, they made a lovely funeral. About me. As a child I was often
 having others take off their pants and squat. Expunge or include? A?
 or P?
 
-C. Cut me ups I think it\'s Nicole Brossard who said, surely among
+## C. Cut me ups 
+
+I think it\'s Nicole Brossard who said, surely among
 others, that in poetry the character is always far away, whereas in
 prose there are characters more alive than herself. Let me look for
 it, aha, here it is, page 27, in "She Would Be The First Sentence of

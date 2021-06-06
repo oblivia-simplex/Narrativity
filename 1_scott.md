@@ -1,16 +1,11 @@
 
-# Bottoms Up\*
+# Bottoms Up
 
 Gail Scott
 
 
-::: {.Section1}
-::: {.Section1}
-[]{style="font-size:14.0pt;
 
-mso-bidi-font-size:10.0pt;color:black"}
-
-MONTREAL, QUEBEC*:* I return to the site of an old novel. This will
+MONTREAL, QUEBEC: I return to the site of an old novel. This will
 not always be a street of failure, even if still playing the former
 glamour of the seedy. French-language covers of country music are
 playing on the radio. Men (sit) alone at tables. One with haggard
@@ -190,7 +185,7 @@ is not under control. Police car outside.
 
  
 
-**\*Bottom Notes**
+## Bottom Notes
 
 This piece is dedicated to Carla Harryman.
 
@@ -199,7 +194,7 @@ writing of, and conversations with, Dianne Chisholm, Robert Glück
 (notably re: the narrator as bottom), Carla Harryman, Camille Roy, and
 Sarah Schulman.
 
-\*\*Textual references are to Barrett Wattens **Total Syntax**, a
+\*\* Textual references are to Barrett Wattens **Total Syntax**, a
 cover citation from **Sight** by Lyn Hejinian and Leslie Scalapino,
 and Sherry Simons essay \"The Ponte Vecchio and the Comma of
 Translation.\"
@@ -207,7 +202,3 @@ Translation.\"
 Saint Jean Baptiste Day, June 24, is a national feast day in Québec.
 
  
-:::
-:::
-
-

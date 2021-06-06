@@ -1,4 +1,3 @@
-
 # *from* Nude Memoir
 
 Laura Moriarty
@@ -200,17 +199,15 @@ An assisted death. They would be lovers in another life. She prefers
 his later more vicious fiction but he hasn\'t grown into it yet. Their
 times are not synced.
 
------------------------+-----------------------+
-| He in fact            |                       | She assisted
-|                       |                       |
-| Was scattered         |                       It was speaking
------------------------+-----------------------+
-|                       | Not belief            |
------------------------+-----------------------+
-| She longed for        |                       The expert
-|                       |                       |
-| She was               |                       | Not love
------------------------+-----------------------+
+
+| He in fact                                    She assisted
+|
+| Was scattered                                It was speaking
+|                        Not belief
+| She longed for                               The expert
+|
+| She was                                       Not love
+
 
  
 

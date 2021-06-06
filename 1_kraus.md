@@ -136,12 +136,10 @@ feelings. And he\'s there. He\'s everywhere. My body\'s changing.\"
 David Jacobs, 1988 interview with an Alien Abductee
 
 
-- from **Aliens & Anorexia**
+- from **Aliens & Anorexia**, Semiotexte/Smart Art Press 1999
 
+---
 
-Semiotexte/Smart Art Press 1999
-
-\*\*\*
 In **Aliens & Anorexia** I am attempting to make contact with the
 writer and philosopher Simone Weil. At the moment of her death in
 August, 1943, Weil became an Alien, i.e., a legend who transformed
