@@ -11,7 +11,7 @@
 
 
 
-I wrote a piece today and it's really just the beginning of something
+**I wrote a piece** today and it's really just the beginning of something
 on narration. I've got time trouble because of overwork. You know:
 you're broke, and you take on too much work, and then you fuck up on
 everything. It's never ending.
@@ -292,7 +292,7 @@ Weissman.
 # Lawrence Ytzhak Braithwaite: Last Exit to Victoria
 
 
-| (5mins. of Murder Alone with **Wigger** and "Bloodland")
+| (5mins. of Murder Alone with Wigger and Bloodland)
 
 
 
@@ -304,7 +304,7 @@ Weissman.
 
 ## 1
 
-...as a child I was told that not knowing the alphabet will cause
+**As a child I was told** that not knowing the alphabet will cause
 illiteracy. It'll send you into a drugged out gangland life of white
 trash nightmares and corner boy peddling to homosexuals, who are
 professional players, obsessed with age and are willing to drag it and
@@ -534,7 +534,7 @@ Laz
 
 
 
-Can I say it went on for a week. Can I say I woke up each day, and
+**Can I say it went on** for a week. Can I say I woke up each day, and
 went through each day,
 
 "You were there, and you were there, and you, and you!"
@@ -582,7 +582,7 @@ As what happens then, if what happens is always something more.
 
 ## 1
 
-One narrative theory is that Agents are social beings. Equidistant
+**One narrative theory** is that Agents are social beings. Equidistant
 from Los Alamos and Roswell, the artist Walter de Maria places poles
 in the landscape in order to construct a grid. The land is not the
 setting for the work but a part of the work. The poles are angled at
@@ -906,7 +906,7 @@ happening.
 
 
 
-Narrative is boring because it precludes the direct actualization of
+**Narrative is boring** because it precludes the direct actualization of
 the world through our perception. But there is no alternative;
 narrative is both a disabling and a necessary condition of perception.
 For this reason, boredom is the affective condition that writing
@@ -1005,7 +1005,7 @@ which, as much as the goal toward which, I write.
 >
 >  
 
-I've started with this top-heavy loading of quotations to highlight a
+**I've started with this** top-heavy loading of quotations to highlight a
 general movement from textualization of (generally) the "outside
 world" and place/site alongside a similar movement within (generally)
 art and site-specific art in order to establish a frame to address how
@@ -1167,7 +1167,7 @@ determining.
 
 
 
-To talk about the beginnings of New Narrative, I have to talk about my
+**To talk about** the beginnings of New Narrative, I have to talk about my
 friendship with Bruce Boone. We met in the early seventies through the
 San Francisco Art Institute's bulletin board: Ed and I wanted to move
 and Bruce and Burton wanted to move---would we all be happy living
@@ -2277,7 +2277,7 @@ limits'".
 
  
 
-There is an avenue in my skull too---albeit one that is poorly
+**There is an avenue** in my skull too---albeit one that is poorly
 maintained, cavernously pitted, strewn with rubble, whole segments
 blasted away; one that is curved, possibly circular, that, like the
 backgrounds in cartoons, maddeningly repeats itself; one that is
@@ -2431,7 +2431,7 @@ might escape him."
 
 
 
-But, first: why not? A chain of telling that requires discrete and
+**But, first**: why not? A chain of telling that requires discrete and
 distinct figures, already in some sense familiar, acting across a
 background, largely unexamined and abandoned merely to suggestion,
 towards the achievement of, or the failure to achieve, certain goals,
@@ -2764,7 +2764,7 @@ California).
 
 
 
-I'm standing on a flat plain, and then, or so it seems, a little hole
+**I'm standing** on a flat plain, and then, or so it seems, a little hole
 appears in the sand ahead of me (like that movie **Tremors**)? The
 hole grows larger in diameter, this is my sanity, and all the little
 pieces of my sanity are breaking up and slipping down into the hole.
@@ -3202,7 +3202,7 @@ From my LA diary ---
 Los Angeles, sometime in the late 90s ---
 
 
-My heart and stomach flip while waiting in the endless gourmet
+**My heart and stomach** flip while waiting in the endless gourmet
 take-out line at Say Cheese on Hyperion. This is the third full day
 not eating .... I stare through thick plate-glass at tureens of baby
 peas in mayonnaise. Ten bucks a quarter pound, they're canned. Little
@@ -3389,7 +3389,7 @@ transparency that occurs when someone else is listening to you.
 
 ## A. Alphabets 
 
-WHY? Because I love to quote myself. Because I have a
+**Why?** Because I love to quote myself. Because I have a
 fantasy of saying it all. Because of the dense foundation. Because it
 is that difficult to imagine it's a girl. Because, I want to write a
 beautiful sentence. (Violet Leduc) Because, A fine rain was filling
@@ -3505,7 +3505,7 @@ pounds heavier, with sagging tits.
 
  
 
-First there was this thing, this experience, that I felt myself having
+**First there was this thing**, this experience, that I felt myself having
 at last. I had felt the experience coming on for some time, without
 knowing quite what it was about to be, what it might resemble, or when
 exactly it might arrive. Perhaps I had read about it once, glimpsed a
@@ -3581,7 +3581,7 @@ that awaited our fumbling lives?
 
 
 
-I am interested in a dialogue about "new" narrative, which is
+**I am interested** in a dialogue about "new" narrative, which is
 perhaps not so much *new*, as newly theorized. Many prose writers do
 not consider themselves fiction writers, yet at the same time are not
 really part of on-going poetics discussions which, for the most part,
@@ -4099,7 +4099,7 @@ Knowledge comes to us.
 
  
 
-One of the forms of narrative I write is software. Its lucrative.
+**One of the forms** of narrative I write is software. Its lucrative.
 About four years ago I used stock options to buy a house right around
 the corner plus one block from one of the worst housing projects in
 San Francisco. A couple thousand people live there. It gives my
@@ -4217,7 +4217,7 @@ Series, SUNY Buffalo.)
 
 
 
-I just write, without advance plan as to a plot or form the writing
+**I just write,** without advance plan as to a plot or form the writing
 driven by a wind of my being in some urgency at the time. Each work
 I've done has been written in that way. Each is different. The next
 time I'll write dependent on what's occurring then. Here I'll say
@@ -4526,7 +4526,7 @@ manuscript) and **R-hu** (forthcoming Atelos Press).
 
 
 
-MONTREAL, QUEBEC: I return to the site of an old novel. This will
+**Montreal, Quebec**: I return to the site of an old novel. This will
 not always be a street of failure, even if still playing the former
 glamour of the seedy. French-language covers of country music are
 playing on the radio. Men (sit) alone at tables. One with haggard
@@ -4810,7 +4810,7 @@ Saint Jean Baptiste Day, June 24, is a national feast day in Québec.
 
 
 
-I met someone whose tattoo had been sliced out of his arm, leaving a
+**I met someone** whose tattoo had been sliced out of his arm, leaving a
 jagged scar in place of the name of city he was born. I understood the
 urge, to inject a place under your skin, only to have it removed like
 a second stomach or a wart. Lately, I've been thinking a lot about
@@ -5021,7 +5021,7 @@ applications of luting agents.
 
  
 
-I get asked sometimes to defend the way I write. To explain how it's
+**I get asked** sometimes to defend the way I write. To explain how it's
 um writing I guess. Because I'm not making stuff up so why do I think
 that anyone wants to hear about my crappy life. Well then don't read
 it, punk! It's all I can think about, my own life and your life too.

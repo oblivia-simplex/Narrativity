@@ -3,7 +3,7 @@
 
 
 
-Can I say it went on for a week. Can I say I woke up each day, and
+**Can I say it went on** for a week. Can I say I woke up each day, and
 went through each day,
 
 "You were there, and you were there, and you, and you!"

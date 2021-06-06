@@ -3,7 +3,7 @@
 
 
 
-I met someone whose tattoo had been sliced out of his arm, leaving a
+**I met someone** whose tattoo had been sliced out of his arm, leaving a
 jagged scar in place of the name of city he was born. I understood the
 urge, to inject a place under your skin, only to have it removed like
 a second stomach or a wart. Lately, I've been thinking a lot about

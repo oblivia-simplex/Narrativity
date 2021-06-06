@@ -5,7 +5,7 @@
 
 ## 1
 
-One narrative theory is that Agents are social beings. Equidistant
+**One narrative theory** is that Agents are social beings. Equidistant
 from Los Alamos and Roswell, the artist Walter de Maria places poles
 in the landscape in order to construct a grid. The land is not the
 setting for the work but a part of the work. The poles are angled at

@@ -10,7 +10,7 @@ From my LA diary ---
 Los Angeles, sometime in the late 90s ---
 
 
-My heart and stomach flip while waiting in the endless gourmet
+**My heart and stomach** flip while waiting in the endless gourmet
 take-out line at Say Cheese on Hyperion. This is the third full day
 not eating .... I stare through thick plate-glass at tureens of baby
 peas in mayonnaise. Ten bucks a quarter pound, they're canned. Little

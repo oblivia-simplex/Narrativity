@@ -5,7 +5,7 @@
 
 
 
-But, first: why not? A chain of telling that requires discrete and
+**But, first**: why not? A chain of telling that requires discrete and
 distinct figures, already in some sense familiar, acting across a
 background, largely unexamined and abandoned merely to suggestion,
 towards the achievement of, or the failure to achieve, certain goals,

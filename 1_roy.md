@@ -5,7 +5,7 @@
 
  
 
-One of the forms of narrative I write is software. Its lucrative.
+**One of the forms** of narrative I write is software. Its lucrative.
 About four years ago I used stock options to buy a house right around
 the corner plus one block from one of the worst housing projects in
 San Francisco. A couple thousand people live there. It gives my

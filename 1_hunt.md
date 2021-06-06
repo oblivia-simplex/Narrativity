@@ -9,7 +9,7 @@
 
  
 
-There is an avenue in my skull too---albeit one that is poorly
+**There is an avenue** in my skull too---albeit one that is poorly
 maintained, cavernously pitted, strewn with rubble, whole segments
 blasted away; one that is curved, possibly circular, that, like the
 backgrounds in cartoons, maddeningly repeats itself; one that is

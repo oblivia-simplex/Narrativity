@@ -4,7 +4,7 @@
 
  
 
-I get asked sometimes to defend the way I write. To explain how it's
+**I get asked** sometimes to defend the way I write. To explain how it's
 um writing I guess. Because I'm not making stuff up so why do I think
 that anyone wants to hear about my crappy life. Well then don't read
 it, punk! It's all I can think about, my own life and your life too.

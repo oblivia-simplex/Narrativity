@@ -2,7 +2,7 @@
 # Lawrence Ytzhak Braithwaite: Last Exit to Victoria
 
 
-| (5mins. of Murder Alone with **Wigger** and "Bloodland")
+| (5mins. of Murder Alone with Wigger and Bloodland)
 
 
 
@@ -14,7 +14,7 @@
 
 ## 1
 
-...as a child I was told that not knowing the alphabet will cause
+**As a child I was told** that not knowing the alphabet will cause
 illiteracy. It'll send you into a drugged out gangland life of white
 trash nightmares and corner boy peddling to homosexuals, who are
 professional players, obsessed with age and are willing to drag it and

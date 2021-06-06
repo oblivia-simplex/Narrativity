@@ -118,7 +118,7 @@ As you read these words they arouse an immaterial universe
 simultaneous with your perceptions of material reality. A simplified
 version of what happens is this: the stimuli from your eyes travels
 along the optic pathway until it enters the region of the cerebral
-cortex associated with language.[]{#text1}[^1^](#note1) This
+cortex associated with language.[^1] This
 linguistic region responds only to the familiar stimuli, the marks,
 that spur semantic sensations. Stimuli from the eyes passes on to the
 visual area of the occipital lobe where it excites the visual
@@ -134,7 +134,7 @@ the surface of our skin was never exclusively devoted to creating
 sense perceptions of the material universe. Our perceptions may be
 more of an afterthought. It is possible for a creature to have an
 eye, and to respond consistently to stimuli from that eye without the
-luxury of any visual impressions.[]{#text2}[^2^](#note2) Such
+luxury of any visual impressions.[^2] Such
 behavior would not be derived from cognition minus sense perception,
 but rather a reaction lacking in a consistent impression that could
 become either reliable or doubtful.
@@ -549,27 +549,19 @@ Woolf, Virginia. \"Virginia Woolf: The Love of Reading.\" **A
 Bloomsbury Group Reader**. Ed. S.P. Rosenbaum. Oxford: Basil
 Blackwell, 1993. 415-418.
 
--------------------------------------------------------------------
 
-NOTES
 
-^[]{#note1}1^Steven Pinker states that \"\[Gazzaniga\'s coworkers\]
+[^1]: Steven Pinker states that \"\[Gazzaniga\'s coworkers\]
 found that all the areas that have been implicated in language are
 adjacent in one continuous territory. This region of the cortex, the
 left perisylvan region, can be considered to be the language organ\"
 (307).
-[back](#text1)
 
-^[]{#note2}2^In the documentary Inside the Animal Mind a man, and
+[^2]: In the documentary Inside the Animal Mind a man, and
 also a monkey, both suffering from blind sight, are shown to respond
 correctly to visual stimuli on their right side, visual stimuli that
 they do not register having seen.
-[back](#text2)
 
 
-
- 
-
-[Issue Two Table of Contents](../issuetwo_toc.html)
 
 

@@ -5,7 +5,7 @@
 
 
 
-To talk about the beginnings of New Narrative, I have to talk about my
+**To talk about** the beginnings of New Narrative, I have to talk about my
 friendship with Bruce Boone. We met in the early seventies through the
 San Francisco Art Institute's bulletin board: Ed and I wanted to move
 and Bruce and Burton wanted to move---would we all be happy living

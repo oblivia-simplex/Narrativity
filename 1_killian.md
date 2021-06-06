@@ -6,7 +6,7 @@
 
 
 
-I'm standing on a flat plain, and then, or so it seems, a little hole
+**I'm standing** on a flat plain, and then, or so it seems, a little hole
 appears in the sand ahead of me (like that movie **Tremors**)? The
 hole grows larger in diameter, this is my sanity, and all the little
 pieces of my sanity are breaking up and slipping down into the hole.

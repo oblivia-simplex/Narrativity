@@ -12,9 +12,9 @@ if FORMAT:match 'latex' or FORMAT:match 'json' then
     if BEGINNING_OF_CHAPTER == 0 then
       return
     end
-    BEGINNING_OF_CHAPTER = 0
     local first = elem.c[1]
     if first.t == 'SmallCaps' and first.c[1].t == 'Str' then
+      BEGINNING_OF_CHAPTER = 0
       local word = first.c[1].c
       -- io.stderr:write('first SmallCaps word: ' .. word .. '\n')
       local initial = string.sub(word, 1, 1)

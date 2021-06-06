@@ -5,7 +5,7 @@
 
 
 
-I wrote a piece today and it's really just the beginning of something
+**I wrote a piece** today and it's really just the beginning of something
 on narration. I've got time trouble because of overwork. You know:
 you're broke, and you take on too much work, and then you fuck up on
 everything. It's never ending.

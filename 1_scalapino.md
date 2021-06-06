@@ -3,7 +3,7 @@
 
 
 
-I just write, without advance plan as to a plot or form the writing
+**I just write,** without advance plan as to a plot or form the writing
 driven by a wind of my being in some urgency at the time. Each work
 I've done has been written in that way. Each is different. The next
 time I'll write dependent on what's occurring then. Here I'll say

@@ -30,7 +30,7 @@
 >
 >  
 
-I've started with this top-heavy loading of quotations to highlight a
+**I've started with this** top-heavy loading of quotations to highlight a
 general movement from textualization of (generally) the "outside
 world" and place/site alongside a similar movement within (generally)
 art and site-specific art in order to establish a frame to address how

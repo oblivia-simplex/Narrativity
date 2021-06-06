@@ -5,7 +5,7 @@
 
  
 
-First there was this thing, this experience, that I felt myself having
+**First there was this thing**, this experience, that I felt myself having
 at last. I had felt the experience coming on for some time, without
 knowing quite what it was about to be, what it might resemble, or when
 exactly it might arrive. Perhaps I had read about it once, glimpsed a

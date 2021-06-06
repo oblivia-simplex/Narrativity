@@ -3,7 +3,7 @@
 
 
 
-Narrative is boring because it precludes the direct actualization of
+**Narrative is boring** because it precludes the direct actualization of
 the world through our perception. But there is no alternative;
 narrative is both a disabling and a necessary condition of perception.
 For this reason, boredom is the affective condition that writing

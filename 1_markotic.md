@@ -5,7 +5,7 @@
 
 
 
-I am interested in a dialogue about "new" narrative, which is
+**I am interested** in a dialogue about "new" narrative, which is
 perhaps not so much *new*, as newly theorized. Many prose writers do
 not consider themselves fiction writers, yet at the same time are not
 really part of on-going poetics discussions which, for the most part,

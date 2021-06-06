@@ -5,7 +5,7 @@
 
 ## A. Alphabets 
 
-WHY? Because I love to quote myself. Because I have a
+**Why?** Because I love to quote myself. Because I have a
 fantasy of saying it all. Because of the dense foundation. Because it
 is that difficult to imagine it's a girl. Because, I want to write a
 beautiful sentence. (Violet Leduc) Because, A fine rain was filling

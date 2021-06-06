@@ -4,7 +4,7 @@
 
 
 
-MONTREAL, QUEBEC: I return to the site of an old novel. This will
+**Montreal, Quebec**: I return to the site of an old novel. This will
 not always be a street of failure, even if still playing the former
 glamour of the seedy. French-language covers of country music are
 playing on the radio. Men (sit) alone at tables. One with haggard
