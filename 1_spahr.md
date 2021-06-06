@@ -1,7 +1,6 @@
 
-# Narrative
+# Juliana Spahr: Narrative
 
-Juliana Spahr
 
 
 | The water is blackish, green, and dark.
@@ -32,10 +31,10 @@ Juliana Spahr
 | Water gathers them, gathers them by their slipping.
 | Water covers them.
 | Because water is brackish it is narrative.
-| Because water is brackish they don\'t open their mouths.
+| Because water is brackish they don't open their mouths.
 | Because water is brackish they are closed in their immersion.
 | They do immerse.
-| But they don\'t open as they swim to falling water.
+| But they don't open as they swim to falling water.
 | They stand beneath falling water.
 | Water beats down on them.
 | Beats on their shoulders.
@@ -58,7 +57,7 @@ Juliana Spahr
 | Water gathers them to this place, this narrative place.
 | Water covers them and they are covered with brackish water.
 | They do immerse.
-| They don\'t open.
+| They don't open.
 | Immersion seals them off.
 | There is no open mouth.
 | No opening.
@@ -68,7 +67,7 @@ Juliana Spahr
 | It falls over them.
 | Sealed yet together.
 | They have come together with brackish.
-| They have let brackish wash over then even if they don\'t let it
+| They have let brackish wash over then even if they don't let it
 | inside.
 | Because water falls it is narrative.
 | Because they are immersed it is narrative.
@@ -79,7 +78,5 @@ Juliana Spahr
 | Because they allow the slip, are prepared for the slip and love its
 | immersion it is narrative. Because it involves love it is narrative.
 | Because it leaves them alone it is narrative.
-| 
-| 
 
 

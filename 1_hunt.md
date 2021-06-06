@@ -1,12 +1,11 @@
 
-# The Avenue
-
-Laird Hunt
+# Laird Hunt: The Avenue
 
 
-_In my skull is an avenue I stroke_[^huntA]
 
-*Clark Coolidge*
+> _In my skull is an avenue I stroke_[^huntA]
+> 
+> --- Clark Coolidge
 
  
 
@@ -20,8 +19,8 @@ always unsavory; one that is troubled by converging lanes, of which
 there are hundreds, that even resembles a parking lot in places and is
 probably haunted---_hell of a place_[^huntB]. And yet, [I,
 narrator][^huntC], stroke it, speak through its mess, speak of its
-mess, multiply it. It\'s an interesting dilemma---aspects of which are
-taken up in Adorno\'s seminal essay on the place of the narrator in
+mess, multiply it. It's an interesting dilemma---aspects of which are
+taken up in Adorno's seminal essay on the place of the narrator in
 the contemporary novel---the narrator, with no story to narrate,
 _narrates anyway_[^huntD], a story that has been blown to bits. Of
 course not everyone sees it that way. We live in [an age of errata, of
@@ -49,21 +48,21 @@ getting it wrong.
 [^huntB]:  For some years now Brenda Coultas, in her narratives, has been conjuring worlds to which multiple qualities of the preceding description might apply. Whether in her book **Early Films** (Rodent Press 1996) or in her recent chapbook **A Summer Newsreel** (Second
 Story Books, 1999) Coultas is engaged in constructing usefully
 disjunctive, lyric-enhanced investigations into landscapes that have
-come apart. For me, part of the great thing about Coultas\' writing is
+come apart. For me, part of the great thing about Coultas' writing is
 that she brings an indomitable hunger for beauty to bear on her
 cracked and spilling subjects.
 
 
-[^huntC]:   E.g., Pamela Lu\'s terrific **Pamela: A Novel** (Atelos, 1998). A bildungsroman of sorts, an intricate chronicle of the coming awake of a highly-syntaxed consciousness, in which the greater part of the narrative seems to occur in between commas.
+[^huntC]:   E.g., Pamela Lu's terrific **Pamela: A Novel** (Atelos, 1998). A bildungsroman of sorts, an intricate chronicle of the coming awake of a highly-syntaxed consciousness, in which the greater part of the narrative seems to occur in between commas.
 
 
-[^huntD]:  \"The expression that there is nothing to express, nothing with which to express, nothing from which to express, no power to express, no desire to express, together with the obligation to express.\" Samuel Beckett (in 1949 conversation with Georges Duthuit).
+[^huntD]:  "The expression that there is nothing to express, nothing with which to express, nothing from which to express, no power to express, no desire to express, together with the obligation to express." Samuel Beckett (in 1949 conversation with Georges Duthuit).
  
 
 [^huntE]:   
 The tendered premise in a recent episode of the X-Files: since World
-War Two Americans have had an unquenchable appetite for \'bogus
-revelation\'; having determined this, the United States Government has
+War Two Americans have had an unquenchable appetite for 'bogus
+revelation'; having determined this, the United States Government has
 built, presumably as a cover for its more radical weapons of mass
 destruction programs, an elaborate web of alien abduction and sighting
 hoaxes. This hoax, we are led to believe, may or may not be one. At
@@ -71,7 +70,7 @@ the end, intrigued to a ghastly degree, we are left both believing
 (the elements of documentary inherent in the X-Files aiding this
 process) that there are aliens around and that the Government has
 cooked up (and deployed) weapons even more diabolical than the ones it
-has copped to. This tv \'fiction\' seems to me only slightly less
+has copped to. This tv 'fiction' seems to me only slightly less
 credible than what the evening news, reporting live from the White
 House! serves up, or than the gamut of what can be found gathered up
 daily in **The New York Times**. (The day after watching the X-Files
@@ -86,11 +85,11 @@ War.)
 Harry Mathews, who, in part of his work, has vertiginously built upon
 (see **The Conversions and Tlooth**, recently reissued by Dalkey
 Archive), the wonderful, strange narratives of Raymond Roussel, had
-this to say in a recent interview in Rain Taxi: \"The great discovery
-I made through him \[Roussel\] was that you didn\'t have to write
+this to say in a recent interview in Rain Taxi: "The great discovery
+I made through him [Roussel] was that you didn't have to write
 about what happened the day you fell in the swimming pool, but that
 you could invent your own swimming pool that had never existed before,
-full of quicksilver, lighted by imaginary lamps.\" Which, abstracted,
+full of quicksilver, lighted by imaginary lamps." Which, abstracted,
 might lead to a formula something like, The writer is in the world;
 the writing is in the writer. Or, looking at it from a reader-oriented
 perspective, we might arrive at: The writing is in the reader; the
@@ -100,10 +99,10 @@ degree of mediation. One I am interested in.
 
 
 [^huntG]: 
-\"The more strictly the novel adheres to realism in external things,
-to the gesture that says \'this is how it was,\' the more every word
-becomes a mere \'as if,\' and the greater becomes the contradiction
-between this claim and the fact that it was not so.\"\ (Adorno, \"The Position of the Narrator in the Contemporary Novel\")
+"The more strictly the novel adheres to realism in external things,
+to the gesture that says 'this is how it was,' the more every word
+becomes a mere 'as if,' and the greater becomes the contradiction
+between this claim and the fact that it was not so." (Adorno, "The Position of the Narrator in the Contemporary Novel")
 
 
 
@@ -112,9 +111,9 @@ Among contemporary works, the narratives of W.G. Sebald (**The
 Emigrants, The Rings of Saturn**) are exemplary in this regard,
 pointing up, as they do, against the backdrop of this bloody century
 (and with an apercu of others), the enormous difficulty of fixing
-experience, both personal and collective. Keith Waldrop\'s harrowing
+experience, both personal and collective. Keith Waldrop's harrowing
 memoir **Light While There Is Light** (which calls itself fiction) is
-another example. As is David Markson\'s intriguing **Wittgenstein\'s
+another example. As is David Markson's intriguing **Wittgenstein's
 Ladder**.
 
 
@@ -125,8 +124,8 @@ Ladder**.
 Ryonusuke Akutagawa brilliantly treats aspects of this in a pair of
 stories which were later combined and made into the much more famous
 film **Rashomon** by Akira Kurosawa. Aaron Shurin writes, in passing,
-in his 1990 essay \"Narrativity," of the \'irreversible solidity of
-the past tense.\' I\'ve lately begun to marvel, because of this
+in his 1990 essay "Narrativity," of the 'irreversible solidity of
+the past tense.' I've lately begun to marvel, because of this
 generally ascribed quality, that History continues to be written in
 it. It was Herodotus, Father of History, who kicked things
 off---neatly blending directly observed incident/object with reported
@@ -144,10 +143,10 @@ essay, "The Image of Proust" (**Illuminations**): "For the important
 thing for the remembering author is not what he experienced, but the
 weaving of his memory, the Penelope work of recollection. Or should
 one call it, rather, a Penelope work of forgetting? Is not the
-involuntary recollection, Proust\'s memoire involuntaire, much closer
+involuntary recollection, Proust's memoire involuntaire, much closer
 to forgetting than what is usually called memory? And is not this work
 of spontaneous recollection, in which remembering is the woof and
-forgetting the warf, a counterpart to Penelope\'s work rather than its
+forgetting the warf, a counterpart to Penelope's work rather than its
 likeness? For here the day unravels what the night has woven. When we
 awake each morning, we hold in our hands, usually weakly and loosely,
 but a few fringes of the tapestry of lived life, as loomed for us by

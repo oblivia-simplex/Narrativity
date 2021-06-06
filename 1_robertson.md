@@ -1,7 +1,6 @@
 
-# For Soft Architects
+# Lisa Robertson: For Soft Architects
 
-Lisa Robertson
 
 
  
@@ -58,13 +57,13 @@ an
 aggressive emergency. The present is not articulate. Also we feel a
 sense
 
-of duality. We wear out the art. We start to modify our vocables\--
+of duality. We wear out the art. We start to modify our vocables--
 flick,
 
-pour, dribble estrangement\'s sex. Since it is we who are one, and we
+pour, dribble estrangement's sex. Since it is we who are one, and we
 who
 
-are scattered. We\'re this pair or more that can\'t absorb one another
+are scattered. We're this pair or more that can't absorb one another
 in a
 
 meaning effect. We feel palpitated by daylight and its deliberate
@@ -78,13 +77,13 @@ its elsewhere sculpt our body.
 We would be walking down the street in the poetrycity. Gauze would be
 
 everywhere. The day would be big, halting, gracious, revocable, cheap.
-We\'d
+We'd
 
 be the she-dandies in incredibly voluptuous jackets ribboning back
 from our
 
 waists, totally lined in pink pure silk, also in pure humming, and
-we\'d be
+we'd be
 
 heading through the buildings with knowledge---that is, ephemeral
 
@@ -94,17 +93,17 @@ that
 receive abundantly our description. The soft buildings are charming.
 And
 
-our manners are software. We feel sartorial joy. We\'d be at the river
+our manners are software. We feel sartorial joy. We'd be at the river
 
 watching the fat water lap the blonde built part, loving temporal
 
-improprieties, the bright trash floating in slow liberation. We\'d be
+improprieties, the bright trash floating in slow liberation. We'd be
 
 applying our make-up at noon by the river, leaning on the balustrade,
 
-thinking about a little shun, a little fight, a little sofa. We\'d be
+thinking about a little shun, a little fight, a little sofa. We'd be
 
-thinking about hinges. We\'d feel for our pen. Something might seduce
+thinking about hinges. We'd feel for our pen. Something might seduce
 us. A
 
 likeness. Samesame pouring through it.

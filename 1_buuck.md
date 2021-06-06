@@ -1,7 +1,6 @@
 
-# Despite
+# David Buuck: Despite
 
-David Buuck
 
 
 ## 1
@@ -19,25 +18,25 @@ landscape. The grid dwarfs Agents, the grid in turn being dwarfed by
 the landscape, provoking Agents to realize their own relation to the
 spatial landscape. In that the grid itself cannot be comprehended in
 its totality, neither can the spatial landscape. Castles are sand that
-can\'t be shelter to kings. In that the spatial landscape cannot be
+can't be shelter to kings. In that the spatial landscape cannot be
 comprehended in totality, neither can there be kings. Rabbits nibbling
-on apple cores are nervously aware that there can\'t be shelter from
+on apple cores are nervously aware that there can't be shelter from
 weather. Humility is nervous awareness of Agents not being rabbits.
 
 There are three agents in the landscape who are not kings. The
-Agents\' relation to the grid becomes paramount. Agent A\'s scale
-becomes paramount. Agent B\'s silence becomes paramount. Agent C\'s
+Agents' relation to the grid becomes paramount. Agent A's scale
+becomes paramount. Agent B's silence becomes paramount. Agent C's
 isolation becomes paramount. Humility is nervous awareness of Agents
 not being kings. The invisible is real.
 
 The spatial relation of sky to the landscape is such that the clouds
 are pressed flat against an imaginary plane of glass. The imaginary
-plane rests upon the grid. One narrative theory is that Agents\' minds
+plane rests upon the grid. One narrative theory is that Agents' minds
 function as the imaginary plane. The action is the air and wind and
-rain. So-called natural elements are grounding such that Agents\'
+rain. So-called natural elements are grounding such that Agents'
 social being, in isolation, in being dwarfed, is grounded. That this
-is not separate from Agents\' social being, but rather central to
-Agents\' realization as social beings, is one effect. Rabbits nibbling
+is not separate from Agents' social being, but rather central to
+Agents' realization as social beings, is one effect. Rabbits nibbling
 on apple cores are nervously aware that lightening always strikes
 twice. Humility is nervous awareness of Agents not being total. The
 primary experience takes place within the social grid. Distance is
@@ -62,7 +61,7 @@ anthropomorphic trumpets, so-called safe sex ironized into cartoon
 farts. That nuclear-safe capsules for sexual acts are aesthetically
 pleasing is troubling to one.
 
-One narrative theory is that one\'s apocalypse is inside. Such
+One narrative theory is that one's apocalypse is inside. Such
 apocalypse is not nuclear-safe, such sex is disharmonious, such art is
 a cartoon that is actual. Agents inside nuclear-safe capsules are not
 safe from themselves. Agents cannot be insulated in machines that are
@@ -74,24 +73,24 @@ Orange is the machine that desires its own apocalypse. That the
 technology necessary to provide safety for Agents is the same
 technology that produces the effects from which Agents desire safety
 is troubling, three, two, one. Castles are cartoon machines that
-can\'t be shelter to kings. There are no kings, only agents.
+can't be shelter to kings. There are no kings, only agents.
 
 ## 3
 
-The sky is always in relation to Agents\' landscape. Even underground,
-though that\'s a dream. In dreams Agents\' own minds are the relation
-of the imaginary plane to Agents\' own underground landscape. The
-grid\'s only function is to provoke Agents\' realization of Agents\'
+The sky is always in relation to Agents' landscape. Even underground,
+though that's a dream. In dreams Agents' own minds are the relation
+of the imaginary plane to Agents' own underground landscape. The
+grid's only function is to provoke Agents' realization of Agents'
 own landscape in actuality. The grid exists so as to become invisible.
-The grid exists so that it doesn\'t have to. The invisible is real.
+The grid exists so that it doesn't have to. The invisible is real.
 Dreams are real. Shelter is context.
 
 One narrative theory is that the sun never sets. Agent Yellow, from a
 distance, disappears into the landscape. Agent Red is still
 disappearing, though Agent Orange is still here. Perspective is
-constitutive of Agents\' social being. Agents have different
+constitutive of Agents' social being. Agents have different
 perspectives that are relational. Total perspective is ideology that
-can\'t be shelter to kings. Perspective is constitutive of Agents\'
+can't be shelter to kings. Perspective is constitutive of Agents'
 social bearing. Context is shelter.
 
 Being dwarfed is perspective that reduces distances between social
@@ -125,7 +124,7 @@ the bottom of the sky fall onto the imaginary plane. The ground is the
 imaginary plane of consciousness upon which social beings construct
 the social grid. Ideology is the nightmare made material by certain
 social bearings. The ideological grid exists so that it might become
-invisible. The ideological grid exists so that it doesn\'t have to.
+invisible. The ideological grid exists so that it doesn't have to.
 The invisible is reel-to-reel.
 
 One narrative theory is that Agents are never awake, except in
@@ -139,7 +138,7 @@ from dreams and being in history.
 
 ## 5
 
-The artist Kenji Yanobe\'s sculptural objects, in that they provide
+The artist Kenji Yanobe's sculptural objects, in that they provide
 habitation, in the form of objects of safety and art, while at the
 same time being distancing, in that Agents are further distanced from
 the actual world, while still being in it, are troubling to one. That
@@ -149,19 +148,19 @@ art necessary to provide safety for Agents is the same art that
 produces the effects from which Agents desire safety, is troubling,
 four, three, agents, two, one. Agents are never safe from themselves.
 
-The artist Kenji Yanobe\'s photographs, in that they document art
+The artist Kenji Yanobe's photographs, in that they document art
 providing safety, while at the same time being distancing, in that
 they are further distanced from Chernobyl, while still being in it,
 are troubling to one. The photographs are viewed outside of Chernobyl,
 in place of Chernobyl, as art and as safety. They are already
 happening, though in actuality they are not Chernobyl. Distance is
-safety. There\'s no distance in actuality. There\'s no safety.
+safety. There's no distance in actuality. There's no safety.
 
 The artist Kenji Yanobe has not yet built nuclear-safe capsules for
 rabbits nibbling apple cores. One narrative theory is that nervous
 awareness is not enough to prevent an apple core breach. That the wind
 from Chernobyl might kill the rabbits is troubling, four, them, three,
-to one. That the repeated vocalization of \"Chernobyl\" might become
+to one. That the repeated vocalization of "Chernobyl" might become
 aesthetically pleasing by virtue of its repetition is troubling to
 one. There are sixty-six dead rabbits in the grid. Their bottoms have
 fallen out.
@@ -178,13 +177,13 @@ advertising the coming attractions. One narrative theory is that there
 is no perimeter.
 
 Social beings that are also rabbits that live in underground bomb
-shelters. Castles made of pamphlet bomb shreddings can\'t be shelter
+shelters. Castles made of pamphlet bomb shreddings can't be shelter
 for rabbit-kings. Rabbits have infrared night vision that always
 strikes twice. They drink from the radioactive reservoir that runs
 from Roswell to Los Alamos. That the wind from Los Alamos might kill
 the rabbits is troubling to one. The sentries put the sixty-six dead
 rabbits into piles to climb up and up. Else the bottom would fall out.
-That the repeated vocalization of \"Los Alamos\" might become
+That the repeated vocalization of "Los Alamos" might become
 aesthetically pleasing by virtue of its repetition is troubling five,
 four, three, to one.
 
@@ -196,16 +195,16 @@ and up. The music is the bomb. It makes the bottom fall out.
 ## 7
 
 The underground compartment containing radioactive warheads is called
-\"The Pit\". The warheads are angled at eighty-eight degrees, else the
+"The Pit". The warheads are angled at eighty-eight degrees, else the
 bottom falls out. Agent-sweat is radioactive. Agents drink it as
 refreshment while awaiting the bottom to fall out. That the bottom
-would fall out onto Agents\' heads is troubling, six, five, four,
+would fall out onto Agents' heads is troubling, six, five, four,
 three, troubling to one.
 
 One narrative theory is that there is an underground nightclub called
-\"The Pit,\" where rabbits push up and up. The player piano is
+"The Pit," where rabbits push up and up. The player piano is
 programmed to perform eighty-eight degrees of sound, else the bottom
-falls out. Music is the distance of time within sound\'s detonation.
+falls out. Music is the distance of time within sound's detonation.
 The speed of sound is measured by the distance between lightening and
 its thunder. Agent Yellow never strikes twice. Agent Red is not a
 rocket scientist. Agent Orange is the bomb.
@@ -214,15 +213,15 @@ The speed of sound is measured by the distance between the bomber and
 the detonation of its payload. The warhead is programmed to perform
 eighty-eight degrees of separation. Its coin slides into its slot. Its
 music is the bomb, whose bottom falls out. The speed of light is
-measured by the detonation of the bomb within Agents\' own bottoms
+measured by the detonation of the bomb within Agents' own bottoms
 falling out.
 
 ## 8
 
 One narrative theory is that one never dies in sculpture. Kenji
-Yanobe\'s sculptural objects evoke a nostalgia for an apocalypse that
+Yanobe's sculptural objects evoke a nostalgia for an apocalypse that
 never happened. It is a nostalgia for the future of a past that is
-continually deferred to a present that hasn\'t happened yet. It\'s
+continually deferred to a present that hasn't happened yet. It's
 already happening. The so-called-and-ever-wished-for last instance
 never arrives, and yet the present is-and-always-is this very last
 instance. The apocalypse is always happening.
@@ -235,32 +234,32 @@ exit the capsule in order to insert the coins into its exterior
 anthropomorphic coin slots. There is no future here, only the present
 which enables Agents to survive as long as Agents keep consuming. The
 rabbits chew through the string that is used for the coin-slot coin
-trick. The only safety is to insert coins into another\'s coin slots
+trick. The only safety is to insert coins into another's coin slots
 in hopes that the other will do the same. Distance is the opposite of
 safety.
 
 The artist Kenji Yanobe stands at the sentry post facing out, toward
 the ruins of the future. Rabbits have infrared vision that can see
 through the nuclear-safe capsule. The inside is lined with rabbit fur.
-It\'s a never-ending simulation of eighty-eight degrees inside.
+It's a never-ending simulation of eighty-eight degrees inside.
 Agent-sweat is radioactive. Agents drink it as refreshment while
 awaiting the survival cart race.
 
 ## 9
 
 The social grid exists so as to become invisible. The social grid
-exists so that it doesn\'t have to. That the invisibility of the
+exists so that it doesn't have to. That the invisibility of the
 social grid might provoke the realization of the ideological landscape
-is troubling to one. Even underground, though that\'s a dream. The
+is troubling to one. Even underground, though that's a dream. The
 so-called social elements are the imaginary plane of social beings.
 The imaginary plane stretches out into the distance, held up by the
 many social beings. History never disappears.
 
 The imaginary plane reaches from one pole to the next, grounded by the
 many social bearings. The present disappears into the historical
-landscape, though it\'s still here. That such disappearance into the
+landscape, though it's still here. That such disappearance into the
 historical landscape might be the forgetting of social bearings is
-troubling to one. Even underground, though that\'s a dream. History is
+troubling to one. Even underground, though that's a dream. History is
 the imaginary plane of social bearings. Here it is now, stretching out
 into the distance, held up by the many social bearings.
 
@@ -276,24 +275,24 @@ seven, six, five, four, three, agents, troubling, to, one.
 The Agents are in their survival carts. The carts fart perfumed
 radioactivity through anthropomorphic trumpets. Agent Orange breathes
 its own air. The music is air-raid sirens that go up and up. The
-rabbits\' infrared vision burns through the string that is used for
-the coin-slot coin trick. Agent Red eats its own waste. It\'s a
+rabbits' infrared vision burns through the string that is used for
+the coin-slot coin trick. Agent Red eats its own waste. It's a
 never-ending simulation of eighty-eight degrees inside. Agent Yellow
 drinks its own sweat. Agent-sweat is radioactive. Agents drink it as
 refreshment while awaiting the coins to run out.
 
-Agent A puts its coin into Agent B\'s coin slot. Agent B puts its coin
-into Agent C\'s coin slot. Agent C puts its coin into Agent A\'s coin
+Agent A puts its coin into Agent B's coin slot. Agent B puts its coin
+into Agent C's coin slot. Agent C puts its coin into Agent A's coin
 slot. There are no kings to make more coins, so the grid-poles are
 dismantled and melted into currency. Without the poles, the imaginary
-plane\'s bottom falls out. The grid collapses into itself. The
+plane's bottom falls out. The grid collapses into itself. The
 perimeters collapse into their centers. Agents trade in their
 narrative theories for the few remaining coins. The sun is setting.
 The social bearings are detonated. In the last instance coins fall to
 the ground in piles that go up and up. The sky is falling.
 
-Agent Yellow\'s survival cart is red. Agent Red\'s survival cart is
-orange. Agent Orange\'s survival cart is yellow. As they collapse into
+Agent Yellow's survival cart is red. Agent Red's survival cart is
+orange. Agent Orange's survival cart is yellow. As they collapse into
 one another, the detonation provokes the sunset. From a distance the
 shutters click shut. That the sunset is a film that is aesthetically
 pleasing is troubling, ten, nine, eighty-eight degrees, seven,
@@ -311,7 +310,7 @@ foreclosure. Agent Orange has killed off Agents A and B, Agents Red
 and Yellow. But Agent C has managed to elude such foreclosure. New
 grids are being constructed by social beings with different social
 bearings. Action is choosing made material by certain social bearings.
-Humility is nervous awareness that action is total. It\'s already
+Humility is nervous awareness that action is total. It's already
 happening.
 
 One narrative theory is that one never dies in writing. The writing
@@ -319,7 +318,7 @@ cannot in actuality provide safety. It is a machine desiring its own
 apocalypse. In actuality it is its own social being, desiring its own
 narrative theory. Here it is now, stretching out into the distance,
 held up by its social bearings. Agent C is writing itself onto the
-imaginary plane. The script has yet to be finished. It\'s already
+imaginary plane. The script has yet to be finished. It's already
 happening.
 
  

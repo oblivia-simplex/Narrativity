@@ -1,12 +1,11 @@
 
-# Narrotics: New Narrative and the Prose Poem
-
-Nicole Markotic
+# Nicole Markotic: Narrotics: New Narrative and the Prose Poem
 
 
 
 
-I am interested in a dialogue about \"new\" narrative, which is
+
+I am interested in a dialogue about "new" narrative, which is
 perhaps not so much *new*, as newly theorized. Many prose writers do
 not consider themselves fiction writers, yet at the same time are not
 really part of on-going poetics discussions which, for the most part,
@@ -30,13 +29,13 @@ writing that is seen to consist of both, prose poetry presents itself
 as hybrid writing; a hybrid that I explore as crossing between the
 desire to exceed formal considerations, and the narrational insistence
 surrounding such considerations. In my prose poems, I try to embrace
-the problematic of poetry that \"looks\" like ordinary prose
+the problematic of poetry that "looks" like ordinary prose
 narrative, yet invites disjunctive readings which may extend beyond
 traditional poetic forms and conventional conceptions of narrative. My
-pieces \"fail\" as poetry--yet continually celebrate the erotic
+pieces "fail" as poetry--yet continually celebrate the erotic
 contradiction such failure narrates.
 
-The prose poem, for me, offers itself as a \"genre\" that permits and
+The prose poem, for me, offers itself as a "genre" that permits and
 encourages me to move freely from sentence to line-break to full-stop
 to repetition. Without entirely settling on its own definition, the
 prose poem rattles my airtight nerves, upsets my crabapple go karts,
@@ -50,7 +49,7 @@ My interest in this form begins at the level of the sentence. What
 makes a sentence a line of poetry rather than an excerpt from an essay
 or novel? The answer, for me, is the surrounding words and sentences,
 the position of those words on the page, the complicated ache of the
-forced return at the end of each \"line.\" Ear and eye games, the
+forced return at the end of each "line." Ear and eye games, the
 playing of interruption and proceed. Not stop-and-go, but
 go-and-go-farther. As soon as I take a step towards the horizon, the
 horizon reconfigures---itself and me.
@@ -85,12 +84,12 @@ shifts awkwardly within the abdomen of prose. Readers, seduced by
 sentence structure, discover themselves trespassing an erotics of
 prose, transgressing away from familiar and known fiction offerings.
 
-Writers engaging in what Stephen Fredman calls \"poets prose,\"
+Writers engaging in what Stephen Fredman calls "poets prose,"
 struggle to create new ideas from *inside* the conventions that
 constitute the either/or structure of the prose poem. This structure
 is the chance for prose writers to both follow narrative and to
 deviate away from story. For example, Robert Kroetsch, in his poem
-\"The Sad Phoenician,\" pursues an elusive and/but dialogue that
+"The Sad Phoenician," pursues an elusive and/but dialogue that
 generates a bifurcated and pending narrative:
 
 |  and        the Phoenicians gave us the whole works
@@ -107,7 +106,7 @@ generates a bifurcated and pending narrative:
 |  but        she follows large flocks of birds, I hear,
 |               calling my name
 |  and        pleading
-|  but        why she developed a thing for adverbs, that\'s
+|  but        why she developed a thing for adverbs, that's
 |               too rich for my blood, I want to tell you
 |  and
 
@@ -123,35 +122,33 @@ the computer or hum into a tape deck. The border is a visible line on
 the page that the prose poem physically outlines. For many women, this
 is not simply a gendered border, but one that has been criss-crossed
 by social lines such as race or class. Harryette Mullen, in her prose
-poetry book, **S\*PeRM\*\*K\*T**, investigates the connective links
+poetry book, **S*PeRM**K*T**, investigates the connective links
 between the social and the linguistic:
 
-| 
-| Eat junk, don\'t shoot. Fast food leaves hunger off the hook.
+| Eat junk, don't shoot. Fast food leaves hunger off the hook.
 | Employees must wash
 | hands. Bleach your needles, cook the works. Stick it to the frying
 | pan, hyped again.
 | Another teflon prez. Caught in the fire around midnight, quick and
 | dirty biz. Smoked
 | in the self-cleaning oven.
-| 
 
-Mullen\'s disconnected sentences can be read to produce meanings that
+Mullen's disconnected sentences can be read to produce meanings that
 address subjects ranging from drugs to poverty in contemporary USA.
-But the structure of the \"narrative\" does not create fictional
-characters and circumstances to battle these issues; rather, Mullen\'s
+But the structure of the "narrative" does not create fictional
+characters and circumstances to battle these issues; rather, Mullen's
 words entice at the same time as they startle reading practices. Word
 association and colloquial speech patterns reinvent the chance to
 re-enter the text from another crack. This text does not close the
 book on the story, it continues to remind that reading is a
-socially-coded act, and that a reader\'s subjectivity is constructed
+socially-coded act, and that a reader's subjectivity is constructed
 through how she enters language.
 
 Language enters me, and my sentences struggle against what I know to
-be \"just\" a sentence. I hesitate in doorways and on fences, I plan
+be "just" a sentence. I hesitate in doorways and on fences, I plan
 my route along edges and cracks in the sidewalk, I pencil in margins
 made up of words only words, and then I cross over into blank space.
-Not because it is \"new\" or \"white\" or \"virginal\" or any other
+Not because it is "new" or "white" or "virginal" or any other
 dominant appropriative term, but because the blank space is where the
 prose poem offers a *visible* margin, a territory (known or not) that
 hangs onto the edges of writing, clings to the edges of edges. I get
@@ -160,14 +157,14 @@ downright perplexed. I hang about on the inside of this perplexing
 form because it keeps me on my language toes: unsure and insecure,
 tip-toeing across whatever lines a poem insists upon.
 
-I \"plot\" at sentences and subterfuge, dream of a poetry that
+I "plot" at sentences and subterfuge, dream of a poetry that
 withstands ragged-right fashions, yet continues to address narrative
 within disjunctive non-lineated prose. I look to the prose poem as
 mutation-- by definition unstable, punctuated by eternally reproducing
 desires.
 
 I want to carry words to where theyre already going, but not
-necessarily to where I think they\'re carrying me. I strive to enact
+necessarily to where I think they're carrying me. I strive to enact
 an and/but *narrative erotic* that is neither fiction nor poetry, that
 invites readers to see beyond seeing and write beyond reading. I veer
 away from the end of that prose line, from the punct signifying the
@@ -175,8 +172,8 @@ closing ceremony, the final page next to the cover, the certain and
 the certified. I question the metaphorical imperative that insists
 toes are what we tip on, and grasp instead the reassurance of
 instability, embrace the inability to embrace a stable subjectivity,
-and echo cheerfully what Kathleen Fraser describes as \"fragments of a
-wholeness only guessed at\" (**Each Next**). My prose poems
+and echo cheerfully what Kathleen Fraser describes as "fragments of a
+wholeness only guessed at" (**Each Next**). My prose poems
 want/desire/lust after such guessing contortions.
 
 

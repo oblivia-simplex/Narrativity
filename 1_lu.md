@@ -1,7 +1,6 @@
 
-# my narrative
+# Pamela Lu: my narrative
 
-Pamela Lu
 
 
  
@@ -16,11 +15,11 @@ it might miss me entirely as I loped along the wrong side of the
 alley, ordered the wrong label of scotch from the wrong west-end
 saloon. A possibility that I might lift my eyes just in time to watch
 it happen to my neighbor instead and, all too late, jump to my feet to
-exclaim, \"Hey, that\'s my horse! Well, maybe not my horse exactly,
-but absolutely its blood relation!\" To which the experience would
-reply, tenderly and oh so Jamesian, \"Not this time, not you. Maybe
+exclaim, "Hey, that's my horse! Well, maybe not my horse exactly,
+but absolutely its blood relation!" To which the experience would
+reply, tenderly and oh so Jamesian, "Not this time, not you. Maybe
 next year, to the soul you will have become if only you had learned to
-abandon the regret of your current, expiring ghost \...\"
+abandon the regret of your current, expiring ghost ..."
 
 Then I was sure that it had happened, not merely to a surrogate, but
 to me personally, that I had not only jumped into its hands but
@@ -43,7 +42,7 @@ stolen, anonymous pears left and right.
 In the slow crush of time, characters aged, my friends grew older, and
 the unthinkable happened to people. I did not, however, in the moment
 in which I was destined to live, understand any of this. I had been
-impressed by the nature of fate and outcome in E.M. Forster novels \--
+impressed by the nature of fate and outcome in E.M. Forster novels --
 how, in the absence of divine intervention, the hand of fate was given
 over to mortals who schemed compulsively, recklessly, and blindly to
 bring about often unfortunate results, perhaps even a tragedy. There
@@ -52,12 +51,12 @@ prejudiced Victorians who lashed out politely and brutally at the
 weak, colonial subjects who pleased their masters by losing out again
 and again. The characters lived; they brought life down upon
 themselves; they wrestled with causality and causality won. Is that
-why I\'m always confusing causality with casualty?
+why I'm always confusing causality with casualty?
 
 A friend from school once observed that fiction students as a group
 seemed bigger and physically stronger than their poet counterparts.
 How much would this statement suggest a three-ring bout in the
-writers\' circle, with scrappy but effete sonneteers grappling at the
+writers' circle, with scrappy but effete sonneteers grappling at the
 well-muscled backs of market scriveners? What kind of over-dense
 poetic whimsy could tickle the plodding narrative to unclog its drain
 to the real story? This story was so real it was almost untellable;

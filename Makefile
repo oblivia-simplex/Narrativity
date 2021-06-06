@@ -9,7 +9,7 @@ FONT="Tex Gyre Pagella"
 LATEX="lualatex"
 #FONT="Minion Pro"
 
-all: epub mobi pdf html
+all: epub mobi pdf2 html
 
 outdir:
 	mkdir -p $(OUT) $(BUILD)
@@ -99,3 +99,22 @@ ast: collate
 			--lua-filter=filters/lettrine.lua \
 			--lua-filter=filters/asterism.lua \
 		  -t json | jq . > $(BUILD)/$(BASE).json
+
+tex: collate metadata
+	cat $(BUILD)/$(BASE).md \
+	|	pandoc --standalone \
+			--lua-filter=filters/asterism.lua \
+			--lua-filter=filters/smallcaps.lua \
+			--lua-filter=filters/no_chapter_numbering.lua \
+			--lua-filter=filters/lettrine.lua \
+			--lua-filter=filters/verse.lua \
+	    --template template.tex \
+			-V lettrinefont=Zallman \
+	    -V documentclass=memoir \
+	    -V numbersections=false \
+	    -V geometry:a5paper \
+			-V asterism=$(ASTERISM_PNG) \
+	    -V mainfont=$(FONT) \
+	    -o $(BUILD)/$(BASE).tex title.txt -
+# sed -i 's|\(\\hfill\\break\)|\\hfill\\break\\noindent%|' $(BUILD)/$(BASE).tex
+

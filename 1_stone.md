@@ -1,14 +1,12 @@
 
-# Why write narrative when you could be the next guest on the Jerry
-Springer show!
+# Anne Stone: Why write narrative when you could be the next guest on the Jerry Springer show!
 
-Anne Stone
 
 
 I met someone whose tattoo had been sliced out of his arm, leaving a
 jagged scar in place of the name of city he was born. I understood the
 urge, to inject a place under your skin, only to have it removed like
-a second stomach or a wart. Lately, I\'ve been thinking a lot about
+a second stomach or a wart. Lately, I've been thinking a lot about
 place. If you ask me where Im from, I can answer in a lot of different
 ways, none of which would tell the whole story, or even manufacture
 the kind of sense I would want to live with. I could show you the scar
@@ -64,8 +62,8 @@ dociers. When I first met the woman who owns this farm, I asked about
 the cows and was given the names of the breeders and the bull, the
 others implied by a slurred ellipsis or existing as the space-off to
 her story. I persisted, asking about one of the cows shed passed over.
-\"T-2306? Or do you mean that one?\" she asked, pointing to Sophia,
-\"theyre sisters.\" A little later that day, she promised to save that
+"T-2306? Or do you mean that one?" she asked, pointing to Sophia,
+"theyre sisters." A little later that day, she promised to save that
 cows thigh-bone for my dog.
 
 The cows exist in terms of place. The cows of the stockyard and the
@@ -108,7 +106,7 @@ the stockyards are organized vertically, even though, as everybody
 knows, cows are organized horizontally---they are grazers, right? So,
 between the slaughterhouse and the packing plant some terrible
 deformation of what it means to be a cow occurs, the axis of cowness
-undergoes a grotesque skew. How do you even fit the word \"cow\" in a
+undergoes a grotesque skew. How do you even fit the word "cow" in a
 building that tall? What could a building with elevators possibly have
 to do with a cow? When I was a girl, I wasnt afraid of the men with
 electrical prods, or the smell of shit and death. But I was terrified
@@ -124,10 +122,10 @@ present in its formula. If I had Goëdal for a companion on those walks
 through the slaughterhouse, they might have made another kind of
 sense. As it is, the memory refuses my attempts at sense-making, and
 continues to fascinate me twenty years later. The shed I came to
-narrative in has been torn down, and the vertical granary \-- the one
+narrative in has been torn down, and the vertical granary -- the one
 that existed at the place where Beaudoin stutters to a stop at rue
 St-Ambroise, the one that once implied the axial-shift undergone by a
-field of wheat \-- burned to the ground one winter night as I watched.
+field of wheat -- burned to the ground one winter night as I watched.
 These places have a grammar that I am only now beginning to grapple
 with (or make-up).
 
@@ -141,13 +139,13 @@ like a series of medieval cups. The kind 17th century doctors heat
 with candles before placing in rows on either side of the spine,
 creating a series of tiny vacuums to draw the suspected impurity up
 from under. I find restaurants inscrutable. I mean, who would think to
-spell the word \"spent\" on a plate in a diagonal line of cutlery? But
+spell the word "spent" on a plate in a diagonal line of cutlery? But
 god, the relief to discover there was a silent means to signal an
 impending departure.
 
 What happens in the meantime? As your liminal-linen body hosts a
 series of plates? And yes, physically, the body is a place that can,
-with some effort, be occupied by one\'s self, or by others.
+with some effort, be occupied by one's self, or by others.
 
 I am not at a restaurant. If I close my eyes, I lose my boundaries,
 the air is tepid against my skin, no rough frisson strokes this
@@ -155,7 +153,7 @@ surface. I am not sensitive enough to maintain a secure sense of where
 I end and something other begins. That requires a lepers perpetual
 gaze to the extremities. If I were to close my eyes and begin typing
 by rote, you would have to remind me: Where are my arms just now? my
-fingers\...
+fingers...
 
 I am only sure of the tips. As they pad against the keys. One of my
 fingers describes an unstable arch. Ive pulled a tendon with this
@@ -163,7 +161,7 @@ incessant tapping. It must be a very tiny tendon, the kind of thing
 you might extract from the haunch of a bisected frog. Eyes closed, I
 am the stoop of shoulders, the curve of a sore finger, and a series of
 insensitive pads Ive developed as a result of my obsessive
-predilection for narrative \-- long narrative.
+predilection for narrative -- long narrative.
 
 This is where I am today, and not at a restaurant packing plant. I am
 at the place the scar on my index finger describes, an intersection
@@ -195,7 +193,7 @@ I should admit Ive forgotten the word for a word that is descriptive.
 
 Where am I going next? I want you to imagine a picture taken with a
 very long exposure. No. I want you to imagine you think of the phrase
-\"glory-hole\" every time you hear the word exposure, and then I want
+"glory-hole" every time you hear the word exposure, and then I want
 you to imagine a picture taken with a very long exposure. A picture
 taken on a night at the circus. The temporal trace of the antics of
 acrobats and Dahlmer-clowns rendered in fly-wheels of color. Are you

@@ -1,6 +1,5 @@
-# *from* Nude Memoir
+# Laura Moriarty: *from* Nude Memoir
 
-Laura Moriarty
 
 
 ## 9
@@ -17,10 +16,10 @@ petition like a question. Never again. Duchamp as a form of grief. A
 diary. A display of the invisible. Of visible decay. The mode here is
 eliminative. It is the only mouth she has left.
 
-\"Piece of Ass Lost.\" The necropolis pictured by a dead poet in
-Ellroy\'s **Clandestine**. Poet cop. The mouthpiece of fate.
-Exploitation as love. Women who don\'t get older. Women as men. It
-doesn\'t matter. The U.S. number one in violent death just past Mexico
+"Piece of Ass Lost." The necropolis pictured by a dead poet in
+Ellroy's **Clandestine**. Poet cop. The mouthpiece of fate.
+Exploitation as love. Women who don't get older. Women as men. It
+doesn't matter. The U.S. number one in violent death just past Mexico
 and Brazil. First in the First World and the Third. The guardian of
 the infested spirit. Someone follows a woman. She is not a muse but a
 fate. She talks too much.. They drink together.They eat. Is she one of
@@ -42,7 +41,7 @@ sense of hierarchical exclusion. Now that authority has been shown to
 be the shuck it is. To provide a method for reading, to alter the
 activity of reading itself. In retrospect or in the sense that it had
 already taken place. She read the scene before the crime. Or we
-wouldn\'t be having this conversation. His ambition is naked,
+wouldn't be having this conversation. His ambition is naked,
 mechanical. He also wants to read.
 
 The vaginal scroll
@@ -66,8 +65,8 @@ Black velvet lines the unseen back of the door. To soften the blow.
 Her character pokes through her performance like bones through flesh.
 Judy. Judith. She loves him but he loves her double. Her twin. Who is
 convincing. A con, snare or fox. A pest. He likes the angularity. The
-bending back. But he falls during the kiss. He is injured. \"I hate
-this\" she says. He doesn\'t miss her then.
+bending back. But he falls during the kiss. He is injured. "I hate
+this" she says. He doesn't miss her then.
 
 The scroll unwinding and the performer
 
@@ -87,8 +86,8 @@ He argues her down
 
 Her desire is unknown
 
-Impossible to predict its hold on him. \"\... a diagram of the cruel
-geometries of desire.\" The reviews are ambivalent. The scriptedness
+Impossible to predict its hold on him. "... a diagram of the cruel
+geometries of desire." The reviews are ambivalent. The scriptedness
 of their exchanges are painful to him. Her double jumps into the bay.
 The actor after. Also his double. Later on a sound stage wet
 close-ups. The real actors. His strained face dazed with obsession.
@@ -102,7 +101,7 @@ is displayed to him, to us.
 Madeleine is weak but alive. Unconscious. He takes her to his
 apartment on Russian Hill. He kicks open the bedroom door, placing her
 carefully on his bed. He first takes off her shoes. She stirs but
-doesn\'t wake. He holds her in a sitting position, unzipping her dress
+doesn't wake. He holds her in a sitting position, unzipping her dress
 in the back. Pale wide shoulders, wet slip, brassier. He pulls her
 dress and slip over her head. He becomes aware that her breasts are
 against him. Nipples like buttons. He works quickly against her
@@ -139,8 +138,8 @@ sparkling fashion
 Her intense desire for orgasm clings to her like his red silk robe.
 When she runs she knows he will go where she goes. She has tricked him
 but at too great a cost. She sees this as a job. He sees it as rescue
-and sex. But she can\'t be saved from the danger of being false. She
-can\'t be had. The hopelessness skews their perception. Heightens
+and sex. But she can't be saved from the danger of being false. She
+can't be had. The hopelessness skews their perception. Heightens
 their senses.
 
 The artist likes to see the woman go too far. The woman likes it too.
@@ -162,7 +161,7 @@ She remembers his memory
 
 His voice a slurred machine
 
-\"My nakedness creates you,\" he says (dead)
+"My nakedness creates you," he says (dead)
 
 She brings up the interface
 
@@ -171,17 +170,17 @@ Turns it on
 A golem. Like herself. Skin like flesh only not in her mind. Inside
 the memory, the wetware an obscene cream as if robots ran on semen.
 She turns to him. In pieces. In a kind of mechanical pain. He carries
-in him the mothers who didn\'t survive. It is evident in his soft
+in him the mothers who didn't survive. It is evident in his soft
 address. He is her confidant. Her history. She confides. They confer
 in a jacked-in version of love. His love is wired in. They know things
-together that otherwise only she knows. \"It\'s better than sex,\" she
-says. He says \" No, it\'s not.\"
+together that otherwise only she knows. "It's better than sex," she
+says. He says " No, it's not."
 
 Kienholz by definition
 
 The bionic man
 
-\"We can rebuild him\"
+"We can rebuild him"
 
 Not a faceless door
 
@@ -196,17 +195,15 @@ If she is Death in Orphee
 He is her driver
 
 An assisted death. They would be lovers in another life. She prefers
-his later more vicious fiction but he hasn\'t grown into it yet. Their
+his later more vicious fiction but he hasn't grown into it yet. Their
 times are not synced.
 
 
-| He in fact                                    She assisted
-|
-| Was scattered                                It was speaking
-|                        Not belief
-| She longed for                               The expert
-|
-| She was                                       Not love
+| He in fact                             She assisted
+| Was scattered                          It was speaking
+|                     Not belief
+| She longed for                         The expert
+| She was                                Not love
 
 
  

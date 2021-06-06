@@ -1,7 +1,6 @@
 
-# Monstrous
+# Camille Roy: Monstrous
 
-Camille Roy
 
 
  
