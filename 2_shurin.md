@@ -2,7 +2,7 @@
 # Aaron Shurin: Narrativity
 
 | ©1990 Aaron Shurin
-| First Published by Sun & Moon Press
+| First Published by Sun and Moon Press
 | 6148 Wilshire Boulevard, Gertrude Stein Plaza
 | Los Angeles, CA 90048
 
@@ -28,7 +28,7 @@ memory/future of dream; all present, all heightened, operational.
 Such conflated writing would be worthy of Barthes\'s definition of
 the text: \"not a coexistence of meanings but a passage, an
 overcrossing; thus it answers not to an interpretation, even a
-liberal one, but to an explosion, a dissemination.\" [^1]
+liberal one, but to an explosion, a dissemination.\" [^2_shurin_1]
 One seeks to be out of order, to shiver out of
 subjectivity, to shake off the mask of the material and to shimmy in
 its arms, to finally retreat from logic and advance by radial
@@ -40,7 +40,7 @@ rejects not grammar especially, but rhythm, pace, flow, expression:
 the structuring of the female voice by the male voice, female tone
 and manner by male expectations, female writing by male emphasis,
 female writing by existing conventions of gender---in short, any
-way in which dominant structures shape muted ones. [^2]
+way in which dominant structures shape muted ones. [^2_shurin_2]
 
 One looks for alternate methods to proceed, to use and subvert the
 codes at hand: stanza, line break, character, plot, point of view.
@@ -52,7 +52,7 @@ values in a writing mode---prose---whose usual form is the syllogism,
 building structures of projection and depth. \"The torquing which is
 normally triggered by linebreaks,\" he points out, \"the function of
 which is to enhance ambiguity and polysemy, has now moved into the
-grammar of the sentence.\" [^3] The paragraph as a
+grammar of the sentence.\" [^2_shurin_3] The paragraph as a
 unit of quantity and the sentence as a unit of measure, altered
 sentence structure, controlled and limited integration: these devices
 begin to conflate the values of poetry with those of prose. Other
@@ -71,7 +71,7 @@ string quartet, my garden god, my minaret, my magnum opus, my
 datebook, my hornet, my Giacometti, my West Side Story, my lance,
 my cannon, my nose-job, my hot dog, my little sparrow, my worm on
 the sidewalk after a storm, my candle, my Bic, my unicorn, my
-drawbridge, my white whale... [^4]
+drawbridge, my white whale... [^2_shurin_4]
 
 and on for another sixty substitutions, \"my cyclops ... my Venus of
 Willendorf ... my Dark Tower.\" Four pages later the elaborative
@@ -88,7 +88,7 @@ Rico, South Korea, Chile, Lebanon and Argentina, war in the Middle
 East, genocide of Guatemalan Indians and extermination of the
 native peoples of Brazil, Philippines, Australia, answering the
 telephone ... toxic waste, snipers, wrinkles, cult murderers, my
-car ... [^5]
+car ... [^2_shurin_5]
 
 Though these are both descriptive processes, they are not
 transparent; the reader is aware of being in a list, enjoys the
@@ -108,7 +108,7 @@ will be forced to assume a stance for which the narrative proper
 offers little support.... When the familiar codes of narrative are
 blocked or diverted, reading/writing becomes problematic, and the
 subject of/in the narrative shifts from the characters or the
-author to the reader.... [^6]
+author to the reader.... [^2_shurin_6]
 
 This problematization forces the reader to ask questions, to become
 active in the role of reader, and Glück reinforces this tendency by
@@ -135,7 +135,7 @@ developmental. \"How tenacious is our happiness!\" says Kevin Killian
 in Shy. \"Unlike narrative, it invents and eludes itself from moment
 to moment; it lacks conventions; its shape has no outline, its formal
 properties those of the cloud---numinous, portentous, hungry....\"
-[^7] And then goes on to produce a narrative with
+[^2_shurin_7] And then goes on to produce a narrative with
 properties of the cloud, numinous and hungry, where characters search
 for themselves alongside the writer as a character himself, where
 persons encounter each other but never stoop so low as to engage in a
@@ -166,7 +166,7 @@ you?\" Just like the Hot Line!
 These voices came out of his mouth from nowhere, between
 heaven and earth, this conversation developing like a photograph
 pulled from its tray full of crystal chemicals. Emergent.
-[^8]
+[^2_shurin_8]
 
 These voices attack the proposition that characters or author must be
 unified presences, and suggest that self itself may not be locatable
@@ -179,7 +179,7 @@ Elizabeth Taylor---and has the Halloween photos to prove it. He is a
 boy playing Puck in a high school production of A Midsummer Night\'s
 Dream wearing ballet slippers forever. \"I have died and am in a
 novel and was a lyric poet, certainly, who attracted crowds to
-mountaintops.\" [^9] I come after Robert Duncan but
+mountaintops.\" [^2_shurin_9] I come after Robert Duncan but
 before Norma Cole. My name is
 \"Broiling-Days-In-A-Little-Patch-Of-Shade.\" \"For better or
 worse,\" says Flaubert,
@@ -190,7 +190,7 @@ worse,\" says Flaubert,
 > forest on an autumn afternoon under the yellow leaves, and I was
 > also the horses, the leaves, the wind, the words my people uttered,
 > even the red sun that made them almost close their love-drowned
-> eyes. [^10]
+> eyes. [^2_shurin_10]
 
 \"Voice,\" \"Person,\" \"Point of View\"---always singular---propose
 a unified filter through which events may be organized, and as
@@ -210,11 +210,11 @@ Notley\'s sequence, \"Congratulating Wedge\":
 | want to write like that. I should never
 | have had to do it. We were used to this
 | other thing we always know like when we\'re
-| here. And you have this clear head & you\'re
-| seeing things & there they are. You don\'t
+| here. And you have this clear head and you\'re
+| seeing things and there they are. You don\'t
 | notice they\'re spelled. That\'s how you
 | know you\'re alive. I never saw you
-| looking like a dictionary definition & if I
+| looking like a dictionary definition and if I
 | did I wouldn\'t tell nobody. People
 | aren\'t like that. They say, Hey
 | asshole motherfucker turn that radio
@@ -225,7 +225,8 @@ Notley\'s sequence, \"Congratulating Wedge\":
 | always wanted to be a package, person
 | thinks. Do they? Or, I gotta de-
 | fine this package, me. Or, God if only
-| I was a package but I\'m not. [^12]
+| I was a package but I\'m not.
+[^2_shurin_12]
 
 What are people like and what method correctly presents/represents
 them; from what angles are they constructed and who construes the
@@ -235,7 +236,7 @@ partial as \"we\"; part of one another, occasionally indistinct,
 certainly indiscreet, we are and we are not separate people. \"My
 premise, in general and in writing,\" says Leslie Scalapino, \"is
 that I do not think there is a man, or woman, or society, social
-construction; though it is there. It is not there.\" [^13]
+construction; though it is there. It is not there.\" [^2_shurin_13]
 I have been marginalized as a poet, homosexual,
 counterculture protester, drug taker, transvestite and Jew; I am as
 interested in boundaries for what lies outside them as in. I would
@@ -261,7 +262,7 @@ terrors would such unlocations unleash? Normative pronoun usage
 subjects self and other to power/dominance models of unity and
 authority, of he over she and it beneath them. For pure syntax there
 is Charley Shively\'s reduction of the phallocentric rule: \"the
-subject fucks the object.\"[^14]
+subject fucks the object.\"[^2_shurin_14]
 
 Here is Leslie Scalapino writing:
 
@@ -272,7 +273,7 @@ Here is Leslie Scalapino writing:
 > to tear her in half except this one time, the man lying waking
 > staying gently with her during it through the soft darkness and
 > then ending in the warm balmy day with the people around who go
-> down the street.[^15]
+> down the street.[^2_shurin_15]
 
 Passive participial constructions which don\'t inhabit time,
 genderless and then confusing gender assignations, unlocated relative
@@ -299,7 +300,7 @@ upon each other. The material relations of the Unknown. \"The stuff
 of the psyche,\" says Herakleitos, \"is a smoke-like substance of
 finest particles, that give rise to all other things.... it is
 constantly in motion: only movement can know movement.\"
-[^16] His story pulls the reader down from the
+[^2_shurin_16] His story pulls the reader down from the
 surface of language not to rest but to ride back and forth between
 the manifest and imaginary worlds, among selves. \"I wanted to write
 a story,\" he begins, \"to talk about the outside world and escape my
@@ -316,7 +317,7 @@ Here in this dialogue writing relies less on information, as Walter
 Benjamin shows, than on the moral power of interpretation, \"to keep
 a story free from explanation.\" It is left up to the reader to
 \"interpret things the way he understands them, and thus narrative
-achieves an amplitude that information lacks.\"[^17]
+achieves an amplitude that information lacks.\"[^2_shurin_17]
 Here a fabricated house open to the wind is both a shelter
 and a sharpener of the wind\'s bite, a house of shadows and a moving
 shadow that resembles a house. Narrativity, the action not the thing,
@@ -328,52 +329,52 @@ circular, partial---and so, complete.
 
 
 
-[^1:]: Barthes, Roland, **Image - Music - Text**, Hill and
+[^2_shurin_1]: Barthes, Roland, **Image - Music - Text**, Hill and
 Wang, 1977, p. 159. 
 
-[^2:]: DuPlessis, Rachel Blau, **Writing beyond the Ending**,
+[^2_shurin_2]: DuPlessis, Rachel Blau, **Writing beyond the Ending**,
 Indiana University Press, 1985, p. 32.
 
-[^3:]: Silliman, Ron, \"The New Sentence,\" in **Talks,
+[^2_shurin_3]: Silliman, Ron, \"The New Sentence,\" in **Talks,
 Hills** 6/7, 1980, p. 214.
 
-[^4:]: Glück, Robert, **Jack The Modernist**, Gay Presses of
+[^2_shurin_4]: Glück, Robert, **Jack The Modernist**, Gay Presses of
 New York, 1985, p. 27.
 
-[^5:]: ibid., p.32.
+[^2_shurin_5]: ibid., p.32.
 
-[^6:]: Gelley, Alexander, **Narrative Crossings**, The Johns
+[^2_shurin_6]: Gelley, Alexander, **Narrative Crossings**, The Johns
 Hopkins University Press, 1987, p. 14.
 
-[^7:]: Killian, Kevin, **Shy**, The Crossing Press, 1989, p.
+[^2_shurin_7]: Killian, Kevin, **Shy**, The Crossing Press, 1989, p.
 103.
 
-[^8:]: ibid., p. 161.
+[^2_shurin_8]: ibid., p. 161.
 
-[^9:]: Palmer, Michael, **Sun**, North Point Press, 1989, p.
+[^2_shurin_9]: Palmer, Michael, **Sun**, North Point Press, 1989, p.
 83.
 
-[^10:]: Flaubert, Gustave, **The Letters of Gustave Flaubert,
+[^2_shurin_10]: Flaubert, Gustave, **The Letters of Gustave Flaubert,
 1830-1857**, The Belknap Press of Harvard University Press, 1979,
 p. 203.
 
-[^11:]: Gelley, op. cit., p. 27.
+[^2_shurin_11]: Gelley, op. cit., p. 27.
 
-[^12:]: Notley, **Alice, Margaret & Dusty**, Coffee House
+[^2_shurin_12]: Notley, **Alice, Margaret & Dusty**, Coffee House
 Press, 1985, p. 68.
 
-[^13:]: Scalapino, Leslie, in correspondence, 1989.
+[^2_shurin_13]: Scalapino, Leslie, in correspondence, 1989.
 
-[^14:]: Shively, Charley, **The Advocate**, \#342,
+[^2_shurin_14]: Shively, Charley, **The Advocate**, \#342,
 May 13, 1982, p. 24.
 
-[^15:]: Scalapino, Leslie, **The Return of Painting**,
+[^2_shurin_15]: Scalapino, Leslie, **The Return of Painting**,
 manuscript.
 
-[^16:]: Herakleitos, **Herakleitos and Diogenes**, trans.
+[^2_shurin_16]: Herakleitos, **Herakleitos and Diogenes**, trans.
 Davenport, Grey Fox Press, 1976, p. 18.
 
-[^17:]: Benjamin Walter, **Illuminations**, Schocken Books,
+[^2_shurin_17]: Benjamin Walter, **Illuminations**, Schocken Books,
 1969, p. 89. 
 
  

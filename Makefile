@@ -32,7 +32,7 @@ cleanbuild:
 	rm -rf $(BUILD)
 
 collate: outdir 
-	cat frontmatter.md 1_*.md backmatter.md > $(BUILD)/$(BASE).md
+	cat frontmatter.md [1-2]_*.md backmatter.md > $(BUILD)/$(BASE).md
 
 mobi: epub
 	ebook-convert $(BUILD)/$(BASE).epub $(BUILD)/$(BASE).mobi

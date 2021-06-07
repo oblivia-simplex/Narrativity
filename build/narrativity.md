@@ -5165,6 +5165,5743 @@ you've got your body, and I think that's it.
  
 
 
+# Quotes from the Editors
+
+## Quotes from Bob Glück
+
+In guise of an "editorial," we gave ourselves the task of contributing quotes that seemed exemplary or important to us as writers at this time. Informed by science (Burke's notion of coarse-graining, implying the production of prose as pattern), by references Biblical, Benjaminian, post structuralist, post-Marxist, Oulipo-ian, etc., these cut-outs, compounded, comprise our narrative about Narrativity. For now. Signed Mary. Camille. Bob. Gail.
+ 
+
+
+## From *Antonin Artaud Anthology*, ed. Jack Hirschman
+
+From this pain rooted in me like a wedge, at the center of my purest
+reality, at the point of my sensibility where the two worlds of body
+and mind are joined, I have learned to distract myself by the effect
+of a false suggestion.
+
+For in the space of that minute the illumination of a lie can last, I
+manufacture a notion of escape; I rush off in any wrong direction my
+blood takes. I close the eyes of my intelligence and open my mouth to
+the speech of the unspoken; I give myself the illusion of a system
+whose vocabulary escapes me. But from this minute of error there
+remains the feeling that I have snatched something real from the
+unknown. I believe in spontaneous bewitchments. It is impossible that
+I shall not some day discover a truth somewhere on the routes my
+blood carries me.
+
+
+## From *The Gospel According to Thomas*
+
+Jesus saw some little ones nursing. He said to his disciples, What
+these little ones who are nursing resemble is those who enter the
+kingdom. They said to him, So shall we enter the kingdom by being
+little ones? Jesus said to them, When you make the two one and make
+the inside like the outside and the outside like the inside and the
+above like the below, and that you might make the male and the female
+be one and the same, so that the male might not be male nor the
+female be female, when you make eyes in place of an eye and a hand in
+the place of a hand and a foot in place of a foot, an image in place
+of an image then you will enter the kingdom.
+
+
+## From *Foucault/Blanchot, Maurice Blanchot*: \"The Thought from the Outside\" by Michel Foucault
+
+
+If the only site for language is indeed the solitary sovereignty of
+\"I speak\" then in principle nothing can limit it---not the one to
+whom it is addressed, not the truth of what it says, not the values
+or systems of representation it utilizes. In short, it is no longer
+discourse and the communication of meaning, but a spreading forth of
+language in its raw state, an unfolding of pure exteriority. And the
+subject that speaks is less the responsible agent of a discourse
+(what holds it, what uses it to assert and judge, what sometimes
+represents itself by means of a grammatical form designed to have
+that effect) than a non-existence in whose emptiness the unending
+outpouring of language uninterruptedly continues.
+
+
+
+## From **The Madness of the Day**, by Maurice Blanchot, trans. Lydia Davis
+
+I am not learned; I am not ignorant. I have known joys. That is
+saying too little: I am alive, and this life gives me the greatest
+pleasure. And what about death? When I die (perhaps any minute now),
+I will feel immense pleasure. I am not talking about the foretaste of
+death, which is stale and often disagreeable. Suffering dulls the
+senses. But this is the remarkable truth, and I am sure of it: I
+experience boundless pleasure in living, and I will take boundless
+satisfaction in dying.
+
+
+I have wandered: I have gone from place to place. I have stayed in
+one place, lived in a single room. I have been poor, then richer,
+then poorer than many people. As a child I had great passions, and
+everything I wanted was given to me. My childhood has disappeared, my
+youth his behind me. It doesn\'t matter. I am happy about what has
+been. I am pleased by what is, and what is to come suits me well
+enough.
+
+
+Is my life better than other peoples lives? Perhaps. I have a roof
+over my head and many do not. I do not have leprosy, I am not blind,
+I see the world---what extraordinary happiness! I see this day, and
+outside it there is nothing. Who could take that away from me? And
+when this day fades, I will fade along with it---a thought, a
+certainty, that enraptures me.
+
+
+I have loved people. I have lost them. I went mad when that blow
+struck me, because it is hell. But there was no witness to my
+madness, my frenzy was not evident: only my innermost being was mad.
+Sometimes I became enraged. People would say to me, Why are you so
+calm? But I was scorched from head to foot; at night I would run
+through the streets and howl; during the day I would work calmly.
+
+
+## From \"Crossing into Poland\" by Isaac Babel trans. Walter Morison, **The Collected Stories**.
+
+Fields flowered around us, crimson with poppies; a noontide breeze
+played in the yellowing rye; on the horizon virginal buckwheat rose
+like the wall of a distant monastery. The Volyns peaceful stream
+moved away from us in sinuous curves and I was lost in the pearly
+haze of the birch groves; crawling between flowery slopes, it wound
+weary arms through a wilderness of hops. The orange sun rolled down
+the sky like a lopped-off head, and mild light glowed from the cloud
+gorges. The standards of the sunset flew above our heads. Into the
+cool of evening dripped the smell of yesterdays blood, of slaughtered
+horses. The blackened Zbruch roared, twisting itself into foamy knots
+at the falls. The bridges were down, and we waded across the river.
+On the waves rested a majestic moon. The horses were into the
+cruppers, and the noisy torrent gurgled among hundreds of horses
+legs. Somebody sank, loudly defaming the Mother of God. The river was
+dotted with the square black patches of the wagons, and was full of
+confused sounds, of whistling and singing, that rose above the
+gleaming hollows, the serpentine trails of the moon.
+
+# Quotes from Camille Roy
+
+# Excerpts from \"The Storyteller,\" by Walter Benjamin
+
+The art of storytelling is coming to an end. Less and less frequently
+do we encounter people with the ability to tell a tale properly. More
+and more often there is embarrassment all around when the wish to
+hear a story is expressed. It is as if something that seemed
+inalienable to us, the securest among our possessions, were taken
+from us: the ability to exchange experiences.[^cr1]
+
+One reason for this phenomenon is obvious: experience has fallen in
+value\... \[The nature of every real story is that\] it contains,
+openly or covertly, something useful. The usefulness may, in one
+case, consist in a moral; in another, in some practical advice, in a
+third, in a proverb or maxim. In every case the storyteller is a man
+who has counsel for his readers. But if today \"having counsel\" is
+beginning to have an old-fashioned ring, this is because the
+communicability of experience is decreasing. In consequence we have
+no counsel either for ourselves or for others.
+
+Every morning brings us the news of the globe, and yet we are poor in
+noteworthy stories. This is because no event any longer comes to us
+without already being shot through with explanation. In other words,
+by now almost nothing that happens benefits storytelling; almost
+everything benefits information. Actually, it is half the art of
+storytelling to keep a story from explanation as one reproduces it.
+
+The value of information does not survive the moment in which it was
+new. It lives only at that moment; it has to surrender to it
+completely and explain itself to it without losing any time. A story
+is different. It does not expend itself. It preserves and
+concentrates its strength and is capable of releasing it even after a
+long time.
+
+*Boredom is the dream bird that hatches the egg of experience.*
+Today people live in rooms that have never been touched by death, dry
+dwellers of eternity, and when their end approaches they are stowed
+away in sanatoria or hospitals by their heirs. It is, however,
+characteristic that not only a man\'s knowledge or wisdom, but above
+all his real life---and this is the stuff that stories are made
+of---first assumes transmissible form at the moment of his death.
+Just as a sequence of images is set in motion inside a man as his
+life comes to an end---unfolding the views of himself under which he
+has encountered himself without being aware of it---suddenly in his
+expressions and looks the unforgettable emerges and imparts to
+everything that concerned him that authority which even the poorest
+wretch in dying possesses for the living around him. This authority
+is at the very source of the story.
+
+Death is the sanction of everything that the storyteller can tell. He
+has borrowed his authority from death.
+
+
+\[\[I love this essay, although it doesn\'t address what seems to me
+to be a distortion in the general view of the narrative process:
+story**telling**. In addition to the story which is told, there is
+the story withheld. Attraction, narrative suspense, emanates from the
+latter. The story withheld has its own (buried) structure and
+tension. The reader marries the hidden story, not the visible one.
+That is why we continue to read a story that inspires dread. An
+attachment has been formed---surreptitiously. It operates like a
+craving, which is how I recognize Benjamin\'s reference to death. The
+craving for the unknown, as it is held by the act of storytelling,
+points to death (or its substitute, the body). (Roy)\]\]
+
+
+## Excerpts from \"Fame,\" by Robert Gluck
+
+There are contradictory reasons when I use \"real\" people in my
+work, and the contradictions comfort me. Any literary practice
+should, I think, derive from contradictory sources and motives\... I
+name names to evoke the already-known, to make writing co-extend with
+the world and history, and to examine the fiction of personality, as
+well as the fiction of the word\.... I propose self-community-story
+as a tonic for the loss of human scale; by naming
+self-community-story I participate in their disintegration, their
+progress from invisibility to something to be named and
+manipulated---to be reintegrated later in a new context, in a third
+term that history must provide.[^cr2]
+
+Prolonged scrutiny can become an expenditure of self, a potlatch of
+self. I\'ve come to experience the unreeling of interiority and
+sexual disclosure as such a loss, and also part of a historical
+trajectory. It\'s a writing activity that privileges the aggression
+of naming---an ongoing colonization of self into one\'s own language.
+Once something is named, you are in relation to it. Name the disease
+to cure it.
+
+We want to see a story as we see other representations: being hiding
+behind appearance---that is, hiding and revealing the body. But the
+use of real names \[in my work\] reorders connections and
+disjunctions. I do mean fragmentation. I don\'t want to make the
+predictable distinction between story and fragmented writing. Naming
+names creates an open form that co-extends with the world. In a
+postmodern switch, it applies the open form of modernism to content
+by putting quote marks around the entire story, turning the story
+into a fragment, an example of a story. The story floats---as gossip
+does---between the lives of the people who are its characters, and
+the lives of its readers (in that thorny field of reader/writer
+dynamics). The problem of figure and ground becomes a social one, and
+some of what is existential in the content is subtracted and
+reintegrated in the relation between reader and writer.
+
+\... Using real names provides a relation between the writer and
+myself that carries some risk, like performance art. What I witness
+is always the same: any story hides and then reveals the body.
+
+
+\[\[Two aspects of narrative writing have been subjected to
+devastating critiques: the linearity of narrative, and the
+credibility of the narrator. (The popularity of the memoir is in part
+due to the diminished credibility of anything other than an
+autobiographical voice.) The critical and political forces which
+produced these critiques have pushed experimental narrative writers
+to the boundary where form collapses into experience. The searching
+re-examination of narrative premises becomes part of the practice.
+(Roy)\]\]
+
+
+## Excerpts from \"Paragraphs Blowing On A Line,\" by Gail Scott
+
+### Entry 11:
+
+She sees the present as a great tear, a great rip in the surface of
+things: the gap of which is at first impossible for her to move
+across (*\...does not thinking seek forever to clamp a dressing over
+the gaping and violent wound of the impossibility of
+thought\...[^cr4] It is awareness of this that
+makes linear narrative impossible. A virtually tragic awareness, for
+the writing \"I,\" which modernists began to \"deconstruct\" as they
+recognized that gap (accepted to give up power) has, in her case,
+been \"deconstructed\" a priori by social conditions. She is not only
+split between the self and the \"real\", but also within the
+self\...[^cr3]
+
+So the question becomes how to write across the almost \...
+hysterical \... overdetermination of her gaps\...
+
+Maybe my resistance to the narrative conventions of the novel have to
+do with what I think of as its Protestant qualities: its earnest
+representation of the \"real,\" its greed for action, its preference
+for the concrete over the philosophical.
+
+A compromise might be possible: structuring the story by means of the
+fluctuations in her \... (dare I?) hysterical voice. The use of the
+voice invoking a poetic meaning in excess of the sentence\....
+
+Blows: violent and unusual interruptions in her narrative
+texture-which texture the writing is hopefully starting to discover.
+More and more I intuit that it has to do with starting from a
+negative point: a crushed ego that doesn\'t see its boundaries.
+
+### Entry 25
+
+During this whole process I have been caught between the need to
+accomplish this thing, which is both to posit some new kind of
+subject and to have the sense of being a subject myself; and yet to
+resist repeating, by creating a \"feminist narrative,\" what Barthes
+calls \... the staging of a new \"father,\" a new hierarchy of
+acceptable concepts. (*Every narrative (every unveiling of the truth)
+is a staging of the \... father.*) Maybe what my heroine discovers in
+trying to write her novel is only that the novel doesn\'t suit the
+(diffuse?) women\'s way of seeing things. Where there is closure
+(firm conclusions) in \"straight writing\" there are spaces,
+questions in hers. Even her anecdotes point to other possible
+representations, leave themselves open for reader intervention.
+
+Still, given that my firm and conscious intention has been to counter
+(patriarchal) ideology in this process, the poststructuralist recipe
+for taking apart everything from the sentence to the author won\'t
+entirely do. Presumably I have to at least propose some other
+direction: language slips all around us. One\'s response to that is a
+question of the relationship between writing (what it comprises of
+consciousness) and body. Again to quote Barthes: *The text needs its
+shadow. This shadow is a* bit *of ideology, a* bit *of
+representation, a* bit *of subject: ghosts, pockets, traces,
+necessary clouds. Subversion must produce its own chiaroscuro.*
+
+\[\[It is generally true that reviews of experimental narrative do
+not have a critical vocabulary for what the writer is doing. The goal
+seems to be attaching a label to the content without \"giving it
+away\". Narrative practice, as a field of critical inquiry, is in a
+practically fetal state. Theory borrowed from poetics is not adequate
+for describing or investigating how narratives work, what is at stake
+in narrative, the social field narratives both operate within and set
+up. The interventions into the social field which experimental
+narratives perform are usually in practice imperceptible,
+indistinguishable from background noise, unless the critical piece is
+written by the writer herself. If narrative writers want the deepest
+issues in their work to be visible, they must supply the critical
+ideas that drive their practice. This journal will hopefully be a
+place that supports the development of that discussion. (Roy)\]\]
+
+
+## Excerpts from \"Interview with Carla Harryman,\" by Chris Tysh
+
+Tysh: \"The I expands,\" you wrote in \"Realism.\" In this age of
+decentered subjectivities, how do you deploy the narrative machinery
+of the \"I\" and the various sensibilities it is associated with?
+Could you discuss the techniques with which you defamiliarize your
+use of the first-person pronoun and in general address the issue of
+the speaking subject in your prose. Who speaks?[^cr5]
+
+Harryman: My answer to this question is complex and leads to
+difficulties because I associate the I with power, control,
+destruction, gender, and whatever might transpire or exhibit itself
+between the poles of animation and passivity. Mine is an unwieldy set
+of interests, less easy to organize into the kinds of discussion that
+the problems of \"confession\" or \"authenticity\" lend themselves
+to; even so, as you will see, I am concerned with the relation of the
+\"self\" to the limits of knowledge.
+
+When I think about the I, what first comes to mind is omniscience in
+novels. (My understanding of literary device and the problem of
+authorship comes as much from reading novels as poetry. ) I will use
+Balzac as an example, because he has come up in my writing from time
+to time. Balzac wanted to account for all the history of France as it
+related to the ruptures of the bourgeois revolution. The expanding I
+here would be Balzac-as-author-of-France, i.e., Balzac as authorial
+agent/persona, rather than a deployment within the narrative text,
+which in Balzac is driven by third-person narration. I am interested
+in uncovering the hidden, expansive I. What happens when one
+concretizes it, making it evident in the writing, is carnivalesque.
+My writing parades various self-conscious positions in regard to
+constructs such as authorship, omniscience, and agency. It chooses to
+reflect upon the positions it takes and the relations it draws\...
+
+The deployment of the I through the autobiographical, the fictive,
+abstraction, argumentation is involved in the breaking up of unities.
+The I, as I think you are suggesting, does not expand but disperses.
+If the text is the social body, the I is mobile within it. If I is
+that which is not the body, it attempts to identify with the body\'s
+fleshiness. The I can be a code for seeking pleasure and examining
+freedom. Then it becomes troubled by its demands, for the relation of
+the self to the world is always troubling; it is never adequate and
+the I in its freedom is too willing to give up civility, a cherished
+element of comedy.
+
+[^cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
+
+[^cr2]: Glück, Robert. \"Fame.\" **Poetics Journal**, Number 10, June 1998.
+
+[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women\'s Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
+
+
+[^cr4]: Gayatri Chakravorty Spivak, Translator\'s Preface to
+Jacques Derrida, On Grammatology (Johns Hopkins University Press,
+1976).
+
+[^cr5]: Carla Harryman. \"Interview by Chris Tysh.\" Number 10, June 1998.
+
+
+## Quotes from Gail Scott
+
+### From *Eros The Bittersweet*, by Anne Carson
+
+\"...Whenever passion seems within reach, *aidos* falls like a
+veil.... This *aidos* is the archaic ethic of \'shamefastness\'. .
+. . Ahprodite is the divinity in charge of the perversities of
+*aidos* within the novel. She is the chief designer and chief
+subverter of the story\'s changing triangles, both patron and enemy,
+inspiring with a passion strong enough to resist all the temptations
+that she herself proceeds to hurl against it.... Aphrodite\'s role
+in novels is an ambivalent, not to say paradoxical, one like the role
+of Eros in archaic poetry.\" Eros, p. 79-80
+
+\[Carson\'s Greeks lined up Eros versus \'shamefastness,\' which I
+contemporaneously interpret not as \'chastity\' but as \'cover-up\';
+class has entered discourse: shame is private and social (Scott)\]
+
+
+### From *The Shell and the Kernel* (Vol. 1) by Nicholas Abraham and Maria Torok
+
+...What haunts are not the dead, but the gaps left within us by
+the secrets of others...
+...It is reasonable to maintain that the \'phantom effect\'
+progressively fades during its transmission from one generation to
+the next and that, finally, it disappears. Yet, this is not at all
+the case when shared or complementary phantoms find a way of being
+established as social practices along the lines of *staged words*... 
+To stage a word, whether metaphorically, as an alloseme, or as a
+cryptonym-constitutes an attempt at exorcism, an attempt, that is, to
+relieve the unconscious by placing the effects of the phantom in the
+social realm.
+...The phantom\'s periodic and compulsive return lies beyond the
+scope of symptom formation in the sense of a return of the repressed;
+it works like a ventriloquist, like a stranger within the subject\'s
+own mental topography. The imaginings issuing from the presence of a
+stranger have nothing to do with fantasy strictly speaking. They
+neither preserve a topgraphical status quo nor announce a shift in
+it. Instead, by their gratuitousness in relation to the subject, they
+create the impression of surrealistic flights of fancy or of
+oulipo-like verbal feats.
+
+\[I like to think of the phantom dressed up in a cloak studded with
+the latest consumer items, on his way to the zoo. I like the play
+between contiguity and disjunction implied by attempting to converse
+with the unspeakable. This makes strange sentences that swing
+\"both\" ways, dialoguing with both the uncanny and the social: a
+rhetorical edge is added to poetic thinking. (Scott)\]
+
+### From *Zoo or Letters Not About Love* by Viktor Shklovsky
+
+...She loved me like her own daughter. When I was two months old,
+she fed me cabbage soups and once she managed to poison me by gorging
+herself on the pits from the cherry preserves that were being made at
+our summer cottage. When I grew up, she came to see me, always with
+presents; she remained standing and spoke to me in the formal way;
+then, when everyone left, she sat down to drink tea with me and used
+the familiar form . When I became an adult, I began to understand her
+cheerful disposition: \'My mistress lives with another woman; it\'s
+beyond me-just like nuns!\' And she\'d roar with laughter\--...She
+had a special smell, like her wooden trunk when she lifted the lid:
+calico and apples. A tlted nose, knowing eyes...
+\"One time she was working in a very rich household. The house was
+robbed...
+Papa asked her: \'And where were you when the house was robbed?\'
+\'At the Novo-Devichy Convent visiting a nun.\'
+\'Well, then, tell them and they\'ll let you go.\'
+\'What? And get a nun mixed up in such business, master!\'
+So she didn\'t say a word, but sat in prison until the thieves were
+found and she was released.
+Then, after the revolution, Mama tried to persuade her to go vote,
+but she said that after that business with the silver spoons, she
+wouldn\'t go near the police station for love or money.
+
+\[This passage, though \"authored\" by Sklovsky, is actually by Elsa
+Triolet, Shklovsky\'s beloved at the time. He integrated her letters
+into his own fiction. I had intended to quote Shklovsky; whose manner
+of stringing together seemingly cut-up prose lines to effect
+narrative \'continuity\' is exemplary. Not only shame, but also
+authorship, get partly buried here. (Scott)\]
+
+
+### From Lyn Hejinian\'s Introduction to Jena Osman\'s *Character*
+
+Performance requires the person who is the actor (i.e. already a
+character) to be in character, and this, in turn, cannot occur
+without performance. This produces not a tautology (\"performance
+requires performance\") but a bifurcation-character occurring as a
+performance in and of itself; or, as Osman says (in \"The Figural
+Cabinet\"), \"the taking place is double.\"
+Such double-mindedness, which is to say this \'self\'conscious, is
+central to Brechtian theater; it forms the basis on which alterities
+can come into (the) play. It is characteristic, too, of everyone who
+is forced into identity-consciousness, as W.E.B. Du Bois pointed out
+long ago in The Souls of Black Folk, a work which itself has been
+described (by Houston Baker) as a \"cultural performance.\" More
+recently, the notion that \"identity\" is itself performative has
+been greatly elaborated by theorists such as Judith Butler.
+Identity-the sense of difference that belongs to one\'s
+self-sameness-is itself \"character,\" something that \"takes
+place.\" This means both that it is an occurrence or event-it
+happens-and that it involves taking up a position among others (as
+might be indicated by stage directions: *Enter Woman, wearing a hat,*
+etc.)
+
+
+### From \"Not All Halfbreed Mothers\" in *I Knew Two Métis Women*, by Greg Scofield
+
+| Not all halfbreed mothers
+| wear cowboy shirts or hats,
+| flowers behind their ears or
+| moccasins sent from up north.
+
+| Not all halfbreed mothers
+| read *The Star*, *The Enquirer*,
+| *The Tibetan Book of the Dead*
+| or Edgar Cayce,
+| know the Lady of Shalott
+| like she was a best friend
+| or sister.
+
+...
+
+| Not all halfbreed mothers
+| speak like a dictionary
+| or Cree hymn book,
+
+...
+
+| Not all halfbreed mothers
+
+| drink
+
+| red rose, blue ribbon,
+| Kelowna Red, Labatt\'s Blue.
+
+## Quotes from Mary Burger
+
+### From *Tristram Shandy*, by Laurence Sterne, first published 1760
+
+#### Chapter V
+
+On the fifth day of November, 1718, which to the era fixed on was as
+near nine calendar months as any husband could in reason have
+expected, --- was I, Tristram Shandy, Gentleman, brought forth into
+this scurvy and disastrous world of ours. --- I wish I had been born
+on the Moon, or in any of the planets (except Jupiter or Saturn,
+because I never could bear cold weather), for it could not well have
+fared worse with me in any of them (though I will not answer for
+Venus) than it has in this vile, dirty planet of ours, --- which o\'
+my conscience, with reverence be it spoken, I take to be made up of
+the shreds and clippings of the rest; --- not but the planet is well
+enough, provided a man could be born in it to a great title or to a
+great estate; or could anyhow contrive to be called up to public
+charges, and employments of dignity or power; --- but that is not my
+case; --- and therefore every man will speak of the fair as his own
+market has gone in it; --- for which cause I affirm it over again to
+be one of the vilest worlds that ever was made; --- for I can truly
+say that from the first hour I drew my breath in it, to this, that I
+can now scarce draw it at all, for an asthma I got in skating against
+the wind in Flanders, --- I have been the continual sport of what the
+world calls fortune; and though I will not wrong her by saying, She
+has ever made me feel the weight of any great or signal evil; --- yet
+with all the good temper in the world, I affirm it of her that in
+every stage of my life, and at every turn and corner where she could
+get fairly at me, the ungracious Duchess has pelted me with a set of
+as pitiful misadventures and cross accidents as ever small Hero
+sustained.
+
+
+#### Chapter VI
+
+In the beginning of the last chapter, I informed you exactly *when* I
+was born; --- but I did not inform you *how*. *No*; that particular
+was reserved entirely for a chapter by itself; --- besides, Sir, as
+you and I are in a manner perfect strangers to each other, it would
+not have been proper to have let you into to many circumstances
+relating to myself all at once. --- You must have a little patience.
+I have undertaken, you see, to write not only my life, but my
+opinions also; hoping and expecting that your knowledge of my
+character, and of what kind of a mortal I am, by the one, would give
+you a better relish for the other: As you proceed further with me,
+the slight acquaintance which is now beginning betwixt us will grow
+into familiarity; and that, unless one of us is in fault, will
+terminate in friendship. --- *O diem praeclarum!* --- then nothing
+which has touched me will be thought trifling in its nature, or
+tedious in its telling. Therefore, my dear friend and companion, if
+you should think me somewhat sparing of my narrative on my first
+setting out, --- bear with me, --- and let me go on, and tell my
+story my own way: --- or if I should seem now and then to trifle upon
+the road, --- or should sometimes put on a fool\'s cap with a bell to
+it, for a moment or two as we pass along, --- don\'t fly off, --- but
+rather courteously give me credit for a little more wisdom than
+appears upon my outside; --- and as we jog on, either laugh with me,
+or at me, or in short, do anything, --- only keep your temper.
+
+
+### From *The Confessions of Saint Augustine*, Trans Edward B. Pusey, D.D. First published c. 400 A.D.
+
+Afterwards I began to smile; first in sleep, then waking: for so it
+was told me of myself, and I believed it; for we see the like in
+other infants, though of myself I remember it not. Thus, little by
+little, I became conscious where I was; and to have a wish to express
+my wishes to those who could content them, and I could not; for the
+wishes were within me, and they without; nor could they be any sense
+of theirs enter within my spirit. So I flung about at random limbs
+and voice, making the few signs I could, and such as I could, like,
+though in truth very little like, what I wished. And when I was not
+presently obeyed (my wishes being hurtful or unintelligible), then I
+was indignant with my elders for not submitting to me, with those
+owing me no service, for not serving me; and avenged myself on them
+by tears. Such have I learnt infants to be from observing them; and
+that I was myself such, they, all unconscious, have shown me better
+than my nurses who knew it.
+
+Passing hence from infancy, I came to boyhood, or rather it came to
+me, displacing infancy. Now did that depart, --- (for wither went
+it?) --- and yet it was no more. For I was no longer a speechless
+infant, but a speaking boy. This I remember; and have since observed
+how I learned to speak. It was not that my elders taught me words
+(as, soon after, other learning) in any set method; but I, longing by
+cries and broken accents and various motions of my limbs to express
+my thoughts, that so I might have my will, and yet unable to express
+all I willed, or to whom I willed, did myself, by the understanding
+which Thou, my God, gavest me, practice the sounds in my memory. When
+they named any thing, and as they spoke turned towards it, I saw and
+remembered that they called what they would point out by the name
+they uttered. And that they meant this thing and no other was plain
+from the motion of their body, the natural language, as it were, of
+all nations, expressed by the countenance, glances of the eye,
+gestures of the limbs, and tones of the voice, indicating the
+affections of the mind, as it pursues, possesses, rejects, or shuns.
+And thus by constantly hearing words, as they occurred in various
+sentences, I collected gradually for what they stood; and having
+broken in my mouth to these signs, I thereby gave utterance to my
+will. Thus I exchanged with those about me these current signs of our
+wills, and so launched deeper into the stormy intercourse of human
+life, yet depending on parental authority and the beck of elders.
+
+### From *Our Lady of the Flowers*, by Jean Genet, Trans. Bernard Frechtman,
+First published 1943
+
+Our Lady of the Flowers, still and already wearing the light, baggy,
+youthful, preposterously tin and, in a word, ghostlike gray-flannel
+suit that he was wearing the day of the crime and that he will be
+wearing the day of his death, came there to buy a ticket for Le
+Havre. Just as he got to the platform, he dropped his wallet which
+was stiff with the twenty thousand franc notes. He felt it slip from
+his pocket and turned around just in time to see it being picked up
+by Darling. Calmly and fatally, Darling examined it, for though he
+was a genuine crook, nevertheless he did not know how to be at ease
+in original postures and imitated the gangsters of Chicago and
+Marseilles. This simple observation also enables us to indicate the
+importance of dreaming in the life of the hoodlum, but what I want
+particularly to show you by means of it is that I shall surround
+myself only with roughnecks of undistinguished personality, with none
+of the nobility that comes from heroism. My loved ones will be those
+whom you would call \"hoodlums of the worst sort.\"
+
+Darling counted the bills. He took ten for himself, put them into his
+pocket and handed the rest to Our Lady, who stood there dumbfounded.
+They became friends.
+
+I leave you free to imagine any dialogue you please. Choose whatever
+may charm you. Have it, if you like, that they hear the voice of the
+blood, or that they fall in love at first sight, or that Darling, by
+indisputable signs invisible to the vulgar eye, betrays the fact that
+he is a thief\...Conceive the wildest improbabilities. Have it that
+the depths of their being are thrilled at accosting each other in
+slang. Tangle them suddenly in a swift embrace or a brotherly kiss.
+Do whatever you like.
+
+### From, *Spacetime, Geometry, Cosmology*, William L. Burke, University Science Books, Mill Valley, 1980.
+
+
+What does it mean to make a model of the universe? We must ask such
+questions, even though they seem to belong in the realm of
+philosophy, because of the fundamental nature of the subject itself.
+A good analogy for this model making is the construction of a map of
+a city. The city and the map of the city are two distinct things that
+no one would confuse. This confusion is harder to avoid in cosmology.
+To be useful, the map must be faithful to some of the city\'s
+interesting properties. Furthermore, the map is constructed according
+to some specific conventions: major roads are in red; north is at the
+top; and so on. Also, a map does not try to define what a road is.
+That you learn by demonstration. People point out roads and non-roads
+to you, and you acquire the idea of a road by induction. Such basic
+ideas, which are not defined but are learned by demonstration, are
+called *primitive notions*.
+
+The same things will be true of the models of physical reality that
+we make. We will construct a map of the world according to some
+specific but arbitrary conventions. The image is constructed not on
+paper, but in terms of some mathematical structure, such as a linear
+vector space. Because we can talk about physical reality only in
+terms of some model, it is easy for us to forget the distinction
+between the object itself and our model of the object. As in our map
+of the city, there are some undefined elements in our model. For
+spacetime, these primitive notions are *event, free particle, clock,*
+and *light signal.* We will describe in words what these correspond
+to, much as a roadmap might discuss what it does in fact consider to
+be an acceptable road.
+
+An important feature of any model is *coarse-graining.* The model
+ignores a lot of things. The exact width, surface, and color of a
+road cannot be deduced from the ordinary roadmap. In fact, the
+roadmap is more useful than a photograph precisely because it omits
+such irrelevant detail. Similarly, there is a coarse-graining in our
+primitive notions for spacetime. For example, we will not describe a
+clock by making a detailed model of its internal construction. Such
+details will not be mentioned. The model presumes that they are
+irrelevant, and it is the task of experiment to verify this.
+
+
+### From *The Passion*, Jeanette Winterson, Vintage Books, 1989
+
+Lovers are not at their best when it matters. Mouths dry up, palms
+sweat, conversation flags and all the time the heart is threatening
+to fly from the body once and for all. Lovers have been known to have
+heart attacks. Lovers drink too much from nervousness and cannot
+perform. They eat too little and faint during their fervently wished
+consummation. They do not stroke the favoured cat and their
+face-paint comes loose. This is not all. Whatever you have set store
+by, your dress, your dinner, your poetry, will go wrong.
+
+How is it that one day life is orderly and you are content, a little
+cynical perhaps but on the whole just so, and then without warning
+you find the solid floor is a trapdoor and you are now in another
+place whose geography is uncertain and whose customs are strange.
+
+Travellers at least have a choice. Those who set sail know that
+things will not be the same as at home. Explorers are prepared. But
+for us, who travel along the blood vessels, who come to the cities of
+the interior by chance, there is no preparation. We who were fluent
+find life is a foreign language. Somewhere between the swamp and the
+mountains. Somewhere between fear and sex. Somewhere between God and
+the Devil passion is and the way there is sudden and the way back is
+worse.
+
+I\'m surprised at myself for talking in this way. I\'m young, the
+world is before me, there will be others. I feel my first streak of
+defiance since I met her. My first upsurge of self. I won\'t see her
+again. I can go home, throw aside these clothes and move on. I can
+move out if I like. I\'m sure the meat man can be persuaded to take
+me to Paris for a favour or two.
+
+> Passion, I spit on it.
+>
+> I spat into the canal.
+
+
+# The Universes: On Semantics and Learning
+
+Mike Amnasan
+
+
+ 
+
+
+## 1
+
+I can\'t tell you what I was just thinking. As in Augustine\'s view
+of intuition, the associations I registered were too free of any
+repeatable limitations for me to verbalize the experience. Perhaps
+these associations were of diverging thoughts that have not departed
+my mind. The most handy example of something similar is the
+simultaneity of sense perception. Each sense perception is
+specialized and in that respect removed from the whole and yet also
+registered in the same moment. In the thought I\'m speaking of there
+were different concerns, we might even say a universe of concerns
+none of which I can fully express. This complex event might be
+considered incidental in regard to what I have learned to value. I am
+now attempting to acquire a greater appreciation of something I
+cannot verbalize, meaningful associations I can\'t excite a
+recurrence of through keying words into a computer.
+
+Semantic sensation is never original. It must always be familiar.
+Language does excite original sensations, as in the sound of a
+speaker\'s voice, but the semantic experience itself is never sound
+or vision, or any other sense perception of the material universe.
+Original experience of semantics would be like immediately
+comprehending a language we never heard before. This kind of
+appreciation is possible with music. Music we\'ve never heard before
+can be immediately appreciated as music, but semantics, like memory,
+must always be a response to what is already familiar.
+
+My concern is how to proceed. If I can only register verbally what
+has already become familiar through cognitive means, my work with
+language is *not* directed toward spurring meaning for the first
+time. Has there ever been a first time in regard to comprehending
+language? Is anything we read utterly strange, or is it rather
+strangely familiar? We may read something and make no sense of it,
+and later return to it and find familiarity as if we always should
+have been able to comprehend this particular passage. This parallels
+how we initially acquire language through a growing familiarity with
+the effects of verbal expression. We learn to fortuitously repeat
+limited effects. We grow to appreciate what we had already
+experienced albeit as incidental and free of the constraints of
+communication. Infants can distinguish between phonemes their
+parents, having learned a particular language, can no longer tell
+apart (Pinker 264), and meaning is similar in this respect. To
+understand how this can work we must put aside the notion that
+language makes meaning. If this were the case we would begin with a
+rather meager supply of semantics that we would not want to reduce by
+limiting what we come to appreciate. The verbal cannot originate
+anything we come to value as verbal expression. Perhaps this is true
+of all our senses; the original experience is what we take in from
+sensory organs that does not result in sense perception, sense
+perception being that which we perceive to the extent it is already
+familiar to us, already among the effects we are prepared to make. In
+this sense the original is not an object, but rather that which we
+are unprepared to value: particular and unique effects we do not
+register.
+
+Perhaps I simply want to learn, having reaped benefits from what I
+have learned in the past by reducing the number of hard choices I
+must make or that are made for me. Does the construction work,
+through which I make a living, decide what sort of interests I can
+successfully pursue? If cognition is verbal then it must follow that
+we can only appreciate what language excites an interest in. If
+meaning originated in language semantics could not have the benefits
+I hope for. The use of language would be the limits of its effect,
+and all the incidental experiences that I accrue on a construction
+site, when I seldom talk, and much more rarely about what I\'m now
+writing, would go for nought---or worse. My time on a construction
+site would suspend the cognition I long to learn from. What I then
+felt to be my most prized asset, the verbal, and all my work with the
+verbal, would be suspended as I endured a painfully irrelevant
+expenditure of time and energy. Furthermore my understanding of the
+world might be contaminated by prevalent views that re-inscribe my
+thoughts with unwanted expressions.
+
+We can see that my disposition toward construction work is strongly
+impacted by my regard for language, and this involves study that is,
+in part, motivated by a desire to develop an understanding through
+which I can regard different aspects of my life as of mutual value. I
+want this view to be revised within different kinds of experience
+that I am never fully \"conscious\" of---even if some rehearsal of
+what I cannot register is, at this very moment, being performed as
+simultaneous events in my mind. Language is not only directed toward
+fortuitous limitations, but also toward realizing a universality that
+is always changing in its simultaneous instances of social
+expression, expression that we cannot oversee, or monitor in any way,
+but that our minds do, to some extent, incidentally receive. Mental
+activity may be full of simultaneous events some of which act like
+separate subjects we anticipate. It may be that these subjects, if we
+are removed from interactions that disrupt our expectations, must
+form into a consensus of what others will expect from us, and limit
+what we can expect of ourselves, selves that come to behave as
+sovereign beings constituted as a uniformity. Others become mere
+foils, since they can only be modeled after this consensus that
+determines what we are disposed to find.
+
+Our only particular and unique experience is that purveyed through
+sense organs that introduce stimuli from the material universe---and
+yet language is often external, as in the example of lines of words
+on a monitor. How is it so very different? How can it be lacking in
+original experience if there is an external and physical text that we
+respond to in the material world? The answer is that our experience
+of physical language, whether as sound, or text, or raised dots in
+the case of braille, is not semantic, but a different kind of sense:
+vision, sound, touch. Even if vision, sound, touch, also respond only
+to what is already familiar they still form our sense perceptions of
+the material universe, while the semantic effect excited by language
+is never a direct expression of material reality.
+
+As you read these words they arouse an immaterial universe
+simultaneous with your perceptions of material reality. A simplified
+version of what happens is this: the stimuli from your eyes travels
+along the optic pathway until it enters the region of the cerebral
+cortex associated with language.[^1] This
+linguistic region responds only to the familiar stimuli, the marks,
+that spur semantic sensations. Stimuli from the eyes passes on to the
+visual area of the occipital lobe where it excites the visual
+perception of the physical world. The visual follows hard upon the
+semantic so that you register both without any discernable interval
+and you cannot tell, from what you experience, that more than one
+sense perception is responding to stimuli from the eyes.
+
+The preceding description is far from an exhaustive account of what
+happens when we are engaged by written text. Language could only have
+developed because our response to the stimuli from our ears, eyes, or
+the surface of our skin was never exclusively devoted to creating
+sense perceptions of the material universe. Our perceptions may be
+more of an afterthought. It is possible for a creature to have an
+eye, and to respond consistently to stimuli from that eye without the
+luxury of any visual impressions.[^2] Such
+behavior would not be derived from cognition minus sense perception,
+but rather a reaction lacking in a consistent impression that could
+become either reliable or doubtful.
+
+When reading, we do not fix our attention on the series of characters
+in order to receive visual impressions that we then interpret,
+transforming the visual into semantic sensations. Sense perception
+does not work sequentially in that way. We do not see something, and
+then, after we have concluded seeing, hear a sound, and then take a
+turn at smelling.
+
+Stephen Pinker, in **The Language Instinct**, refers to the
+linguistic as a sixth sense. When I read his book, I began to feel
+less trepidation in regard to proposing that semantics is the sense
+perception of, and creation of, an immaterial universe. Here was a
+respected linguist repeatedly returning to the idea that linguistics
+is a form of sense perception as I was. But this mutual appreciation
+was one version of myself, while I was also aware that I had a social
+identity, within a community of writers, as a construction worker
+writing about writing from a position of disadvantage. This identity
+presently determines what is expected of me more than anything I
+could say to the majority of those people who are familiar with what
+I write. Being able to cite Pinker may up my chances of convincing
+others that I am not merely avoiding, through intellectual exercises,
+the emotions, that fueled earlier writing. The proposal that
+semantics is a form of sense perception does not allow for creating
+new meaning as the direct result of innovative language, and what I
+am saying will not be understandable if approached with the
+expectations that we can create new meaning solely through
+unconventional grammatical constructions.
+
+If semantics must be consistent like any other sense perception, and
+we can only read what we are already disposed to read, this is not to
+suggest that there are no surprises in reading, or that we all read
+the same, or that we should ideally read the same, or that we should
+always use words in a similar manner. It does not even necessitate
+that we must change our current expectations to learn, but rather
+that we must form new expectations. This is an important distinction
+since we tend to think of values as a set of values so that to change
+we must replace one set of values with another. Perhaps this is the
+path of least resistence, as in the example of fully adjusting to the
+demands of some vocation we want to succeed within---but, what if we
+want to gain the advantage of studying more than one discipline? The
+material for interdisciplinary study would be available even if there
+were no programs that encourage it. Perhaps the main concern, in this
+regard, is whether or not we can become proficient without limiting
+the focus of our interests. Can we learn, not only from close study
+with expedient results, but also through a delayed cognitive response
+that includes more material than we can consider within any close
+reading? In \"The Love of Reading\" Virginia Woolf speaks of \"the
+process of after-reading.\" After a book is read it takes on a shape
+\"held in the mind\" (416). After-reading may occur days after the
+book has been set aside, and this later experience may become related
+to other experience; simultaneous mental events that were incidental
+at the time of reading may become appreciated as meaningful
+associations. We can see that the space-time of simultaneous events
+is non-sequential; intervening experience does not conclude previous
+events. Our appreciation of simultaneous events effects our
+conception of space-time, and even what is continuous through
+intervening events that need not determine the end of prior events.
+We have the example of sense perception in which case specialized
+processes occur simultaneously; we register very different senses in
+the same moment, and this simultaneity of perception may very well
+have developed from simultaneous mental processes we never register,
+processes as incidental to particular occasions as continuing to
+breathe.
+
+In the case of my own life as a construction worker there is no way I
+could make useful contributions to philosophy or any other academic
+discipline if close reading, or some similar attention, was
+exclusively how we learn, and perhaps my confidence in being able to
+offer useful models is deluded. Within a fairly isolated effort I
+cannot tell the difference between adding to current understandings
+and my own ignorance of other people\'s efforts that I may simply
+repeat. I may expend time and energy in a direction others have long
+ago recognized the folly of. To some extent this is rhetorical in
+that I have found confirmation for my efforts in books I\'ve recently
+read---but I do depend upon intuition to an extent that may seem
+sloppy to anyone who expects strong textual support for what I might
+propose.
+
+My own social identity, and also my ability to think of learning as a
+greater appreciation of what is already cognitively familiar, are at
+stake in, to some extent, replacing sequential models with those of
+combined influences, the influence of simultaneous expectations I can
+never be fully aware of. Often when I write, I key words into a
+computer as a one-time event that does not work well for later verbal
+communication---even with myself! Though writing did excite an
+experience that I believed I was fully expressing, the words I laid
+down failed to spur a strong recurrence of that experience the
+following day. Perhaps there were events occurring within cognition
+that were registered as successful writing---but I was learning a new
+emphasis on the familiar, at the same time as I was making language,
+and I was not *only* reading the effect of what I was keying into my
+computer. I don\'t mean to suggest that this considerable cognitive
+delay is the only way we learn in regard to language. Certainly there
+are occasions in which learning is derived from a close focus on a
+passage that is difficult to comprehend without repeated readings in
+which significant aspects of language begin to emerge, and it may
+seem that we are bringing meaning into \"consciousness.\" But even
+this instance of close attention requires a non-linguistic, cognitive
+response to make the already familiar appreciable.
+
+If we cannot learn without others, and if, as I believe, reading is
+not sufficient in itself for changing verbal expectations, how can
+this learning even occur sitting alone before my computer monitor? I
+do not know the kind of physical incidents and the frequency of those
+occasions required to learn. We may even learn from anticipating
+upcoming social events in regard to which our participation will be
+expected, events that we have not yet entered. One important element
+is that others we learn from do not have to be proven. We do not
+unlearn if we find that we gained a new appreciation of a subject
+through misreading what someone said---or at least misreading what we
+later came to believe they felt they were saying. We may conclude
+that we need to anticipate others more in line with what we come to
+believe they meant, or we may continue to look for the unintended
+meaning beneficial to our own study. The social stimui that infuse
+cognition with original experience may not be traceable, especially
+more enduring influences that occur over a greater lapse of time.
+Since language is only acquired through cognition, new linguistic
+expectations, that have a broad influence on our thinking, cannot be
+the *immediate* result of verbal interactions.
+
+We must be disposed to anticipate what we read before we are engaged
+by language to receive semantic sensations. If this is true then we
+cannot become self-taught through isolated reading. Having said that,
+I should point out that I am not talking about having rallied all our
+senses to participate in a social occasion like a classroom
+discussion, and then later on, after we arrive home, reading similar
+texts. Even the expectation that we may benefit by repeatedly reading
+a difficult passage must be learned as a change in what we are able
+to appreciate. If rereading is sufficient for comprehension (that is,
+there are no unfamiliar terms or an unconventional use of a word that
+requires us to turn to other sources like a dictionary or the
+instruction of a professor familiar with the author) we must still
+somehow realize that the components of what we are reading are
+already familiar, and that we must adjust our expectations when what
+we were initially looking for is not discovered.
+
+When I speak of isolated reading, reading in regard to which I have
+not become well disposed toward a text by any prior social occasions,
+what I then need to read effectively is the expectations of others to
+disrupt my satisfaction with the values I was trying to read with. An
+important consideration here, is whether new expectations, that allow
+me to comprehend more, displace previous values or become
+simultaneous with previous values, adding to the mix. Both
+possibilities occur. The latter case does not involve displacing one
+social logic with another felt to be superior, but simply developing
+the expectations through which to read a text that my life has not
+prepared me for. I may then discover what was already, incidentally,
+familiar to me.
+
+I am trying to anticipate sufficient social involvement to lead to
+expectations of further participation with what could be regarded as
+incidental aspects of my own mind. My social position, is, and must
+be, one of inferiority in relation to material I have already
+assimilated. Despite whatever mutual effort I am working toward,
+social inferiority is still an important aspect of my efforts. I may
+feel *that* as my physical body, alone in an unsympathetic universe,
+the vulnerability, the loss of control over the sensations of my
+skin, my face, my mannerisms and my speech if I speak out in a
+classroom or within some other public event. This physical experience
+disrupts my sense of being a coherent whole \"conscious\" of who I
+am, and these occasions have always had this effect on me, but
+earlier in my life I felt this disruption as revealing weakness, and
+perhaps it does, but it is the weakness of risking a social life.
+
+Poor beginnings left me too confident in my own mental resources in
+comparison to the culturally-deprived interactions I was limited to.
+Like Nietzsche\'s mosquito \"feeling within itself the flying center
+of the world\" (42), isolated efforts tend to return me to an
+exaggerated sense of \"self-importance.\" There is nothing within
+cognition and semantics to prevent me from being highly successful at
+meeting my own expectations, and imaginary others as well---though I
+will, at the same time, feel a nagging suspicion that something is
+missing. I have become deceived in regard to the expectations of
+those others who I anticipate impressing. Augustine states \"If I am
+deceived, I am\" (33), and it seems that he is talking about being
+deceived in a social context. If I realize that I have been deceived
+in anticipating the expectations of others I am a social being
+learning from the effect of rallying my senses to deal with the
+vulnerability of interacting.
+
+Paradoxically it would seem that we exist, as social beings, because
+we are not in full control of our body, our appearance, voice,
+mannerisms, what anything we express means. Judith Butler states,
+\"If one always risks meaning something other than what one thinks
+one utters, then one is, as it were, vulnerable in a specifically
+linguistic sense to a social life of language that exceeds the
+purview of the subject who speaks\" (87). If we have no disruptive
+memory of interacting with others, we not only do not \"exceed the
+purview of the subject who speaks,\" we slip into a false consensus
+of what the language we use means.
+
+Learning requires an infusion of original experience from the
+material universe and, however much we may discount other aspects of
+learning, while paying close attention to a text, reading, alone,
+will not likely allow us to comprehend aspects of a text we were not
+already disposed to understand any more than it will allow us to
+exceed our own consensus of what the language we use will mean to
+others. The semantic universe of each individual is private, and yet
+the disposition to appreciate incidents of cognition differently than
+we have previously is not. In that respect the potential of our minds
+is not entirely our own, in that relying exclusively on our own
+values is a form of deprivation, a reliance on a false consensus.
+Isolated reading and writing can locate us within this deprivation;
+vision is relegated to locating words, as the verbal appropriates the
+eye, and other forms of sense perception become distraction or
+incidental to reading.
+
+I exaggerate. Our other senses do, and must, remain significant while
+we read. The historical examples that Martin Jay provides in
+**Downcast Eyes** suggest that a greater attention to text can result
+in the denigration of vision as the purveyor of \"truth,\" but, as
+Jay points out, this need not result in the denigration of vision as
+a rich experience. I don\'t know that reading and writing as a form
+of sensory deprivation has ever been studied, or how it could be
+researched since anyone isolated in their efforts, in the manner I\'m
+suggesting, would not succeed in drawing attention to himself, and
+so, for me, this must remain autobiographical, a concern I will
+return to.
+
+---
+
+When walking down a street we can register both the sight and sound
+of people passing by and the traffic in the street. We can the feel a
+breeze on the skin, the pressure of a backpack over one shoulder, and
+the contraction of muscles, all at the same time, and this
+simultaneity of sense perception is essential to our being---even
+though we do not require equal focus on all possible forms of sense
+perception. Speech is very different from written language in that,
+though the semantic experience is no different in kind from that
+excited by written language, the sound of a voice and even background
+music may be considered enhancing. Taking a walk and enjoying a view
+may be considered an occasion for conversation, as also may be the
+excitement of participating in a classroom discussion. When reading,
+we can begin to realize that the sensations excited by language are
+not vocal, but rather sensations unique unto themselves.
+
+When studying some subject at home we do not want to be distracted by
+noises coming from a neighboring apartment---but we still hear. In
+this case we may be preparing for experience within a classroom, and
+take advantage of the different space-time of semantic experience to
+prepare for expectations that may not be reflected in our immediate
+surroundings. It will not likely help our solitary preparations to
+anticipate greater involvement with the people next door---and yet in
+a sense we do want this simultaneous experience to tell us of other
+lives as we study, other lives that are not a diminishment of what we
+are presently involved in. We should not be lulled, while studying,
+into believing that life loses significance at the periphery of our
+immediate experience of a particular text.
+
+I cannot monitor all my influences---but this is not to suggest that
+I do not appreciate what others have written. I would quote more
+often if it worked out for me, but I edit so much that cited passages
+tend to become progressively arbitrary over the course of
+writing---and I am also effected by undo tension associated with
+citing. Citing can be promotional in giving credit where credit is
+due. It can call attention to other authors and works that may be of
+interest to the reader, and perhaps more importantly it keeps others
+in the foreground as a constant reminder that critical writing is not
+an individual effort. And yet despite these important reasons to
+quote others, in my own experience in community colleges, citing was
+introduced as having two major concerns.
+
+The first was plagiarism: stealing another\'s ideas. The second was
+the need to provide textual evidence to confirm the worth of anything
+we propose. I particularly remember fliers handed out in each class
+defining plagiarism and warning against it---though I never knew who
+orchestrated the distribution of this cautionary note. My
+introduction to citing told me that we were being watched to ensure
+that we did not get away with committing serious infractions, and
+this emphatically warned of our full responsibility in regard to
+recognizing when we were borrowing ideas, and to make sure that we
+did not misrepresent any viewpoints we paraphrased. These may be
+valid concerns, but not ones that I feel should be forefronted in a
+way that turns the novice, unfamiliar with the terrain, into a
+solitary being watched for possible infractions, since citing should
+call attention to the first person plural of critical writing, the
+others we cannot fully separate from our own experience of learning.
+
+I remember, as a teenager, lying drunk on my back, in the back yard
+of my parents\' tract home. I was too inebriated to do much more than
+move my head from side to side, through which I could see the stucco
+back of the house, and the garage which, among other things,
+sheltered my father\'s automotive tools (the trade he taught in a
+local high school). Letting my head roll in the other direction, I
+could see the redwood fence at the back of the yard. Looking straight
+ahead I saw the sky, representing my freedom to seek out a being
+identical to myself. I felt my drunken stupor to be of little
+disadvantage for this impossible task; I felt myself to be different
+to the bone from all others. Even if my difference felt undeniable
+within a tract home development in the San Gabriel Valley, it was an
+impression formed in relation to a very small number of people, a
+tiny perspective within the sprawling suburbs of Los Angeles. I
+didn\'t have sufficient evidence to confirm or deny what I firmly
+believed---and I never would even if I expanded the world I took an
+interest in. My disposition was not due to a lack of similarity to
+others, but rather that I saw them much as I regarded myself as an
+isolated being. I could not see others as having simultaneous, and
+sometimes incongruous qualities. I was poorly disposed toward
+critical abilities in that they were not expected of me or anyone
+else. Semantics remained a mysterious by-product of physical
+language.
+
+I felt an inexpressible internal conflict that formed me into a
+mysteriously complex center, of little value to others; they were
+mere foils for my troubled outlook. I felt that only I had a complex
+inner world incongruous with my behavior and I regarded this lack of
+the ability to act as a coherent whole as a terrible fault. I felt
+such disquiet, such a need to rail against everything that made me
+feel small. I was beleaguered by the anxious suspicion, barely
+registered, that in richer circumstances it was possible to perform a
+more varied life, a life in which projects in common with others
+could displace the need to continually recreate an isolated self,
+reacting to oppression in my mind.
+
+Should I include autobiography? It may reflect the limits of my
+social experience, and in that respect I often feel torn between
+first person and first person plural. Finding it difficult to settle
+on a pronoun is probably similar to a discomfort with citing, a
+lingering weakness, a fear of leaping confidently into a position of
+equal standing with those who I might quote. I want to describe my
+simultaneous experience as a construction worker, even if it is an
+inferior position from which to participate in a mutual critical
+effort. Should I tell you of running to the underground MUNI in the
+dark of morning, while pulling a dirty sweat shirt over my head,
+because I lingered too long reading over this I\'m working on? We
+don\'t really know how important this personal information might be
+if thrown into the mix of critical writing. Perhaps the singular,
+where a plural is wanted, carries with it an overblown sense of the
+subject writing, which should be dissipated within a mutual effort in
+which having been influenced by others is strongly highlighted and
+rightfully so, and I\'ll return to that soon.
+
+Sheet Metal work, my only income, has been recently altered by the
+growing aesthetic preference for exposed duct, and this has created a
+tension between the traditional building trades emphasis on hanging
+duct as fast as possible (duct that will be hidden above a ceiling)
+and producing the sculpture of visible duct work important to the
+appearance of the finished building. The use of the eye for hanging
+duct is restricted by the need to get the duct up quickly, the need
+to quickly handle the duct into aesthetic lines. We are unlikely to
+see it painted within a finished building---which is just as well in
+that the finished vision will not include the heavy, galvanized
+air-tunnel, physically hoisted in a dusty, gutted building, a richer
+physical experience than keying words into a computer as I\'m doing
+now.
+
+One benefit of this work, an unexpected one considering that it would
+seem to prevent me from pursuing the interests that I find more
+compelling, is that it involves using multiple sense perceptions in
+an exhaustive manner. Construction work can be a personal measure of
+the value of what I have been writing in that it involves the
+potential threat of viewing aspects of my life as mutually exclusive
+and harmful to the realization of some hypothetical life more suited
+to my abilities. This is something I am not likely to forget while
+writing, and perhaps exhaustion has come to displace the tragic view
+of looking at myself unsympathetically as if from outside the
+construction site, from a campus, or anywhere else from which the
+view of myself as a social being will be an expression of
+limitations, a small circumscribed place in society that my desires
+should perhaps be shaped to fit. Where the tragic view prepared me to
+pursue the seemingly impossible, as an embrace of the unnatural (my
+solitary life passed before me as is said occurs before death),
+exhaustion has taken the place of my previous tragic view, becoming a
+universal exhaustion. Even though I may be a poor scholar, *we* are
+exhausting *our* abilities.
+
+It may be that I am inclined to make pronouncements without doing the
+research required to substantiate my claims---of doing the wrong
+work! This is the modus operandi I am most likely to be accused of,
+and that I feel a need to justify in that I find that if I always
+need textual evidence to back up whatever I propose, I cannot
+maintain momentum---at least at this time in my life. This doesn\'t
+mean that anything I say comes out of the blue, but rather that I
+don\'t keep track of influences, especially since there tends to be
+considerable delay, and a great deal of intervening experience before
+I arrive at what I may eventually express with some confidence. I
+might then speak of this universal exhaustion as a universal delay, a
+disjunctive interval, in which my efforts do not come to a sudden a
+halt when I must turn my attention to construction work. Construction
+work itself has more meaning as part of simultaneous projects like
+that which I\'m now working on.
+
+
+
+## Works Cited
+
+Augustine. **The Essential Augustine**. Ed. Vernon J. Bourke.
+Indianapolis: Hackett, 1974.
+
+Butler, Judith. **Excitable Speech; A Politics of the Performative**.
+New York: Routledge, 1997.
+
+**Inside the Animal Mind**. Episode Three: \"Animal Consciousness.\"
+Nature Video Library. Produced by Green Umbrella, Thirteen/ WNET New
+York and the BBC, 2000.
+
+Jay, Martin. **Downcast Eyes; The Denigration of Vision In
+Twentieth-Century French Thought**. Berkeley: University of
+California Press, 1994.
+
+Nietzsche, Friedrich. **On Truth and Lie in an Extra-Moral Sense**.
+**The Portable Nietzsche**. Trans. Walter Kaufmann. Ed. Walter
+Kaufmann. New York: Viking, 1965.
+
+Pinker, Steven. **The Language Instinct; How the Mind Creates
+Language**. New York: Harper, 1995.
+
+Woolf, Virginia. \"Virginia Woolf: The Love of Reading.\" **A
+Bloomsbury Group Reader**. Ed. S.P. Rosenbaum. Oxford: Basil
+Blackwell, 1993. 415-418.
+
+
+
+[^1]: Steven Pinker states that \"\[Gazzaniga\'s coworkers\]
+found that all the areas that have been implicated in language are
+adjacent in one continuous territory. This region of the cortex, the
+left perisylvan region, can be considered to be the language organ\"
+(307).
+
+[^2]: In the documentary Inside the Animal Mind a man, and
+also a monkey, both suffering from blind sight, are shown to respond
+correctly to visual stimuli on their right side, visual stimuli that
+they do not register having seen.
+
+
+
+
+
+# Betsy Andrews: Note from the Underground
+
+
+
+ 
+
+
+## Working Notes
+
+*As a poet, I\'m so intensely enamored of craft that the line can
+become my taskmaster, both beloved and despised. When I began the
+piece herein, I intended it as a poem, endstopped and enjambed and
+all. But there were so many stories converging---an autobiographical
+story, an ancient mythological story, the stories of numerous
+industries (the industry of patriarchy, the industry of meat, the
+industry of religion, the industry of death), the story of the
+archetypal presence in the day-to-day---that the messy horde of them
+resisted the line\'s enclosure. The mob had a mind of its own, came
+to quorum instead in the alchemical vessel of the very tall tale. So,
+it was that a choice made itself.*
+
+---
+
+My father was a lying drunk. My father\'s name was Sin. He chased my
+mother with a tire iron about the yawning frontyard. Then he invented
+escape. As helpless in his absence as presence, my mother stood in
+the same yard and wept when the floodwaters rose. The neighborhood
+gossip, Tiresias, unzipped her cornstalk ears. She tossed her lit
+cigarette at the garden snakes fucking and pronounced herself a bard.
+She sat on her porch across the street and composed the epic of my
+parents\' frontyard which she sang in verses just brief enough for
+the neighbors, in passing, in learn how to hum. It was the din of the
+rain falling in squalls; sprung rhythm of maelstroms unravelled. This
+is how I became acquainted with some of my pastoral cycle. I learned
+to chant these slaughtering idylls from the bard across the way. I
+was there in the midst of foul weather. But I remember nothing I was
+not retold. These recollections are potsherds, fragments of sunken
+relief dredged up and presented with someone else\'s commentary, as
+if behind glass.
+
+My memory is a museum of pieces of dubious provenience. The story
+I\'ll tell is 5000 years old and is nothing if not debatable. How am
+I to tell it, then? How about:
+
+She ate me?
+
+She ate me all the way back.
+She ate me all the way back into childhood, all the way back through
+birth. She ate me back through conception. Back through my parents\'
+wedding before The Vietnam War. Back to my father falling on a
+bloodied Korean slope (shrapnel fucking his thigh where metal will
+seep from his skin in the shower forty-eight years hence). She ate me
+before my mother\'s birth between The World Wars. She ate me before
+The French-Indian War, The Spanish-American War, The Sino-Japanese
+War, The Franco-Prussian War. She ate me before The Ten Years\' War,
+The Boer War, The Crimean War, The War of 1812. She ate me before The
+Seminole Wars, The Opium War, The Peninsular War. She ate me before
+The Seven Years\' War, The First and Second Silesian Wars, The Great
+Northern War, Queen Anne\'s War, King William\'s War, King Philip\'s
+War, and The War of Devolution. She ate me before The Thirty Years\'
+War, The Wars of Religion, The Wars of the Roses, The Hussite Wars,
+and The Hundred Years\' War. She ate me before The Punic Wars, The
+Sacred Wars, The Samnite Wars, The Messanian Wars, The Macedonian
+Wars, The Mithridatic Wars. She ate me before The Peloponnesian Wars,
+The Corinthian War, and The Trojan War. She ate me before The War
+Against Hyksos, The War Against Palestine, The War Against Arcadia,
+The War Against Thessalia, and The War Against Babylon. She ate me
+back into Ur.
+
+Er. Utterance before argument. Er. The advent of war.
+
+It was not entirely erotic. Entirely. It was grave.
+
+She ate me, but I buried myself. I had buried myself before. Locking
+the bathroom door as a girl and crouching down in the shower, my
+hands cusping my face and my face urged at the tiles, I\'d dream my
+dream of the grotto. From Latin for \"crypt,\" from Greek for
+\"vault,\" and in feminine form, \"to hide.\" Grotto, speleo-aqueous
+myth of safety as in drip hole, gravity spring, lily pool, lost
+river.
+
+\"The possible use of limestone caves as shelters from the effects of
+nuclear weapons has received considerable attention in the past few
+years,\"[^1] in the juvenile water of the grotto
+whispers the blind cave fish.
+
+Sin drew the living room blinds. Tiresias pressed her ear to the
+ground, discerning the clatter of hooves. Sin sat on the couch in his
+shorts and chained my mother, for his children\'s digestion, to the
+dissembling line of his industrial tongue. He stunned and stuck and
+scalded and scraped her. He split her along the backbone. While her
+head and her hocks and her skin were removed, we milled in the
+lairage wild-eyed, waiting for our turns. Picture the herd slunk from
+the mother, pushing and bumping about:
+
+Suddenly, at one end of the herd, a huge thrust forward. The first
+maddened layer crushes the next which crushes the next, and so on.
+A wave of compression washes the herd. But the herd is still
+milling in random directions. The wave that started crisply,
+decomposes, becomes disorganized. By the time it reaches the
+opposite end of the pen, the pattern\'s a mess.
+
+The same thing happens to a wave of sound. Close to the source of
+sound, the compressions are patterns of tightly packed molecules.
+But the molecules have no direction in mind. They simply mill
+about. The compressions untighten as the wave of sound travels so
+that meaning near-grazes our ears. When the pattern is totally
+thronged by the milling, the herd hears nothing at all.[^2]
+
+I woke to my own furious bleating. \"Kill her,\" I said. I thought
+this would preserve us. \"Kill her.\" And, \"Kill her.\" And, \"Kill
+her.\" My siblings fidgeted deafened and dumb. My mother was
+processed and canned. That night my father, laid drunk up in couvade,
+gave birth to much of me.
+
+We were feeding on hard-shelled, trap-doored things: augers and
+miters and lightning whelks, spindles and turrids and helmets; horse
+conchs and dogwinkles; mouthdrills and neptunes and clives.
+
+I was going him one for one with the cocktail; a choking wash of an
+audible note poured from a giant, irregular jug. Inky-mouthed, my
+father dumped his boxcar eyes on me and spoke a hollow meander. The
+body of his speech was dominion, the limbs of which were gifts to me.
+Then, atavism buckling him under, he belly crawled into darkness. He
+had drunk his alluvial fill.
+
+
+Thus he lay till the morning of the day appointed for his
+inhumation. The oven was being heated for the baking of the funeral
+meal when he awoke, climbed out of his coffin and walked
+downstairs, where he was found by the horrified cook, standing
+before the kitchen fire, complaining that he \'felt the
+cold.\'[^3]
+
+Deboned ham, he lived for years after out of spite for my skilled
+accretion of matter from out of his pinwheeling arms. To me, he had
+made these gifts: the me of power and wickedness, of plundering
+cities, of rebel lands; the me of strife and judgement, of quiver and
+standard and sword and club and silence and running and fear. He made
+me the me of consternation, of deceit and dismay and lament. He made
+me the me of kindling fire and the piling of burning coals. He made
+me the me of righteousness, of triumph and travel and beer. He made
+me the me of the art of speed. He made me the me of the making of
+plans. He made me the me of godship and forthright speech and
+deceitful speech and grandiloquent speech and divinity. He made me
+the feeding pen.
+
+Once I was so much of me, and he was a mummy of displaced vigor, he
+gathered himself in his goatskins and prophesied the epoch of his own
+replenishment. Sin developed an invasion theory. He called it
+Revelations. He sat me on a scarlet beast and poured me a cup of
+abominations. He attempted to swallow me whole.
+
+By then I was known for Clouds Of Which Were Called My Breasts and,
+of course, for my Wondrous Vulva.
+
+I was called Lady of Myriad Offices: Queen of Heaven, Lady of
+Victory, Light of the World, Leader of Hosts, Creator of People,
+Guide of Humanity, Mother of Fruitful Breast. I was called Goddess of
+Goddesses, River of Life, Shepherdess of Lands, Bestower of Strength,
+Framer of All Decrees. I was called Opener of the Womb. I was called
+Lady of Date Palms.
+
+I was called Forgiver of Sin.
+
+He had called me the Whore of Babylon. He had called me the Mother of
+Harlots.
+
+I called myself Bereft of Forgiveness. I called myself Indigestible.
+
+That was before my chthonian striptease when flutes and facets and
+flowstones were cleft. When squeezing, scrambling, chimneying,
+jamming, rappelling myself into caveat, she ate me, which was as
+natural as a logarithm. It was her due.
+
+Tiresias\' slumlord husband, having made of his property a catafalque
+and leased his tenants to incandescence, was arrested amidst the
+cremains. Tiresias packed her plucked feathers and eloped with eight
+billion flightless confessors. I was left, big toes tied together,
+legging the walls of the impermeable gist. What was I to make of all
+this bruised and cutting matter? of the evisceration bequeathed me by
+pall-bearing parents? (My mother had selected my casket from an
+overnight catalogue while sipping a cup of coffee and sitting in a
+comfortable chair.[^4] My father had won first
+prize from the Académie de France for inventing a clawed forceps for
+pinching my corpse\'s nipples to assure that I was dead.[^5])
+
+I refused to play their thanatomime. I left them intoning Vade in
+Pacem. I took to speech.
+
+I spoke blank verse. I spoke canzone. I spoke tanka and terza rima. I
+spoke bouts rimés and rondeau and renga. I spoke eclogue,
+epithalamium, madrigal, limerick, lune. I spoke senryu, sestina and
+satire. I spoke calligram, cento and ode. Ottava rima, projective
+verse, quatrain, ballade, epistle, the blues. I spoke ghazal. I spoke
+her to sonnets.
+
+But she ate me; she furrowed my heart. Inside the asylum of her ear,
+my language was rendered offal.
+
+I had played awhile at cultic prostitute, at sheepfold, at castrate,
+at the loosening of hair. The suspect was an effigy who moonlighted
+mowing the yawning frontyard. He laid me in the lilies unmoored from
+Tiresias\' abandoned bed. He promised me strings and pulleys and
+bells. But when I touched him, the webbing between my fingers grew
+opaque with loss of blood. The mirror he held to my mouth clouded a
+phrase of silver sulfide of which the text was ennui.
+
+So I buried myself, and she ate me.
+
+The causal meaning of my descent has puzzled somatic scholars.
+Scholars have been inclined to dismiss as mere excuse my stated
+reasons: bull-like passion, raw desire, libido, ego,
+gestalt.[^6] The god gets antediluvean kinged. The
+god gets hold of her leaking hair, and the god gets to wager a bet
+with the Huns: if he lops off her head and commands her to run, in
+how many steps will she crumble? The god gets the power of
+conjugation. The god gets declamation. He gets flashes of lightning,
+fits and wind. The god gets to steep in the rift.
+
+I get the query fever. I get the conjectural choke.
+
+The god gets oolites and porthole and spongework.
+
+I get to peter out.
+
+In the factory of piracy, god becomes god exponentially. I become
+boil-in-bag. The fatal hemmorhage of me out of me onto an areal map
+of the god: I am displaced into ambience; the god oxidizes and
+dilates. The god is blisteringly explicable. I go wrinkled and clot
+like jelly while the conduits of the graduate crawlspaces hook and
+barb their own lips. Once every 20,000 stitches, they publish a
+rattle elucidating civil war and embalment; I am painted as pale as
+putty and petrified like marble.
+
+The bookkeepers take to my carcass like germs. They digest me into
+the emergent naturalness of that improving stalagmite, the god. With
+the use of this technology, the bookkeepers patent the concept of
+\'freshness.\' My rind for the fruitful media.
+
+The morticians of the media feign post mortem inspection. My
+survival, assumed to be a chronic rash, is expurgated from the thin
+skin.
+
+But I live. I live to bury myself. I buried myself, and she ate me.
+
+It may seem paradoxical, but at the mouth of the dissolving solution
+was the fact that, in my depotentiation, I had begun to be decorated
+by features that did the most toward making me interesting to the
+average consumer in the age of space exploration.[^7] I had been fashioned, for instance, with wingspan and
+tiny mythic hands for roosting, armed with light explosives, beneath
+the eaves of the uncooperative. Through the benevolence of chemical
+manufacturing concerns, I\'d been given an eerie dripping sound, the
+seepage of fluids, and manifest changes in odor, flavor and
+appearance. I was steam-jacketed, coagulated, and encased. I wore
+like condensation the impervious rock of the crown, the anklets, the
+epaulets, the girdle, the napkin, the national brassiere.
+
+How did I coil clean in the patriotic wake? Like an ant with a
+slipknot sucking its midriff after the hoopla of threading a shell.
+No one was paying attention. First I dreamt I was an old bull-cow
+with horns, knocked on the head, head rent like a pod releasing, who
+nevertheless, as the shackle embraced her, leapt and went running
+down Rte 17, who was shot in the back and dragged by a tractor back
+to be quartered and plucked. When I awoke, I went to the oak trees
+and began to root at their faults. If I\'m to be a stuck pig, I
+thought, liken my final supper to a sumptuous mould.
+
+It was the me my father neglected to feign to give. It was the me of
+my own escape, the wild boar at the bars. The capybara, the kangaroo,
+the camel, alpaca, the moose. The antelope, the reindeer, guanaco,
+vicuña, the yak. I rumbled amidst the exotic meats, a pilgrim on a
+bender for genesis. Numerous eminences and depressions later,
+swirling like tea in a cup, I tripped off my stirrups and creepthed
+upon the earth, the me of the lump, so that when the goats of the
+underground breathed through my ears at a trillionth a watt per
+square meter, I heard them as trumpets wielding a knife, my ears
+bloated like eggs.
+
+I scraped the many facets of my body off the pulpit, sorted and filed
+my serrated edges, and took to the beckoning maw. The goats of the
+underground waggled their beards. I straddled the glamorous
+threshold. I was sandwiched between slices of contaminated hide;
+lamp, hard hat, chin strap, sling, coveralls, knee pads, grapple. My
+wholesomeness was immediately sniffed at, the nostrils of judgement
+flying. I reeked of formaldehyde, hubris and want. Barred as I was at
+the gates of immersion by fossils who chewed at my sutures, there I
+swelled, an acquisitive cloud, resoundingly willing to bargain
+because:
+
+
+My ear had become a compass; on the guillotine thump of the goat
+song, I could navigate the azimuth of a note. It was the cavel of the
+muscle that cinched and gave about her mouth. It was the augury of
+the slap and the swallow of her heart. It was a fracture screwing its
+mantical smoke screen up her throat. It was Cassandra in her stomach,
+the thousand-petal sibyl of her scalp; it was the soothsaying foci of
+the curve of her palms, her fingertips the Chaldeans, her elbows
+twisting weathercocks, her breasts portentous gyres, her legs long
+scrolls of omen, and her cunt prophetic ziggurat, repeating and
+repeating a clause of joint and parting. It was the structure of the
+tragic and the anti-tragic fusing. It was the future, and I craved it
+like a robber craves a crypt.
+
+Sarcophagus, a tin vault containing two essential pieces, sacro
+meaning \"flesh\" in Greek, and phagus meaning \"eater.\" But from
+flesh to eater we travel thousands of miles through the dross. At
+seven hungry borders bribe the seven crooked cops.
+
+I offered up bravura, and the greedy bones bit in. I left them
+nibbling the image I\'d assembled in the mirror. The goats and I grew
+rubber souled and sloshed into the vibrant air. Beyond the vestibule,
+the atmosphere was profligate with battle. Draperies and canopies and
+columns fell apart. Across the continents of spore and bug, an oracle
+came warning. I heard prediction sweeping with her tongue across her
+teeth.
+
+Disaster is a sexed up promise, and I would leach the lodestone from
+my psyche for a hit. As it happened, there were sledgehammers,
+forceps, aspirators, clamps. She vandalled questions from inside
+herself and wore them like a lab coat. In the autopsy of accusation,
+stones of gall and truth. I hemmorhaged quietude, certitude, poise,
+balance, clarity, safety, circumspection, humor, confidence, ken. The
+floor was slick with my giving way. The goats of the underground
+donned mourning suit and veil. There was to be a feast. Bacterium
+shuffled in.
+
+I\'d come in making choice and cut, a bundle of nerve and muscle. I
+was sawed and reapportioned, matter rendered moot. Leg, loin, blade,
+rump, topside, sirloin, brisket, chuck, ribs and clod and sticking.
+We fucked alot, so fucking was a thing that I had left, but in the
+gut room zero gravity, the gesture lost its heft. I took on strangle,
+lockjaw, blackleg, taint. She was back-flood and breakdown; she was
+lethal. I was hooked.
+
+Bacon: a feature in a limestone cave that bleeds in colored streaks.
+The name suggests both kill and cure, the double helix tourniquet
+that binds the human palate. She was starving, and she loathed and
+longed for being in my meat as when the slaughterhouse employee says,
+
+Stick that bitch. I grabbed her and flipped her over. She looked up
+at me. It was like she was saying, \"Yeah, I know it\'s your job,
+do it.\" That was the first time I ever looked into a live hog\'s
+eyes. And I stuck her. And she bled,[^8]
+
+and he means that it is intimate, more intimate than family, more
+intimate than war. Despite the husbandry of scholars, we were not
+sisters, were not enemies, not aspects of one self. We were lovers
+which means bloodthirst, which means eaten and to eat. It is desire
+carves the wild body into savor and into spoil. It is desire and
+disgust, that is. But the dissection of the lover into delicious and
+grotesque is plastic surgery through metaphor after the metonymic
+accident of lust. It is a reconstruction full of mercilessness and
+mercy all at once.
+
+
+Hung up, I turned the green of badness and of newness. But when
+you\'re eaten raw and rotten, you sicken those who eat. Rumor has it
+Sin became my out; but family matters less to him than dirt beneath
+his thumbnails. The truth is that she spit me up. The siren she\'s
+remembered for was bellyache, not birth. She ate me; I was hard to
+eat. I bolted from her stomach, her feral burden sprung.
+
+Above us, kingships moved upstream, regions weakened under struggle.
+Surpluses were stored and spent, craftsmen fashioned temples,
+independent cities rose; mosaics, altars, frescoes; cosmogony
+appeared and faltered, priests were fed and housed and crucified;
+sheep were bred and shorn and slaughtered, society collapsed. Below
+you, she was doubled with the loss of too rich a meal. I came up
+flopping wet and naked and, in some sense I was healed, of the rigor
+mortis Sin had put me in, the hunger of the daughter.
+
+So, who is eaten, then? Who is eater? Bad blood fills the stomach
+with a host of famished stowaways. And my memories are ships adrift
+and whirled in the eddy. The log books streak and bleed and run, and
+hard-shelled, trap-doored things---the murex and the triton and the
+gemtop and the cone---make meals upon the pages, growing plump, in
+turn, to make a meal for a scoundrel faking at god. I said nothing is
+not debatable. Tiresias long sailed from here, her cruiseship sunk
+and done, I tell stories that she dictates from the hulls of former
+living. But the bowline of her narrative in my mouth\'s a fraying
+twist. And Tiresias a suburbanite of the artifice of up-and-up, this
+turn of gossip from the underground is mine to rip and knot.
+
+I know one more yarn, and it is this:
+
+The warrior pin inks his face a feast of luscious coil. At death, he
+meets a hungry hag who feeds upon his facial labyrinth. Sated, she
+strokes his eyes and gives him the gift of the vision of the spirits.
+In this way, he can navigate the landscape of the dead. If his face
+is smooth and left untouched, if he has no mark of carving, like a
+vulture she eats his eyes and picks his sockets empty. He\'s left to
+wander in forever, blinded like Tiresias in the myth.
+
+I said she ate me, though she was no hag, and I am not a warrior.
+These winding sheets I give you as a gift from past the border
+between self and dissolution, between semblance and disorder, between
+want and what\'s leftover, between killing and the cure is the tale
+of simply sitting through the pains of being dressed by life, for
+life and life some more. For the lifting of the skin from bone is
+cursive to the examined body\'s page where we write scripts for
+useful ruptures fed on ardor and on rage.
+
+-------------------------------------------------------------------
+
+**Archaeology**
+
+
+[^1]: George W. Moore and Brother G. Nicholas. **Speleology:
+The Study of Caves**. Boston: D.C. Heath and Company. 1964.
+
+[^2]: Sara Stein. **The Science Book**. New York: Workman
+Publishing. 1979.
+
+[^3]: Kenneth V. Iserson, M.D. **Death to Dust: What Happens to
+Dead Bodies?** Tucson: Galen Press, Ltd. 1994.
+
+[^4]: Robert T. Hatch. **What Happens When You Die From Your
+Last Breath to the First Spadeful**. New York: Carol Publishing
+Group. 1995.
+
+[^5]: Iserson.
+
+[^6]: Sylvia Brinton Perera. **Descent to the Goddess: A Way of
+Initiation for Women**. Toronto: Inner City Books. 1981.
+
+[^7]: Moore and Nicholas.
+
+[^8]: Gail A. Eisnitz. **Slaughterhouse: The Shocking Story of
+Greed, Neglect and Inhumane Treatment Inside the U.S. Meat
+Industry**. Amherst, NY: Prometheus Books. 1997.
+
+
+
+# Taylor Brady: The Onset Exits and the Damage Done
+
+ 
+
+ Once upon a time, you could say anything nice, but you didn't say 
+ anything at all. Diacritical ultimatums interrupted dinner with 
+ definitions withheld from view so as to grow huge and ravenous in the 
+ dark. I am making this up, of course, as others made it up then, and 
+ thus the accusation leveled by a doctor and anatomist of fact named 
+ Duplex, had it been voiced at that time, would resonate still and 
+ call me to account, but since after all I *am* the one who makes this 
+ up, and since I did, and since what is done is done in that image, it 
+ turned out that the good doctor had mortified his 
+ voice[^brady_note1]1](brady_note1.html)^ as an act of contrition for 
+ the grossness of a speech impediment as of that evening still 
+ entirely prospective, and so no accusation was made, though a list of 
+ sorts was made up. Have I proven my spontaneity to you, and do you 
+ feel free of the memory of that night, reading over the 
+ transcription? Have you swallowed your tongue, or mine, and can I 
+ make it up to you? 
+  
+
+## The Ensemble Exists 
+  
+
+| The Ensemble Exists 
+| beginning microcosm
+| --- Cecil Taylor, "---Aqoueh R-Oyo," liner notes to *Air Above Mountains*
+  
+
+| it would have to be lost so thoroughly as to breathe 
+| --- Leslie Scalapino, *New Time*
+  
+
+| You say you have this 
+| talent for the said. 
+| To rest in that is 
+| true---as in default 
+| of sense beneath whose 
+| crust run faults, cracks 
+| full of serious, 
+| obvious wet. 
+  
+| The habit of that subject is the plan 
+| of a beyond which values a succession. 
+| However all and each may speak of chance 
+| employment, every character is one 
+| and only one. Two or more at most. Here 
+| we have a logic of the subject very 
+| frequently violated. Our one man 
+| (or two or more) for the occasion, 
+| Dr. Lyon Playfair, for example, 
+| takes gravity to specify each toe 
+| on which he stands alert, a point *en pointe.* 
+  
+| Hold that representation. Admit only 
+| the material as in reasoning only 
+| to the real, as it really is. And there it is, 
+| belief in metaphysical fictions, 
+  
+|         which "man" means there must be 
+|         beneath this thing 
+|         incited contour.[^brady_note1] 
+  
+| Or too late, if semiosis 
+| will not be which sign is used. 
+| Now such hypothesis seems 
+| any number of reasons to be 
+| recommended to the foldwise 
+| irritation of the fissile ones 
+| and twos who would pursue my 
+| fondness for a measured stroll. 
+  
+|         I study the varieties 
+|         of humanity that move me 
+|         and still retain the element. 
+|         Even a least, peripheral 
+|         sensation of pleasure, of 
+|         pressure, tongue sliding over 
+|         fissure, has its excitation 
+|         and molecular gridlock. 
+  
+| The principle with which one sets 
+| this weight upon a true continuous 
+| plumb, a line of chalked descent, 
+  
+|     is named without appeal, 
+|     trafficking in outlines 
+|     on the bare, black asphalt, 
+|     just inside the *simply there.* 
+  
+
+ 
+
+## The Onset Exits and the Damage Done
+
+| ...to treat philosophy itself as *impossible*.
+| --- Louis Althusser, *For Marx*
+
+| One of these good old days, I'm gonna call your name.
+| --- Al Green
+
+| Though made however visible, the signal
+| success becomes an end for putting up
+| one\'s evidence. The result is what sagged
+| thick beneath the contrary pole, sort of handed
+| down from the dishonor attaching to
+| productive early consequences of
+| your ownership. And so it is to be
+| \"community\" no longer but a stain,
+| dependent for its livelihood on yes.
+
+|     Form of wasted effort
+
+|     Apparatus evident
+
+|     In evidence rendered
+
+|     Leisure in \"housewifing\"
+
+|     Rendered as a verb
+
+|   to some few cheap false goods conspicuously
+|   outset in philosophy. The floorplan,
+|   the voyage to the backing of the mirror
+|   and back to front the openness of this
+|   enclosure.[^brady_note2] Its cross-eyed
+|   binocular
+|   windowing of options from the desktop
+|   horizoning the line of sight behind
+
+|     the head.
+|     The drudged
+|     caption floats
+|     to title
+
+|       justified columns that
+|       direct each direct
+|       expression of classed
+|       schemata, bent space.
+|       Past life replanted
+|       in the yard that
+|       hasn\'t time for second
+|       planted feet to take
+|       the straddled upright measure of ruled, unruly stance.
+
+| A certain number bend their energies
+| to shape, living up the walls. *Time enough
+| for severance---*give that repetitive
+| stress injury a final grunt by way
+| of compensation. When you think
+| to leave, your key drops through the slot, like mail,
+| stamps you with the ring of self-address.
+
+
+
+
+---
+
+Once upon a time, there was a storyteller who introduced into a tale
+*one of those fragments of literal truth which liars, caught off
+guard, console themselves by introducing into the composition of the
+falsehood which they have to invent, thinking that it can be safely
+incorporated and will lend the whole story an air of verisimilitude.*
+Apostrophe runs away, as geological layers of forwarding addresses
+turn the multiply-enveloped scene of the narrative into a palimpsest,
+with reference to which the only certainty is that someone will
+receive a paper cut rather than useful knowledge. However, in another
+tense her face pressed out from behind the paper as from an interior,
+all velvet-papered walls and lamplight, which the storyteller thought
+to foreclose every time the story drew the curtain on a scene, the
+contour of nose and cheekbone solidifying for a second in the soft
+billows of that gauzy fabric which served only to insure that an
+audience\'s interest remained with what the tale hoped to leave
+behind, in its jerky gait stumbling from episode to episode.
+
+Again, though, I am lying, as she draws the curtain back and lets the
+light fall upon you there, a bit below her in the street outside,
+where all presuppositions stand together in first and second persons,
+and says, \"I am not a bad habit, not on the order of the forces
+\'driving the urge to differentiate, to identify one and then two,\'
+only for you to make the subsequent half-turn into saying that the
+latter follows the former, as misdirected speech follows curiosity
+about a lighted window in a cinderblock rental duplex on a dark night
+with all the sodium vapor lamps shattered, duping an accomplice into
+accompanying you to that theatrical \"bad neighborhood\" in which the
+passing audience method-acts its way into belief in the constitutive
+powers of its own direct address to the emptiness of its relation to
+the stage properties, when in fact I have been here, and have been
+telling the story of this circle of light, all along.\"
+
+---
+
+Once upon a time, there was a man named Birdy, older then than now,
+whose job was to remind a text on memory of where it had been and why
+it had missed itself there, as if he were a third-person argument
+between a first and a second person who tried to keep appointments,
+but whose lives, in the event, were compromised by one emergency
+after another, so that one or the other always got stuck waiting,
+picking up the check, taking the wrong bus home.
+
+\"Otherwise,\" he said, coming to his senses already in an anaphoric
+mood on the curled linoleum floor, decorated in a grease-beclouded
+floral pattern, of a dimly familiar kitchenette, talking to no one in
+particular, or else an offstage presence stuck in an abandoned
+episode, \"you\'d simply live the singer-songwriter myth, and have
+nothing to say for yourself but a lot of florid weeping and moaning.
+I knocked a little hole in your wall because I care. Pornography
+drives the photograph forward into full relation to its time, and
+becomes a method to produce clear prospects on what was once obscure.
+I continue to love your body, the taste of your tongue and sweaty
+ass, only because I simply can\'t imagine you, and see not you, but a
+broad expanse of sky, on the far side of every window into which I
+peep.\"
+
+
+---
+
+Once upon a time there was a man named Birdy, somewhat younger than
+he had been in an episode just a moment previous, who gave the lie to
+epistemology and remembered the exact contour of every pain his body
+had ever suffered through, beaten into shape, even, perhaps
+especially, when his mind had been on something else. Sitting in the
+dark and hearing, from a door or two down the block, soft blowing on
+soprano sax, he experienced someone else\'s clarity out of phase.
+
+*\"I was afraid he was going to eat me,\"* a particularly
+disingenuous character in the family drama was just then reciting, in
+rehearsal with the cop with whom, arm in arm, he or she was coming up
+the walkway of half-buried railroad ties that kept the path from
+parking slab to painted steel front door relatively dry and passable
+during the summer floods. Of course, since there was no air
+conditioner, Birdy had propped the window open earlier in the evening
+with a stack of crank pamphlet literature, and so heard every word,
+but refused on principle to believe in the reality of any of what was
+said under such circumstances, and was maintained in his condition of
+exemplary, self-consuming skepticism. By the same token, though his
+skull was perforated as proof of the most certain kind, he could not
+grant the veracity of reports that told of a mutant, cannibal freak
+lying just beneath the surface of the duplex and chewing on the
+sleeper\'s head during the sticky night, but maintained that this Mr.
+Article was, if anything, a fiction of grammar granted temporary
+substance by the growing thickness of ideological descriptions of
+landscape. Meanwhile the sax was licking lascivious promises into his
+ear from distant, microscopic horizons, so that, when his one hand
+found his other hand scrabbling around his lap in the dark, his first
+impulse was to turn on the overhead bulb and find a window envelope,
+write a check, and mail away his first adjusted payment.
+
+---
+
+
+Once upon a time, my little bird, you were saying. Then the           
+therapeutic architecture, its medical practice sprayed thick over     
+walls and fixtures alike in anticipation of each new tenant, opened   
+wide in a tiny, repeated gasp of cancellation, swallowing your        
+evidence in this incredulous and barely articulate displacement of    
+pitch and timbre by pure, iterated rhythm, as if it were a quiet      
+conflict approaching silence, becoming a branded product, and we      
+promptly forgot it all, and had to wait to recall you as an           
+after-effect of our own belated recognition of a housing crisis.      
+
+
+
+[^brady_endnote]: 
+
+*Dear Editor,*
+
+*Once upon a time, you could drive through the city stoned and create
+a makeshift eclogue out of that fuzz of vague participation, much as
+earlier drivers had created their pastoral investments with property
+in rolling parkland. In the windows which were not plywood painted to
+resemble glass, but behind which were walls painted to resemble
+all-encompassing skies, people would perform the parlor drama of
+their social obligation to your passing. Going through someone\'s
+trash, or the stack of papers on someone\'s desk, or the pages
+inserted by a printer\'s error into someone\'s typescript, was a hot
+and dirty intimacy. The substance of a whole affair might take root
+in a similar sense of euphemism.*
+
+*Ours,*
+
+*The Editors*
+
+
+
+
+[^brady_note1]: 
+ Once upon a time a cloud of sobbing strings pretended to 
+ protect the figure of a woman in what was either a song or a 
+ landscape, hovering above her and around her like moonlight and 
+ water, but only in the sense that moonlight serves as the medium for 
+ speculation on nuclear fission ninety million miles away in the 
+ opposite direction, and water acts as a lens, focusing what it covers 
+ into a disclosure adding the picturesque to the particular. There had 
+ been an episode of some kind, starvation had loomed, she had been 
+ forced, not without some ironic pleasure, it's true, to eat the 
+ still-squirming flesh of an Intellectual in Red Bermuda Shorts, among 
+ other things. Some of these things were clear, while others remained 
+ titular. Under the titles were texts, lyrics she was engaged to write 
+ so that a man named Birdy, no longer young at all, but who saw 
+ himself now as he had been ten or fifteen years ago, solitary and 
+ intransigent and correct in a concrete box that housed a single room, 
+ plus toilet and kitchenette, might within those texts produce 
+ disengagements by which the letters would emerge as black designs 
+ against white paper, and behind them, whether reading or hearing them 
+ sung accompanied by guitar, the people of this landscape might then 
+ intuit the presence of himself and his Apostrophe - for thus, 
+ tropically, did he continue to think of her - she beautiful and he 
+ evil, or vice versa, or all one way or the other, so long as there 
+ was some sense of distribution implicit in their roles. He identified 
+ the luxury sedan in the commercial whose jingle made him think of 
+ her, and bought it with the last of his royalties from a previously 
+ pilfered tune, and named it As Such, driving it around everywhere, 
+ even on rainy indoor days, so that the city and indeed the nation 
+ might fondle the exciting and aerodynamic contour of everything that 
+ was surging within him precisely as it occurred. *And the pleasure of 
+ being a lover, of living by love alone, was enhanced in his eyes, as 
+ a dilettante of intangible sensations, by the price he was paying for 
+ it*[^brady_endnote]. 
+
+ Apostrophe, watching it all in slo-mo, said to the unidentified 
+ others sitting next to her on the dilapidated couch in the 
+ television's blue-tinged glare while the cheap VCR hummed softly, 
+ "Here's the part where he begins to think he's outsmarting - who? 
+ not me, even he must have given up anything but the broadest of 
+ analogies in that direction - but someone, nonetheless, who turns her 
+ head from side to side, allowing his right hand to drip something 
+ oily and bitter into the balancing mechanisms of her inner ear, while 
+ his left buys out her lease. *It becomes possible to cut off the 
+ supply of light from a house.* Look out for the landlord who tells 
+ you he sees through the vanity of possession, for he's about to 
+ knock holes in your walls through which later to knock a hole or two 
+ in you." 
+
+
+[^brady_note2]:
+Once upon a time, you were expected here, and when you didn\'t
+show, a place was set for someone who looked more or less unlike you.
+You are sure to congratulate yourself for having caught me in this
+situation, making it up as I go along, but no matter, my aim\'s to
+bend all light into reflection, and so I have pre-empted your
+discovery of this point of fact. *In this strange phase of love the
+personality of another person becomes so enlarged, so deepened, that
+the curiosity which you now feel stirring inside you with regard to
+the smallest details of my daily life, is the same thirst for
+knowledge with which I once studied history.* You have knocked a hole
+in someone\'s wall and now there is nothing to do but look through,
+even as you realize that here is not the character for whom you
+looked, but perhaps a near relation, a time perhaps a bit early for
+your arrival, in which a beakless old waterbird wanders in circles
+over a threadbare carpet, casting terrifying shadows out onto the
+sidewalk as its circuit passes and repasses the lamp to which one of
+its webbed feet is tied by a length of packing twine that shortens
+inexorably with each revolution. Perhaps it has been a long time
+since you made any further holes, any perforations in the
+thick-napped paper that covers the interior walls of such a scene,
+simulating an all-encompassing sky which wraps itself around the
+outside of a train of events you were only moments ago riding as a
+casually interested commuter toward some other destination
+entirely---a long time, then, since you were a child, shooting at
+every hint of movement with a pellet gun by the shore of the
+artificial lake behind your father\'s rental duplex, knocking holes
+in beaks of birds to create the asymmetry out of which a story might
+take flight, *but in this case the mind, merely by recalling the
+pain, created it afresh,* lifting \"that of which we cannot speak\"
+into a chiaroscuro of yellow lamplight swirling down a drain into
+darkness as warm showers fell upon you from the hidden nozzle of
+theatrical night.
+
+\"Tell me everything you saw, and what you think it means,\"
+stage-whispers Grace Kelly in the fascinated hush that cuts off the
+supply of light, her absent presence in this vignette responding to
+your recitation, which takes up each sentence in the discarded papers
+blowing around against the all-encompassing sky and makes of it an
+opening whose dimensions are given in the aperture of the vocative
+\"O.\" Framed thus in the round zoom lens of surveillance, do you now
+see the dashing figure you cut from afar brought into the tightest
+close-up, made ugly and atomic?
+
+
+# Nicole Brossard: SOFT LINKS
+
+**These are the names** of places, of cities, of climates that make
+characters. The clear mornings, a fine rain fallen for twenty-four
+hours, rare images originating in America and elsewhere, two natural
+disasters that oblige us to stick together in the midst of cadavers,
+these are the gestures quiet or purple, the shells, the icicles in
+the happy hour glasses, crockery noises or a light stuttering that
+torments an instant, a slap, a kiss these are the names of cities
+like Venice or Reading, Tongue and Pueblo, the names of characters
+Fabrice, Laure or Emma. The words sharpened over the years and the
+novels, words one spoke while breathing badly, while laughing, while
+spitting, while sucking an olive, the verbs we add to the lips\'
+pleasure, to success, to a certain death. These are words like knee
+or cheek or still others stretching as far as the eye can see making
+us lean over the void, stretch like cats in the morning these are the
+words that make one stay awake till dawn or take a taxi on week
+nights when the city falls asleep before midnight and solitude sticks
+in our jaws like an abscess. These are words spoken from memory, from
+want or from pride, very often words pronounced with love while
+placing hands on nape of neck or filling a glass of port. These are
+words whose etymology must be sought, that must then be plastered to
+what\'s called a wall of sound, in a manner like those who cry out in
+pain and sigh with pleasure that wander in dreams and documents
+assault the heart\'s mysterious obscurity. These are words like bay,
+hill, wadi, via, street[^*] stasse dispersed through the dictionary
+between flame-trees and neons, cemeteries, dismal and forests. These
+are words sound the body of meanings that are claws or soft[^*] on our
+chests, cold, shivers, furrows and fear in the back without waiting
+while we try to split the sleek future tense with trenchant
+quotations. These are words swallowers of fire and life, one no
+longer knows whether they\'re Latin, French, Italian, Sanskrit,
+Mandarin, Andalusian, Arabic or English, whether they hide a number,
+an animal or old anguishes eager to gush before our eyes like cloned
+shadows filled with light and great myths.
+
+Translated by Peter Dubé
+
+ 
+[^*]: These words appear in English in the original text.*
+
+
+
+
+# Mary Burger: All New Yorker Stories
+
+
+ 
+
+
+**All New Yorker fiction** pieces stop at the point where the person
+makes a bad discovery about himself or herself or the world. That he
+is or she is a failure personally---in love, usually, romantic love
+or familial love---or that the world is a failure toward his personal
+or her personal sensitive nature---that the world is violent, that
+unequal distribution of power causes pain and unhappiness, usually to
+the less powerful, but sometimes to the powerful as well.
+
+Regardless of its narrator, its characters, its particular conceits
+or conflicts, what anchors each story is the sick feeling at the end.
+The same feeling that comes after a radiation treatment for cancer.
+The queasy realization that all this, the technological
+sophistication, the aggressive preservation of human life, is merely
+its own reward, not a means to anything.
+
+This is how the melancholic condition of privileged passivity
+confronts itself. When a grown man behaves mercilessly towards his
+humble, bewildered parents; when a wealthy young Latin American woman
+is threatened with kidnapping and even death, right in front of her
+own gated home, right inside her private limousine; when the mostly
+likable gay neighbor, in the midst of his theatrical, flamboyant
+prime, withers suddenly and agonizingly, and dies. When an urbane,
+not quite young writer, supplementing her New York lifestyle with a
+teaching job in the heartland, falls in love with a simple, decent
+man, neither a New Yorker nor a writer nor even in any way
+ironic---and simply leaves him, his marriage proposal, his simple,
+open face, to return to her lair in the crowded city, her archly
+urban self in the witheringly sophisticated intellectual world.
+
+In \"withering,\" a possibility that what is socially belittling
+might also be personally devastating. That the intricate architecture
+of social standing might collapse occasionally, like a poorly braced
+studio set, to reveal something more like an experience arrived at
+through contemplation.
+
+When the modestly privileged, moderately young childless couple who
+attend the adoption picnic focus on the same large-eyed, attractive
+kid (that is, the querulous wife focuses. The ironic husband, whose
+disavowal of the thing expected of him mimics Kevin Spacey\'s in
+\"American Beauty,\" instead alights for awhile with an aloof, jaded
+teenager, whose unflinching lack of delusion contributes to the
+reader\'s own worldliness), that is, the moderately young,
+uncomfortably nervous wife alights on the same doe-eyed little boy
+attended to by an imposing Texas judge and his Barbara Bush-edition
+wife. It is an orphan fair. Like all bazaars, the most attractive
+goods are fought for, the least attractive are left behind to grow
+even dingier.
+
+In this version, the judge and his wife are the cunning players. They
+are powerful, and they are malevolent. The judge and his wife invite
+the more modest couple to their lair, a large house on a large piece
+of land by a lake.
+
+With \"lair,\" variously, the idea that the seeming impotence of the
+self-conscious intellectual (the New York writer snagged in the
+loneliness of her cleverness, the cleverness of her loneliness), the
+rueful split between the life of the heart and the life of the mind,
+is a familiar condition, the condition that seems to be most easily
+recognized as a sign of distress, of all not being right with the
+world. The dissonance between what you know and what you need---this
+is the price charged for entry to the club. And who complains? Does a
+young gymnast object that her muscle-strapped torso and thighs set
+her apart from other girls? The world-weariness might be counted as a
+privilege; anyway it\'s displayed often enough to be interpreted that
+way.
+
+Through the battlefield drills of drinks, dinner, after-dinner
+segregation of husbands and wives, the older couple\'s battle plan
+emerges. The Texas wife begins an oblique attack, a narrative of a
+foster child they\'d had, a black toddler taken from an addicted
+mother. His mounting health problems and learning disabilities,
+together with the difficulty in keeping a nanny---when enough details
+had been laid out, the concluding sentence wasn\'t needed.
+
+The off-register comments from the Texas wife about her foster child,
+about finding the boy a nanny \"of his own kind\" and a school with
+\"all different races, the Mexicans and the Chinese and the Indians
+and all that,\" created another clear space in the story, a way to
+tell what is right.
+
+In the kitchen, away from the women, the judge\'s assault was direct:
+he confronted the husband with ammunition gathered from his
+labyrinthine legal connections: evidence of the husband\'s expulsion
+from college 15 years ago for selling pot, evidence that the judge,
+with a final flourish of legal muscles, had already inserted into the
+husband\'s case file at the adoption agency. This in the few days
+since the couples met.
+
+But since the cunning of great power isn\'t really the story, or
+enough of a story, it was necessary for the judge to punch the
+husband in the nose and knock him down before the couple, and the
+story, could leave the judge\'s house.
+
+The women\'s exchanges, happening at the same time, were far less
+direct than the men\'s but resulted in arguably more damage, like a
+barbed hook that\'s slipped smoothly into the skin and then twisted.
+
+It\'s true too that the young wife and husband wanted different
+things (as different as a doe-eyed youngster from a disaffected
+teen), a further cause of dissatisfaction.
+
+The obliquity of the wives and the passive irony of the young husband
+all form a rueful cognizance that weighs down to the point of
+paralysis. And yet it\'s that ruefulness that cradles its hands
+around the narrative\'s delicate crown jewel.
+
+Like a lead musician the fiction narrator repeats and elaborates a
+single sensitive melody line, or crescendos on a particular note of
+knowing regret, a middle-aged loss of innocence, though evacuated of
+any possibility that the afflicted might be rescued from the cause of
+their desolation or even, astonishingly, change their own lives.
+
+This somber performance seems to be the provenance, or the penance,
+of the fictional narrator only. For the non-fiction narrator, the
+feat is more acrobatic, if not therefore also more precarious.
+
+The non-fiction narrator is permeated by a sense of ambiguity
+impossible in her counterpart. While the fiction narrator lives with
+the certainty that moral rectitude is real, that extreme power is
+obscene, the non-fiction narrator is instead subject to the wild
+cards, false leads, and missed signals of a lived life.
+
+The non-fiction narrator tends to have an intimate relationship with
+squalor, or danger, or pleasure, an intimacy marked by unguarded
+revelations of vulnerability. She exchanges the reassurance of an
+intricately self-referencing universe, in which each element
+contributes clearly and inevitably to the whole, for rapport with the
+volatile, the off-balance, the unpredictable. Her familiarity with
+squalor becomes its own sophistication, her fluency in the idiom of
+disorder, with its free-jazz syncopation and arhythmia, its own
+seductiveness. The effect holds our attention like a sudden,
+beckoning whistle coming in through the window of a quiet room.
+
+In this version, the non-fiction narrator is free to both love and
+despise her volatile, negligent parents, her alcoholic mother who
+disappears on binges and returns home to demand attention and
+threaten suicide; she\'s free to both admire and resent her slightly
+older, vastly more sexually experienced sister; she\'s free to fear
+and adore the coltish, sanguine boy she\'s had a crush on since age
+six. The non-fiction narrator elides between bewilderment and passion
+for her own still strange sexual feelings and for the obvious,
+pronounced desire that persists between her parents even in the midst
+of their pitched battles.
+
+While the fictional narrator breathlessly cradles a fragile egg, the
+non-fiction narrator darts in and out of the room bouncing a rubber
+ball.
+
+In the photo, a snapshot salvaged from one of those summers that were
+both vacant and teeming, she is 15. Her long hair blown a little into
+her face, head tilted a little to the side, lashes lightly mascarad
+or just naturally thick and dark---she is the early 70\'s icon of
+innocent sexiness, the womanly girl, what Ali McGraw, \"Love Story,\"
+and John Denver\'s \"Sunshine\" all immortalized, but what she seems
+to be without trying, maybe without even really knowing.
+
+It\'s that not knowing, or anyway not always needing to know, that
+the non-fiction narrator settles for, but that the fiction narrator
+battles like a riptide.
+
+The one bobs in a tight ship just off shore, pulled between the
+current and the undertow, while the rest shout and lunge in beach
+volleyball, play with children, play with dogs, play radios, nap. She
+imagines her voice as faint, or inaudible, from shore. The other
+shipwrecks in the shoals and scrambles from her splintered raft. Her
+escape is always in progress.
+
+## Works Cited
+
+
+J. Robert Lennon, \"No Life.\" The New Yorker, Sept. 4, 2000.
+Pp. 74-81.
+
+Mary Karr, \"The Hot Dark.\" The New Yorker, Sept. 4, 2000.
+Pp. 42-49.
+
+# Margaret Christakos: Often She Finds Butchers Flirtatious
+
+
+
+## From *Charisma*
+
+### Working Notes
+
+*Charisma[^note1] is \"for the chorus of us.\" I wrote Charisma over a period
+of nine years, moving through and enervated by the political
+prescriptions of middle-class feminist academia; craning my gaze on
+women through the hourglass of my wounded relationship with \"mother,
+sister, grandmother\"; diving through several portals of baby-shit
+and bliss to wear the secret subcultural drape of motherhood; its
+repeated re-shapings of Normal greeting my sense of \"what happens\"
+as a waking frequency of turgid extremes. I realized that straight
+novels had always bored me, why I masturbated to make them more
+interesting. I would need fiction to become a foodlike procession, an
+irrefutable love-surrogate, imbibed to stimulate the senses. (Going
+down on me.) I liked a multi-channel environment, not for its
+staccato disavowal of the constant but because I had been raised with
+an appetite to introject several stories simultaneously, each
+contracting and expanding according to its own pulse.*
+
+*Mothering a boy and then girl-boy twins often involves being unable
+to regulate how much experience I confront; a surfeit of sentience.
+An overflow of interaction, so that the negotiated space of
+consensual relationship capsizes. As when one is in love with more
+than one lover, or dreaming, or in hate, an oxymoronic prostrate
+agent (who is) subject to the re-calibration of self-limits and
+society\'s clichés about who/what is \"hot.\" I wanted to write the
+storiedness of bisexual subjectivity (even tho maybe rejected by
+queer command-central) as a kaleidoscopic inner identity script of
+positive contradictions and overflow, and to acclaim cunt-agency for
+mother subjects. A story that managed to open gender itself like a
+cocktail umbrella, with the notion of the gendered character as a
+laquered overarch of spokes. As persona spoken and collapsed again,
+efficient and portable to other stories, ducking in and out of brief
+theory showers.*
+
+*When you winked your way through the glass we knew it was a cover.
+We wondered about ourselves then, about the social organization of
+gender categories, about barriers to the heteroerotic\--we mean
+hetero as in plural, different and manifold\--desires we could feel,
+we wanted you for our tutors in studies of the self, ours and yours.
+To tell the story because it\'s a-hankering to be told. The novel was
+more cyclonic in form before the final edit; I attributed extra value
+to narrative contiguities once I had hung out with non-writers and
+babies for a while. I wanted the book to fly.*
+
+
+
+### CAMEO
+
+Often she finds butchers flirtatious; out on Danforth Avenue where
+the anemic lamb carcasses suspend for three or four seconds her trust
+in bodily safety, before the mind rescues her from moral crisis. Just
+a piece of meat like any. It\'s the hook, the hook that hooks, that
+perforates the eye, the brain, the guts of sympathy which must be let
+down, rinsed and laid in the cedar drawer until autumn. A time when
+ghouls are acceptable again and the skeletal dance of baby sheep is
+seasonally admired. Dressed in his white blood-smeared coat, he is
+like any irresistible and prodigious surgeon. He wears the coat, the
+lamb\'s clotted juices and pristine plate glass. He sees the world
+through hooked sides of things. Why be afraid?
+
+Flirtation has to do with how the lambs are led along the corridor of
+doom. How they go and go. How they continue up the ramp while their
+cousins shriek. It has nothing to do with Easter. With men and
+beasts, rather, and strangers who may be beastly though their
+flirting may become on occasion beautiful. The natural frame of the
+plate glass composes him in savoury labour, up to the wristwatch in
+precision. He peeks through the space where the organs were to a
+woman\'s tenuous shock. Hooked by the blood of someone else. Thing
+else. Some other thing‚s public juice. And the fixed sway of the dead
+meat muscle---Cameo is a sitting duck.
+
+Cameo coaxes the lamb chops from their wax paper sleeve and lays them
+on sizzling garlic. She scoops mint jelly into one of her mom\'s old
+teacups, and amuses herself while the meat goes bloody by holding the
+porcelain overhead---there they are, as delightful as when she was a
+girl, green shadows flickering through the cup\'s delicate filigree.
+Impatient to eat, she flips the chops, sniffing in their high
+corduroy bloom, flexing her knees to an old disco song. Gradually the
+element\'s blue flame singes her dreamy gaze and she fidgets with her
+too-tight bra strap, then jets out her arms at right angles and
+croons into the kitchen window, hopping from one foot to the other
+and pulsing her hips. Soon, the smell is so velvety she is near
+euphoric. She unloads the shining chops onto a plate, spoons coleslaw
+on top of the steaming jus puddle that runs off them, selects her
+favourite bone-handled cutlery, and sets these, a napkin and a beer
+on a silver tray. As she passes the hall mirror, she transfigures the
+carefree, dimpled smile on her face to a farcically enamelled grin,
+and, childlike, the round-jowled reflection catches itself awkwardly,
+averting its eyes, a dinner guest of inferior status. Well, fine. She
+just wants to fade in front of the McNeil-Lehrer Report while reading
+Interview. Clarence Thomas is deplorable and River Phoenix has
+siblings named Rain, Liberty and Summer, and Keanu Reeves is part
+Hawaiian---so that\'s it---explaining his preternatural gaze. She
+thinks about licking his eyelids. She doesn\'t mind such overlays,
+allowing that the real Keen and his big-screen simulacra have little
+in common. The pastoral fogs up and loses its colour when she
+remembers Keanu went to the same high school as an ex-lover\'s
+sister, Korona, the mesmerically sirenic just-past-teenagehood dyke
+who moves like a rock stud at the Marzipan Room. Same eyes. She
+considers herself curled up in a wet tongue licking those eyelids.
+Then the newscaster misses a beat describing a murder-suicide in
+which the ex-boyfriend used two industrial meat hooks to set up the
+nooses. She shuffles into the kitchen, unloads pink bones into the
+garbage, rinses her plate and balances it in the dish rack. Humming
+an unforgettable TV ad promoting eternal brand loyalty, she flicks
+the one-cup switch on the espresso machine and reaches for pungent
+cinnamon and powdery, bittersweet cocoa.
+
+
+---
+
+Cameo goes to the local butcher, a garrulous older Polish woman,
+because the baby needs lots of iron and protein. Hardcore nutrition.
+This meant meat and potatoes, meat and rice, meat and pasta when
+Cameo was growing up. Lamb stew, pot roast, liver and onions,
+spareribs with ketchup applied during the last ten minutes to get a
+braised country look. She imagines the placental tissue forming, a
+red sirloin in the epicentre of her psyche. Like drawings she
+happened upon at a gallery, of galactic uteri with trees and dreams
+growing inside. Already her own dreams make her anxious. She takes a
+baby boy home from a supermarket, and somehow he can already talk.
+She writhes about rubbing herself while holding him tucked under one
+arm, then says, Do you want to lick me? He wags his tongue, starts
+slurping at her vulva. After a moment he stops and looks up, cream
+all over his soft little chin. She runs the tapwater and says
+maternally, Do you want a drink? She tells people who ask that she\'s
+keeping him if no one claims him back. The dream\'s meaning escapes
+her over the cup of coffee she leans into the next morning, before
+she goes to the deli where the Polish butcher will wink at her, Ah,
+look at the glow on that one, making a big deal, and Cameo will like
+the invasive boastfulness of her, the European excess; her
+motherishness.
+
+All week, in fact, she thinks a wordless blur of foodstuffs. The
+bakery woos, Fresh Valentine Cakes Available. Signs like this keep
+Cameo on track from day to day, remind her that English is the
+official language even for her meandering body\'s new requirements.
+When the other butcher, the young one out on the Danforth, slicks his
+sweet right eyebrow to the ceiling, he is flirting in the queen\'s
+own tongue, though his first language is probably Greek. In a fit of
+hysteria libidinosa he might mutter in his mother tongue if she
+lapped his incurvate dimples. Or would he wish this? Cameo silently
+paraphrases in pig Latin how he undresses her in quick swipes, opchay
+opchay, opchay, why waste such a precise and professional syntax! Try
+to make sense, baby-mother, she chides herself, tenting her shoulders
+forward to contain the cross-continental sound loop. A sign propped
+up in the cooler says, Fresh Lamb Whole Or Pieces Suit Your Fancy.
+Speechless again, she sees that the flirtatious butcher\'s open
+freezer is layered with the slight upside-down leftovers of lambs
+dreaming the disembodied envelopes of fur back onto their rib cages.
+She starts shivering. He says, What\'ll it be, miss? With those eyes,
+he could be her cousin. When Cameo comes here she dislikes the
+imbalance, like she\'s a plate in a dish rack about to topple, but
+she does come. And each time: the frightening image of a man with a
+knife imposes itself into the hem of her ahem-hawing as she stands at
+the pink-smeared counter. For what order to be uttered, or redress to
+arise. Sawdust in her nostrils, metal blade at her view\'s rim.
+Always at the edges his hand the wrist the blood the appetite.
+Sudden. Her eyes close.
+
+---
+
+
+Once Cameo had thought about mother\'s cream in a strange way, a way
+she could not after that first time continue to speak of. She began
+to live it in code, through images of food, since cream was a food to
+begin with. There was no other sort of cream she could allow out of a
+mother\'s body. When she thought of cream or milk her thoughts often
+turned quite pleasurably to snow, and then her arms would be swimming
+in it, folding it back onto itself like slow motion film images of
+milk spilling on a tabletop. Liking this picture, she had always
+wanted to go swinging in a snowstorm, but was thwarted by Parks &
+Rec\'s policy of packing the playground away in late November.
+Children were known to get overheated and absent-minded in their
+snowsuits, and the city could not be responsible for them burrowing
+sleepily into snowbanks and freezing to death. She had almost frozen
+once, surrendering too long on the walk home from school. The cold
+felt like milk being swallowed as it slowly entered her, and she
+thought of her mother, paying the babysitter for the hour of
+lunchtime she was wasting flatbacked on the bank, thinking of milk
+and a creaminess she couldn\'t place but missed somehow, like snow
+angels in summer.
+
+---
+
+Sometimes Cameo feels like the carcass slung on the silver crook, the
+freshly stripped and gutted one mounted in the showcase to attract
+discerning customers. When she stops to look through the plate glass
+she finds her own face grafted on the plate glass looking back at
+herself, soft into the desiring hook of her eye. Perhaps she is the
+woman she likes to flirt with, midday, as much as she flirts with her
+threshold for abjection. Yes, part of going out into the world each
+afternoon is to catch herself in it, raw and available. She slowly
+learns how to protect the butcher, who winks and waves from inside
+the shop, from her gut hankering for the woman between them.
+
+---
+
+### MARILYN
+
+Happiness has to do with how the sleep goes and goes away, flood
+water evaporating into mist. Cameo\'s eyes brighten, she pushes
+upright and steps into the word Hi. Speaking first in her own person
+and then in the echo of her aunt\'s spritely eyes. Wanna come,
+sweetums, and meet Marilyn? Her aunt deftly snaps closed the hand
+pouches on Cameo\'s jumpsuit, wedges each cluster of toes into its
+rubber foot envelope. Let\'s go fast, auntie says. Fast, Cameo
+doubles, the way she doubles everything in her aunt\'s face, her
+sparkle, the discourse of her desire, Cameo would say now. Discourse
+and desire.
+
+That night, the mother and the aunt sit on chairs pulled tight to the
+kitchen table. Their elbows grind into the wood surface connecting
+them. A glass of milk slides around in its own white spillage. Don\'t
+you ever take Cameo there again. How can you be so pigheaded? Don\'t
+you speak about me, we\'re talking about you. You have no right to
+talk about me like this, Chari, you have no clue. All I know---Is
+nothing, is pig shit. Is what is moral. Your morality is a castoff,
+from Dad, from the system, from the goddamned church. And what
+happened to you, how did you get to be so selfish? Being true to
+myself isn\'t selfish. No, Seal, what you are is confused, and I want
+you to keep my daughter out of your selfish confusion. This isn\'t
+Cameo\'s problem, it\'s yours, can\'t you admit it? If anyone here\'s
+got a problem, Seal, it\'s you, end of conversation.
+
+Cameo backs down the hallway chewing the tough thumbnail she has
+detached absent-mindedly. Her mother\'s curt voice flip-flops like
+bad perfume in her senses. But Marilyn gave her two balloons. Aunt
+Chloris bought them all ice cream cones, and together they had swung
+her in giant leaping steps up the grassy hill. She had been dangling
+like a fish, giggling heartily, and the women both guffawed, a fish?
+You‚re a whale of a girl, and don\'t you forget it!
+
+Womens\' creamy cream. Their cream. Mama\'s creaminess. Ooosshhh.
+
+[^note1] Pedlar Press, Toronto: 2000
+
+
+# Brenda Coultas: Failure
+
+
+ 
+
+
+**I'm a failed short story writer** in the traditional sense. I write
+the way I write because I have no choice. I wish I could write in a
+traditional narrative shape (plot, characters, conflict), I mean that
+I don\'t do characters that begin to talk and speak as independent
+entities with free will. I\'ve always been attracted to language more
+than plot and character. And I hate most fiction. I hate the whole
+artificial structure of popular fiction yet love artificial elevated
+language. My last attempt at straight fiction has left me stuck with
+6 pages of notes about Southern Indiana carnival life. But every once
+in a while I fall in love enough to keep going.
+
+I focus on sentences and images. I like to describe. I\'m most
+influenced by documentary film and photographic essays at the moment,
+and taking a cue from visual artists and piling up a lot of shit
+(dumping memories, images, found objects into a journal), then
+sculpting it for a shape. I use narrative to connect, also I\'m a
+sucker for a narrative riff and for beauty. I\'m called a poet and
+prose writer and I\'m at home with both titles: however, my main
+company consists of poets and poetry is a large chunk of my literary
+diet. Of course, I follow the proponents of narrativity, whose
+writers are working out the same issues.
+
+My latest writing project focuses on the Bowery, one block away from
+my home, specifically the brief section between Cooper Union and
+Houston, an area that contains the remnants of SRO hotels and the
+remains of the 1890s Bowery that are slated to be demolished by The
+Bowery Development Plan in the next decade. The artist coop that used
+to be McGurk\'s Suicide Hall, named so because prostitutes used to
+fling themselves out the windows, the Sunshine Hotel and various soup
+kitchens will be extinct. The project is centered on documenting and
+reacting to the layers of debris, including the human kind that layer
+the streets. The intention is not to romanticize the suffering or
+demonize the Bowery residents but rather to comment on poverty,
+class, suffering and my own dilemma and identifications as a teacher
+and poet one paycheck away from the street. It\'s the transparent
+medium I walk through with my own poverty. Needless to say that for
+me, the Bowery has taken on a metaphysical weight as a passage and
+frame of mind as well as a power spot where ghosts and the nearly
+living compete for space with the cell phonies who have come to
+replace them.
+
+I have failed at traditional forms but I suspect that in the long run
+those forms have failed me. Maybe, maybe not. Each writer must make
+and break her own rules. As for now, I\'m at work observing,
+discovering obsessions, and devising a container to carry it all in.
+
+
+
+# Aja Couchois Duncan: However
+
+
+
+
+
+## Notes on Narrativity - Writing in Prose
+
+
+**Prior to my life as a writer,** I was a student of anthropology. I
+still do not know exactly what this means, other than it is printed
+on my college diploma. I do know that I am obsessed with what makes
+us human and how this human configuration struggles to differentiate
+itself from animal. This study of human is of course a study of self
+and other, a study of self in family, a study of family as self.
+However is about family, about the process of aging and the
+injustices this culture (as if a singular referent could actually
+take on so much meaning) inflicts on the old. However is an
+ethnography of the last few weeks of my grandmother\'s life and her
+shouting right back at me - you got it wrong and right, a little
+right. However is in prose because this process of description is too
+messy for a pretty mobile of string and glass. However is in prose
+because prose is the viscous tissue of body and there is a lot of
+body, its excrement, in this piece. However is in prose because, as
+James Clifford wrote in the Predicament of Culture, \"participant
+observation obliges its practitioners to experience, at a bodily as
+well as intellectual level, the vicissitudes of translation.\"
+However is in prose because there is too much, rather than too
+little, to say.
+
+----
+
+Not accounting for everything---who could---not just the alcohol and
+the iron deficiency, but other failures as well. What happened
+exactly. The itchy warmth of the car seat. The light from the house
+across the way. My own need to itch and scratch and be done with it.
+Of course this body no longer responds, I am earlier and inside taut
+skin, two breasts. Even the car is not liquid of the body which fed
+them, taught them how to walk into a nursing home and sign me up for
+a cruise around the parking lot, my feet above the wheels of the
+chair. As if a wheelchair could contain all that is inside of me.
+Such structures remember nothing and I remember everything that
+transpired. It is not the recollecting but how to frame it in what
+they know.
+
+I know they know nothing.
+
+Real-estate is not a sure thing, I told them after the fires, but
+they forgot. So now almost paralyzed and past speech I can only watch
+them arrange things, moving the couch, replacing the tattered cloth.
+Home is after all only a settling of dust. I cannot move, so dust
+settles. Settling. They put me near the picture, underneath it, an
+awkward likeness. Pointy nose, unfriendly hair. My hair, like many
+things, is no longer mine. A purple haze about my head. How they
+frame me.
+
+The towel is rough and the shower too hot. Each time it is a
+different nurse. Mrs. Gagnon, they scold when my legs buckle or a
+rebellious ankle twists. They set me on the toilet to rest, each of
+us exhausted by the eighty-three pounds of yield. The bathroom so
+unlike my own and still I get lost between them. The girls think the
+water angry and the grass along the yard just weeds. Everything was
+planted with his own hands, large scaly trout even though he was
+chicken legs and a crows fat beak. Mom, they say and try to bend my
+elbow outside its range. They are making up, or evening out. Those
+years I yelled and complained and wished them unhappy marriages and
+thankless children. No need to wish such things, every one of them
+cries themselves to sleep. Perhaps only now. Or after.
+
+Clutching the pillow, my name across the breast. They know me as my
+order in their birth, first generation, narrow fingers scaring an
+uneven yellow embroidery, grandma it would say if it were legible,
+granbra or jomda. The girls hold my arms, leather handles on the
+suitcases they carry, satisfied with my containment. A body folded
+into an origami crane and stuffed into the front seat of a car, my
+car, now theirs. See mom, just a few blocks, not that different. They
+think my silence not thought or post-thought as if counting was
+beyond a brain once stroked. Each distance the length of my tongue
+and I know they are lying, driving me outside my own frequency so
+even the hairdresser will be lost and cannot mix the exact shade of
+dusk that is my hair.
+What injury can touch these few blocks, my home since before he died
+and I roamed them like a doll house, my hooked body fitting perfectly
+through each door.
+
+Whose life so easily told as words. They think I am past me or they
+hold me in their earliest versions so I am no longer part of
+description, an obstacle even to the sight of family. Perhaps I am
+these trees along the freeway dusty with carbon monoxide or the
+eucalyptus behind the nursing home shedding. The body takes much
+longer to break free of limbs, forgetting my other daughter\'s name
+
+ 
+
+
+
+
+
+
+# Cory Frost: It's Bits World
+
+
+ 
+
+
+## Working Notes
+
+**The primary idea here** is that we have to forget where ideas come
+from in order to find them interesting again. Non-English-speaking
+poets of English will take a text-could be a phone book, could be a
+love letter, could be the instruction manual for a pocket
+fisherman-and create astonishing juxtapositions which in turn create
+narrative fireworks in the mind of an ordinary, pre-programmed
+English-speaking reader like me. \"A comfortable twig for the heroine
+in the town. I feel more refreshed than anyone. My daughter has
+arrived at puberty.\" Their ability to do this rests on their
+inability to remember or even understand the original context.
+
+When the pervasive, mass-produced poetry of (culturally and
+economically Imperialist) jingles, slogans, and catchphrases is read
+through a filter of foreign-ness-either cultural or linguistic-what
+results is something infinitely more imaginative and disruptive.
+These mutant words and phrases are the visible residues of desire, in
+that they are produced by the conjunction of the foreign-language
+longing for the power of English, and the longing of the
+English-speaking reader for the novelty of otherness. The name \"Bits
+World\" is derived from the name of a Japanese stationery brand,
+\"Bits Goods\": notebooks bearing slogans such as \"I\'m an useful
+and enjoyable stationery. Let\'s get along with me!\" The name also
+describes the writing/performance techniques I\'ve been experimenting
+with. (I sometimes use the more academic-sounding moniker \"discourse
+collage.\")
+
+In performance, this piece is accompanied by travel slides collected
+from second-hand shops: pictures of famous landmarks (Saint Basil\'s
+Cathedral in Moscow), not so famous landmarks (anonymous obelisks on
+the side of the highway), people at the beach, road signs in various
+languages. There\'s a shot of a wooden Santa Claus cut-out surrounded
+by palm trees, shots taken from buses and trains, shots of totem
+poles and castles and flamingoes: typical scenes from the great
+20th-Century-Enlightenment project of Tourism. The slides emphasize
+with irony that this is not a travelogue or a visit to a picturesque
+alterity: the piece attempts rather to remove the distance from
+travel, thereby making the exotic obsolete. But the slides are also
+meant to distract the audience long enough to make them think they
+are listening to a story. Which, I admit, despite the disparate
+origins of and inspirations for these sentences, they are.
+
+-------------------------------------------------------------------
+
+They were looking for a total transformation of mundane experience
+into bliss. It had become necessary. The winter came fast and hard,
+and it stayed a long time. The potatoes froze in the ground, there
+was not enough wood for the stove, and the modem was too slow. There
+was a war, and people were being asked to recycle aluminum. It was
+the off-season. I am so sleepy right now, but I\'ll tell you
+something: you should regard every anomaly as an opportunity to be
+awestruck.
+
+When she was a small child she found a dead pigeon beside the
+railroad tracks, and later in the same place she found a dead
+calculator. Her friend went to the hospital. His cornea was wrinkled
+and it was making his eyelids stick together. It was the off-season.
+He closed up the shop and went out in search of a sandwich and a
+malted milk. \"Oh God damn it for Christ\'s sake,\" he said. Love.
+What was this thing that so many poets made such a fuss about? When
+they first met, they stayed indoors all the time. He was agoraphobic
+and she was afraid to be alone.
+
+In those days everyone had a story to tell. Losing a toe to frostbite
+or getting one\'s head stuck in a milk can. Outside, the streets were
+dirty and cold. They needed distraction. They wanted to see
+everything, so they would be distracted from everything else. He is a
+man in fine fettle. He possesses a generous spirit, and she has nice
+manners. She knew when she got up that morning it would not be an
+ordinary day. They took a lot of things with them: it was not the
+things they were trying to escape so much as the origins of things.
+They had to forget where ideas came from in order to find them
+interesting again. She justified the trip as \"radical chemotherapy
+for my cancerous soul.\"
+
+All the hotels were filled with celebrities they didn\'t know. People
+were eating their dinners alone in restaurants. The mountains were
+dream-like and seemed smaller than she had imagined. On the side of
+the highway there were farmers selling Kool-aid. The amusement park
+employees were not amused. Of all the rides, the bus back to the city
+was the one they liked most. There was a restaurant that served
+nothing but insects, and another one that served only tofu. \"Can you
+drive a standard?\" he asked. They drove a Chevy to the levee and
+drove a Ford to the fjord. They tried to make themselves more
+interesting by being interested in more things. Some of the maps had
+to be stretched to make them fit. \"You can\'t get there from here,\"
+he said. \"It seems like I can\'t even get here from here,\" she
+replied.
+
+Everywhere they went, the souvenirs had been made somewhere else.
+\"There are so many beautiful places in the world,\" she said. \"But
+they are so disorganized.\" They couldn\'t picture themselves in any
+tragic news reports, so when the boat was overcrowded and barely out
+of the water, they didn\'t complain. The hotel room was exactly six
+feet long by three feet wide by three feet high, and it had a TV. Oh,
+I\'m so drowsy. What should we do? Let\'s go for a stroll by the
+river, for a change of pace. Do you want to see a movie? It seems
+silly to go to a movie theatre. They called home and left messages
+for themselves. When they found an internet caf they digitized
+postcards and emailed them to friends. Tourism is the greatest gift
+of the twentieth century, they thought. \"The reason I\'m always
+having fun,\" she said, \"is that I\'m doing what I like. I\'m the
+happiest loser alive,\" she said. \"My specialty is nonchalance,\" he
+said.
+
+Ten miles out of the city they saw the most amazing sight they had
+ever seen. A lifetime of unspoken, unconscious supplication was
+finally rewarded. They were late getting back to the train station
+and the train was already beginning to pull away. They called out for
+it to stop so they could get on. The conductor said, do you have
+tickets? Who are you? New man, new woman, feeling lucky to be somehow
+caught up in this tedious, cruel, and inexplicable existence. New
+woman, new man, carrying an old suitcase with 30 lbs of brandy-filled
+chocolates and no spare underwear. Reading books upside-down and
+backwards. Losing our wallets with a sense of purpose. Sleeping with
+our eyes open. Haggling over hagiography, canonizing cartoon
+characters. Boxing with St.Goofy. Paying for dinner with underarm
+deodorant. Leaving a trail of discarded punctuation marks. Taking out
+insurance and releasing it into the wild. Fucking on the carpet,
+between the seats. I am a gentle philosopher of the road, he
+proclaimed. I am the zeitgeist multiplied by a weltschmerz, she
+declared. New man and new woman, picking up the pieces and moving on,
+except sideways this time.
+
+They played Scrabble in the observation car, by moonlight, with
+blankets around them and strangers sleeping in the corners. They
+passed a frozen waterfall. They found a newspaper and discovered that
+there had been an election while they were gone. The war had moved on
+to a different part of the world. The stars fizzled and went out. The
+leaves were vivid in a way that made them feel light-headed. Sunrise
+above the clouds doesn\'t compare with this, he admitted. \"It\'s
+so\... ineffable!\" she exclaimed. \"That exclamation mark,\" he
+said, \"that exclamation mark is the last exclamation mark you\'ll
+ever need.\"
+
+Two people are travelling on a train. Watching tiny villages and
+fields go by, having sex in the washroom. \"It\'s bits world,\" she
+says. It\'s bits world. Let\'s get along with me. I am an edifying
+and enjoyable text-based performance artist, and this is most
+comfortable performance you have ever run into. Wherever you may be,
+whoever you are, when you think of usefulness, think of Bits.
+
+
+
+# Susan Gevirtz: From *THRALL*
+
+ 
+
+
+> I am attractive but you are captivating." --- "Life has its
+> attractions, but death leaves one spellbound.
+> 
+> --- Baudrillard, *Seduction*
+
+ 
+
+> Even children connect the thought of death with "a strong
+> unconscious sense of pleasure associated with the return to the
+> mother's womb..."
+>
+> --- Sprengnether, **The Spectral Mother**
+
+
+ 
+Is person place or person
+
+
+
+## Etymology's Nemesis
+
+Soaring and diving with the aquarium sharks and casting another
+shadow half imitation and half prebirth. Drinking of this aquarium
+water tincture and thereby knowing something happened. Thus reaching
+for the dictionary. Inadequacy's tablet, one nervous twitch before
+story's wish to subtract by including too many particulars. Such
+soft wax of impression. A highly sophisticated selection of pattern
+for which, in the past, they had only the word "memory." In
+Intelexa there is a saying, "Obfuscate so that the windshield's
+film will clearly wash over you." This is not religious maxim but
+the slay of time's desire to organize you into a bonsai beyond
+recall.
+
+ 
+
+ 
+
+ 
+## The Anchored Lost
+
+
+Then she appeared---the woman of one hundred arms. First as still as
+tree branches, then windmilling, but that is a word from the land
+next door. Then the tale of the man who switched clothes with a
+berber woman and went looking for the lost city in the sand. The
+desire to paint without making a picture. This was the first story
+for the first day and one was aware of that. "Sux - intravoxa,"
+they muttered attempting to get on with things. But all that was
+construed as thing had reverted to sky at the slightest glance,
+embarrassed sky.
+
+ 
+
+ 
+
+## In this place which Legend Posits
+
+A silence fell upon the land. More quiet than a map. The sounds of
+place having to do with the irreducibility and seamlessness of story.
+Airlines want us to forget this. One body feeds sleep to the one next
+to it. And the next imagines it as her own. For example.
+
+ 
+
+ 
+
+ 
+
+ 
+
+## Paper Doll Day
+
+| The egg from the other chapter has followed us here. "Revert" is
+| the only word for it. A study of continuity necessary. Of meals eaten
+| as opposed to meals made, read about, bought or imagined.
+| Flowering thyme takes too long to say.
+| Handprints on cars.
+| Colander hours.
+| Archaeology you can't touch.
+| Ruffled hour, gravel hour
+
+ 
+
+## Renee Gladman: From *Studies*
+
+
+## Working Notes
+
+**I had been holding a vase** in my hands that now lay shattered on the
+floor. The vase was "the novel." I'm not sure of the force that
+knocked the whole away from me but I imagine that it was a slow
+accumulation. As I looked down at the pieces, I could not see how
+they ever fit together. In one place lay prose, in another narrative,
+and off to the side, in several, lay the components of fiction. I
+never felt that I was writing "fiction," so I was surprised to see
+it there. What I found more difficult, however, was seeing "prose"
+extricated from "narrative."
+
+This confused me. Before this moment, I had thought of narrative as
+the trajectory of language, as the direction in which it unfolds, and
+of prose as narrative's rawest tone. But as I observed them lying
+there, I saw each independent of the other. I knew that no matter
+what I did, I would be writing narrative, but I could not fathom how
+I wrote prose separate from that. The process is as natural as
+breathing, however this crisis I experienced was emblematic of that
+occasion where we catch ourselves in the mechanics of respiration and
+get caught up in the mystery of that.
+
+
+ 
+
+## 7
+
+| *for Tisa Bryant*
+
+
+A friend has pointed out a paralysis this evening, which she has been
+ignoring for some time. The friend has had to ask why certain parts
+of her body don't move, why there is failure in her language, why
+she carries this failure in her body, making her body unable to move.
+It is evening when the friend can no longer contain her observation
+and is forced to point to this stillness that makes her a stranger in
+the room.
+
+The friend points to the paralysis.
+
+Our immobile one is sitting quietly in the corner of a room staring
+at a glass of milk, seemingly enmeshed in daydream. There is
+condensation on the glass, an indication that the milk has sat
+unattended for too long.
+
+Earlier, the friend brought the immobile one this milk.
+
+Then paralysis took its form.
+
+---Now she has been made to see her paralysis. It impresses her and
+makes her mad. She and the friend sit in the room mad at the
+paralysis. As the milk grows warm.
+
+The friend looks at the milk and asks to sip it. Our one says,
+please.
+
+Now that the paralysis has been exposed both women stare ravenously
+at the milk.
+
+Both reach for the milk.
+
+"Now that I've pointed this out to you, can you explain how it got
+there?"
+
+She answers.
+
+"Does the measurement, though compelling you into silence, serve the
+companion in anyway? Is a co-habitation possible?"
+
+Again, she answers, this time with more emphasis on each word.
+
+"I have known you for ten years," the friend says placing her chin
+in her hand, amazed at what she's seeing.
+
+
+
+
+
+# Gad Hollander: From *Serialscribbler*
+
+
+ 
+
+
+## Working Notes
+
+**Serialscribbler** (as the title suggests) is an ongoing work, so far
+only in prose, though there\'s no rule about that. It started a
+couple of years ago, when I sent out a piece of scribble on a
+postcard every day to someone I knew around the world. The texts were
+continuous (a lot of drivel thrown in) but each recipient only
+received a fragment. The idea was to re-integrate other people\'s
+(not necessarily writers or artists of any description) responses in
+my own writing. So far, that hasn\'t happened, and after some 120
+postcards I stopped sending them out, especially as the internet
+seems to throw a slightly anachronistic twist on the project. For the
+time being, then, it\'s still an open-ended project and anything
+might happen with it.
+
+From some working notes on Serialscribbler found in my notebooks
+from the last few years:
+
+The language eludes me just as I step into it. I do not have the
+power to seize it, let alone transform it.
+
+Serialscribbler---what is more than language in it---
+now sit in Waterloo station
+now hear & be tempted to bark
+but not bark, quarantine---look up \"bark\"---
+then & now reconciled (thru fog)---may as well not pay & suffer the
+consequences---what if someone gets up & leaves in the middle of a
+word---how do we find the middle of a word---if poetry is an
+approximation, the world is a wild guess---guests come & go, trains
+depart & arrive, film rolls.
+
+Snatch scribbler---between picking up dog shit & chasing after the
+puppy, the memorable phrase or fragment might fall into place. More
+likely it will not. Take in the decent weather while it lasts---a day
+or two---then brace yourself for the onslaught of dark winter days.
+
+Write without closure, as if each block of text were a prelude to
+the soundwork or video. Take it one sense at a time and then
+return--- not quite, but in a spiralling form rather than a circle---
+serialscribbler.
+
+### "the natural suspicion of words"
+
+Sometimes it happens that even Serialscribbler, who by definition is
+busy at all times if not totally self-absorbed to the point of
+oblivion, sometimes (I say) it happens that Serialscribbler will
+devote some attention to another experience, eg, reading a
+stranger\'s book or looking at a sculpture, even feeling it to gain
+some tactile experience of it.
+
+I write in prose by default . I don\'t know where to break the line
+in free verse and I don\'t like having the line-lengths predetermined
+by fixed verse forms. It\'s an interim solution. I write in prose but
+think in poetry.
+
+## Serialscribbler
+
+I took editor to one side and had a quiet word with him. This is for
+my own good, I whispered, and proceeded to disable his editorial
+tools, lopping off his hands, extracting his tongue, etc. He seemed
+to understand and, as I now read it, thanked me profusely with his
+lolling head and rolling eyes. Then I began to practise my fiddling,
+keeping an eye on his writhing body while folding, turning one word
+into another the way dough is turned before being given time to rise.
+I dredge up the analogy (more fiddling) with a tinge of regret, even
+shame, for bread is my favourite food in all the world---I suppose I
+would kill for it---and to mention editor in the same breath as bread
+seems almost blasphemous; ah, but I remember there\'s a limit to
+words and it\'s just been reached. So let\'s step back a step,
+retract that near-blasphemous breath, inhale deeply, say: I fiddle is
+to say I scribble within the confines of my own space, despite the
+neighbours\' persistent complaints about the screeching and
+scratching, their calling in the police who, in any event, are
+powerless to stop me fiddling when I explain that the noise is just a
+scribbling, a turning of one word into another in the manner of
+kneading dough, careful to point out that I\'m not inciting any
+revolutionary acts by invoking the analogy and, at the same time,
+carefully keeping editor out of view lest he give the wrong
+impression or, perhaps, because I\'m ashamed of him. Upon leaving the
+police shake my hand---I\'ve always had a way with the police, as one
+has with children or animals---and I resume my fiddling. Editor is
+hurt, professionally and physically, and since this has just been
+established as his necessary condition, we are now both faced with a
+steep learning curve which we need to get used to, each in his own
+way.
+
+I am no virtuoso, it must be said, and fiddle only because I\'m
+curious; my fiddling is spurred on by a vague desire to discover the
+new sounds rather than improve or polish the old ones. That\'s not to
+say I don\'t appreciate the old ones, much in the way editor does,
+but it\'s not enough to fulfil my desire. Editor, in contrast, has a
+way of expunging the new sounds with a stroke of his pen, somewhat
+like an abortionist, fossilizing them before they ever take flight.
+He believes my desire is misguided, that there is a better way of
+channeling and controlling it, that it should be put to better use.
+While he was fit and able he\'d always wanted to have a virtuoso at
+hand (forgive the expression) and had dreamed of making me one of his
+own. Ah, but there are too many virtuosos, cried Robert Schumann,
+spitting on the polished parquet floor. Editor is confounded by the
+riposte. I can see his mangled body, thinking: surely you mean
+virtuosi. He is certainly not humming a melody inside his head,
+because as I snatched the pen and disabled him I discovered, to my
+shock, indeed my shame (after all, he is/was my editor), nothing in
+his internal makeup remotely connected with music. Instead there were
+millions of micro-blueprints stacked on top of each other, slightly
+curled at the edges like wafers, each bearing the imprint of some
+formula for a melody, past or present or future: all nuts and bolts
+and intricate scaffolding, which in its way presented a dazzling
+construction that any virtuoso would have given his right arm to play
+(forgive the expression), but without the slightest indication of
+what voice or tone or timbre such melodies might be borne upon. In
+fact, a moment before disabling him I informed editor that there are
+no more virtuosos in the world, only students, and to my surprise
+(and eased conscience) he seemed more relieved than disturbed by the
+news. I was not telling him the whole truth, of course, but our
+relationship is such that it forgoes the elaboration of truth (on my
+part because its structural complexities would be overbearing, while
+on his part the aesthetic and moral dimensions would defy his
+comprehension); rather the smallest grain of truth is often enough to
+maintain the fragile rapport between us. So for the moment editor and
+I live side by side, reconciled to each other\'s exclusionary habits;
+I fiddling, he nodding his wobbling head, keeping time for the sake
+of appearances. Occasionally, when our respective tasks come full
+circle and we turn a mutual glance of recognition towards each other,
+we will take a break together over a cup of coffee or a glass of
+wine, our dreams oozing incoherently from the corners of our mouths,
+dripping like bird shit on the cafe table, as life flows to and fro
+on the pavement before our eyes---his, like mine, darting back and
+forth with unabashed lust as one young woman or another comes into
+view---only to have our little reveries promptly interrupted by a
+waitress asking, \"Are you all right, sir?\" So that I\'m forced to
+look up and around me, awkwardly, desperately. Editor has suddenly
+absconded and left me to answer her simple query. In a futile attempt
+to grasp a pen with my mouth and scribble \"yes\" on any scrap of
+paper, I have, not for the first time in my life, accidentally
+overturned the table and chairs. Remorse for my reprehensible
+behaviour towards editor momentarily seizes me, and a shameful tear
+is about to fill my eye as the waitress, brimming with kindness and
+efficiency, comforts me: \"Don\'t worry, sir, it\'s all right.\"
+Dutifully she bends down and shuffles on all fours as she cleans up
+the mess around my truncated legs; her breasts, liberally exposed to
+my parched and crippled gaze, sway slightly with her scrubbing
+movements, as if to say: drink, drink my compassion, o scribbler.
+
+As a student of fiddling I am prone to daydreaming, especially when I
+practise my bowing and fingering, which I do religiously yet by all
+accounts hopelessly, for whether I practise once a week or every day
+of the week, whether I fiddle on street corners or in cafés or in the
+privacy of my room, the result is always, acoustically speaking, a
+scribble. It has to do with distraction, of course, and the
+enticement offered up by an image of loveliness passing by on the
+street, in a café, or across the walls of my room. Oh, but I like
+that, remarks a progressive tutor, a specialist on expressionism, his
+ear ever alert to the permutations of the new sounds. Annoyingly, I
+must watch my posture at all times---me, a cripple, watch my
+posture!---make sure my eye-line does not stray too far from the
+strings, and always keep my feet firmly planted on the ground. Such,
+at least, were the rules given at the outset, when I was a mere
+sub-scribe, long before I became a student, and although I\'m now at
+post-graduate level the same rules still apply, the cardinal one
+among them being \"never drift into mindless reverie.\" The trick, as
+another tutor advised us, is to dream without affecting a dreamer\'s
+countenance, to cast one\'s mind off in some direction while the
+(very same) mind stays focused, enrapt by the intricacies of the
+hands\' manoeuvres. As you can see, I haven\'t given up yet, perhaps
+because I\'ve noticed that over the years tutors come and go, experts
+become fallible, if not completely discredited, histories get
+revised, wars start up and arrive at their conclusions, stores change
+ownership, buildings get torn down and re-built, and things generally
+move on---whereas scribbling just evaporates into the atmosphere like
+so much vacuous sighing and, despite its noxious fusion with the air
+we breathe, is accepted as just another waste product with a
+tolerable, low-level health risk, no more dangerous than the toxins
+given off by other human wastes. The fact that nobody pays any
+attention to it, however, could prove tragically fatal under certain
+circumstances---for example, if a scribbler were to be retroactively
+regarded as talented, even a genius, and we, human kind, belatedly
+berated ourselves for having been so deaf, so blind, and beat our
+breasts with futile lamentations, and tore each others\' hearts out
+with proprietary fingernails, and waged suicidal wars in the name of
+said dead scribbler, now canonised, his or her pen emblazoned on the
+national pennant billowing proudly over our burning libraries, day
+and night, etc. But in the case of students, even at post-graduate
+level, such potential catastrophes are highly improbable, as unlikely
+as a cataclysmic end of days, so there\'s really no need to fret, no
+need to get anxious over our performance, no need (or indeed desire)
+to seek encouragement from our peers or advice from experts, because
+scribbling is merely a process, nothing more, a perpetual practice
+session with or without a fiddle, and in any case, as otologists have
+shown, the human ear\'s threshold for noise rises by the hour, edging
+nearer to a level of infinity with every exclamation, every grunt and
+moan, every scratch or tap of the finger, with every etched
+apostrophe or comma on a blank page. As one of our most distinguished
+tutors put it: *Our potential capacity to listen to everything will
+shake the foundations of our belief systems to their core.* I was
+thinking, as it happened, about the word as the foundation of faith
+(not my original thought, just pondering an old one) when he added:
+*It\'s something we should consider with the utmost gravity and
+tackle with a measured rationality.* I think he was soft peddling
+doom, imploring us to reinstate a more humane threshold for the
+ear\'s intake of noise before it\'s too late. Too late for what, I
+wanted to ask, eager to join the debate. But being a cripple, being
+doomed to my studies, playing uncontrollably with my fiddle, I would
+have been unable to get my point across to him, over there, on stage,
+behind the podium, without upsetting the furniture and provoking a
+riot. All the same, upon leaving I reflected that despite my
+restraint it was an interesting outing for a bleak winter\'s
+afternoon, and I went away believing that my knowledge had increased
+by two- or threefold.
+
+Although I\'m sometimes mistaken for a cripple, sometimes I\'m not.
+It is therefore just as true to say that I am as that I am not a
+cripple, and it\'s a matter of political interpretation whether you
+believe one or the other of these truths. My identity as a scribbler
+has not been affected one way or the other in this respect, but this
+is probably due to the perverse social conventions of our time. In
+the old days they would have certified me, put me in a safe place
+behind walls for my own good, and said no more about the matter;
+invisible, I would have been perceived as either happy or unhappy.
+Today our techniques are more subtle and sophisticated, especially in
+the free world, where we take pride in the fact that we can air these
+issues openly and hold interesting debates at our local cafés or on
+television or occasionally even on a bus, on the way home from work,
+though that is still somewhat rare owing to our collective fatigue
+after work. But those of us who don\'t work, who are less weary, will
+not hesitate to launch into such democratic debate if we should come
+upon a fellow non-worker on the bus, even heading home at 5 a.m.
+after an all-night party, just when our fellow workers are setting
+off to work on that bus, though they may not be sufficiently awake to
+participate in the debate and are possibly too preoccupied with their
+night\'s dreams, reconstructing the details, thinking of plausible
+explanations for implausible events, half-consciously tying together
+random associations in their minds, their hands struggling to support
+their drooping yawning heads, their bleary eyes peering into the
+pre-dawn darkness as they silently ask themselves what does this or
+that object mean in that incongruous setting, among such unlikely
+people, and is the dream object connected with the real thing they
+stumbled upon only a few days earlier, after not having seen the
+likes of it for years, their brains persistently searching through
+this miasma of vague objects and people for some kind of solution, a
+key, as if these freshly painted dreams were riddles that only needed
+the correct answer to facilitate a stress-free day at work and allow
+them to confront their superiors with the confidence of people who
+know themselves, whose selves have been revealed to them in dreams,
+regardless of how menial their jobs might be and irrespective of
+their professional status, their pecuniary position, their grooming
+or their physical appearance in general---it being their democratic
+prerogative, theoretically, to be themselves in any guise they
+choose---because they saw the light through the dusk and, having
+opted out of a now raging democratic debate, heard a voice in the
+wilderness and were born again on the upper deck of the bus at 5a.m.,
+en route to work. I know all this for a fact because, having
+participated in that democratic debate, I witnessed their revelations
+with my own eyes and quickly scribbled everything down while it was
+all fresh in my mind, when their dreams were far less obscure than
+they are today.
+
+Since then reverie has been my precise goal, and my fiddling studies
+are only a means of dealing with the pragmatic side of other
+dreamers\' dreams. One fine day, as we return from our afternoon
+ritual of ogling nymphs on the banks of the boulevard, editor and I
+will come upon a list of words posted on our door, with a set of
+instructions to consider their place in my scribbling. Editor is keen
+to proceed, sensing an opportunity to regain the high ground in our
+relationship, but I remind him of our pact and avert his deployment
+for the time being. He is all but dead, a mere copyist, but I too am
+suddenly paralysed by a bout of amnesia, my lifelong years of study
+failing me miserably. Conscientiously I copy the list into my
+computer and it comes out like this:
+
+Shame
+
+The private
+
+The secret in narrative writing
+
+Representations of time
+
+Event
+
+Expectation (the future) in narrative
+
+My computer (or rather its editor) automatically capitalizes the
+first word in each line---not what I expected, but I leave it as it
+is. I imagine the software writer will claim responsibility, perhaps
+a former poet eager to accommodate traditional verse writers. But,
+capitalized or not, the words are easily comprehensible, so I feel at
+least partially redeemed by my scribbling studies, imagining that any
+reader would understand them: the typography and size of a word has
+no bearing on its meaning, I remind editor, though it may be argued
+there\'s a difference in degree. Though I would have preferred the
+initial words without capitals, it seems pointless (and too
+difficult) to change them now. (Perhaps in future the software
+writer, a being of necessity in the future, will include an
+instruction that would allow the computer\'s editor to distinguish
+between a list of items and lines of verse; perhaps another
+instruction might be added that would allow its editor to discern a
+writer\'s intended nuance for a given word, or line, and
+automatically capitalise such words---for example, \"life\" as typed
+in by an immortal\'s fingers.) But this is beside the point. The
+point is I don\'t understand why or how language and writing coexist,
+though I understand and to some extent sympathize with the historical
+expediencies that have conjoined them. But how, after so many
+thought-bearing hours in such claustrophobic proximity, have they
+failed to find their separate autonomous domains? Have they just
+grown used to each other and learned to be mutually tolerant? Have
+they gone a step further (backwards, it seems) and learned to
+coexist, perhaps even to love each other in our thought processes? If
+that were so---though I don\'t for a moment believe it---why? what
+for? We scribble, day in, day out. If we advance, writing lies in
+wait, ready to devour us; if we retreat, language stabs us in the
+back. Would it not be better if we had neither---no language, no
+writing---if there were no scribbling, no anti-scribbling, no pauses
+and deliberations over their duration, if everything were simply a
+constant torrent of some alien construct pouring into the well of
+truth, that shameless metaphor born from the union of language and
+writing. I\'m not alone in this my bafflement. My incomprehension is
+borne out by the writers I read, writers who have nothing to do with
+language, who don\'t know the meaning of the word, writers as removed
+from representations of time, event, expectation and futures as Greek
+shards, who have as little idea about shame, the private, the secret
+in writing as that extrovert Yaweh, who have never even heard of a
+narrative concept. Those writers I read, those are the writers I
+write, that is, those writers I re-write; that\'s why they write and
+why I write, why we, they and I, write, tuning our scribbling fiddles
+to a sorrowful pitch. Editor reads the very same writers I write, and
+yet invariably incinerates their pages, marking every word for
+approval before burning them, and sometimes adding a last-minute
+grammatical correction in his head. But editor reads only what has
+already been written, texts, what may never be re-written, that\'s
+impossible, what may only be read over and over and over. Whereas I
+and the writers I read write only to re-write each other and will not
+allow ourselves, for our verbs are many, to be re-written otherwise,
+distracted by a shopping list of contingencies with moral and
+historical imperatives, since we\'re ambitious to succeed our
+scribbling with our failure. That shopping list belongs in my pocket.
+It is revealed (like a furtive cigarette in the street) when I go
+shopping and use language as a counter, when I\'m talking face to
+face, seeking out your immediate reply, my lips smacking each other,
+my jaws moving like pincers, my tongue slithering between movements
+of jaws and lips, my vocal chords dilating or contracting like
+synchronized swimmers, my lungs and every other pertinent organ
+acting in time and with deceptive ease to allow me to articulate
+something or other, this or that. Thus we talk and act, sometimes
+sequentially, sometimes synchronously. The articulation of our bones,
+as well as what we concoct with language, says something about our
+life, in death, after the flesh has rotted away and the worms have
+moved to another body, yet language itself can never exhume the
+writing that went on (perhaps on a daily basis) before the final
+heartbeat. While the writer, o scribbler, is steeped in shame, in
+some perverse privacy or in the self\'s profoundest secret, the body
+of writing is perpetuated in its own skin, marking out its own
+as-ifness the way silence delineates the borders of language. Let us
+admit, let\'s say, that I have murdered you and am now stricken with
+remorse, dumb with shame and crippled by guilt; whatever I\'ve done,
+whatever else I\'m doing, I am not writing. I am outside the writing,
+doomed to carry in my language as author some pitiful mental
+inflammation throbbing with a succession of phonemes, each in turn
+having been orphaned by its murderous language, the same that suckled
+it, that gave it comfort in the face of silence. Which is all well
+and good, is as it should be in the realm of as-if, but as the
+writing proceeds what if, scribbling, it revealed itself in some
+sacred alphabet, a revelation earmarked as a future holy text, as
+though writing were shame and privacy and secrecy itself, to be
+divulged in our death? And what if that as-if were an angel,
+classical, orthodox, with the power to unleash language\'s ultimate
+terror---though I and the writers I re-write don\'t know what that
+might be---would editor allow it to fulfil its divine mission, or
+would he intervene and, effectively, overthrow the lord in our
+household? Such questions seem infinitely difficult when, of an
+afternoon, editor and I return from viewing the maidens by the river,
+slightly tipsy from their beauty.
+
+I like, I say to him before reaching our door, a poetry that is
+definitive in its ambiguities, but cannot be as passionate about it
+as I am about a poetry of ambiguous definitions. Reaching for the
+list of words on the door, he calls me a hypocrite.
+
+I was so ashamed that, if writing were language, \"so\" would never
+survive under the burden it claims to support, for shame draws us
+back through time, as even the earliest scribblers evoking Paradise
+were at pains to point out, and during that interregnum every act of
+love and war perpetrated by the species has accrued to its surface.
+Since writing is not language, however, it is easy to articulate the
+so of it, to say it or spell it or memorize it for future use. And I
+hid, editor confessed to me once, for I was so naked.
+
+The nonsense we tolerate, I confessed back to him in a moment of
+compassion, is nothing compared to the nonsense we produce,
+especially when the latter is predicated by a collective pronoun and
+dressed, how can I put it---I paused, I scratched---aphoristically?
+he offered.
+
+(work in progress)
+
+# Eileen Myles: Long and Social
+
+
+
+ 
+
+
+**My book** (*Cool for You[^note1]) is absolutely an
+extension of my poetry practice, I\'ve even come to refer to it and
+maybe the class of novels it\'s a member of as the poet\'s novel.
+Having written a novel I don\'t have to protect myself from the
+disparaging term poet\--yet I\'m more clearly a poet than ever. I
+mean a poem is an extravagant grandiose and trembling form, for
+better or worse always alive, I think, and I\'ve brought those
+weaknesses and virtues into novel writing and I\'m dying to do it
+again. As a younger poet I was urged (in order to be important) to
+think large, to write the long poem, but I think this is it. It\'s
+epic poetry in the sense that the epic poem is a communal form, and
+long and social. I wrote it for you. That\'s what the title means in
+a way. I know there\'s a more technical definition for epic poetry
+but that seems the best way to get it wrong. I\'m more interested in
+what Joyce Carol Oates did in **Blonde** than Seamus Heaney\'s prize
+cow. Poets should write novels en masse and reinvent the form and
+really muck up the landscape. I often think of Leslie Scalapino
+telling me that her long book the return of painting, etc. was called
+a novel because a novel means you start at the beginning and you read
+to the end. It was a way to guarantee she could be read differently.
+I don\'t care about that particular aspect, the front to back thing
+but being read differently of course is nice. Time is my real subject
+and calling a book a novel immediately adjusts the reader\'s
+perception of time.
+
+My book is shuffled if you take the long view. When I started to
+write the first chapter which was a story, the whole thing is a story
+for me, it occurred to me that a novel could just be all these
+stories shuffled, and I thought of books I loved long ago, Julio
+Cortazar\'s Hopscotch. I read that book straight through, but I read
+it differently knowing that he had that chart at the front suggesting
+you could alternately read it this way, and that the book could
+permute all these different ways. I\'m in love with the form of the
+novel being molten, not putting the power of reordering in the hands
+of the reader but to extend to the reader a sense that the form of
+the book is as accidental as life. It\'s studied, damn studied, the
+cool casual life as is the cool casual novel, but as accidental as
+say the zabruder footage. Some guy happened to be there with his
+camera, and as it turns out history was made. As it turns out he gave
+us our only window onto that day in Dallas. When one realizes that
+John Clare inadvertently gave us the first No Trespassing signs in
+literature you realize bumpkins must write first, not last.
+
+One more note on that---everything\'s visual and in even or
+especially in advertising the oddly cropped shot is what\'s used.
+Literature as it\'s sold today is so backwards. Hand held literature
+is of course what I\'m selling. It\'s not a memoir, it\'s a
+recording. And even purporting to be a bad recording at times. As a
+female writer the pose of awkwardness is very dangerous though
+because at this post feminist moment one should be a top, one should
+win etc. But female in history is ground down, anonymous, untold.
+That\'s the story that\'s interesting.
+
+And another thing: more poet\'s novel. In **Chelsea Girl\'s** \"My
+Father\'s Alcoholism\" was the story where I stretched myself, and
+tried to write out of pools and see how they would build. I just
+literally go into a room (one labeled my father\'s alcoholism) and
+begin inventorying the memories, the substance of the memory, the
+materiality of it. The fur of childhood, not the feelings. When I was
+done with one I would wait and let another one grow. It really is
+like walking in the rain. Can that generate a narrative,or a
+narrative feel? It sure works in movies. But movies have the dark on
+their side. My hope is that by being as solipsistically in my mind,
+downloading erratic shaped drops and letting some momentum build on
+that order, rather than an order based on action, you can kind of
+reverse our assumptions about activity. Or maybe I mean self.
+There\'s a beautiful math to it, like music if you just let yourself
+go and describe the experience of your life like it\'s some public
+spectacle you are privy to and you‚ re waiting for the music of the
+information along with everyone else. I feel less alone when I tell
+my most private stories than any other time. This does link up to
+performance. When you are acting or even reciting a text you wrote
+and you\'re on a darkened stage under a pool of light there\'s a
+terror as you\'re singing along with the text, its like driving, that
+moment at night when you think shit I could just pile into the
+opposite lane and that would be it. The self could just smash into
+the light and dark and be gone forever. So you feel contained within
+the details by that sense of danger and that provides the tension
+while you proceed lavishly downloading \"me\" in every ribbony way I
+can imagine.
+
+The limitations of \"New York School\" have been what Frank did, what
+John does, are you like Jimmy. Mustn\'t forget Kenneth or Barbara.
+It\'s like Mt. Rushmore. You can say some quick thing about them
+all---it\'s chatty abstraction, it\'s American speech, and I\'ve
+learned different things from all of them but since they are just
+people I think it\'s tone that people wind up miming, or concerns
+rather than electricity, the weight and pause and incredible expanse
+of the exploring mind in speech. I discovered what I sound like long
+ago and of course I go where they wouldn\'t and couldn\'t so it\'s
+sort of like explaining why you prefer not being a corpse. New York
+school mimed is worse than academic, it\'s like my dad being a
+mailman coming home with the Ivy League clothes from the Harvard
+dorms where he had his route. You have to blow that up pretty quickly
+but it\'s just sad. Let\'s face it, they were just as New critical as
+everyone else in the fifties. They all would assert the poetry was
+not about them. It\'s about skimming the surface of the self. Using
+that facility to shape the poem. My dirty secret has always been that
+it\'s of course about me. But I have been educated to believe I\'m no
+one so there\'s a different self operating and I\'m desperate to
+unburden my self of my self so I\'m coming from nowhere and
+returning. That\'s sort of classic. You just cannot underestimate the
+massive difference in writing out of female anonymity. It blows all
+the styles out of the water.
+
+I think the form of the novel gives dignity to my shame. Sometimes
+I\'m just ashamed to block the sun. Performance, and I include
+readings in that, makes the body be the container for the work. It is
+when you write the words of course. The body always seems like the
+shame. The camera must cut away to the trees, the animal is telling
+too much. The animal doesn\'t want to die etc. If you\'ve ever sat on
+a panel when some people read and some people speak directly the
+difference in those two deliveries in terms of the room\'s
+interaction with the speakers is immeasurable. The dangerous loose
+canon is *how* we conduct public life---we want to stifle the stray
+remark and we want to house it. I\'m totally translating that impulse
+into a several hundred page thing, my sorrowful body is now text.
+It\'s like a zoo.
+
+One last thought. In the **Times** there\'s occasionally these
+articles where the great artist, Brice Marden or whoever takes us
+into the met to see the work that is interesting to them. I started
+reading Robert Smithson a couple of years ago and his move out of the
+studio helped me understand the poet\'s situation, having no such
+institution to tour through, having no **Times** to conduct the tour
+in, and possibly being invisible because of that. Smithson yearned to
+kick free of that structure that has been happily plunked down ever
+more solidly. It seems like a novel is the only way to prove I was
+here. Exactly how I was here. It\'s a social poetic invention.
+
+
+
+[^note1]: *Cool for You*, New York: Soft Skull Press, 2000
+
+
+
+# Daniel Nester: God Save My Queen (The Freddie Fragments)
+
+
+
+ 
+
+
+## Working Notes
+
+> \"Mr. Narrator, this is Bob Dylan to me.\" 
+> 
+> --- D. Boon, The Minutemen, \"History Lesson-Part II\"
+
+**In June 2000**, I had a crisis. In a club called \"Fun,\" an dank,
+empty club deep in Chinatown, I sat down for an interview for the VH1
+show SoundAffects, and talked about how Queen changed my life.
+
+I left so much out in that interview that I tried to write more
+poems about Queen, but hit a wall. Call it problems with
+verisimilitude, whatever it was, poems weren\'t doing the trick.
+
+So I started writing a confessional book, freeing myself from what I
+think are very real aesthetic contraints on today\'s poem. The result
+is a kind of prose poem, with narration leading to definitive moments
+where I think my history and the object of my obsession\'s
+history-and I say this with a straight face-intersect.
+ 
+---
+
+## God Save My Queen (The Freddie Fragments)
+
+The day I bought the *Flash Gordon* soundtrack, the cashier, whom I
+knew to be in a shitty suburban punk band, offered me my first record
+store clerk snide comment.
+
+\"Nice bass line,\" he said, looking down at the banana yellow album
+on the counter, punching up the price.
+
+I walked away, meek and ashamed that my purchase had not passed
+muster. He was, of course, referring to the single-note bass line in
+\"Flash\'s Theme,\" the single from on the soundtrack. But I was
+steamed. It was one of those times you think of with the perfect
+comeback later that night, and you lay there, beating yourself up for
+not coming up with it at the time.
+
+In 1977, when Queen were recording *The News Of The World,* legend
+has it that the Sex Pistols were recording in an adjacent studio. Sid
+Vicious, wandering into the wrong room, as was his custom, came upon
+Freddie Mercury, sitting at a piano. His customary four fingers of
+vodka in hand.
+
+\"Ah, Freddie Mercury,\" Sid said, proud of his recognition.
+\"Bringing ballet to the masses then?\"
+
+Freddie looked up from the keys, and, not missing a beat, offered his
+reply.
+
+\"Oh yes, Mister Ferocious. Well, we\'re doing our best, my dear.\"
+
+
+## *Prophet\'s Song*
+
+
+| Chunky on the shag rug
+| I\'m looking for my anthem
+| I\'m looking for my headphones
+| I\'m looking for the bare spot
+| On the rug to wallow side-
+| Stepped on the chair-stopped
+| Door, and as I blast my ears
+| Out with *A Night at the Opera,*
+| I\'m looking at pictures of you
+| My catholic princes, my mother
+| Father proxy, I\'m in London
+| With you now, the koi pond, the flamingo,
+| The statues, the hymnal,
+| The Aretha Franklin song at the funeral,
+| Alone on a pew, watching the water,
+| Watching the bare spot on the rug
+| Filled with pictures on the floor,
+| I\'m ignoring the knocks on the door
+| I\'m ignoring the knocks on the door
+| Stepped and stripped on the chair-
+| Stopped door, I\'m listening, listening.
+
+
+---
+
+
+
+The Elektra butterfly, an indicia, the small caps Helvetica bold      
+font, the import Parlophones, their spare blank small writing. Those  
+first few moments playing the English 12-inch singles, fresh from the 
+thick plastic seal, realizing the beginning is too slow, that you     
+have to switch the RMP knob from 33 to 45. The silence between the    
+songs, readjusting in my chair, preparing for the first listen.       
+Rooting for them, noting who wrote which track, soaking up the        
+essence of each of them while listening to their song. And the order, 
+the plot that album took, the lead-off rocker, the last song on side  
+2\'s power ballad. The internal band politics I imagined in the       
+making of that order. The Greek lettering in a concentric dance on    
+the cheapo compilations.                                              
+
+---
+
+When I think of the 1980s, when I think of the skinny ties, and the   
+big hair, teal drawstring pants, and Ronald Reagan, I think of Queen, 
+of course, and how, shifting to their big synthesizer singles, they   
+would graft a medley of past songs on the end of extended versions.   
+Or how their videos for these songs had montage footage of concerts   
+all over the world, all of which I found lame. I\'ve come up with     
+three possible reasons:                                               
+
+1. A retrospective impulse, not provided by the rock literary        
+establishment.                                                        
+
+2. New digital tinkering, combined with a desire to make             
+connections within their own work, combined with the finest cocaine   
+and vodka human beings can afford, a few way overdue divorces, and    
+a general lack of interest in the current song at hand, pressure      
+from EMI and Capitol to pad out singles with no non-album B-sides.    
+
+3. Because they can. They\'re Queen, the greatest fucking rock band  
+there ever was or ever will be, and they can do whatever the hell     
+they want.                                                            
+
+---
+
+
+Sometimes I feel the need to summon the ghosts of the 70s crowds
+around me, or maybe they come to me. These ghosts appear as people I
+meet by chance, people who actually saw Queen in concert.
+
+Adding insult to injury, these people usually have seen them, like,
+four, five times. I\'ll corner them, say, at a barbeque, ask
+him---it\'s always a guy---a battery of questions.
+
+\'What songs do you remember,\' or, \'What was Freddie wearing\"
+might be lead-offs. I move on to set lists, how they sounded.
+Inevitably, these people tire of my inquiries, and run back to their
+wives.
+
+Once I bought a cherry copy of *Live Killers* at a church yard sale
+in the Williamsburg section of Brooklyn. The man who was selling them
+also had a box set, *The Complete Prestige Recordings of Miles
+Davis.* Got it for ten dollars. The Queen album cost 50 cents.
+
+My new copy of *Live Killers,* the one with all four members onstage,
+with arms raised receiving adulation from the crowd, had four photos
+inserted inside one of the albums\' slots. I remembered how I used to
+stick girly photos inside an album I had designated for this purpose,
+to retrieve them in private moments.
+
+The dates on the back of the photos were 1979, the year the album
+came out. In one picture, a guy is grabbing a blonde girl\'s bare
+tits from behind, cupping them. In another, the same guy, his faint
+brown mustache rides an ear-to-ear smile. His pants are completely
+down. The third and fourth document the amount of coke the two had in
+their private basement party. Both the boy and girl smiling, each
+taking a turn snorting three and four-inch lines.
+
+The way I find out about someone seeing Queen in concert is the
+following. After my meek confession of my love for the band, after a
+longer conversation about music, there\'s a set-up for the other
+person to mention his own guilty generational pleasure. For instance,
+he liked Styx at one time, he saw Journey once on the Escape tour.
+Then, my reasoning goes, the path is made for me to say that my
+favorite band is not some hip or critically acclaimed band, either;
+that it is, in fact, Queen. It\'s like I\'m outing myself, and then
+the guy--- always a guy---tries to console me, tells me about the
+times he had seen Queen at concert. Then, I get to ask the battery of
+questions. It\'s a safe framing for the information that I
+mythopoetically need to hear. \"They rocked the Garden or wherever,\"
+or \"they blew my mind, man,\" while off-hand remarks for some, is
+music to my ears.
+
+During one easy-going outing/concert re-creation session, I brought
+up these found photos I found in the yard sale copy of *Live
+Killers.* I was trying to spice up the conversation. I told him about
+the pictures---the girl\'s tits, the guy\'s pants completely down,
+the smiling pictures, the coke. We both laughed. I excused myself,
+offering to buy him a drink at the bar.
+
+When I came back to our seats, my recollect or muse had gone.
+
+---
+
+
+
+As if in my own benediction ceremony, I would lay out all of the
+Queen albums, flush next to each other, in order of release, on my
+bedroom floor. The 45s from each album would lay on top of them, in
+the lower right-hand corner, also in order of release, from bottom to
+top. I would then stand in front of this, drinking a wine cooler, as
+if I were Noah in the *Ten Commandments* movie, congratulatorily
+clasping my arms behind my back, as if this was my ark, my own
+creation; that I had, through my sheer accumulation and arrangement
+of these objects, some part of creating them. Actually, back then, I
+am sure that I thought I had created them, at least in the form of
+the configuration I was looking at, and the Bartles & James tasted
+sweet going down my throat, and with my room clean and vacuumed, I
+would lay on my bed, jerking off.
+
+
+
+## Denial
+
+| It was at the Queenvention
+| summer of \'91
+| when I met the old ladies
+| with the pasty photo albums
+| old 45s pressed binders
+| videotapes stuffing their purses.
+| We sat in hotel rooms
+| off the northeast extension
+| and drank Pennsylvania
+| wine, admired Freddie Mercury
+| and Brian in the lights
+| of their hometowns, smelled
+| Roger\'s real tiger skin trousers.
+| What we didn\'t know.
+| A hotel caterer grabs me
+| in the video room, she shakes me,
+| really, and asks *What in God\'s name
+| is this?* I ask back: Haven\'t you heard
+| crazy little thing called love? *Oh, yeah,*
+| she says. *They still around?*
+| I pull her aside
+| to make sure the Russians
+| don\'t hear her. We look
+| at the new pictures, the ones
+| with the thin body draped
+| with thick sweatshirts.
+| *Will they ever tour again?*
+| asks one. And I was always
+| of the consoling mind,
+| defining God by what he doesn\'t do.
+| His impotence is His mercy,
+| and so forth. This, however,
+| didn\'t wash with the ladies
+| of the Holiday Inn. *He\'s just
+| getting skinny, is all.*
+| We danced that night,
+| haunted by the snapshots,
+| we hugged, huddled
+| round the boombox
+| for the message from London.
+| How they wished
+| they all could be there.
+| The proud ladies and I retire.
+
+
+---
+
+
+Am I the biggest Queen fan? Certainly not. When I joined the Queen
+International Fan Club in 1982, the newsletters were full of pictures
+of fan club conventions, thousands of people taking weekend vacations
+to watch videos, play trivia games, play tug-of-war, trade rare 45s.
+All of this happened in exotic locations-Belgium, South America,
+Brighton. Anywhere but America, it seemed. So I kept to myself with
+my collection of 12 albums, 20 singles, and the few American rock
+magazines that mentioned Queen at all. Then I would go out high
+school parties, listen to Van Halen, new wave, Blondie 45s, Billy
+Joel, and Phil Collins, as if that was the outside world, and my room
+was another.
+
+One afternoon in 1984, when my parents were out, I called the Fan
+Club in London, using the phone number from the album jacket of *The
+Works.* Ostensibly, I wanted to ask about my membership renewal, but
+I also wanted to talk to someone else who actually liked my favorite
+band. I would announce myself---\"Hello from America!\" ---ask the
+man who answers about the weather, if a band member had been around
+that day. *Of course they hadn\'t,* I thought to myself, scoldingly.
+But of course I had to ask: *the man on the phone being so much
+closer to them.* Getting down to business, I inquire about my poster
+and new fan club newsletter, which I had yet to receive.
+
+I say something about how I feel like I\'m the only fan in America.
+
+\"Would be nice to live in England, where everyone\'s a fan,\" I say,
+mopingly. \"Well,\" the English-accented man says on the other end.
+\"We did have another person from America send something in,\" he
+says off-handedly.
+
+\"Really!\" I say. I am excited, panting. \"Who?\"
+
+This could be someone I could correspond with, without running up my
+parent\'s phone bill. Maybe, just maybe, it was a woman, killing two
+birds with one stone: my love life and my cultural exile.
+
+He looks up the person. \"Yes,\" he said, flipping through papers.
+\"And that person\...that person\...is\...*you*.\"
+
+Both of us paused at this, the brutal, Spinal Tap pity of this, the
+newest single, \"Hammer to Fall,\" failing to even dent the charts in
+the U.S.
+
+I don\'t think I ever felt so alone.
+
+
+# Doug Rice: Because the Night,  from *Skin Prayers*
+
+
+ 
+
+
+*\"Because the Night\" was written out of a struggle to understand my
+own uncertainties about gender and desire. For me, this battle has
+always been sexual as well as religious. Traditional forms of
+discourse-the memoir, realism, and so on-fail to engage in or express
+this indeterminacy. I, thus, had to discover a language and syntax
+that could express the confusion of the central character. I have
+never believed in my own sex (that of a biological male) nor have I
+felt that I am a woman \"trapped\" inside the body of a man. This
+queer space of my own \"becoming\" demands different structures of
+representation.*
+
+-------------------------------------------------------------------
+
+**As a child** I often awoke in the middle of the night startled by the
+noise of blood in my body. Found myself lost inside burning dreams of
+walking across the sands of the desert. Footprints dead in the wind.
+Fingers pressed hard into my temples. I refused to believe in any of
+this. This, my body. The stories told behind locked doors. Hungry to
+be yours. Bare legs streaked by the cold air of winter in Pittsburgh.
+This mistaken tongue began, without words, searching for the
+derangement of some other body. Unfaithful words spoken aloud from my
+mouth. Words, refused by gods and demons, thrown out against the dark
+into strange bodies reflected on the bedroom wall. In the corner I
+saw God standing in fire. There, I saw God. Silent. His awkward
+elbows and jaw. An open invitation to my own mortality. In the
+beginning before the flood of language my blunt fingers explored this
+body, mine, which I had been ordered to ignore. Curious about the
+torn skin at the precise moment when I came to know that God sees all
+and follows me. Into the attic. I climb wooden stairs. God leaves me
+forsaken, father places his hand on my shoulder but I only see a
+reflection in the mirror of some dear dead memory. Feel his cold body
+close behind me. His gray hand trembles against the beauty of the
+mirror. My belly warm and soft. When I try to move, the ropes
+tighten. Into me. My father cries. Spilling blood and skin onto the
+hardwood floor. I fall down on my back. The weight of God holds me to
+the earth. Paralyzed in time. In some countries this is the sign for
+the awakening of love. My thighs like the threat of open scissors. My
+lips tremble. Speak, why does he not speak? So much dust.
+
+I was taught to fear monsters under my bed, bogeymen in the walls,
+and angry angels hanging upside down from the ceiling. \"They will,\"
+Daddy told me, \"bite off your toes and toss them into the
+Monongahela River.\" Mother flicking and flicking the light switch.
+Three times. Me begging her to turn off the lights. Be done with it.
+She stood in the shadows of the doorway chewed away at her nails.
+Between her teeth. Pulled them off her fingers. Spit them onto the
+floor. In the morning my feet bleed. \"The monsters will carry you
+off to hell,\" mother warns me. \"In hell, you can\'t ever be a
+girl.\" I keep my eyes open, wide-awake, deep through these godless
+nights into mornings riddled by junk madness. In stillness, not a
+breath, not a word of this to anyone. I wait never to speak for my
+father to come home from work. Every minute, every night, I wait for
+my father. He with his body uses his body. The one God had given him
+at birth. In the name of his body, he interrupts my isolation. He
+takes away my weariness. I never cry. Not once. I never shed a tear.
+He likes that about me. I have heard that others have died because of
+their tears.
+
+Nine years old. 1966. The naked throat of a child. Cracked lips dry
+and peeling. Born choking.
+
+These guilty lips, mine, opening, stuck inside prayers of becoming a
+girl. For my father. So that he need not use his fists so often. So
+that his anger is more quiet. More gentle. Touch and let me touch
+you. I offer him each desire of my body past before I became known as
+a boy. She calls me her infant. But that is a dream, or it is years
+later and we are in some parking lot in California. Her teeth are in
+my collarbone, but this is my father. Now I lay me down to sleep.
+Each night I lift my voice, whispering up at the plastic flesh of
+Jesus nailed to a wooden cross. Forsaken body of childhood. Grace of
+the Savior, my father. In his arms I want him to hurt me. To beat my
+disobedient body into sudden desires and thrash my soul into some
+unknown language. More. To want more. His knuckles in my blood. In
+the image of. Stained hands and cold knees. I hope to be left alone
+on some riverbank. Discarded. Abandoned beneath a bridge on the
+Southside given over to the circle of homeless drunks sitting around
+their fires. Their warm hands lighting my flesh. The burning prayer I
+can not say. His lips on my lips her lips I remember. My back pressed
+into the bark of a tree. Pray. This flesh, mine, my soul to keep,
+haunted day and night by stunted freaks and biblical plagues. Locusts
+near my eyes scratched their way into my dreams. The Lord. Never,
+Grandma warned me, again and again, never look directly into the open
+mouth of God. If I die in the eyes of God before I wake. Apologize.
+Say it. You must. Say this, the cutting of your body, into words. My
+sore mouth close to the feet of Jesus. A droplet of wounded blood,
+perfectly round. Forgive me, Son of my Father. Pray without cutting
+into your skin the Lord. No. I do not fear the boys in the
+neighborhood. The ones spitting on street corners. I only fear
+displeasing you. My soul this pain in here to take. Every single
+night small men with dusty skin sneak through my bedroom window, wake
+me from nightmares, from God\'s breath with their mad tales and
+pointy fingers. Seven screaming horses. Their voices, pain escaping
+from the shadows. Breathing their voices into my bones. I could not
+see myself dressed in these clothes. Drunken nights on a boat. I
+never did come to know their names, to understand how they had
+traveled from the old country through the forest. Just one more
+lonely night. Pinned and wriggling on the wall of a sawdust hotel.
+These men with their uncontrollable betrayals mixing memory and
+desire spoke in tongues of a world out past Babcock Boulevard.
+Carried rumors to me of a land that was somehow not Pittsburgh. Me,
+silent and still, in my barren bed all alone filled with waiting.
+Glow-in-the-dark familial lines of blood being worn away by the
+passing of each minute. My mother\'s alarm clock on the night stand
+breaks into my bones. One by one. This rib then that one. Ticking my
+body into a nightly ruin. My all alone, nearly dead eyes, squeezed
+shut. Desires of my body unable to forget those foreign fingers
+pressed into my neck. Those tiny men plucking my eyelashes. Each
+morning, my eyes inside a pain of not wanting to see. Cramped
+muscles. Hot and hard. Tendons torn out of joint. All night long. And
+I wanted to be entered. Dreamt of being entered the way any woman can
+be entered by any man. With the passion of Jesus wandering through
+the desert, I tried to push my eyes back into my soul. Push my eyes
+so deep down into the inside of me that I would make myself into
+becoming blind. Wordless. Invisible girl in this decayed bed. The bed
+that my grandmother escaped from sometime in the late 70s. She had
+fled, screaming uncertain names, into the forest. Words flung loose
+from between tight lips. White knuckles. I stared up at the
+disappearing white of the ceiling, watched as God turned against
+Satan, the teeth of Eve through the skin, believing that if I looked
+hard enough beyond original sin then I could lift my body right out
+of my bed through the ceiling straight into the sky. My hands balled
+up into tiny fists. Frail fingers and prayers. Shouts into the street
+at a disappointed God. Parasite girls in the far off and long ago
+tugged at my lips. Sheets held to my chin. This throat, my memory of
+speaking, raw and empty. Without a scream. His desire, mine. Her
+fingers close to the secrets of lonely eyes. Bodies in motion but
+never in flight. Perpetual motion. Once she had told me that bodies
+at rest are compelled to remain at rest until another force acts upon
+them. In them. Break me open. The other side her mouth. The making of
+her will. Her forehead cracked the light. Wanting desire. Quiet.
+
+Every night forgetful neighbors prowl around the shrubbery in our
+backyard, try to steal glimpses of my body through the window. My
+mother wants me to say in words why these neighbors circle our house
+each night, fumbling around, kicking the dog, waiting their turn. She
+wants me to explain my mouth to her. The meaning of life: to take it
+in your mouth. Swallow. Close to dying. A death deeper than any
+darkness visible. My mouth the slum of your wretched desires. You
+break my teeth with your lies. Cut the corner of my mouth with a
+knife. You are that big. I lift the blinds, stare outside at these
+neighbors. The ones with all their eyes, trapped, looking in at me.
+Blinking through the blindness, I search their bodies for signs. The
+window locked shut. My mother seals the inside and the outside of my
+window with fresh caulking every day and night. She checks the nails
+she has hammered into the wooden frame of the window. Making certain
+that the window could never be opened. No air. Just to breathe. A
+breath. Outside, leaves moving. Concrete. The twigs of trees like the
+scratched bones of my soul. Soiled underwear. The mud of the river of
+my father. I keep my knees locked together and beg God to find my
+body unharmed. Forgive me my fingers. My belly warm beneath. Rising
+to his touch. Skin ripped through by the beginning, in the making of
+desires. I smell you on my body, Father. I say my word against your
+suffering. Try to make noises. I say your name. You refuse to hear my
+voice. Under your mouth. Say my name. You, then, enter me like a
+clumsy foreigner seeking a new home in unfamiliar streets. Your
+desire penetrates me here and there and here, again and again, until
+my own name becomes incomprehensible to me. Every night my father
+dreams. Sometimes his dreams make him speechless. Quiet mornings
+listening to the radio report the weather, traffic, sports, news. My
+mother moves from room to room turning on every light in the house.
+Even the flashlights. The nightlight in the hall.
+
+My father sits at the kitchen table sweating. The dead of winter and
+still my father sweats. Nearly dies twice from heat exhaustion.
+
+Day after day my sister stays alone in her bedroom. She is no longer
+one of us. She has abandoned hope and become an invisible memory.
+Divided by two. Tin soldiers and Nixon coming. In the summer of 1979
+she burned all her books. Said she would become a vegetarian
+mathematician with an attitude. Would disprove every single idea that
+Einstein had ever conceived. E=mc2, my sweet ass, she said every
+single night at dinner. My father would slap her across the face with
+his hard bones and make her go to her room for the night. Running
+down the hall, she would scream that she, from this day forth, would
+only have sex with animals. Only consent to wild, senseless fucking.
+Sudden and random.
+
+At night, this father\'s body became another anonymous encounter with
+my flesh.
+
+The dried, flaking skin of my fingers. Rotten flesh. Have you ever
+touched me in the winter? The miracle of her fingers inside my mouth.
+But she looked away. Picked at the bark of an old tree. For a long
+time I have been frightened of the uncleanliness of my Father. I am
+impure. I say, \"I am impure.\" My body, I longing for one warm
+night. One night of sleep. A way back inside where she forgets who I
+am. The dark room where there are no lights. Nails, inherited from
+ancient women driven mad against the moon and sons of fathers without
+speech, cut into my palms. I live inside this house of silence where
+no one breathes. *Not a word of this to anyone.* My voice joined
+those of the ventriloquists in the attic. But once there had been
+echoes. Noise from the streets of history. On the other side of
+windows and mirrors. Persistent memories locked inside some lonely
+cry to angels or deserted flesh against the walls in some back alley.
+Left in that alley without a crumb trail. Nothing to follow. No way
+back home. The policeman armed and ready looking into that alley at
+me. Watching. Waiting for me to make my next move. Hands and boots
+alert, waiting. Men in shirt sleeves leaning on windowsills with all
+sorts of things to say about the Promised Land. Sauerkraut and
+kielbassi. Rotten beer and cigars. My father gets me drunk again. Old
+men in the shadows stare out at me. Look into my eyes little boy.
+Come. I try to forget my name. Blisters. Cold sores. A mouth alive
+with pain. I can barely unzip his pants. The scar on his thigh
+terrifies me. He stands solid. Unmoving. Not even flinching. Smokes a
+cigarette. Thinks of anyone but me. I keep thinking that he will fall
+over on top of me. That he will die. Or that I will die. But he just
+closes his eyes. Dreams. And neither of us seem able to die. My knees
+hurt. Stone cold heart of gold. We go on living as if nothing is
+happening. His pants at his ankles. Young boys turn their pockets
+inside out and shrug their shoulders. Brilliant colors in the palms
+of their hands all on fire. Offerings from nearly dead street gods. I
+buy a stairway. Look left then right. Always look left first.
+Grandmother logic from the old country. Knock on the side door to the
+Piano Bar. These, my winter fingers, pick at the open diseases of my
+infant skin. Cook up some damaged dreams. Mad bubbles boil on a
+narrow, tight spoon. The needle takes on an eloquent life of its own.
+I tap a nearly invisible line. A shot in the skies. Another lost
+angel. My eyes burn white. Red scars. Infected memories. Rashes of my
+spirit. Blood and blood. Skin of skin. Twisted hands. I cried beneath
+my desire. I will not move from here until you have restored the
+inside of my throat. My fingers I dip into the Holy Water. Receive
+communion down into me with loving you. Small lips opened and
+waiting. Interrupted by kisses. Each night more desperate than the
+night before. \"Just one more time,\" I hear him say. I cover my
+mouth with my hands. Try not to breathe so much. Afraid I will awaken
+God. If only for some water. If only some water beneath this red
+rock. My skin dried by the sun. Rocks. Rubbing. Toil. He pulls my
+hands away.
+
+My only begotten mother, oddball woman, this mother lived the life of
+a stranger to my blood. A woman unknown to me. A deaf woman off in
+the distance. Always forever standing in the doorway but never once
+entering my room. Frozen eyes. Nothing better to do. Watching.
+Silenced lips cursed my birth. Dry mouth. Moving her feet against the
+carpet. Static electricity with no place to go. Her soul lost in the
+colors of some forgotten desert. Misshapen words. Crippled mouth
+knowing only the lies of alcohol burning her bed. Told me
+once-upon-a-time I would never be a girl, a real girl, the kind men
+die for.
+
+ 
+
+
+I creep down the hall. A hallway so dark that each time I walk down
+it, I suffer the joy of amnesia. Forget my name. Connect nothing to
+nothing. My sister, not me, trying to say I. This is my body to
+follow the will of the Father. Once my father made me sleep in mud.
+Rain. God makes it rain and the earth turns into mud and me unlocking
+the door I enter the house. My body leaving marks on the kitchen
+floor. God\'s soil. Wet. Footprints. Toes in the carpet. In my sleep,
+I open the door of my parents\' room. I always wanted to be a good
+girl. Steal my father with a whisper. Take him away from my mother\'s
+body into the shadows with promises of kisses. I drag him through the
+dark corridors and up onto my bed. Pull off his clothes. And he
+begins the punishing of me for having eyes too much like my
+mother\'s. My hands on his back. Fingers digging into his skin. To
+die with his red blood under my fingernails. To swallow him. His cum
+inside me. So my body will become a witness. I throw my head back.
+Tossed scraggly blonde hair. Dust. Blind ancestors. Holding tight his
+strong body. Desire in my hands. Gave me his love and my hatred. I
+rub my lips. I rub these lips. My lips. I rub my lips. Wild and free.
+Fear. Keep silent as before and before that. There are no stories of
+my silence. I catch my breath. Hold still. Wait. Skin. My eyes burn.
+Salt words, grandma called them. The desires of the body are tears. I
+shed these tears onto the hard floor wanting you. In some other life
+she told me there were rumors of maps. Told me that concrete was not
+impossible. My eyes drifting. Out of me. Follow the white lines.
+Across the mirror I breathe in the mad suffering mysteries of angels.
+Drag the angry burn into my blood. Teresa and I call it bone surge.
+Away from me. I look away from all that is happening to me. Searching
+for roads, paths that lead into the woods. Dull morphine desires.
+Wanting. Want. Something. I stare into my open hands, her blood, and
+try to remember desire. She had bleed onto my fingers. Flushed
+forehead in dead heat. Spit from my mouth, from someone, on her skin.
+Mixed with the red of her cut. I put my lips to the center of the
+palm of her hand and kiss her blood. My body feels dry. Or I feel my
+body is dry. Broken wrists. The back of my head against the wall. The
+knees I spread. I give into you. Naked hand on the thigh. The other
+holds the whip. You will listen to my voice today.
+
+I remember my father could not talk in my bed. Night after night, my
+deaf and dumb father cracking open my forehead. Burning into my
+bones. His elbows in my flesh. Fists everywhere. Purple morning skin.
+My wrists, twisted behind my back, small in the traps of my father\'s
+hands. Burning Indian. Blemishes of a father\'s hurried love.
+Promises made, spoken in spit. Every inch of him on top of my skin
+and bones. Him. My father weighed 183 pounds. This, my body will
+never forget. Sometimes he weighed more. Sometimes less. His knees
+slightly above my knees. His chin down on the top of my forehead. For
+years I practiced breathing into his neck. His sweat on me. One day
+my father died. But that, his death, comes years later. Or maybe it
+was yesterday. I make marks on the wall. Counting something. Days.
+Nights. Both. Or desires.
+
+
+
+
+# Elizabeth Robinson: Sleep is the Only Durable Narrative
+
+
+
+| A person is falling asleep.
+| There is some delay while the body shifts. Breathing
+| slows. He is
+| apparently asleep.
+| But then he moves again.
+| Legs above the blanket, legs below the blanket.
+| The changes in rhythm are interminable. But this
+| is the story.
+
+| Sleeping itself. When he is
+| finally asleep, the body can resume
+| remaking itself or
+| call on a project of outright fabrication. He doesn\'t
+| know his own story, except as he respires it.
+| Cells re-coat. Dreams are irrelevant. Connective
+| tissue lengthens, glossing itself.
+
+| He is a wonderful entity, finally
+| voiceless and productive. Except were he
+| to fall apart in his sleep, a possibility
+| that has its own unity.
+
+| This is mostly a string of overlapping
+| events gone unwitnessed. Unless someone
+| who cannot go to sleep is lying there too.
+| She goes through similar shifts and
+| sighs. What validity does
+| his sleep gain
+
+| by virtue of her not sleeping--- She decides to notice
+| his repose; she decides not to.
+| She considers that she is eavesdropping
+| somnolence, but it\'s not so
+
+| in a tale that cannot be permeated. Corpuscles
+| mending themselves. Insomniac,
+| she confesses that she is eavesdropping
+| her own unmaking, awake. This is not
+| an anti-story, but an alternative.
+
+| White lights come in through the window,
+| begging a source. Now the frazzled body
+| rears up, claims that light as more than immanent, dying
+| to spy, at least, on some body. However atomic
+| or abrupt.
+
+
+
+# Jono Schneider: From *The Parable*
+
+
+
+## Working Notes
+
+###  WRITING THE TELLING\'S WANTING
+
+*Reading this excerpt from **The Parable**, what comes to mind is the
+uncertainty of the \"I\" that is speaking, that wants to speak the
+speech of narrative, the speech enacted by writing. Narrative is a
+story, but to focus solely on the object is to diminish the subject
+that tells even as the subject is writing the telling. And this
+telling is a wanting to tell that is also the telling\'s failure. The
+telling fails to achieve the aim of the wanting and diminishes the
+story being told, but not the wanting. All the while the voice of the
+invisible speaker grows louder, deafening the reader with the sound
+of words babbling over into writing. French literary theory calls
+this babble* desire*; in **The Parable**, this desire is part of the
+opening, is what opens up the story\'s opening to the reader, the
+hole in the fabric of the story allowing writing to shine blankly
+onto the narrative of character. \"Of that I can be sure\"---with
+this phrase the main character is the only plot. The speech moves
+somewhere, introduces two additional characters than that of the
+narrator, two colleagues, but they are the reason the narrator has a
+story for the reader by way of the tone of his words, which gather up
+a serene severity like the light in a Bergman film. The narrator
+speaks as long as the speech s/he makes convinces the reader that
+silence is the only possibility. The additional characters only serve
+to distance the narrator from the rest of the world framed within the
+speech being made, the world that this speech unfurls and thus uses
+to gain the reader\'s confidence. It is this confidence that the
+story elicits, but only at the reader\'s behest: \"the meaning of
+this is unclear,\" as in \"still caught in an approach---and this
+approach is a parable which I am writing.\" I would second the idea
+of narrative as something that approaches a subject, that approaches
+language even, but does not touch it, and this subject\'s being
+untouched is what **The Parable** radiates outwards towards the
+reader. As in Polanski\'s **The Tenant**, the narrator goes crazy
+because he\'s alone in a room---the total devastation of narrative,
+what makes writing jump into the still air.*
+
+-------------------------------------------------------------------
+
+
+
+**He had judged me**---of that I can be sure. His back faced me, and his
+head was bent slightly forward; I could not hear what he was saying.
+He did not stand up when I entered, though the meaning of this is
+unclear, since it was she who had invited me to join them. Perhaps he
+felt that I had interrupted them; they were, after all, talking in
+her office, not his, meaning he had approached her because he must
+have needed her confidence. I had broken that trust with my
+appearance at the door; I shouldn\'t have come in at all had the door
+not been open and had the sound of their voices not reached me in the
+hall. I had other duties to attend to---this is true---but I was
+unable to begin, and when I heard their voices, I sought them out to
+forget these duties. A simple conversation with one\'s colleagues
+often helps one to pass over the entire world in silence, and I
+longed for the communion with others my work so rarely provides.
+
+I was dressed horribly, and, by the way in which he looked at me, I
+knew that he was glad that I was wearing the clothes I did: this set
+me apart from them. He lowered his eyes when I sat down and kept them
+on the ground for quite a long time---I had looked away, and I am not
+sure when he finally raised his eyes to meet, to almost meet, mine.
+My clothes bothered him, that was to be expected. I had tried other
+clothes on, earlier, but I felt false in them, as if I were lowering
+my voice to emphasize my authority, thus calling attention to my mere
+lack of it. No, these were the clothes I must wear, and these were
+the clothes I would be judged in; if these clothes added to the
+severity of his judgment---well, I would readily accept that. I spoke
+too much---this is also true---but how else could I have spoken? If I
+said too little, then he would rush in and fill up the space between
+the three of us with his silent judgment, and when I spoke, his look
+silenced me as well, impressing upon me the fact that I could never
+say enough for him. His silence, which he expressed calmly with his
+mouth, where he hung a slack smile, further silenced me, so that I
+spoke more quickly, more urgently than I felt or would have liked to
+feel. Yet I did not feel anxious; I accepted his dislike of me
+because it was the easiest thing in the world for me to return. I did
+not hate him---let me be absolutely clear on this fact alone---but I
+could have hated him, I found it easier to hate him than even my own
+clothes, which I admit were horrible: frayed at the ends, ill fitted,
+and ballooning out from my body. Surely no one could take me
+seriously in them.
+
+He seemed concerned with me. He was not speaking to me---he would no
+longer look in my direction now that my speech---my stuttering and
+stunted soliloquy---had ended, although now it is easy for me to
+think of what I should have said, what kind of person I wanted him to
+think I was, and what kind of person I was when I was alone. I wanted
+him to know how much I cared---not about him, to care for him would
+have been going too far---but how much I cared about life itself, by
+which I meant the people for whom I worked and to whom I spoke and
+would always be speaking, the people who were the reason for this
+meeting---but I had entered the room to listen to him speak about his
+own experiences in dealing with them. Even though he was now
+speaking---and he was looking directly at her, he had moved closer to
+her, their knees were almost touching while I had somehow pushed my
+chair further into the corner---even though he was now speaking only
+to her, and I couldn\'t hear what he was saying, she was looking at
+me, she was smiling, she had liked what I said. Yes, she liked me
+very much. She thought I was intelligent, an intellectual. Yes, an
+intellectual. But I could not make him turn around, I could not make
+him face me. I wanted him to tell me if he had eaten.
+
+\"But I\'m eating now; we\'re both eating now, don\'t you see?\"
+
+I saw no food on the table---but the table had just now appeared, or
+it had just been cleared---and their mouths were moving words, they
+pushed words through the air---perhaps these words were being tested.
+I could hear these words now---perhaps the words were being
+tested---they were faint against the table and the door, they were
+talking only of work, of speaking, and how to speak soundly without
+raising one\'s voice. She was not eating---she was looking at my
+pants; I had at least taken care of them: I had ironed and pressed
+them, I had scrubbed until all the stains had disappeared. But I was
+sweating now, and he had all the advantage for it. I was smiling, I
+mimicked his smile and flashed it back at him, she smiled, we were
+all smiling---but our faces no longer expressed happiness. I felt
+slightly sick, but I was still hungry, and the fact that I had not
+lost my appetite caused me to cry out---now I was feeling slightly
+giddy.
+
+\"I\'m now on my way to eat---\" I stepped towards the door.
+
+\"But won\'t you join us?\" She was holding out her plate of food to
+me.
+
+I took it; he handed me a fork. I would eat, which would give me the
+opportunity to listen; they were letting me in to listen, but only if
+I kept my mouth still, which meant I had to fill it with food, and
+that I would have to stop thinking. I was an intellectual, and I may
+have had many thoughts which I needed to tell them, but for now I
+would have to eat and be grateful for my work.
+
+-------------------------------------------------------------------
+
+
+Gratitude was a state of being, a condition, towards which he
+aspired, I could see it shining on his face and reflecting back at
+mine as he strained to choose his words. His voice was deeper than
+mine, but he had no advantage over me because of it, as she kept
+looking to me after he finished each point to see if I approved of
+his ideas. Although I thought that his intelligence was limited---and
+I still think this, although my certainty is surely slipping---I
+sought to credit him; his dislike for me registered itself in the air
+among us, and I struggled to keep my breathing even and measured by
+grasping irregularly at the air with my mouth. He spoke, and he would
+always speak, first.
+
+\"But you should eat more slowly! At the very least you should know
+that!\"
+
+She had opened the windows. The air was slow in coming, but when it
+finally reached me, I already felt that it had calmed me and that the
+difficulty had passed. I had dropped my fork, and I saw my own face
+reflecting back at me from the floor, mirrored by the prongs of the
+fork that now lay at my feet. He was inspecting my shirt; I had left
+my shirt untucked because I could work more easily without it stuffed
+into my pants. He handed me a napkin and resumed, his talk easily
+inflated by this gesture he had made only for me.
+
+\"One should always be present. Yes, at the very least, one should
+face one\'s responsibilities!\"
+
+His hand had taken my plate away from me. How very odd this seems to
+me now, I must say, for just as I had earlier seen no food, I had now
+grown quite hungry, and I had no other desire than to lift the fork
+from the plate to my mouth and back again. It seems to me that it was
+only when I had begun to eat with emotion that he became interested
+in clearing my plate, as if his manners masked a deeper, more
+mysterious motive. He had turned his back to me again, now he was so
+close to her as to be whispering. Her face had contorted at his
+unexpectedly close approach, and I thought I noticed him trying to
+comfort her. My discomfort was not caused by his hatred---this I can
+clearly understand, had I been him I would have acted with less tact,
+that is certain---but from his attempts at co-opting her into his
+hatred, which only furthered my desire to destroy her. But I did not
+intend on lifting my hand against her; what I needed was to get her
+away from here, I needed him on his own to make him understand what I
+was saying, why I sat the way I did, why I liked the food I did, etc.
+But as long as she was there, trying to speak to him on my behalf, I
+would have no opportunity to teach him about me; as long as she was
+there, he would continue, he did continue, to look at her, to desire
+her approval, which, as all three of us were aware of, she was
+lavishing upon me because she was an intellectual as well. He might
+have also been an intellectual had he not spoken in such earnest, had
+he not let his need to have someone else support him rise so clearly
+to the surface of his speech. Yes, my speech had failed badly,
+miserably, but I spoke with the detachment of a man who has yet to
+have said, who is still to think, what it is most important for him
+to say. His speech, you will say, was more honest, more in earnest
+than mine; here I will not hesitate to agree with you. But I had not
+been trained to be honest---I had been trained, I should say, in
+policy, and having learned policy to the point where I could
+endlessly elaborate on it in terms of form, content, and commentary,
+I was fearful whenever conversation required that I venture beyond my
+training.
+
+I wanted to continue eating, but it seems to me now that it was
+clearly impossible to do so; as I said, his hand had taken my plate
+away from me. But more than that, it was the way in which he was now
+speaking that made eating impossible, for he had placed my plate---
+he must have filled it again after taking it from me, for I was so
+hungry that I had cleaned the food off of it almost immediately--- he
+had placed my plate on a small filing cabinet just to his right,
+where he had also laid his glasses aside, and now he picked them up,
+although he didn\'t put them on his face---he kept kneading them with
+his fingers while he launched into a new speech about the endless
+dedication to one\'s work and how this dedication must be final, the
+endpoint of one\'s goals in life. He spoke about the future and how
+it could be filled with nothing but work itself and those whom the
+work served. He was furious now, he was no longer whispering, he was
+standing between the two of us, and the look on her face told me it
+was my turn to act by replying to his emotions with the logic,
+reason, and wit of an intellectual, but I was too preoccupied with
+the food that he was keeping from me to think with the clarity that
+his vicious speech demanded me to return. But it seems to me now that
+this is an oversight on my part, that I could have easily stepped in
+front of him and grabbed the food while he continued, and that he
+would have thought nothing of it, because he was too involved in
+other actions: he was mutilating his glasses, twisting the frames
+into shapes that resembled the faces he was making at the time he was
+speaking to emphasize this speech and the time that it took away from
+us. I very well could have done this, which tells me that if this
+action was possible, then I must have done it, for I have learned
+that one does what it is possible for one to do in any situation and
+no more. So this is what I must have done, since my clothes had
+already disarmed me \-- although I was happy, perhaps I even felt
+ecstasy, in them. I reached across him and took back my plate, but
+the food was cold, and I ate it hastily and without pleasure, meaning
+that this moment, as did the others, belonged to him, and he had
+invented it purely to vex me and cause my immediate dismissal.
+
+But I did not withdraw---if you read the transcripts, you will
+clearly see this, there are three voices on that tape. It was she who
+kept silent for most of the remaining time, smiling when I pointed
+out options that he hadn\'t yet considered, and pulling her mouth
+taut when he derailed the conversation with anger. The tapes tell the
+truth, that is why I carry my recorder in my pocket. How was I to
+know that he was taping all of this as well, and that he would hand
+his transcriptions into the committee before I had even been given a
+chance to listen to his tape? I was cautious, yes, and I had seized
+the opportunities that were available to me, but I had not foreseen
+him. In fact, I knew next to nothing about him before entering the
+room where they had been quietly talking, I had gone in there to see
+her, but having heard two voices, I was, as I said, quite
+anxious---too anxious, it is now clear--- to be a part of a
+conversation which I was confident I could add---and learn from, and
+yet I wanted to defend myself before any rumors had begun about me.
+You will say that I am nervous, that it is my nerves--- and I am
+quite the nervous type, I will not deny this---but I have found that
+it is better to circumvent what is said about one than to wait for
+the speech to arise and become writing, or policy, as they say. They
+say this, I know, because now I can hear them talking in the room
+adjacent to the empty cell in which I am writing this, and I have
+heard them say this word---\"policy\"---no less than ten times in the
+half-hour that I have been able to overhear them. Surely, you will
+say, that ten times in half an hour is not that many times for a word
+to be said--- once every three minutes---and this is true, but in
+relation to all the other words that I can make out, this number is
+quite large, since they have repeated not even one of those other
+words, other than my name, which I hear said at the beginning of each
+sentence, and they argue knowing I am listening to them speak, and
+they do not care.
+
+-------------------------------------------------------------------
+
+
+He had handed me a toothpick---I am certain of this, else how would
+they have found it in my pocket later, after everything had come to
+an end? I remember thinking that I was surprised at how sharp it
+was--- it seemed to me that someone had intentionally sharpened the
+toothpick to keep me from putting it in my mouth---and perhaps this
+was what he had done---instilling fear in me: fears of my tongue
+being cut, my speech being disabled, and my eloquence being reduced
+to a whimper. So I put the toothpick in my coat pocket, and I put my
+hand in my pocket from time to time to make sure I had not lost or
+forgotten it---if I knew anything, it was that I could keep this tool
+in perfect condition, I would prove to him that it was possible that
+an intellectual could take care of the body. She did not receive a
+toothpick, and while he handed one to me, I saw the look on her face
+indicate a change in the room. Now the window was wide open, the wind
+brought fresh air into the room, but she had changed, too---his
+gesture of offering me something that was his and his alone,
+something that preceded this meeting, had excluded her, and from that
+moment on she was lost to us. I was very happy---I will even go so
+far here as to say I was ecstatic, and the traces of this feeling are
+still with me now, for it was no longer my responsibility to get rid
+of her, a job I had feared from the outset because I had thought that
+whatever I would do to her would not escape him, and I didn\'t want
+him to know, or to guess at, anything else about me besides what I
+had already told him. He may not have initially intended this effect,
+but he surely could not have failed to notice that she was gone, she
+was leaving, she would be leaving, and even if she didn\'t move from
+her chair, we both knew that she would neither speak nor look at us
+for the remainder of the afternoon. She only looked down at her
+hands, alternating this with a look at the floor, successfully
+avoiding us, no doubt, but only because she had to avoid us. So now
+we were entirely free to say whatever we needed to.
+
+And yet I soon missed her, for the talk was a tougher climb than
+ever, as he asked me to repeat myself several times, and more than
+that, to define certain words for him. Really, I was defining
+everything for him, he couldn\'t understand me, and because I was an
+intellectual and he was not, we had no language in common. And I was
+straining, I was at my very limits---limits which it has, you must
+know, taken me years to build and even longer to expand---and it
+seemed as if my words would no longer hold me. I thought back to the
+quality of the speech between the two of them before I had
+entered---there was something remarkably easy about it, as if there
+were no need to test the value of language itself because their talk
+was not rooted in ideas. No, they were merely two people talking, and
+they still talk this way as far as I know; it was my speech, the
+speech of an intellectual, that was the voice of another, the voice
+that suggested others. But here you will point out that I have said
+she was also an intellectual--- this is true---but she was only an
+intellectual when she needed to be, when the situation demanded this
+of her. This demand arose out of my presence, since any other speech
+handcuffed me and angered me to the point of irrefutable testimony in
+the form of logical arguments or \"auditory editorializing\" as I
+like to call it. I have only this term to introduce to the world, and
+when I told him of this discovery (my new way of working), he scowled
+in disapproval and then launched into a prolonged battle cry that
+exemplified my technique better than any instruction manual I could
+have written for my employers. By hating me even further, he had
+miraculously understood me more fully than those for whom I had
+created, and still dictate, policy; I had done this to make him
+obsolete, and now I was in need of him even more, while I became an
+intellectual at an even higher level, and I spoke to him from an even
+more acute distance, than before.
+
+I am now well aware that there are still many questions that I am in
+need of answering, and yet I press on because I must ask still more
+questions in order to be fully prepared for the final inquiry which
+may take place at any time, including the past. I can feel your
+impatience on the other side of the page, but I urge you to calm
+yourself, for the obscurity of my documentation hardly approaches my
+own impatience and the harshness which rises up in me from
+suppressing this patience each time I try to move ahead too quickly.
+Perhaps you can think of me in the following terms: if you are asking
+me a question, I am asking the same question to a dead man who is
+still dying, a man who has never been ill, as his illness has not yet
+reached him, it is still caught in an approach---and this approach is
+a parable which I am writing.
+
+ 
+
+
+# Kathy Lou Schultz: Chapters 5, 7, and 8 from *Some Vague Wife*
+
+
+ 
+
+
+## \"Both And\": A Statement for Narrativity
+
+*Bob Glück gave me back the sentence, a line of elastic stretching
+across the page. I had stood at the edge of the lyric and fallen in.
+I had swallowed the lyric and choked on it. I had been lured into the
+lyric\'s boudoir and slammed my elbows against the walls just trying
+to turn around. I was out of metaphors.
+Though I still engage the lyric, writing in prose allows me a kind of
+freedom to explore the nether regions of sexuality and gender, to
+stroke the unnamable places, to crack my head up against the jagged
+edge. My world is troubled by \"either ors\": straight or gay, male
+or female, black or white, poetry or prose. I\'m lodged in the cracks
+between them, dynamiting my way out.*
+
+-------------------------------------------------------------------
+
+## 5. Adjustable Perches
+
+My boy-girl princess all groovy this evening, sharp with elbows and
+shoulder blades. Desire across boundaries too sharp to cross. 24
+hours of comfortable heat.
+
+Our skins slide across. Sweet-cheeked girl peck. A baby\'s unformed
+milky bones.
+
+A pact to reflect daily resonances. \"I miss you,\" means \"Do you
+miss me?\"
+
+A cupboard and a roof. Rough wooden shelves soaked with white paint.
+The smell of oil flares our nostrils.
+
+Your hand encloses mine, ratifying physical laws when you dismantle
+me step by step. My weeping fresh and startling, you contract your
+awe-struck mouth. Anticipatory like the smell of rain.
+
+The temptation to bring you inside, where the light slants across my
+desk, warming my pale skin. Afternoon lassitude of linguistic junk.
+White boats across the lake.
+
+Returning is a grand gesture emphasizing departure. When I finally
+lose sight of you, the earth still suspends my body in its animation.
+
+My freshly parted hair still damp from the morning, when you turned,
+wanting me, all sleepy-eyed softness.
+
+The road ahead craggy and distant multiples our longing, my breath in
+hiccups, false stops until we find the wave that continues.
+
+We proceed as if finding bread crumbs on a trail.
+
+The containment I experience through your matter-of-fact nod proceeds
+outbursts designed to unloose your fibrillar emotions. Dichotomies
+which bore me.
+
+What\'s the gift, the partial barter, which promotes our stasis---you
+waiting for disintegration, and I for a stable distance. I can accept
+your intimacy in your absence.
+
+Words an elevated foreground, everywhere falling fictive, furious
+scatter shot. I slip the pellet underneath my tongue, hidden in an
+enclosure of human temperature.
+
+In our shared understanding, there are few formulas to interpret this
+new-found wound, wound round characters you describe as real. Goals
+program the future requiring the abstraction of my body in front of
+you.
+
+Time telescopes individual events, cheating clarity. Metaphysical
+photos, faces sunk in relief. For now, kiss me in the way I remember
+and let us look into the light of the morning.
+
+ 
+
+## 7. Bait and Switch
+
+Or simply that it\'s me and not other other. Even if it is.
+
+Dodie turns up the \"D\" in degenerate. The irony that fucking
+boys--- not girls---made me into a first-class pervert. I laid claim
+to his dick like it was my own---a rightful part of myself gone
+missing. This one said he couldn\'t fuck me without getting
+emotionally involved. He could clasp both of my wrists in one muscled
+hand. Prone, I lay on top of him, my body floating on an island.
+
+In a semi-trance state he discovers his desire to kill his mother. He
+says, \"Many women had paid for what you have done.\" In fairy tales,
+Mom is always to blame. My left thumbnail refuses to adhere. If I
+were to fall in love, I\'d have to bring the white trash with me. I
+hide my guilty desire to spend long periods of time alone.
+
+Of course, when I wanted something, I always knew it. The very
+intensity of my desire keeping it out of reach (or so I believed).
+She kept herself from fear or disappointment by turning off her own
+desire completely---while I was filled voraciously with need. Greed,
+while unbecoming in a woman, is prized in men.
+
+Another claimed that my very presence increased his need to be more
+\"manly.\" He opened doors for me, refused cute pet names, and fucked
+me righteously.
+
+My body demanded something to show for itself. Writing is thievery,
+as in stealing time.
+
+Anxiety is a sticky substance infused with fear. Dollar for dollar.
+Or, for instance, poverty. My own collusion in bourgeois appearances
+bleeding me dry. The need to be seen or recognized outweighing other
+emotional vaunts. Every song he laid in my ear keeping my mouth and
+nose above water.
+
+But respiration takes place in lack of desire. Once your head hits
+the floor, the body resumes intake and expiration. The old in and
+out.
+
+Anger, not sex, is what makes a girl really bad.
+
+ 
+
+## 8. Epilogue
+
+Her indestructible thighs. A vertical line going south. From belly
+button to pubic bone. Brand-new scar.
+
+She wears high heels like in dreams. Stunned. Apostate.
+
+I could have said he only fell for tragic women, but I was falling
+for tragic men. You know, their darkness, their pain. \"You light up
+my life, you give me hope, to carry on,\" Debby Boone was singing to
+me.
+
+I turned to my girlfriends. They had strong shoulders and clear
+thoughts. Wedged in the back seat, her arm brushed against my breast
+and rested there.
+
+A man who saw the world through film, but experienced a lack of
+vision. A man I encounter through dailiness, through habit. A man
+with the hands of my father.
+
+Distance spreads. Across your lips.
+
+Your hips move me. Hand in glove.
+
+Pink. Drawn into the skin. All summer. Or all winter. Scripted. Cut.
+
+Rushing headlong in with the body and checking positions later.
+Velocity.
+
+Or when his dreadlocks were a lot less polite looking. That it was
+all fair game. Down to the very last vowel. Avowal.
+
+Two loulous wrapped rapt in bed sheets.
+
+Baby\'s got Mingus Fingers. All around and through me. To thrill me.
+
+Baby done gone and you know it know. Something to show for. Here and
+before now. Baby done proved it.
+
+All in a groove now. Here and before now. Oh, baby, you knew it.
+
+Girl to girlness reveals a surety surfeit. Our beliefs clamoring for
+real estate.
+
+Churl. Countryman. Highlander.
+
+Every possible apology or minimization. Privation. Dilation.
+
+She dressed with her back to him, then left the motel room and walked
+down to the water. Bare-legged and bare-armed in her cotton jersey
+dress.
+
+She had a sense that the dream had ended and she had slept on.
+Further and farther. Up and away.
+
+The first time he entered me he said, \"I think we\'ve got a match
+baby,\" and I sealed this sentence in my heart and swallowed the key.
+
+Unmatched by, \"I think I\'m falling in love with you, you
+son-of-a-bitch,\" and later this made me smile, laughing at myself.
+
+What she was staving off or holding out against. A grammar of
+indeterminancy. A cold water walk-up.
+
+She had watched them in supermarkets and knew the signs. All the
+indices of the idle lonely.
+
+Happiness came like an unmarked box without directions. She kept
+trying to catch herself in it, afraid it would pass without her
+noticing.
+
+Inscribing my language upon him. Brush strokes along the abdomen.
+Purple-black nipples. Smooth, round ass.
+
+Endless expanse of what if. Figure brought into fruition. A thorough
+dressing down. Round or through me. A voice on the wire.
+
+Or if I wrote \"wife.\" Rife. Theocracy. Meritorious.
+
+Mercy. For the woman\'s clandestine, zippered heart. Miles I have
+come before you. Previously unknown.
+
+Everyone got what he came for. A schedule to rival the master\'s.
+Departures and arrivals. A vagabond. A conductor.
+
+Miles I crossed the desert for water. Previously alone.
+
+At the end of it all a ringing phone and she does not rise to answer
+it. It twitters at the edges of her sleep.
+
+Verboten. Far gone.
+
+She wonders if this will be one of those evenings when something
+unimaginable would occur. And the language used to describe it later.
+
+What he was willing to do for her, and the sexiness of that.
+Eroticization of her pleasure.
+
+He covers the receiver with his palm and turns away.
+
+I arranged everything and at the appointed hour the three of them
+arrived. Before any words were spoken, I recognized him by the sound
+of his breathing.
+
+She drove her new BMW up to the GoodWill and was confused by the
+people staring. I smiled and tried to act \"natural.\"
+
+I was the second man to fuck him. The first he met while he was still
+in school. \"Don\'t you go to UCLA?\" It was a kind of code.
+
+At the end of the day, his body a destination. Miles on a train I
+have traveled postponing pleasure. Our voices hang in the air, I
+touch myself.
+
+Miles I have traveled to hear his breathing. Loudly overtaking him in
+sleep, a comforting wheeze which lulls me.
+
+Prone. His locks falling forward across his face. My dick gets hard
+just looking at his ass.
+
+There can be no question or assumption. The girlfriend in L.A. The
+fits of rage or depression. The unshakable self-centeredness. All
+waiting to be read like a dime store novel.
+
+My narrative spins out like a car in the rain.
+
+Our lives a careening that could have taken us anywhere. The sheer
+random force of it underscoring her belief.
+
+She weaves a web of talk. Contentment, stranger to this snare.
+
+Used to desire, but uncomfortable with need. She covers her head with
+the blanket to keep from shivering.
+
+The whiteness of my arms practically glowing in the dimmed light, up
+against his dark, supple skin.
+
+When I fucked him, a high, clear-pitched sigh rang out from his mouth
+each time he exhaled. \"Go easy, baby,\" he said. And I withdrew my
+dick, softly, gently exploring his ass until I gave it to him once
+again harder. He tossed his head back sharply, his locks raining off
+his face.
+
+Fists of wanting. Emboldened by grief. A world apart. Of frost.
+
+No sooner than. No later. Had she walked to the door. Bereft.
+
+Solidity in solitude. A place in the life cycle. Searching on hands
+and knees. He fucked me so hard that I bled. Four fingers in my cunt,
+nearly a fist.
+
+\"What I feel for you now is all I will ever feel for you.\" And
+ever. A straightjacket.
+
+Given to histrionics. Or expected.
+
+Protected more than risked.
+
+Stutter. Choke. Recede.
+
+My arms a fortress.
+
+Each flag in a field.
+
+The harder my dick, the wetter his pussy. The deeper I fucked him,
+the more open he became.
+
+
+
+
+# Aaron Shurin: Narrativity
+
+| ©1990 Aaron Shurin
+| First Published by Sun and Moon Press
+| 6148 Wilshire Boulevard, Gertrude Stein Plaza
+| Los Angeles, CA 90048
+
+| *This essay was first delivered as a talk at Painted Bride,
+Philadelphia, June 1989.*
+
+-------------------------------------------------------------------
+
+I\'m interested in the utilization of both poetic and narrative
+tensions: the flagrant surfaces of lyric, the sweet dream of storied
+events, the terror of ellipsis, the audacity of dislocation, the
+irreversible solidity of the past tense, the incarnate lure of
+pronouns, the refractability of pronouns, the simultaneity of times,
+the weights and balances of sentences. I\'m interested in lyric\'s
+authenticity of demonstration and narrative\'s drama of integration;
+lyric, whose operation is display, and narrative, whose method is
+seduction. I describe a set of binary terms across which I see
+writing passing an exchange of values, and it becomes a multiple
+texture/text---writing in just those created tensions between surface
+vocalic tangibility and referential transparency; between theme and
+emptiness, measure and interruption, the eternal present and past of
+memory/future of dream; all present, all heightened, operational.
+Such conflated writing would be worthy of Barthes\'s definition of
+the text: \"not a coexistence of meanings but a passage, an
+overcrossing; thus it answers not to an interpretation, even a
+liberal one, but to an explosion, a dissemination.\" [^1]
+One seeks to be out of order, to shiver out of
+subjectivity, to shake off the mask of the material and to shimmy in
+its arms, to finally retreat from logic and advance by radial
+maneuvers, gathering meaning. \"To break the sentence,\" says Rachel
+Blau DuPlessis---and here the sentence carries its overtone of
+imprisonment without parole---
+
+rejects not grammar especially, but rhythm, pace, flow, expression:
+the structuring of the female voice by the male voice, female tone
+and manner by male expectations, female writing by male emphasis,
+female writing by existing conventions of gender---in short, any
+way in which dominant structures shape muted ones. [^2]
+
+One looks for alternate methods to proceed, to use and subvert the
+codes at hand: stanza, line break, character, plot, point of view.
+
+In \"The New Sentence,\" Ron Silliman suggests ways in which the
+prose poem has used combined and measured sentences to interiorize
+poetic structure, foregrounding language operations and surface
+values in a writing mode---prose---whose usual form is the syllogism,
+building structures of projection and depth. \"The torquing which is
+normally triggered by linebreaks,\" he points out, \"the function of
+which is to enhance ambiguity and polysemy, has now moved into the
+grammar of the sentence.\" [^3] The paragraph as a
+unit of quantity and the sentence as a unit of measure, altered
+sentence structure, controlled and limited integration: these devices
+begin to conflate the values of poetry with those of prose. Other
+writers have pursued not just prose but narrative prose, and
+foregrounded narrative codes to awaken a reader\'s attention to
+process as well as result. In his novel, Jack the Modernist, Robert
+Glück uses metaphorical and metonymic litanies side by side, showing
+off the writing as writing as he demonstrates that the devices are
+not mutually exclusive.
+
+I grab his cock, unpromising, and he says in mock bewilderment,
+\"What\'s that?\" As it hardens I answer for him, \"It\'s my
+appendicitis, my inchworm, my slug, my yardstick, my viola da
+gamba, my World Trade Center, my banana, my statutory rape, my late
+string quartet, my garden god, my minaret, my magnum opus, my
+datebook, my hornet, my Giacometti, my West Side Story, my lance,
+my cannon, my nose-job, my hot dog, my little sparrow, my worm on
+the sidewalk after a storm, my candle, my Bic, my unicorn, my
+drawbridge, my white whale... [^4]
+
+and on for another sixty substitutions, \"my cyclops ... my Venus of
+Willendorf ... my Dark Tower.\" Four pages later the elaborative
+metonymic process of prose takes over from the comparative
+metaphorical process of poetry.
+
+My troubles were too numerous to consider all at once, their sheer
+quantity defeated me. My mom would say, \"Write a list, get a
+handle on your problems, deprive them of their active ingredient,
+time.\" So I found a clean page in my yellow legal tablet ...
+Nuclear catastrophe, destitution, famine, additives, melanomas,
+losing face, U.S. involvement in El Salvador and Nicaragua, Puerto
+Rico, South Korea, Chile, Lebanon and Argentina, war in the Middle
+East, genocide of Guatemalan Indians and extermination of the
+native peoples of Brazil, Philippines, Australia, answering the
+telephone ... toxic waste, snipers, wrinkles, cult murderers, my
+car ... [^5]
+
+Though these are both descriptive processes, they are not
+transparent; the reader is aware of being in a list, enjoys the
+ingenuity of elaboration and substitution, is held to the surface of
+the writing at the same time she is integrating the lists into the
+larger structures of the story. Speaking of description, Alexander
+Gelley writes,
+
+This kind of stillness in the narrative may be likened to islands
+of repose for the reader, moments of collection. The hold that the
+level of plot, speech, and action exercises on him is loosened. His
+attention may wander, but it may also adjust to a changed mode of
+apprehension. I am suggesting that the more circumstantial the
+description and the more separate from the narrative in which it is
+embedded, the greater will be the reader\'s part, and the more he
+will be forced to assume a stance for which the narrative proper
+offers little support.... When the familiar codes of narrative are
+blocked or diverted, reading/writing becomes problematic, and the
+subject of/in the narrative shifts from the characters or the
+author to the reader.... [^6]
+
+This problematization forces the reader to ask questions, to become
+active in the role of reader, and Glück reinforces this tendency by
+confronting the reader directly in his stories, \"You\'ll understand
+my fear,\" he says, \"because television has trained us to understand
+the fear of a running man;\" and, \"I can only give this story, which
+is the same as sitting with my back to you;\" and, \"Tell me, given
+the options, where would your anger have taken you---where has it
+taken you?\" By confronting the reader, Glück not only breaks the
+window of his narrative but creates and engages an audience, creates
+a social registration for his writing by direct address, by luring
+the \"real\" time of the reader into the \"dream\" time of his story.
+The foregrounding of devices and codes does not neutralize them, they
+are too full of historical determination, but it can ritualize them,
+or expose their ritualization; reveal them not as necessities but
+constructions---open to change.
+
+Writing might use narrativity without succumbing to its hegemonic
+orders of linear development, unity of time/tense---and apart from
+the modernist reconstructing modes of memory and dream. A prose whose
+paragraphic groupings themselves might be based on measure, whose
+higher integrations might be thematic or associational rather than
+developmental. \"How tenacious is our happiness!\" says Kevin Killian
+in Shy. \"Unlike narrative, it invents and eludes itself from moment
+to moment; it lacks conventions; its shape has no outline, its formal
+properties those of the cloud---numinous, portentous, hungry....\"
+[^7] And then goes on to produce a narrative with
+properties of the cloud, numinous and hungry, where characters search
+for themselves alongside the writer as a character himself, where
+persons encounter each other but never stoop so low as to engage in a
+plot.
+
+The ceiling was gray and smooth as the beach that Gunther Fielder
+lived by. Flat, and peaceful, the way that \"now\" is without a
+past or future to rock it up any. He could focus on the gray and
+try to hypnotize himself, closer towards death. \"Do it,\" he
+demanded.
+
+\"My name is Harry Van,\" he said. It sounded so false.
+He said it over and over, didn\'t ring true somehow. Like somebody
+else who you couldn\'t remember. Well try again, something new.
+
+\"I\'m David Bowie,\" he said, experimenting. \"I have
+come to earth a space invader, hot tramp, I love you so.\" Oh that
+was so suffragette, trying to \"be\" a star.
+
+He\'d start again. \"Hi, my name is Mark the dead boy,\"
+he said with great difficulty.
+
+Yes.
+
+\"Are you Kevin Killian,\" he replied. \"Can I help
+you?\" Just like the Hot Line!
+
+These voices came out of his mouth from nowhere, between
+heaven and earth, this conversation developing like a photograph
+pulled from its tray full of crystal chemicals. Emergent.
+[^8]
+
+These voices attack the proposition that characters or author must be
+unified presences, and suggest that self itself may not be locatable
+along such a monochromatic line.
+
+He is telling you now a story about narrativity, he is telling her
+story. She finds the story as she looks at each other: so many faces.
+She is crossing gender from the start, she wants you to know she is
+Elizabeth Taylor---and has the Halloween photos to prove it. He is a
+boy playing Puck in a high school production of A Midsummer Night\'s
+Dream wearing ballet slippers forever. \"I have died and am in a
+novel and was a lyric poet, certainly, who attracted crowds to
+mountaintops.\" [^9] I come after Robert Duncan but
+before Norma Cole. My name is
+\"Broiling-Days-In-A-Little-Patch-Of-Shade.\" \"For better or
+worse,\" says Flaubert,
+
+> it is a delicious thing to write, to be no longer yourself but to
+> move in an entire universe of your own creating. Today, for
+> instance, as man and woman, both lover and mistress, I rode in a
+> forest on an autumn afternoon under the yellow leaves, and I was
+> also the horses, the leaves, the wind, the words my people uttered,
+> even the red sun that made them almost close their love-drowned
+> eyes. [^10]
+
+\"Voice,\" \"Person,\" \"Point of View\"---always singular---propose
+a unified filter through which events may be organized, and as
+filters screen properties, screen out toxins and tannins and pieces
+too big to fit neatly. But pluralities are possible. \"I see only
+from one point of view,\" says Lacan, \"but in my existence I am
+looked at from all sides.\" ^[11](#WC11)^ []{#text11}Pronouns are
+known as shifters because they are by nature unstable linguistic
+units, referring not to people but to moving circumstances of speech
+and audition, visibility and perception. As such they are fictional
+opportunities; unlike names they permit a character to be subject and
+object, to ride the Wheel of Person, speak and be spoken of with
+equal weight, inhabit simultaneity. Here is a poem from Alice
+Notley\'s sequence, \"Congratulating Wedge\":
+
+| No I wouldn\'t know why anyone would
+| want to write like that. I should never
+| have had to do it. We were used to this
+| other thing we always know like when we\'re
+| here. And you have this clear head and you\'re
+| seeing things and there they are. You don\'t
+| notice they\'re spelled. That\'s how you
+| know you\'re alive. I never saw you
+| looking like a dictionary definition and if I
+| did I wouldn\'t tell nobody. People
+| aren\'t like that. They say, Hey
+| asshole motherfucker turn that radio
+| off! But the sun\'s playing on it! But
+| it ain\'t real, you dumb package!
+| I recognize every package the way it
+| comes. Now I\'m mixed up. But I
+| always wanted to be a package, person
+| thinks. Do they? Or, I gotta de-
+| fine this package, me. Or, God if only
+| I was a package but I\'m not.
+[^12]
+
+What are people like and what method correctly presents/represents
+them; from what angles are they constructed and who construes the
+angles into voice? In her mind as \"I,\" out of her mind as \"she,\"
+confronting or confronted by \"you\"; conspiratorially social and
+partial as \"we\"; part of one another, occasionally indistinct,
+certainly indiscreet, we are and we are not separate people. \"My
+premise, in general and in writing,\" says Leslie Scalapino, \"is
+that I do not think there is a man, or woman, or society, social
+construction; though it is there. It is not there.\" [^13]
+I have been marginalized as a poet, homosexual,
+counterculture protester, drug taker, transvestite and Jew; I am as
+interested in boundaries for what lies outside them as in. I would
+like to drop my \"characters\" onto the sharpened point of a
+gemstone, so that the radial fractures would illuminate a
+comprehensive pluralistic image.
+
+Syntax is the plot of the sentence, a systematic ordering of person
+and event, of who does what to whom and when and to what end. Encoded
+in its structure are a variety of fixed agreements that always end in
+a point (.) Who will speak for beside-the-point? Nouns and verbs must
+have parallel numbers, pronouns and verbs parallel persons; tenses
+must agree to produce time that resembles progression. Business
+conveniences that make of stories little prisons of discrete power
+relations with seemingly invisible walls. I am not talking about
+referentiality vs. non-referentiality; I\'m talking about how
+narrative referentiality might be better served. Gender is
+foregrounded and elementalized, digressions are trivialized, passive
+constructions frowned upon. As Sara Schulman points out, try to tell
+a lesbian story without names: she came into a room, she looked at
+her, she looked at her, she said---and aside from homophobia, what
+terrors would such unlocations unleash? Normative pronoun usage
+subjects self and other to power/dominance models of unity and
+authority, of he over she and it beneath them. For pure syntax there
+is Charley Shively\'s reduction of the phallocentric rule: \"the
+subject fucks the object.\"[^14]
+
+Here is Leslie Scalapino writing:
+
+> The young person living there, having an intense tortured as if
+> tearing in half pain in the middle, waking lying asleep, though
+> this had only occurred this one time. The day and night being free
+> of the one person, who hadn\'t had this tortured sharp pain as if
+> to tear her in half except this one time, the man lying waking
+> staying gently with her during it through the soft darkness and
+> then ending in the warm balmy day with the people around who go
+> down the street.[^15]
+
+Passive participial constructions which don\'t inhabit time,
+genderless and then confusing gender assignations, unlocated relative
+pronouns, erratic time shifts without one simple present tense: an
+amalgam of person and event that keeps elements suspended and active,
+\"an explosion, a dissemination\" of meaning. \"His mouth are
+everywhere,\" I wrote erotically in \"Honor Roll,\" insisting that
+the plural verb was truer to the polyvalence of desire.
+
+And I have neither a coherent story to tell nor can I cop a coherent
+attitude to give my voice a characteristic singularity. I was born in
+sleep and raised in sleep and wake up to find myself sleepwalking.
+The figures I know all have shadows; some figures are smaller than
+their shadows. In the first photo I am a soft blasted thing, mouth
+open tongue hanging, blotto. Six weeks premature, I was still \"in
+here\" out there. The world was unformed, coalescent. His story is
+the story of an intuited world, a story where digressions may be the
+point, where ellipsis is an accurate representation of what there is.
+
+This world in its order decomposes into air, simultaneously present
+and absent. A writing, then, of enmeshed simultaneities, which gives
+sufficient weight to its constituent presences so that they verge
+upon each other. The material relations of the Unknown. \"The stuff
+of the psyche,\" says Herakleitos, \"is a smoke-like substance of
+finest particles, that give rise to all other things.... it is
+constantly in motion: only movement can know movement.\"
+[^16] His story pulls the reader down from the
+surface of language not to rest but to ride back and forth between
+the manifest and imaginary worlds, among selves. \"I wanted to write
+a story,\" he begins, \"to talk about the outside world and escape my
+projections, but the outside world could not escape from my
+projections. I wanted to write not \'my\' story but \'theirs\'; I
+wanted to write about evil.\" He looks at his fingers to escape your
+accusations; a sunbeam deconstructs him into motes. He is happy
+dissolved there, and wants to write from such dissolutions, melting
+into the grain of his lover\'s nipples. He has no lover; he has
+entered an argument about narrative and political ruination. \"Tell
+me your story,\" he asks, and you do.
+
+Here in this dialogue writing relies less on information, as Walter
+Benjamin shows, than on the moral power of interpretation, \"to keep
+a story free from explanation.\" It is left up to the reader to
+\"interpret things the way he understands them, and thus narrative
+achieves an amplitude that information lacks.\"[^17]
+Here a fabricated house open to the wind is both a shelter
+and a sharpener of the wind\'s bite, a house of shadows and a moving
+shadow that resembles a house. Narrativity, the action not the thing,
+a happening semblance that is and is not a story, a gift given and
+taken away so that one must finally stand fulfilled by transgression.
+Narrativity, a process of integration not linear but aggregate,
+circular, partial---and so, complete.
+
+
+
+
+[^1:]: Barthes, Roland, **Image - Music - Text**, Hill and
+Wang, 1977, p. 159. 
+
+[^2:]: DuPlessis, Rachel Blau, **Writing beyond the Ending**,
+Indiana University Press, 1985, p. 32.
+
+[^3:]: Silliman, Ron, \"The New Sentence,\" in **Talks,
+Hills** 6/7, 1980, p. 214.
+
+[^4:]: Glück, Robert, **Jack The Modernist**, Gay Presses of
+New York, 1985, p. 27.
+
+[^5:]: ibid., p.32.
+
+[^6:]: Gelley, Alexander, **Narrative Crossings**, The Johns
+Hopkins University Press, 1987, p. 14.
+
+[^7:]: Killian, Kevin, **Shy**, The Crossing Press, 1989, p.
+103.
+
+[^8:]: ibid., p. 161.
+
+[^9:]: Palmer, Michael, **Sun**, North Point Press, 1989, p.
+83.
+
+[^10:]: Flaubert, Gustave, **The Letters of Gustave Flaubert,
+1830-1857**, The Belknap Press of Harvard University Press, 1979,
+p. 203.
+
+[^11:]: Gelley, op. cit., p. 27.
+
+[^12:]: Notley, **Alice, Margaret & Dusty**, Coffee House
+Press, 1985, p. 68.
+
+[^13:]: Scalapino, Leslie, in correspondence, 1989.
+
+[^14:]: Shively, Charley, **The Advocate**, \#342,
+May 13, 1982, p. 24.
+
+[^15:]: Scalapino, Leslie, **The Return of Painting**,
+manuscript.
+
+[^16:]: Herakleitos, **Herakleitos and Diogenes**, trans.
+Davenport, Grey Fox Press, 1976, p. 18.
+
+[^17:]: Benjamin Walter, **Illuminations**, Schocken Books,
+1969, p. 89. 
+
+ 
+
+
+
+
+# Brian Strang: the kingdom
+
+
+
+
+ 
+
+
+## On Narrative
+
+### 3:28am
+
+**The temporal element** of narrative humanizes, introducing history,
+biography and, therefore, mortality; as time is presenced, so is
+humanity and, so then, is the passing of time. What are the
+implications for the conceptualization of human history if, through
+temporality, pronouns become subjective and indeterminate, if
+temporal elements in narrative are disjoined or occur simultaneously?
+What are the implications if we are seduced by narrative, by the
+promise of passing time (in an eroticized dance with death), and are
+not led toward syllogism and deduction but discover, instead,
+induction, investigation, participation?
+
+Aaron Shurin, in \"Narrativity,\" proposes that \"writing might use
+narrative without succumbing to its hegemonic orders of linear
+development, unity of time/tense-and apart from the modernist
+reconstructing modes of memory and dream. A prose whose paragraphic
+groupings themselves might be based on measure, whose higher
+integrations might be thematic or associational rather than
+developmental.\"
+
+When liberated from plodding development, can narrative, loaded with
+its historical implications, move us away from the discrete series
+and veer toward witness, philosophy, discovery?
+
+-------------------------------------------------------------------
+
+## 2:48am
+
+Turn your face toward the back seat. Walk up the stairs to an
+apartment set in stone. Listen to the parking lot below. A man lies
+on the outside of a fence, exhaling. This is the view of others\'
+rooftops, making them into little pieces of pie. Rows of fluorescent
+tubes. On the islands of a nearly drained sea, turtles lie exposed
+and cracked roots tremble in a particularly strong wind. The mail is
+delivered with surprising accuracy down the storm drain. You\'re
+alarmed by the presence of gunmen in your hotel room.
+
+## 2:49am
+
+A policeman on the street looks through layers of glass. A very dead
+thing. Motion toward the approaching car. Now you would like to leave
+by way of the great hall. Strange ways and the lack of knowledge of
+local customs prevent you from negotiating stillness. Manage nothing.
+Reptile.
+
+## 4:58am
+
+Lying on the night flattened. Maps of territory barely existent.
+Pools cover the floor. A single drip from the middle of the air. You
+think this might be the kingfisher. Two figures in the middle of the
+room-translucent. Thin warmth of blue light in a very small town. As
+padding footsteps structure the quiet, a man looks from the top of a
+house. They lie in a casual circle sleeping on the ocean floor.
+
+
+
+## 4:59am
+
+He pats his suit pocket, fingers the traveler\'s checks in his shoes.
+Trucks begin to unload themselves all around. Drop off to sleep. Many
+floors up the windows are missing. Entry is enclosed. Water continues
+to drip.
+
+## 3:29am
+
+Walk below the surface and pick at the matrix of possibilities.
+Shifting focus, a spray of bubbles through water, padded air on the
+ceiling. A bent neck, S shaped, springs forward when needed, weeding
+out the sick and the old.
+
+## 5:13am
+
+Synapse. The kingfisher hovers. Get together. A crush of grace. The
+beats between are short. A real taste. A hand\'s distance from the
+floor. Wings over balconies, through glass. On the inside of the
+skin, very sweet and it becomes petrified.
+
+## 2:16am
+
+A car brings someone to this very corner. The greatest are able to
+brace themselves, to support a moving supply. This too is style, you
+think. Behind you in the car is a man. Turn around quickly to find
+the shell of a turtle. You tremble at the lack of knowledge, at the
+blue light. You\'re alarmed now by the lack of presence.
+
+## 4:22pm
+
+Click of ribs. Drone, repeat. Footbridge. Highway. Landing zone
+agenda. Corrective maneuvers. Unassailable.
+
+## 6:12am
+
+Dawn begins below the floor, sends razors, slits, leaves an overall
+impression. You concentrate on the phenomenon. The television
+presents you with a flat grey surface. Leave marks on the sandbar.
+Retract yourself as the tide rises. Deactivated bleakness. Wiggle
+your fingers as complexities weave into numb certainty. A fin is
+cutting through, toward equilibrium. Paths intersect. A car door
+opens. Apartments. Surprisingly nimble. Walk around inside. Retract.
+
+## 2:59pm
+
+Somnambulence. Funicular shoes. The growth rate is a recursive
+soliloquy. Some tetrahedral antipathy. Total shadow. Halitosis gloss.
+
+## 5:55am
+
+Unscathed, a memoir progressively installed. Move across the field of
+vision. Turn ash piles. Bristle with teeth. Bone worms make their
+paths. Spillover highway fanned out. Contrite motive. Recount sobs.
+Astonished circuits in a coma. Damp faces. The nerve protectants.
+
+## 2:12am
+
+Open the door onto the waves. Drop beneath tension to the street.
+Find your way along in the dark, fingering shells. Cling to a ledge,
+creating shelter, always watching what hovers, what makes you burrow
+in wet soil. The ceiling is glass. Peering from above. Under the
+gaze, crawl about your business. A great neck dips, picks morsels
+from below. At any moment. In the back seat of the car, in the
+security of a bed, on the street, beneath the surface, on a small
+island, in the bones.
+
+
+
+
+# Lawrence Upton: TRAN, from *EASY KILL*
+
+
+
+ 
+
+
+## Working Notes
+
+*Prose and verse are rhythmic-semantic structures; both are vehicles
+for poetry. The twisting space where the two meet is like a path
+which is often hard to find, variously rocky, earthy and grassy. Each
+kind makes particular demands and endows particular qualities.*
+
+***EASY KILL / TRAN*** *structures itself in paragraphs: significant
+breaks come, not at the end of lines or sentences, but at the end of
+paragraphs. Sub-structures are of variable length without there being
+a strong base rhythm. It is laid out accordingly.*
+
+*Thus, the decision is technical, no more, no less.*
+
+-------------------------------------------------------------------
+
+**Twenty seven men,** slightly unformed, enter the building at the ground
+floor. They move swiftly and smoothly, each minimizing use of space,
+as coins will as they slide from production machines into
+circulation.
+
+The group splits apart, rolling down corridors, rising up stairwells.
+Reason is not engaged; locks and bolts hold no one back. They are
+ruthless, even in the way that they sustain themselves.
+
+When they have finished, twenty five leave as they entered. Two are
+carried on stretchers, observed by a photographer who will be injured
+later; the film crew never make it home.
+
+He walks loose-limbed, does not drink and eats rarely. His skin seems
+beetroot-stained; his hair greys in slippery afternoon light.
+
+Is that your key? he asks, but his mind\'s not on the answer. Calm
+down, she says, but that\'s another conversation. The coffee\'s
+beginning to boil over.
+
+Charts on the wall hang loose on their drawing pins. He turns to sit
+and subsides into the chair, yet stays as bunched and clustered to
+himself as a primrose. He begins to read, slowly, mouthing some of
+the words.
+
+Gun emplacements fall apart. The cliff edges towards them. Roads
+widen; building spreads; red ants extend across the bottom field; the
+climbing rose gets rangy.
+
+A woman makes a big noise, kissing her child; most of it\'s
+pre-contact. The child responds with a startled pleasure yelp. A
+drill bit cuts through steel. She rubs her nose against the child\'s
+nose. Some moisture is transferred. I see it glisten as they pull
+back from each other. All the colours of the rainbow, says the woman.
+
+A glittering sphere swings with other reflected spheres below it,
+doubling on the glittering surface of the wet floors, reflecting
+against a wall. The spheres and their reflections merge.
+
+Day\'s lights come on. The hall is well lit now. It\'s almost white.
+Reflections make illusions of space, imaginary corridors between
+darker reflections.
+
+A bright empty day. Light from sea is brighter than light from rocks.
+Both make it difficult to see. Steps come out of clouds. Something
+which menaces hover\... more than two things, remaining one thing, a
+body with paws and emerging tongues. An almost-silvery watery day.
+
+A flock of birds, the letters of a shout, rising from a farm, among
+plants growing there, and form themselves into a line which they fly
+along. The sound makes several indistinct words, which form
+themselves variously into a scarecrow and a windmill.
+
+The scarecrow waves its arms in the wind and the windmill turns,
+speaking of something flying and something explosive and something
+breaking and useful rolling downhill, an old wrecked car in a quarry,
+a navigation aid, a broken sign on the headland, a set of tools
+spilling from a dropped tool box. A piece of soft paper blows through
+the complex\.... The wind drops.
+
+They are making this place their own, spreading their refuse! The
+walls are large and solid; but the inscriptions are unreadable and
+they find it hard to deduce purpose from the room structures -
+defensive walls and none of the subsidiary signs of defensiveness,
+contained areas and no utility to the containment. They think it is a
+temple. A break in the walls as if from external damage or geological
+disturbance; and, within that break, something that pulsed,
+unrecognizable, almost thoroughly decayed, webs of fibres, doubling
+of sight to no purpose and with no cause.
+
+A flag of torn words, things said, a string of them tied in a
+narrative that no one would or could believe, a verbal paling, a
+piece of song in prison, a humming through boredom made bearable by
+concentration; a flight of steps whose beginning and whose end has
+been abandoned, excavated; carved into the steps, letters believed to
+be contemporaneous with the steps, but not readable; a fence of
+broken words, torn from library books and official buildings, on its
+side, after violent wind; a series of shadows in the inner court;
+shells falling.
+
+A roll of bunting falls across steps and cascades open. Near the
+bottom, it spreads out and the figure of a man forms. He rises from a
+river and disintegrates. The river becomes slogans and the slogans
+turn into the figure of a man. This image breaks in several places.
+
+He looks into shadow, out of bright day, and sees black; a smell and
+a scuttling come out; the words of the tune he had been singing on a
+screen of temporary blindness; smiles form between words; loved faces
+and feared faces take on the words. Behind him, someone is calling
+smiles into his camera. These words too shelter in the dark place;
+lights in the head die\... The transformation ceases. It is still too
+dark to see; the sight is fading, light from the bomb bay as it
+opens; a city burning. It is black with no breath upon waters and no
+thing flying over; not night because night had a beginning and will
+have an end; not death because death flows out of living; not black,
+the colour, because that has some amelioration, some grey suggestion
+or a blueness so deep it does not seem blue; a silent black, loss of
+words, sizeless whole; closing of eyes to pain before pain without
+light filtered through eyelids, without memory of light; not any
+colour; but absence of colour, and absence of a meaning to the word
+colour, and absence of absence, because absence would imply a
+potential presence, or the light which brings a knowledge of the
+colour, absence of wave and wave length, absence of dimension,
+absence of genitive relationship, absence of knowledge of
+relationship; and absence of knowledge, a single tuple breaking as if
+dead wood if it were to exist, if there were a place for it or a tree
+to exist, from a tree without existence in the dark which has no
+existence. Look away.
+
+Blow backs through the headlights speckle the windscreen; a voice on
+the radio nags; the road disappears into a point; someone goes over
+the top and dives, only his hand sticking from the tumble into white,
+and water spills on the hard surfaces which would have seemed smooth
+and are now seen, unevenly, as the fall buckles and splashes from its
+downward. Caverns open in the hardness while rivulets flow into them.
+Dazzling blank spaces break out and then break. Surfaces seem to
+merge under speedy water. Voices bunch together and grow thorns we
+trip on.
+
+Voices regulate themselves and march multi-legged. Avoid them. Film
+runs in and out of sprockets, tearing and catching itself,
+projecting, another film than the one expected and the one filmed.
+Film as film, mutters the technician, sneering, as he joins broken
+sections and there is little hope that anything will have changed -
+except this copy of the film. He winds it backwards but the thing is
+tumbled in its reel.
+
+A water wheel turns double imaged in an unprecedented flow of water.
+Several stage lights stutter. A flint on a lighter sparks briefly and
+he blows smoke into the eyes of one trying to help him. Someone has
+spilt motor oil and it\'s everywhere.
+
+Leaves and red metal. A sheet of red metal, a field of green
+leaves\...
+
+Words painted with yellow paint on sodden fencing wood, fallen
+over\...
+
+Roots of a tree which has been uprooted, hanging over the hole it had
+itself made, displaced, and cut through straight eighteen inches up
+its trunk\...
+
+An old concrete platform towered over by flowering lupines\...
+
+A bus goes by\...
+
+A blue plastic crate\...
+
+At the top of the hill, several stories of reflecting glass throw
+back the hill and sky valley in unexpectedly-shaped segments,
+duplicating disarraying simultaneously\...
+
+A dovecote in slow process of falling down the side of a disused
+railway embankment, collapsing as it does so. Paint flakes from it.
+Water streaks it. Cobwebs fan out, catching and turning dim afternoon
+light. Runnels of earth where the soil is washed away. Broken white
+enamel, a matins bell, an upholstery armchair attracting flies in a
+village car park. A flattened beer can rolls a little way across the
+Aldwych in evening breeze. After a while it rolls not back but in a
+new direction on a bus wind.
+
+A man with a large beer gut and a cap over his eyes; a large black
+key; an hysterical person between headlights; testicles and heads
+hanging from butchers\' hooks; a hole in perimeter fencing; warning
+signs in empty corridors; a security guard exploding in gun fire; a
+woman reaching for the moon; a bus turning in a circle, on and on; an
+opportunity for metamorphosis; a clout hammer hard on a pair of
+hands; cash; hard on; a body buried beneath a crumbling floor with
+only its face showing; an unexpected fall; a shower of rain; a green
+olive doused in olive oil; a stretch of silver sand!
+
+A picture of a smiling woman, engineered to make her look younger
+than she now is; a bar of chocolate; empty seats; a digital display
+showing a binary code progression; a cave painting; a picture of a
+tomb; a smiling robber; levels of pain; an army unit; false images,
+including misleading images; row upon row upon row of a man calling,
+making excessive claims in a high-pitched voice; blue water inside
+words you\'ve used; a poseur trying to organize a trip, invoking the
+spirit of Columbus; two men rubbing their legs against each other\'s
+warily, fingering knives; a period of blackness; there isn\'t much
+truth in anything you say.
+
+Panic in the rowboats - there\'s so much steam hardly any of them can
+see what they are doing - and they speak frantically, aggressive, but
+no one gets hurt. They\'re trying to get aboard a large model boat.
+
+The sand is green and the sea yellow, all out of focus. He floats,
+somehow, in the cave. His feet are not in the sea, most certainly;
+but he cannot see his feet.
+
+No sound of sea. Jazz piano played fast. A spider swings on a web. A
+snail on a twig, dewdrops hanging from surrounding branches. Forest
+takes green from the beach. Which is sea? No sensation. A bit of
+forest is in focus. A forest with a yellow sky.
+
+Light white dust pouring through a down-angled window in a thick
+wall. A vast cello bowed by someone even vaster. She cannot see
+across the room. It\'s far too far. All she can see is the cello and
+a shadow of the player. Towards her feet, the curvature of the Earth
+distorts her body\'s shape.
+
+Two suitcases, wide open, sprawled across the living room floor,
+clothing items and other personal things hanging out of them; a
+vacuum cleaner cable, the vacuum cleaner tube turned over itself;
+there\'s hardly any place to sit; carpet predominantly red and brown;
+the people hardly real, as if remembered from a long while back;
+murmur and mumble of their voices, less clear the more one
+concentrates, less interesting the more one hears.
+
+A galleon upon the sea at evening, the sky black, running into gold
+and red, and then blue, as she looks across the hemisphere, a single
+bird, gliding, high up; distance collapses as the light goes, the
+whole fleet becomes a shadow and the shadow merges with the
+atmosphere between, called darkness; a light is on at the vanity
+table; a breeze lifts the curtains; the wallpaper gleams in the
+indirect light, a cloying smell of scent I can\'t quite place, the
+breath of someone.
+
+A black and white photograph lying semi-crumpled on the floor picked
+out in white torch light; bottom of a chest of drawers, a white strap
+hanging down; a man hanging from a ceiling beginning to crack with
+the weight.
+
+A green yellow blue parrot painting itself intermittently and
+cleaning its toes in a room got up in Turkish style; a video camera
+records events; sometimes the parrot consults notes and sometimes it
+seems to improvise; a potted fern sways as if in a breeze; the video
+camera hardens; there is a smell of damp; muffled voices at a
+distance.
+
+Freight yards stretch to the horizon; trains come here from all nodes
+on the Earth\'s surface.
+
+Bright light illuminates the public house opposite; but it is not the
+light of day, rather a video screen of bright colours.
+
+A trolley, high-sided, gloss black, building itself, two uprights
+standing upright, spinning round the chassis and assembling in a
+street of plane trees; some beggars, hands behind their backs, tied
+together, heaped over a tarpaulin at the side of the bright street,
+watched by a policeman who spits at them; the harsh wind blows into
+them; gloves with the fingers torn out; the police sergeant is trying
+to talk sense but he cannot make it; a man with a smart suit is
+holding up a framed mirror around and about which he plays find the
+lady; his suit is getting grubby; the wind up gramophone is slowing
+down; no one is paying any attention to anything; a woman rocks a
+marionette in a pushchair; the marionette is counting money; a child
+stamps in a puddle; in the puddle one sees a reflection of the moon;
+from the moon the Earth might look beautiful.
+
+Everyone stands in the raked seating and the coffin is wheeled slowly
+out of the hall to where, in the forest, someone has been
+demonstrating what a railroad looks like, using twigs placed
+parallel; a head is rolled down the tracks, bits of the throat still
+attached to it trailing, coagulating blood running out, the terrified
+face aware; it passes between my feet.
+
+Almost the entire body, distorted towards the top or dwindling from
+head to foot, a kind of homunculus, demonstrating a fish eye effect,
+follows its head without assistance. She stays calm, the body,
+sliding down this stupidly inadequate image; friction stops her; she
+begins to deteriorate and, as her elements separate, rage takes her;
+she bangs her hands upon the ground, she shakes and throws a silent
+tantrum, collapses into leaves from the bottom of a forest; nearby a
+bonfire has been started.
+
+A dark-skinned woman got up like a comic book sorceress brings down
+her arm in a line towards people who have transgressed. They fall
+into pieces, broken mannequins, and crumble into mouldy chocolate
+among strands of tissue paper.
+
+A scorpion spins on a sandy floor, chasing its own tail.
+
+Blackness crystallizes out of fog moving forwards. They track ahead
+of it, seventy, eighty miles per hour, shaded headlights, which drop
+as the car transforms, layer below layer, concertinalike, to a row of
+tumbling stacking chairs, in the very first instant of the tumble,
+eyes being shot from their sockets, bulbs and lampholders from
+lampshades, guts from torn bodies, presents dropped from Christmas
+stockings; and it begins to lumber like an early attempt to
+demonstrate the reality of the skeletons of giant animals; the
+road\'s been lost for ever; and the voice, not just falsely jocular,
+but sounding false as it imitates a falsely jocular voice, speaks:
+you turn upon your own centre like a paper spill.
+
+A male and a female walk together. He gestures to two male children
+following obediently, throws a scarf counterclockwise around her neck
+and moves forward striding high, features blotted out to protect the
+guilty; the film merges with and is taken over by a second film quite
+unrelated; the street is ended violently by cobbled nineteen
+nineties\' chic; a man walks a woman in a wheel chair up the centre
+of the street which ends at a sort of knuckle joint, asserting thus a
+vortex of cobble stones trying to force one away from further
+progress, cut into a portrait of a monstrous wide-armed Christ above
+a city and thence into a pasty white sun hanging in a mist; a silver
+screw dropping through a Victorian municipal glass roof.
+
+A foam cut out angel fights a cat; the cat\'s cut out, aggressive,
+back bent to give it power; the angel, hides within her string bag,
+the one expression she has appropriate because so ambiguous, a
+measure of concern, a measure of dismay, a measure of remoteness.
+
+A man sucking a sweet while he speaks apparently affably; an old man
+scratching his head, dandruff rising.
+
+
+
 
 
 

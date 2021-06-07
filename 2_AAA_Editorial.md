@@ -114,14 +114,14 @@ gleaming hollows, the serpentine trails of the moon.
 
 # Quotes from Camille Roy
 
-# Excerpts from \"The Storyteller,\" by Walter Benjamin[^i]
+# Excerpts from \"The Storyteller,\" by Walter Benjamin
 
 The art of storytelling is coming to an end. Less and less frequently
 do we encounter people with the ability to tell a tale properly. More
 and more often there is embarrassment all around when the wish to
 hear a story is expressed. It is as if something that seemed
 inalienable to us, the securest among our possessions, were taken
-from us: the ability to exchange experiences.
+from us: the ability to exchange experiences.[^cr1]
 
 One reason for this phenomenon is obvious: experience has fallen in
 value\... \[The nature of every real story is that\] it contains,
@@ -179,7 +179,7 @@ craving for the unknown, as it is held by the act of storytelling,
 points to death (or its substitute, the body). (Roy)\]\]
 
 
-## Excerpts from \"Fame,\" by Robert Gluck[^ii]
+## Excerpts from \"Fame,\" by Robert Gluck
 
 There are contradictory reasons when I use \"real\" people in my
 work, and the contradictions comfort me. Any literary practice
@@ -191,7 +191,7 @@ as a tonic for the loss of human scale; by naming
 self-community-story I participate in their disintegration, their
 progress from invisibility to something to be named and
 manipulated---to be reintegrated later in a new context, in a third
-term that history must provide.
+term that history must provide.[^cr2]
 
 Prolonged scrutiny can become an expenditure of self, a potlatch of
 self. I\'ve come to experience the unreeling of interiority and
@@ -232,7 +232,7 @@ re-examination of narrative premises becomes part of the practice.
 (Roy)\]\]
 
 
-## Excerpts from \"Paragraphs Blowing On A Line,\" by Gail Scott[^iii]
+## Excerpts from \"Paragraphs Blowing On A Line,\" by Gail Scott
 
 ### Entry 11:
 
@@ -240,13 +240,13 @@ She sees the present as a great tear, a great rip in the surface of
 things: the gap of which is at first impossible for her to move
 across (*\...does not thinking seek forever to clamp a dressing over
 the gaping and violent wound of the impossibility of
-thought\...[^vi] It is awareness of this that
+thought\...[^cr4] It is awareness of this that
 makes linear narrative impossible. A virtually tragic awareness, for
 the writing \"I,\" which modernists began to \"deconstruct\" as they
 recognized that gap (accepted to give up power) has, in her case,
 been \"deconstructed\" a priori by social conditions. She is not only
 split between the self and the \"real\", but also within the
-self\...
+self\...[^cr3]
 
 So the question becomes how to write across the almost \...
 hysterical \... overdetermination of her gaps\...
@@ -307,14 +307,14 @@ ideas that drive their practice. This journal will hopefully be a
 place that supports the development of that discussion. (Roy)\]\]
 
 
-## Excerpts from \"Interview with Carla Harryman,\" by Chris Tysh[^iv]
+## Excerpts from \"Interview with Carla Harryman,\" by Chris Tysh
 
 Tysh: \"The I expands,\" you wrote in \"Realism.\" In this age of
 decentered subjectivities, how do you deploy the narrative machinery
 of the \"I\" and the various sensibilities it is associated with?
 Could you discuss the techniques with which you defamiliarize your
 use of the first-person pronoun and in general address the issue of
-the speaking subject in your prose. Who speaks?
+the speaking subject in your prose. Who speaks?[^cr5]
 
 Harryman: My answer to this question is complex and leads to
 difficulties because I associate the I with power, control,
@@ -351,17 +351,19 @@ the self to the world is always troubling; it is never adequate and
 the I in its freedom is too willing to give up civility, a cherished
 element of comedy.
 
-[^i]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
+[^cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
 
-[^ii]: Glück, Robert. \"Fame.\" **Poetics Journal**, Number 10, June 1998.
+[^cr2]: Glück, Robert. \"Fame.\" **Poetics Journal**, Number 10, June 1998.
 
-[^iii]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women\'s Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
+[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women\'s Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
 
-[^iv]: Carla Harryman. \"Interview by Chris Tysh.\" Number 10, June 1998.
 
-[^vi]: Gayatri Chakravorty Spivak, Translator\'s Preface to
+[^cr4]: Gayatri Chakravorty Spivak, Translator\'s Preface to
 Jacques Derrida, On Grammatology (Johns Hopkins University Press,
 1976).
+
+[^cr5]: Carla Harryman. \"Interview by Chris Tysh.\" Number 10, June 1998.
+
 
 ## Quotes from Gail Scott
 

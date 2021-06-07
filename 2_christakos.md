@@ -3,11 +3,11 @@
 
 
 
-## From *Charisma*[^note1]
+## From *Charisma*
 
 ### Working Notes
 
-*Charisma is \"for the chorus of us.\" I wrote Charisma over a period
+*Charisma[^note1] is \"for the chorus of us.\" I wrote Charisma over a period
 of nine years, moving through and enervated by the political
 prescriptions of middle-class feminist academia; craning my gaze on
 women through the hourglass of my wounded relationship with \"mother,
