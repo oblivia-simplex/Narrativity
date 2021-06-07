@@ -9,7 +9,7 @@ FONT="Tex Gyre Pagella"
 LATEX="lualatex"
 #FONT="Minion Pro"
 
-all: epub mobi pdf2 html
+all: epub mobi pdf html
 
 outdir:
 	mkdir -p $(OUT) $(BUILD)
@@ -70,24 +70,9 @@ html: collate metadata
 
 
 
-pdf: collate metadata
-	cat $(BUILD)/$(BASE).md \
-	|	pandoc --standalone \
-			--lua-filter=filters/asterism.lua \
-			--lua-filter=filters/smallcaps.lua \
-			--lua-filter=filters/no_chapter_numbering.lua \
-			--lua-filter=filters/lettrine.lua \
-			--lua-filter=filters/verse.lua \
-	    --template template.tex \
-			-V lettrinefont=Zallman \
-	    -V documentclass=memoir \
-	    -V numbersections=false \
-	    -V geometry:a5paper \
-			-V asterism=$(ASTERISM_PNG) \
-	    -V mainfont=$(FONT) \
-	    -o $(BUILD)/$(BASE).pdf title.txt -
-# sed -i 's|\(\\hfill\\break\)|\\hfill\\break\\noindent%|' $(BUILD)/$(BASE).tex
-
+pdf: pdf2
+	# add the website mirror as a polyglot appendix
+	cat website_clone.zip $(BUILD)/$(BASE).pdf > $(OUT)/$(BASE).pdf
 
 metadata: 
 	sed -i "s/^identifier:.*/identifier: `git log -n1 | grep ^Date | cut -d: -f2-`/"  title.txt

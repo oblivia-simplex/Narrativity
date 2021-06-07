@@ -1,5 +1,5 @@
 ---
-title: Narrativity Volume 1
+title: Narrativity
 author: Mary Burger, Robert Glück, Camille Roy, and Gail Scott
 toc: true
 toc-depth: 0

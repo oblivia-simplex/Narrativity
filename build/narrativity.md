@@ -1,6 +1,6 @@
 
 
-mainmatter
+\mainmatter
 
 
 
@@ -1307,7 +1307,7 @@ devices--while at the same time (as I wrote in 1981) the metatext
 "asks questions, asks for critical response, makes claims on the
 reader, elicits comments. In any case, text-metatext takes its form
 from the dialectical cleft between real life and life as it wants to
-be."[^1]
+be."[^1_gluck_1]
 
 We did not want to break the back of representation or to "punish"
 it for lying, but to elaborate narration on as many different planes
@@ -1317,10 +1317,10 @@ must accept its relation to power and recognize that at present group
 practice resides inside the commodity. Bruce wrote, "When evaluating
 image in American culture, isn't it a commodity whether anyone likes
 it or not? You make your additions and subtractions from that point
-on."[^2]
+on."[^1_gluck_2]
 
 In 1978, Bruce and I launched the Black Star Series and published my
-**Family Poems** and his **My Walk With Bob**, a lovely book.[^3] In
+**Family Poems** and his **My Walk With Bob**, a lovely book.[^1_gluck_3] In
 "Remarks on Narrative"---the afterword of **Family Poems**---Bruce
 wrote, "As has now been apparent for some time, the poetry of the
 '70s seems generally to have reached a point of stagnation,
@@ -1328,7 +1328,7 @@ increasing a kind of refinement of technique and available forms,
 without yet being able to profit greatly from the vigor, energy and
 accessibility that mark so much of the new Movement writing of gays,
 women and Third World writers, among others. Ultimately this impasse
-of poetry reflects conditions in society itself."[^4]
+of poetry reflects conditions in society itself."[^1_gluck_4]
 
 We appreciated the comedy of mounting an offensive ("A critique of
 the new trends toward conceptualization, linguistic abstraction and
@@ -1379,7 +1379,7 @@ O'Hara, that is, O'Hara and community, a version of which was
 published in the first issue of **Social Text** in 1979. He joined the
 Marxism and Theory Group at St. Cloud which gave birth to that
 journal. Bruce also wrote critical articles (especially tracking the
-"gay band" of the Berkeley Renaissance).([^4]) Bruce introduced me to
+"gay band" of the Berkeley Renaissance).([^1_gluck_4]) Bruce introduced me to
 most of the critics who would make a foundation for New Narrative
 writing.
 
@@ -1440,7 +1440,7 @@ Cooper or the subway graffitists again) up the ante on this factuality
 by weaving their own names, and those of friends and lovers, into
 their work. The writer/artist becomes exposed and vulnerable: you risk
 being foolish, mean-spirited, wrong. But if the writer's life is more
-open to judgement and speculation, so is the reader's." ([^6])
+open to judgement and speculation, so is the reader's." ([^1_gluck_6])
 
 Did we believe in the "truth and freedom" of sex? Certainly we were
 attracted to scandal and shame, where there is so much information. I
@@ -1500,7 +1500,7 @@ Cooper's **Safe** there's a feeling-tone like a Schnabel
 painting:the ground's these fragments of some past, the stag, the
 Roman column, whatever---on them a figure that doesn't quite exist
 but would maybe like to. The person/persona/thing the writer's trying
-to construct from images---"([^7])
+to construct from images---"([^1_gluck_7])
 
 In 1976, I started volunteering in the non-profit bookstore Small
 Press Traffic and became co-director not long after. From 1977 to
@@ -1561,7 +1561,7 @@ friendship. In one poem, Bruce (and Montaigne!) wrote, "In the
 friendship whereof I speak...our souls mingle and blend in a fusion
 so complete that the seam that joins them disappears and is found no
 more. If pressed to say why I loved him I'd reply, because it was
-him, because it was me."([^9])
+him, because it was me."([^1_gluck_9])
 
 In using the tag New Narrative, I concede there is such a thing. In
 the past I was reluctant to promote a literary school that endured
@@ -1583,33 +1583,33 @@ mainstream, or into 19th-century transparency.
 
 
 
-[^1]: Robert Gluck, "Caricature," **Soup: New Critical Perspectives** #4, ed. Bruce Boone (San Francisco, 1985), 28.
+[^1_gluck_1]: Robert Gluck, "Caricature," **Soup: New Critical Perspectives** #4, ed. Bruce Boone (San Francisco, 1985), 28.
 
-[^2]: Bruce Boone, "A Narrative Like a Punk Picture: Shocking Pinks,
+[^1_gluck_2]: Bruce Boone, "A Narrative Like a Punk Picture: Shocking Pinks,
 Lavenders, Magentas, Sickly Greens," **Poetics Journal** #5 ed.
 Barrett Watten and Lyn Hejinian, (Berkeley, May 1985) 92.
 
-[^3]: Black Star published **He Cried** by Dennis Cooper and **Lives of the Poets** by Steve Abbott. The Black Star Series still publishes,
+[^1_gluck_3]: Black Star published **He Cried** by Dennis Cooper and **Lives of the Poets** by Steve Abbott. The Black Star Series still publishes,
 most recently Camille Roy's **Swarm**, and soon John Norton's
 **Re:marriage**.
 
-[^4]: Bruce Boone, "Remarks on Narrative," afterward of **Family
+[^1_gluck_4]: Bruce Boone, "Remarks on Narrative," afterward of **Family
 Poems** by Robert Gluck, Black Star Series, San Francisco, 1979) 29.
 
-[^5]: "Spicer's Writing in Context," **Ironwood** 28, Tuscon, 1986.
+[^1_gluck_5]: "Spicer's Writing in Context," **Ironwood** 28, Tuscon, 1986.
 "Robert Duncan & Gay Community," **Ironwood** 22, (Robert Duncan
 Special Issue, Tuscon 1983. Bruce's studies have led him to eastern
 religion---now he's a non-denominational minister specializing in
 caring for people who are terminally ill.
 
-[^6]: Gluck, "Caricature," 19.
+[^1_gluck_6]: Gluck, "Caricature," 19.
 
-[^7]: Steve Abbott, "Notes on Boundaries, New Narrative," **Soup: New Critical Perspectives** #4) 81.
+[^1_gluck_7]: Steve Abbott, "Notes on Boundaries, New Narrative," **Soup: New Critical Perspectives** #4) 81.
 
-[^8]: Boone, "A Narrative Like a Punk Picture," **Poetics Journal**
+[^1_gluck_8]: Boone, "A Narrative Like a Punk Picture," **Poetics Journal**
 #5, 92.
 
-[^9]: La Fontaine, "Perukes" (Black Star Series, 1981) 63.
+[^1_gluck_9]: La Fontaine, "Perukes" (Black Star Series, 1981) 63.
 
 
 
@@ -1650,7 +1650,7 @@ default simply because there is no other way actively to be here.
 bound to practice. In Latin, the root meaning appears to have doubled,
 manifesting an otherwise latent critical difference. There is at once
 *(g)narus*: knowing, expert, skillful; and *narro*: to relate or tell.
-([^1]) A fault---mine, and ours---runs thru the space between. *Fault*:
+([^1_halpern_1]) A fault---mine, and ours---runs thru the space between. *Fault*:
 deficiency, lack, scarcity; as well as slip, error, mistake. Also,
 more critically: *fault* as dislocation or a break in continuity of
 the strata or vein. *Here*, knowing is held in suspense and knowledge
@@ -1662,7 +1662,7 @@ one who tells. Here, between the overdetermined and the indeterminate,
 *narrative determines*, that is, it constrains and enables, just as it
 struggles and responds, testing the tension between knowing and
 composing. *Here, we make our narratives ourselves, but, in the first
-place, under very definite assumptions and conditions.* ([^2])
+place, under very definite assumptions and conditions.* ([^1_halpern_2])
 
 
 
@@ -1997,7 +1997,7 @@ equidistant from and coincident with I's every utterance. In relation
 to you, I's meanings are measured. Thus is I realistic without being
 real. Risking nothing short of love, the voice aims at "a particular
 absolute... it aims beyond particular objects to that 'something
-more' that exceeds them." ([^3]) That part of you that always remains.
+more' that exceeds them." ([^1_halpern_3]) That part of you that always remains.
 
 
 ## II. Politically
@@ -2212,7 +2212,7 @@ and intensify our desire for another way.
 
 
 And only by way of narrative might we unriddle "this knot of
-imaginary servitude that love must always undo again." ([^4])
+imaginary servitude that love must always undo again." ([^1_halpern_4])
 
 
 ## Bibliography
@@ -2248,9 +2248,9 @@ Press, 1977.
 
 
 
-[^1]: Hayden White notes this etymology in **The Content of the Form***.*
+[^1_halpern_1]: Hayden White notes this etymology in **The Content of the Form***.*
 
-[^2]: Frederich Engels writes in his letter to Joseph Block, September 21,
+[^1_halpern_2]: Frederich Engels writes in his letter to Joseph Block, September 21,
 1890: "We make our history ourselves, but, in the first place under
 very definite assumptions and conditions." Glossing this line in
 **Marxism and Literature**, Raymond Williams writes, "What this
@@ -2260,9 +2260,9 @@ agency: 'we make our history ourselves.' The 'definite' or
 of this agency: in fact 'determination' as 'the setting of
 limits'".
 
-[^3]: Copjec, Joan, **Read My Desire**, p. 148.
+[^1_halpern_3]: Copjec, Joan, **Read My Desire**, p. 148.
 
-[^4]: Lacan, "The Mirror Stage.*"*
+[^1_halpern_4]: Lacan, "The Mirror Stage.*"*
 
 
 
@@ -2271,7 +2271,7 @@ limits'".
 
 
 
-> _In my skull is an avenue I stroke_[^huntA]
+> _In my skull is an avenue I stroke_[^1_hunt_huntA]
 > 
 > --- Clark Coolidge
 
@@ -2285,24 +2285,24 @@ ill-marked, with many a false turn-off and many a false vista; one
 that is skewed out of proportion, that is frequently unsafe, almost
 always unsavory; one that is troubled by converging lanes, of which
 there are hundreds, that even resembles a parking lot in places and is
-probably haunted---_hell of a place_[^huntB]. And yet, [I,
-narrator][^huntC], stroke it, speak through its mess, speak of its
+probably haunted---_hell of a place_[^1_hunt_huntB]. And yet, [I,
+narrator][^1_hunt_huntC], stroke it, speak through its mess, speak of its
 mess, multiply it. It's an interesting dilemma---aspects of which are
 taken up in Adorno's seminal essay on the place of the narrator in
 the contemporary novel---the narrator, with no story to narrate,
-_narrates anyway_[^huntD], a story that has been blown to bits. Of
+_narrates anyway_[^1_hunt_huntD], a story that has been blown to bits. Of
 course not everyone sees it that way. We live in [an age of errata, of
-misinformation, of disinformation, of hoax][^huntE]; perhaps it is
+misinformation, of disinformation, of hoax][^1_hunt_huntE]; perhaps it is
 little wonder that there continues to be such a hunger for narratives
 that, as Adorno describes them, largely by way of 19th century
-techniques _mimic the real_[^huntF]; that say to us, with
-disarming earnestness, this, my friends, is _how it was_[^huntG].
+techniques _mimic the real_[^1_hunt_huntF]; that say to us, with
+disarming earnestness, this, my friends, is _how it was_[^1_hunt_huntG].
 In the domain of the fictive narrative, I tend to have little patience
 for such works. I am much more interested in (and seem only capable of
 constructing) narratives that are to some degree aware of _the
-provisional nature of their own authority_[^huntH], in which _the
-fictive quality of recollection_[^huntI] is acknowledged, in which
-_forgetting_[^huntJ] is considered the key constituent of memory,
+provisional nature of their own authority_[^1_hunt_huntH], in which _the
+fictive quality of recollection_[^1_hunt_huntI] is acknowledged, in which
+_forgetting_[^1_hunt_huntJ] is considered the key constituent of memory,
 and in which, finally, getting it right shares center stage with
 getting it wrong.
 
@@ -2310,10 +2310,10 @@ getting it wrong.
 
  
 
-[^huntA]:  Clark Coolidge, **The Crystal Text** (I think). It seems likely I might be alone in seeing in these eight words, words ripped right out of their context, a possible model for narrative.
+[^1_hunt_huntA]:  Clark Coolidge, **The Crystal Text** (I think). It seems likely I might be alone in seeing in these eight words, words ripped right out of their context, a possible model for narrative.
 
 
-[^huntB]:  For some years now Brenda Coultas, in her narratives, has been conjuring worlds to which multiple qualities of the preceding description might apply. Whether in her book **Early Films** (Rodent Press 1996) or in her recent chapbook **A Summer Newsreel** (Second
+[^1_hunt_huntB]:  For some years now Brenda Coultas, in her narratives, has been conjuring worlds to which multiple qualities of the preceding description might apply. Whether in her book **Early Films** (Rodent Press 1996) or in her recent chapbook **A Summer Newsreel** (Second
 Story Books, 1999) Coultas is engaged in constructing usefully
 disjunctive, lyric-enhanced investigations into landscapes that have
 come apart. For me, part of the great thing about Coultas' writing is
@@ -2321,13 +2321,13 @@ that she brings an indomitable hunger for beauty to bear on her
 cracked and spilling subjects.
 
 
-[^huntC]:   E.g., Pamela Lu's terrific **Pamela: A Novel** (Atelos, 1998). A bildungsroman of sorts, an intricate chronicle of the coming awake of a highly-syntaxed consciousness, in which the greater part of the narrative seems to occur in between commas.
+[^1_hunt_huntC]:   E.g., Pamela Lu's terrific **Pamela: A Novel** (Atelos, 1998). A bildungsroman of sorts, an intricate chronicle of the coming awake of a highly-syntaxed consciousness, in which the greater part of the narrative seems to occur in between commas.
 
 
-[^huntD]:  "The expression that there is nothing to express, nothing with which to express, nothing from which to express, no power to express, no desire to express, together with the obligation to express." Samuel Beckett (in 1949 conversation with Georges Duthuit).
+[^1_hunt_huntD]:  "The expression that there is nothing to express, nothing with which to express, nothing from which to express, no power to express, no desire to express, together with the obligation to express." Samuel Beckett (in 1949 conversation with Georges Duthuit).
  
 
-[^huntE]:   
+[^1_hunt_huntE]:   
 The tendered premise in a recent episode of the X-Files: since World
 War Two Americans have had an unquenchable appetite for 'bogus
 revelation'; having determined this, the United States Government has
@@ -2349,7 +2349,7 @@ delegate stated that similar weapons had been used during the Gulf
 War.)
 
 
-[^huntF]: 
+[^1_hunt_huntF]: 
 Harry Mathews, who, in part of his work, has vertiginously built upon
 (see **The Conversions and Tlooth**, recently reissued by Dalkey
 Archive), the wonderful, strange narratives of Raymond Roussel, had
@@ -2366,7 +2366,7 @@ degree of mediation. One I am interested in.
 
 
 
-[^huntG]: 
+[^1_hunt_huntG]: 
 "The more strictly the novel adheres to realism in external things,
 to the gesture that says 'this is how it was,' the more every word
 becomes a mere 'as if,' and the greater becomes the contradiction
@@ -2374,7 +2374,7 @@ between this claim and the fact that it was not so." (Adorno, "The Position of t
 
 
 
-[^huntH]: 
+[^1_hunt_huntH]: 
 Among contemporary works, the narratives of W.G. Sebald (**The
 Emigrants, The Rings of Saturn**) are exemplary in this regard,
 pointing up, as they do, against the backdrop of this bloody century
@@ -2388,7 +2388,7 @@ Ladder**.
 
 
 
-[^huntI]: 
+[^1_hunt_huntI]: 
 Ryonusuke Akutagawa brilliantly treats aspects of this in a pair of
 stories which were later combined and made into the much more famous
 film **Rashomon** by Akira Kurosawa. Aaron Shurin writes, in passing,
@@ -2405,7 +2405,7 @@ fact.
 
 
 
-[^huntJ]:  
+[^1_hunt_huntJ]:  
 Walter Benjamin writes beautifully on this in the opening pages of his
 essay, "The Image of Proust" (**Illuminations**): "For the important
 thing for the remembering author is not what he experienced, but the
@@ -5281,14 +5281,14 @@ gleaming hollows, the serpentine trails of the moon.
 
 ## Quotes from Camille Roy
 
-# Excerpts from "The Storyteller,\" by Walter Benjamin
+### Excerpts from "The Storyteller,\" by Walter Benjamin
 
 The art of storytelling is coming to an end. Less and less frequently
 do we encounter people with the ability to tell a tale properly. More
 and more often there is embarrassment all around when the wish to
 hear a story is expressed. It is as if something that seemed
 inalienable to us, the securest among our possessions, were taken
-from us: the ability to exchange experiences.[^cr1]
+from us: the ability to exchange experiences.[^2_AAA_Editorial_cr1]
 
 One reason for this phenomenon is obvious: experience has fallen in
 value... \[The nature of every real story is that\] it contains,
@@ -5358,7 +5358,7 @@ as a tonic for the loss of human scale; by naming
 self-community-story I participate in their disintegration, their
 progress from invisibility to something to be named and
 manipulated---to be reintegrated later in a new context, in a third
-term that history must provide.[^cr2]
+term that history must provide.[^2_AAA_Editorial_cr2]
 
 Prolonged scrutiny can become an expenditure of self, a potlatch of
 self. I've come to experience the unreeling of interiority and
@@ -5407,13 +5407,13 @@ She sees the present as a great tear, a great rip in the surface of
 things: the gap of which is at first impossible for her to move
 across (*...does not thinking seek forever to clamp a dressing over
 the gaping and violent wound of the impossibility of
-thought...[^cr4] It is awareness of this that
+thought...[^2_AAA_Editorial_cr4] It is awareness of this that
 makes linear narrative impossible. A virtually tragic awareness, for
 the writing "I,\" which modernists began to \"deconstruct\" as they
 recognized that gap (accepted to give up power) has, in her case,
 been "deconstructed\" a priori by social conditions. She is not only
 split between the self and the "real\", but also within the
-self...[^cr3]
+self...[^2_AAA_Editorial_cr3]
 
 So the question becomes how to write across the almost ...
 hysterical ... overdetermination of her gaps\...
@@ -5481,7 +5481,7 @@ decentered subjectivities, how do you deploy the narrative machinery
 of the "I\" and the various sensibilities it is associated with?
 Could you discuss the techniques with which you defamiliarize your
 use of the first-person pronoun and in general address the issue of
-the speaking subject in your prose. Who speaks?[^cr5]
+the speaking subject in your prose. Who speaks?[^2_AAA_Editorial_cr5]
 
 Harryman: My answer to this question is complex and leads to
 difficulties because I associate the I with power, control,
@@ -5518,18 +5518,18 @@ the self to the world is always troubling; it is never adequate and
 the I in its freedom is too willing to give up civility, a cherished
 element of comedy.
 
-[^cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
+[^2_AAA_Editorial_cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
 
-[^cr2]: Glück, Robert. "Fame.\" **Poetics Journal**, Number 10, June 1998.
+[^2_AAA_Editorial_cr2]: Glück, Robert. "Fame.\" **Poetics Journal**, Number 10, June 1998.
 
-[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women's Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
+[^2_AAA_Editorial_cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women's Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
 
 
-[^cr4]: Gayatri Chakravorty Spivak, Translator's Preface to
+[^2_AAA_Editorial_cr4]: Gayatri Chakravorty Spivak, Translator's Preface to
 Jacques Derrida, On Grammatology (Johns Hopkins University Press,
 1976).
 
-[^cr5]: Carla Harryman. "Interview by Chris Tysh.\" Number 10, June 1998.
+[^2_AAA_Editorial_cr5]: Carla Harryman. "Interview by Chris Tysh.\" Number 10, June 1998.
 
 
 ## Quotes from Gail Scott
@@ -6896,7 +6896,7 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
  call me to account, but since after all I *am* the one who makes this 
  up, and since I did, and since what is done is done in that image, it 
  turned out that the good doctor had mortified his 
- voice[^brady_note1]1](brady_note1.html)^ as an act of contrition for 
+ voice[^2_brady1_brady_note1]1](brady_note1.html)^ as an act of contrition for 
  the grossness of a speech impediment as of that evening still 
  entirely prospective, and so no accusation was made, though a list of 
  sorts was made up. Have I proven my spontaneity to you, and do you 
@@ -6945,7 +6945,7 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
   
 |         which "man" means there must be 
 |         beneath this thing 
-|         incited contour.[^brady_note1] 
+|         incited contour.[^2_brady1_brady_note1] 
   
 | Or too late, if semiosis 
 | will not be which sign is used. 
@@ -7009,7 +7009,7 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
 |   outset in philosophy. The floorplan,
 |   the voyage to the backing of the mirror
 |   and back to front the openness of this
-|   enclosure.[^brady_note2] Its cross-eyed
+|   enclosure.[^2_brady1_brady_note2] Its cross-eyed
 |   binocular
 |   windowing of options from the desktop
 |   horizoning the line of sight behind
@@ -7147,7 +7147,7 @@ after-effect of our own belated recognition of a housing crisis.
 
 
 
-[^brady_endnote]: 
+[^2_brady1_brady_endnote]: 
 
 *Dear Editor,*
 
@@ -7170,7 +7170,7 @@ in a similar sense of euphemism.*
 
 
 
-[^brady_note1]: 
+[^2_brady1_brady_note1]: 
  Once upon a time a cloud of sobbing strings pretended to 
  protect the figure of a woman in what was either a song or a 
  landscape, hovering above her and around her like moonlight and 
@@ -7202,7 +7202,7 @@ in a similar sense of euphemism.*
  was surging within him precisely as it occurred. *And the pleasure of 
  being a lover, of living by love alone, was enhanced in his eyes, as 
  a dilettante of intangible sensations, by the price he was paying for 
- it*[^brady_endnote]. 
+ it*[^2_brady1_brady_endnote]. 
 
  Apostrophe, watching it all in slo-mo, said to the unidentified 
  others sitting next to her on the dilapidated couch in the 
@@ -7219,7 +7219,7 @@ in a similar sense of euphemism.*
  in you." 
 
 
-[^brady_note2]:
+[^2_brady1_brady_note2]:
 Once upon a time, you were expected here, and when you didn't
 show, a place was set for someone who looked more or less unlike you.
 You are sure to congratulate yourself for having caught me in this
@@ -7289,9 +7289,9 @@ words whose etymology must be sought, that must then be plastered to
 what's called a wall of sound, in a manner like those who cry out in
 pain and sigh with pleasure that wander in dreams and documents
 assault the heart's mysterious obscurity. These are words like bay,
-hill, wadi, via, street[^*] stasse dispersed through the dictionary
+hill, wadi, via, street[^2_brossard_*] stasse dispersed through the dictionary
 between flame-trees and neons, cemeteries, dismal and forests. These
-are words sound the body of meanings that are claws or soft[^*] on our
+are words sound the body of meanings that are claws or soft[^2_brossard_*] on our
 chests, cold, shivers, furrows and fear in the back without waiting
 while we try to split the sleek future tense with trenchant
 quotations. These are words swallowers of fire and life, one no
@@ -7303,7 +7303,7 @@ shadows filled with light and great myths.
 Translated by Peter Dubé
 
  
-[^*]: These words appear in English in the original text.*
+[^2_brossard_*]: These words appear in English in the original text.*
 
 
 
@@ -7498,7 +7498,7 @@ Pp. 42-49.
 
 ### Working Notes
 
-*Charisma[^note1] is "for the chorus of us.\" I wrote Charisma over a period
+*Charisma[^2_christakos_note1] is "for the chorus of us.\" I wrote Charisma over a period
 of nine years, moving through and enervated by the political
 prescriptions of middle-class feminist academia; craning my gaze on
 women through the hourglass of my wounded relationship with "mother,
@@ -7731,7 +7731,7 @@ You‚re a whale of a girl, and don't you forget it!
 
 Womens' creamy cream. Their cream. Mama\'s creaminess. Ooosshhh.
 
-[^note1] Pedlar Press, Toronto: 2000
+[^2_christakos_note1] Pedlar Press, Toronto: 2000
 
 
 # Brenda Coultas: Failure
@@ -8215,7 +8215,7 @@ in her hand, amazed at what she's seeing.
 
 ## Working Notes
 
-**Serialscribbler** (as the title suggests) is an ongoing work, so far
+*Serialscribbler* (as the title suggests) is an ongoing work, so far
 only in prose, though there's no rule about that. It started a
 couple of years ago, when I sent out a piece of scribble on a
 postcard every day to someone I knew around the world. The texts were
@@ -8268,9 +8268,9 @@ in free verse and I don't like having the line-lengths predetermined
 by fixed verse forms. It's an interim solution. I write in prose but
 think in poetry.
 
-## Serialscribbler
+---
 
-I took editor to one side and had a quiet word with him. This is for
+**I took editor to one side** and had a quiet word with him. This is for
 my own good, I whispered, and proceeded to disable his editorial
 tools, lopping off his hands, extracting his tongue, etc. He seemed
 to understand and, as I now read it, thanked me profusely with his
@@ -8615,7 +8615,7 @@ he offered.
  
 
 
-**My book** (*Cool for You[^note1]) is absolutely an
+**My book** (*Cool for You*[^2_myles_note1]) is absolutely an
 extension of my poetry practice, I've even come to refer to it and
 maybe the class of novels it's a member of as the poet\'s novel.
 Having written a novel I don't have to protect myself from the
@@ -8747,7 +8747,7 @@ here. Exactly how I was here. It's a social poetic invention.
 
 
 
-[^note1]: *Cool for You*, New York: Soft Skull Press, 2000
+[^2_myles_note1]: *Cool for You*, New York: Soft Skull Press, 2000
 
 
 
@@ -9782,7 +9782,7 @@ between them, dynamiting my way out.*
 
 ## 5. Adjustable Perches
 
-My boy-girl princess all groovy this evening, sharp with elbows and
+**My boy-girl princess** all groovy this evening, sharp with elbows and
 shoulder blades. Desire across boundaries too sharp to cross. 24
 hours of comfortable heat.
 
@@ -10063,7 +10063,7 @@ Philadelphia, June 1989.*
 
 -------------------------------------------------------------------
 
-I'm interested in the utilization of both poetic and narrative
+**I'm interested in the utilization** of both poetic and narrative
 tensions: the flagrant surfaces of lyric, the sweet dream of storied
 events, the terror of ellipsis, the audacity of dislocation, the
 irreversible solidity of the past tense, the incarnate lure of
@@ -10249,7 +10249,7 @@ a unified filter through which events may be organized, and as
 filters screen properties, screen out toxins and tannins and pieces
 too big to fit neatly. But pluralities are possible. "I see only
 from one point of view," says Lacan, \"but in my existence I am
-looked at from all sides." ^[11](#WC11)^ []{#text11}Pronouns are
+looked at from all sides."[^2_shurin_11] Pronouns are
 known as shifters because they are by nature unstable linguistic
 units, referring not to people but to moving circumstances of speech
 and audition, visibility and perception. As such they are fictional

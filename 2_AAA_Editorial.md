@@ -114,7 +114,7 @@ gleaming hollows, the serpentine trails of the moon.
 
 ## Quotes from Camille Roy
 
-# Excerpts from "The Storyteller,\" by Walter Benjamin
+### Excerpts from "The Storyteller,\" by Walter Benjamin
 
 The art of storytelling is coming to an end. Less and less frequently
 do we encounter people with the ability to tell a tale properly. More

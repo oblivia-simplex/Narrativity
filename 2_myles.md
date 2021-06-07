@@ -6,7 +6,7 @@
  
 
 
-**My book** (*Cool for You[^2_myles_note1]) is absolutely an
+**My book** (*Cool for You*[^2_myles_note1]) is absolutely an
 extension of my poetry practice, I've even come to refer to it and
 maybe the class of novels it's a member of as the poet\'s novel.
 Having written a novel I don't have to protect myself from the

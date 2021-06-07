@@ -11,7 +11,7 @@ Philadelphia, June 1989.*
 
 -------------------------------------------------------------------
 
-I'm interested in the utilization of both poetic and narrative
+**I'm interested in the utilization** of both poetic and narrative
 tensions: the flagrant surfaces of lyric, the sweet dream of storied
 events, the terror of ellipsis, the audacity of dislocation, the
 irreversible solidity of the past tense, the incarnate lure of
@@ -197,7 +197,7 @@ a unified filter through which events may be organized, and as
 filters screen properties, screen out toxins and tannins and pieces
 too big to fit neatly. But pluralities are possible. "I see only
 from one point of view," says Lacan, \"but in my existence I am
-looked at from all sides." ^[11](#WC11)^ []{#text11}Pronouns are
+looked at from all sides."[^2_shurin_11] Pronouns are
 known as shifters because they are by nature unstable linguistic
 units, referring not to people but to moving circumstances of speech
 and audition, visibility and perception. As such they are fictional

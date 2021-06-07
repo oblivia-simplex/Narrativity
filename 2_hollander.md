@@ -7,7 +7,7 @@
 
 ## Working Notes
 
-**Serialscribbler** (as the title suggests) is an ongoing work, so far
+*Serialscribbler* (as the title suggests) is an ongoing work, so far
 only in prose, though there's no rule about that. It started a
 couple of years ago, when I sent out a piece of scribble on a
 postcard every day to someone I knew around the world. The texts were
@@ -60,9 +60,9 @@ in free verse and I don't like having the line-lengths predetermined
 by fixed verse forms. It's an interim solution. I write in prose but
 think in poetry.
 
-## Serialscribbler
+---
 
-I took editor to one side and had a quiet word with him. This is for
+**I took editor to one side** and had a quiet word with him. This is for
 my own good, I whispered, and proceeded to disable his editorial
 tools, lopping off his hands, extracting his tongue, etc. He seemed
 to understand and, as I now read it, thanked me profusely with his

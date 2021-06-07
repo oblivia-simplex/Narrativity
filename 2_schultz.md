@@ -23,7 +23,7 @@ between them, dynamiting my way out.*
 
 ## 5. Adjustable Perches
 
-My boy-girl princess all groovy this evening, sharp with elbows and
+**My boy-girl princess** all groovy this evening, sharp with elbows and
 shoulder blades. Desire across boundaries too sharp to cross. 24
 hours of comfortable heat.
 
