@@ -17,15 +17,15 @@ and other, a study of self in family, a study of family as self.
 However is about family, about the process of aging and the
 injustices this culture (as if a singular referent could actually
 take on so much meaning) inflicts on the old. However is an
-ethnography of the last few weeks of my grandmother\'s life and her
+ethnography of the last few weeks of my grandmother's life and her
 shouting right back at me - you got it wrong and right, a little
 right. However is in prose because this process of description is too
 messy for a pretty mobile of string and glass. However is in prose
 because prose is the viscous tissue of body and there is a lot of
 body, its excrement, in this piece. However is in prose because, as
-James Clifford wrote in the Predicament of Culture, \"participant
+James Clifford wrote in the Predicament of Culture, "participant
 observation obliges its practitioners to experience, at a bodily as
-well as intellectual level, the vicissitudes of translation.\"
+well as intellectual level, the vicissitudes of translation."
 However is in prose because there is too much, rather than too
 little, to say.
 
@@ -89,7 +89,7 @@ hold me in their earliest versions so I am no longer part of
 description, an obstacle even to the sight of family. Perhaps I am
 these trees along the freeway dusty with carbon monoxide or the
 eucalyptus behind the nursing home shedding. The body takes much
-longer to break free of limbs, forgetting my other daughter\'s name
+longer to break free of limbs, forgetting my other daughter's name
 
  
 

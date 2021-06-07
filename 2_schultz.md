@@ -5,18 +5,18 @@
  
 
 
-## \"Both And\": A Statement for Narrativity
+## "Both And\": A Statement for Narrativity
 
 *Bob Glück gave me back the sentence, a line of elastic stretching
 across the page. I had stood at the edge of the lyric and fallen in.
 I had swallowed the lyric and choked on it. I had been lured into the
-lyric\'s boudoir and slammed my elbows against the walls just trying
+lyric's boudoir and slammed my elbows against the walls just trying
 to turn around. I was out of metaphors.
 Though I still engage the lyric, writing in prose allows me a kind of
 freedom to explore the nether regions of sexuality and gender, to
 stroke the unnamable places, to crack my head up against the jagged
-edge. My world is troubled by \"either ors\": straight or gay, male
-or female, black or white, poetry or prose. I\'m lodged in the cracks
+edge. My world is troubled by "either ors\": straight or gay, male
+or female, black or white, poetry or prose. I'm lodged in the cracks
 between them, dynamiting my way out.*
 
 -------------------------------------------------------------------
@@ -27,11 +27,11 @@ My boy-girl princess all groovy this evening, sharp with elbows and
 shoulder blades. Desire across boundaries too sharp to cross. 24
 hours of comfortable heat.
 
-Our skins slide across. Sweet-cheeked girl peck. A baby\'s unformed
+Our skins slide across. Sweet-cheeked girl peck. A baby's unformed
 milky bones.
 
-A pact to reflect daily resonances. \"I miss you,\" means \"Do you
-miss me?\"
+A pact to reflect daily resonances. "I miss you,\" means \"Do you
+miss me?"
 
 A cupboard and a roof. Rough wooden shelves soaked with white paint.
 The smell of oil flares our nostrils.
@@ -59,7 +59,7 @@ The containment I experience through your matter-of-fact nod proceeds
 outbursts designed to unloose your fibrillar emotions. Dichotomies
 which bore me.
 
-What\'s the gift, the partial barter, which promotes our stasis---you
+What's the gift, the partial barter, which promotes our stasis---you
 waiting for disintegration, and I for a stable distance. I can accept
 your intimacy in your absence.
 
@@ -80,19 +80,19 @@ and let us look into the light of the morning.
 
 ## 7. Bait and Switch
 
-Or simply that it\'s me and not other other. Even if it is.
+Or simply that it's me and not other other. Even if it is.
 
-Dodie turns up the \"D\" in degenerate. The irony that fucking
+Dodie turns up the "D\" in degenerate. The irony that fucking
 boys--- not girls---made me into a first-class pervert. I laid claim
 to his dick like it was my own---a rightful part of myself gone
-missing. This one said he couldn\'t fuck me without getting
+missing. This one said he couldn't fuck me without getting
 emotionally involved. He could clasp both of my wrists in one muscled
 hand. Prone, I lay on top of him, my body floating on an island.
 
 In a semi-trance state he discovers his desire to kill his mother. He
-says, \"Many women had paid for what you have done.\" In fairy tales,
+says, "Many women had paid for what you have done.\" In fairy tales,
 Mom is always to blame. My left thumbnail refuses to adhere. If I
-were to fall in love, I\'d have to bring the white trash with me. I
+were to fall in love, I'd have to bring the white trash with me. I
 hide my guilty desire to spend long periods of time alone.
 
 Of course, when I wanted something, I always knew it. The very
@@ -102,7 +102,7 @@ desire completely---while I was filled voraciously with need. Greed,
 while unbecoming in a woman, is prized in men.
 
 Another claimed that my very presence increased his need to be more
-\"manly.\" He opened doors for me, refused cute pet names, and fucked
+"manly.\" He opened doors for me, refused cute pet names, and fucked
 me righteously.
 
 My body demanded something to show for itself. Writing is thievery,
@@ -130,8 +130,8 @@ button to pubic bone. Brand-new scar.
 She wears high heels like in dreams. Stunned. Apostate.
 
 I could have said he only fell for tragic women, but I was falling
-for tragic men. You know, their darkness, their pain. \"You light up
-my life, you give me hope, to carry on,\" Debby Boone was singing to
+for tragic men. You know, their darkness, their pain. "You light up
+my life, you give me hope, to carry on," Debby Boone was singing to
 me.
 
 I turned to my girlfriends. They had strong shoulders and clear
@@ -156,7 +156,7 @@ all fair game. Down to the very last vowel. Avowal.
 
 Two loulous wrapped rapt in bed sheets.
 
-Baby\'s got Mingus Fingers. All around and through me. To thrill me.
+Baby's got Mingus Fingers. All around and through me. To thrill me.
 
 Baby done gone and you know it know. Something to show for. Here and
 before now. Baby done proved it.
@@ -177,11 +177,11 @@ dress.
 She had a sense that the dream had ended and she had slept on.
 Further and farther. Up and away.
 
-The first time he entered me he said, \"I think we\'ve got a match
-baby,\" and I sealed this sentence in my heart and swallowed the key.
+The first time he entered me he said, "I think we\'ve got a match
+baby," and I sealed this sentence in my heart and swallowed the key.
 
-Unmatched by, \"I think I\'m falling in love with you, you
-son-of-a-bitch,\" and later this made me smile, laughing at myself.
+Unmatched by, "I think I\'m falling in love with you, you
+son-of-a-bitch," and later this made me smile, laughing at myself.
 
 What she was staving off or holding out against. A grammar of
 indeterminancy. A cold water walk-up.
@@ -199,12 +199,12 @@ Purple-black nipples. Smooth, round ass.
 Endless expanse of what if. Figure brought into fruition. A thorough
 dressing down. Round or through me. A voice on the wire.
 
-Or if I wrote \"wife.\" Rife. Theocracy. Meritorious.
+Or if I wrote "wife.\" Rife. Theocracy. Meritorious.
 
-Mercy. For the woman\'s clandestine, zippered heart. Miles I have
+Mercy. For the woman's clandestine, zippered heart. Miles I have
 come before you. Previously unknown.
 
-Everyone got what he came for. A schedule to rival the master\'s.
+Everyone got what he came for. A schedule to rival the master's.
 Departures and arrivals. A vagabond. A conductor.
 
 Miles I crossed the desert for water. Previously alone.
@@ -227,10 +227,10 @@ arrived. Before any words were spoken, I recognized him by the sound
 of his breathing.
 
 She drove her new BMW up to the GoodWill and was confused by the
-people staring. I smiled and tried to act \"natural.\"
+people staring. I smiled and tried to act "natural.\"
 
 I was the second man to fuck him. The first he met while he was still
-in school. \"Don\'t you go to UCLA?\" It was a kind of code.
+in school. "Don\'t you go to UCLA?\" It was a kind of code.
 
 At the end of the day, his body a destination. Miles on a train I
 have traveled postponing pleasure. Our voices hang in the air, I
@@ -260,7 +260,7 @@ The whiteness of my arms practically glowing in the dimmed light, up
 against his dark, supple skin.
 
 When I fucked him, a high, clear-pitched sigh rang out from his mouth
-each time he exhaled. \"Go easy, baby,\" he said. And I withdrew my
+each time he exhaled. "Go easy, baby,\" he said. And I withdrew my
 dick, softly, gently exploring his ass until I gave it to him once
 again harder. He tossed his head back sharply, his locks raining off
 his face.
@@ -273,7 +273,7 @@ Solidity in solitude. A place in the life cycle. Searching on hands
 and knees. He fucked me so hard that I bled. Four fingers in my cunt,
 nearly a fist.
 
-\"What I feel for you now is all I will ever feel for you.\" And
+"What I feel for you now is all I will ever feel for you.\" And
 ever. A straightjacket.
 
 Given to histrionics. Or expected.

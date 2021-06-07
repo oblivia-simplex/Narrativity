@@ -22,13 +22,13 @@ promise of passing time (in an eroticized dance with death), and are
 not led toward syllogism and deduction but discover, instead,
 induction, investigation, participation?
 
-Aaron Shurin, in \"Narrativity,\" proposes that \"writing might use
+Aaron Shurin, in "Narrativity,\" proposes that \"writing might use
 narrative without succumbing to its hegemonic orders of linear
 development, unity of time/tense-and apart from the modernist
 reconstructing modes of memory and dream. A prose whose paragraphic
 groupings themselves might be based on measure, whose higher
 integrations might be thematic or associational rather than
-developmental.\"
+developmental."
 
 When liberated from plodding development, can narrative, loaded with
 its historical implications, move us away from the discrete series
@@ -40,11 +40,11 @@ and veer toward witness, philosophy, discovery?
 
 Turn your face toward the back seat. Walk up the stairs to an
 apartment set in stone. Listen to the parking lot below. A man lies
-on the outside of a fence, exhaling. This is the view of others\'
+on the outside of a fence, exhaling. This is the view of others'
 rooftops, making them into little pieces of pie. Rows of fluorescent
 tubes. On the islands of a nearly drained sea, turtles lie exposed
 and cracked roots tremble in a particularly strong wind. The mail is
-delivered with surprising accuracy down the storm drain. You\'re
+delivered with surprising accuracy down the storm drain. You're
 alarmed by the presence of gunmen in your hotel room.
 
 ## 2:49am
@@ -68,7 +68,7 @@ house. They lie in a casual circle sleeping on the ocean floor.
 
 ## 4:59am
 
-He pats his suit pocket, fingers the traveler\'s checks in his shoes.
+He pats his suit pocket, fingers the traveler's checks in his shoes.
 Trucks begin to unload themselves all around. Drop off to sleep. Many
 floors up the windows are missing. Entry is enclosed. Water continues
 to drip.
@@ -83,7 +83,7 @@ out the sick and the old.
 ## 5:13am
 
 Synapse. The kingfisher hovers. Get together. A crush of grace. The
-beats between are short. A real taste. A hand\'s distance from the
+beats between are short. A real taste. A hand's distance from the
 floor. Wings over balconies, through glass. On the inside of the
 skin, very sweet and it becomes petrified.
 
@@ -93,7 +93,7 @@ A car brings someone to this very corner. The greatest are able to
 brace themselves, to support a moving supply. This too is style, you
 think. Behind you in the car is a man. Turn around quickly to find
 the shell of a turtle. You tremble at the lack of knowledge, at the
-blue light. You\'re alarmed now by the lack of presence.
+blue light. You're alarmed now by the lack of presence.
 
 ## 4:22pm
 

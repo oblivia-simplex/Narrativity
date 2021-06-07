@@ -11,7 +11,7 @@
  call me to account, but since after all I *am* the one who makes this 
  up, and since I did, and since what is done is done in that image, it 
  turned out that the good doctor had mortified his 
- voice[^brady_note1]1](brady_note1.html)^ as an act of contrition for 
+ voice[^2_brady1_brady_note1]1](brady_note1.html)^ as an act of contrition for 
  the grossness of a speech impediment as of that evening still 
  entirely prospective, and so no accusation was made, though a list of 
  sorts was made up. Have I proven my spontaneity to you, and do you 
@@ -60,7 +60,7 @@
   
 |         which "man" means there must be 
 |         beneath this thing 
-|         incited contour.[^brady_note1] 
+|         incited contour.[^2_brady1_brady_note1] 
   
 | Or too late, if semiosis 
 | will not be which sign is used. 
@@ -102,12 +102,12 @@
 
 | Though made however visible, the signal
 | success becomes an end for putting up
-| one\'s evidence. The result is what sagged
+| one's evidence. The result is what sagged
 | thick beneath the contrary pole, sort of handed
 | down from the dishonor attaching to
 | productive early consequences of
 | your ownership. And so it is to be
-| \"community\" no longer but a stain,
+| "community\" no longer but a stain,
 | dependent for its livelihood on yes.
 
 |     Form of wasted effort
@@ -116,7 +116,7 @@
 
 |     In evidence rendered
 
-|     Leisure in \"housewifing\"
+|     Leisure in "housewifing\"
 
 |     Rendered as a verb
 
@@ -124,7 +124,7 @@
 |   outset in philosophy. The floorplan,
 |   the voyage to the backing of the mirror
 |   and back to front the openness of this
-|   enclosure.[^brady_note2] Its cross-eyed
+|   enclosure.[^2_brady1_brady_note2] Its cross-eyed
 |   binocular
 |   windowing of options from the desktop
 |   horizoning the line of sight behind
@@ -140,7 +140,7 @@
 |       schemata, bent space.
 |       Past life replanted
 |       in the yard that
-|       hasn\'t time for second
+|       hasn't time for second
 |       planted feet to take
 |       the straddled upright measure of ruled, unruly stance.
 
@@ -171,23 +171,23 @@ all velvet-papered walls and lamplight, which the storyteller thought
 to foreclose every time the story drew the curtain on a scene, the
 contour of nose and cheekbone solidifying for a second in the soft
 billows of that gauzy fabric which served only to insure that an
-audience\'s interest remained with what the tale hoped to leave
+audience's interest remained with what the tale hoped to leave
 behind, in its jerky gait stumbling from episode to episode.
 
 Again, though, I am lying, as she draws the curtain back and lets the
 light fall upon you there, a bit below her in the street outside,
 where all presuppositions stand together in first and second persons,
-and says, \"I am not a bad habit, not on the order of the forces
-\'driving the urge to differentiate, to identify one and then two,\'
+and says, "I am not a bad habit, not on the order of the forces
+'driving the urge to differentiate, to identify one and then two,\'
 only for you to make the subsequent half-turn into saying that the
 latter follows the former, as misdirected speech follows curiosity
 about a lighted window in a cinderblock rental duplex on a dark night
 with all the sodium vapor lamps shattered, duping an accomplice into
-accompanying you to that theatrical \"bad neighborhood\" in which the
+accompanying you to that theatrical "bad neighborhood\" in which the
 passing audience method-acts its way into belief in the constitutive
 powers of its own direct address to the emptiness of its relation to
 the stage properties, when in fact I have been here, and have been
-telling the story of this circle of light, all along.\"
+telling the story of this circle of light, all along."
 
 ---
 
@@ -199,19 +199,19 @@ but whose lives, in the event, were compromised by one emergency
 after another, so that one or the other always got stuck waiting,
 picking up the check, taking the wrong bus home.
 
-\"Otherwise,\" he said, coming to his senses already in an anaphoric
+"Otherwise,\" he said, coming to his senses already in an anaphoric
 mood on the curled linoleum floor, decorated in a grease-beclouded
 floral pattern, of a dimly familiar kitchenette, talking to no one in
 particular, or else an offstage presence stuck in an abandoned
-episode, \"you\'d simply live the singer-songwriter myth, and have
+episode, "you\'d simply live the singer-songwriter myth, and have
 nothing to say for yourself but a lot of florid weeping and moaning.
 I knocked a little hole in your wall because I care. Pornography
 drives the photograph forward into full relation to its time, and
 becomes a method to produce clear prospects on what was once obscure.
 I continue to love your body, the taste of your tongue and sweaty
-ass, only because I simply can\'t imagine you, and see not you, but a
+ass, only because I simply can't imagine you, and see not you, but a
 broad expanse of sky, on the far side of every window into which I
-peep.\"
+peep."
 
 
 ---
@@ -222,9 +222,9 @@ epistemology and remembered the exact contour of every pain his body
 had ever suffered through, beaten into shape, even, perhaps
 especially, when his mind had been on something else. Sitting in the
 dark and hearing, from a door or two down the block, soft blowing on
-soprano sax, he experienced someone else\'s clarity out of phase.
+soprano sax, he experienced someone else's clarity out of phase.
 
-*\"I was afraid he was going to eat me,\"* a particularly
+*"I was afraid he was going to eat me,\"* a particularly
 disingenuous character in the family drama was just then reciting, in
 rehearsal with the cop with whom, arm in arm, he or she was coming up
 the walkway of half-buried railroad ties that kept the path from
@@ -238,7 +238,7 @@ exemplary, self-consuming skepticism. By the same token, though his
 skull was perforated as proof of the most certain kind, he could not
 grant the veracity of reports that told of a mutant, cannibal freak
 lying just beneath the surface of the duplex and chewing on the
-sleeper\'s head during the sticky night, but maintained that this Mr.
+sleeper's head during the sticky night, but maintained that this Mr.
 Article was, if anything, a fiction of grammar granted temporary
 substance by the growing thickness of ideological descriptions of
 landscape. Meanwhile the sax was licking lascivious promises into his
@@ -262,7 +262,7 @@ after-effect of our own belated recognition of a housing crisis.
 
 
 
-[^brady_endnote]: 
+[^2_brady1_brady_endnote]: 
 
 *Dear Editor,*
 
@@ -272,9 +272,9 @@ earlier drivers had created their pastoral investments with property
 in rolling parkland. In the windows which were not plywood painted to
 resemble glass, but behind which were walls painted to resemble
 all-encompassing skies, people would perform the parlor drama of
-their social obligation to your passing. Going through someone\'s
-trash, or the stack of papers on someone\'s desk, or the pages
-inserted by a printer\'s error into someone\'s typescript, was a hot
+their social obligation to your passing. Going through someone's
+trash, or the stack of papers on someone's desk, or the pages
+inserted by a printer's error into someone\'s typescript, was a hot
 and dirty intimacy. The substance of a whole affair might take root
 in a similar sense of euphemism.*
 
@@ -285,7 +285,7 @@ in a similar sense of euphemism.*
 
 
 
-[^brady_note1]: 
+[^2_brady1_brady_note1]: 
  Once upon a time a cloud of sobbing strings pretended to 
  protect the figure of a woman in what was either a song or a 
  landscape, hovering above her and around her like moonlight and 
@@ -317,7 +317,7 @@ in a similar sense of euphemism.*
  was surging within him precisely as it occurred. *And the pleasure of 
  being a lover, of living by love alone, was enhanced in his eyes, as 
  a dilettante of intangible sensations, by the price he was paying for 
- it*[^brady_endnote]. 
+ it*[^2_brady1_brady_endnote]. 
 
  Apostrophe, watching it all in slo-mo, said to the unidentified 
  others sitting next to her on the dilapidated couch in the 
@@ -334,18 +334,18 @@ in a similar sense of euphemism.*
  in you." 
 
 
-[^brady_note2]:
-Once upon a time, you were expected here, and when you didn\'t
+[^2_brady1_brady_note2]:
+Once upon a time, you were expected here, and when you didn't
 show, a place was set for someone who looked more or less unlike you.
 You are sure to congratulate yourself for having caught me in this
-situation, making it up as I go along, but no matter, my aim\'s to
+situation, making it up as I go along, but no matter, my aim's to
 bend all light into reflection, and so I have pre-empted your
 discovery of this point of fact. *In this strange phase of love the
 personality of another person becomes so enlarged, so deepened, that
 the curiosity which you now feel stirring inside you with regard to
 the smallest details of my daily life, is the same thirst for
 knowledge with which I once studied history.* You have knocked a hole
-in someone\'s wall and now there is nothing to do but look through,
+in someone's wall and now there is nothing to do but look through,
 even as you realize that here is not the character for whom you
 looked, but perhaps a near relation, a time perhaps a bit early for
 your arrival, in which a beakless old waterbird wanders in circles
@@ -360,21 +360,21 @@ outside of a train of events you were only moments ago riding as a
 casually interested commuter toward some other destination
 entirely---a long time, then, since you were a child, shooting at
 every hint of movement with a pellet gun by the shore of the
-artificial lake behind your father\'s rental duplex, knocking holes
+artificial lake behind your father's rental duplex, knocking holes
 in beaks of birds to create the asymmetry out of which a story might
 take flight, *but in this case the mind, merely by recalling the
-pain, created it afresh,* lifting \"that of which we cannot speak\"
+pain, created it afresh,* lifting "that of which we cannot speak\"
 into a chiaroscuro of yellow lamplight swirling down a drain into
 darkness as warm showers fell upon you from the hidden nozzle of
 theatrical night.
 
-\"Tell me everything you saw, and what you think it means,\"
+"Tell me everything you saw, and what you think it means,\"
 stage-whispers Grace Kelly in the fascinated hush that cuts off the
 supply of light, her absent presence in this vignette responding to
 your recitation, which takes up each sentence in the discarded papers
 blowing around against the all-encompassing sky and makes of it an
 opening whose dimensions are given in the aperture of the vocative
-\"O.\" Framed thus in the round zoom lens of surveillance, do you now
+"O.\" Framed thus in the round zoom lens of surveillance, do you now
 see the dashing figure you cut from afar brought into the tightest
 close-up, made ugly and atomic?
 

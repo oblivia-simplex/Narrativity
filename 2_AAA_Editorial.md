@@ -38,11 +38,11 @@ the place of a hand and a foot in place of a foot, an image in place
 of an image then you will enter the kingdom.
 
 
-## From *Foucault/Blanchot, Maurice Blanchot*: \"The Thought from the Outside\" by Michel Foucault
+## From *Foucault/Blanchot, Maurice Blanchot*: "The Thought from the Outside\" by Michel Foucault
 
 
 If the only site for language is indeed the solitary sovereignty of
-\"I speak\" then in principle nothing can limit it---not the one to
+"I speak\" then in principle nothing can limit it---not the one to
 whom it is addressed, not the truth of what it says, not the values
 or systems of representation it utilizes. In short, it is no longer
 discourse and the communication of meaning, but a spreading forth of
@@ -71,7 +71,7 @@ I have wandered: I have gone from place to place. I have stayed in
 one place, lived in a single room. I have been poor, then richer,
 then poorer than many people. As a child I had great passions, and
 everything I wanted was given to me. My childhood has disappeared, my
-youth his behind me. It doesn\'t matter. I am happy about what has
+youth his behind me. It doesn't matter. I am happy about what has
 been. I am pleased by what is, and what is to come suits me well
 enough.
 
@@ -92,7 +92,7 @@ calm? But I was scorched from head to foot; at night I would run
 through the streets and howl; during the day I would work calmly.
 
 
-## From \"Crossing into Poland\" by Isaac Babel trans. Walter Morison, **The Collected Stories**.
+## From "Crossing into Poland\" by Isaac Babel trans. Walter Morison, **The Collected Stories**.
 
 Fields flowered around us, crimson with poppies; a noontide breeze
 played in the yellowing rye; on the horizon virginal buckwheat rose
@@ -112,23 +112,23 @@ dotted with the square black patches of the wagons, and was full of
 confused sounds, of whistling and singing, that rose above the
 gleaming hollows, the serpentine trails of the moon.
 
-# Quotes from Camille Roy
+## Quotes from Camille Roy
 
-# Excerpts from \"The Storyteller,\" by Walter Benjamin
+# Excerpts from "The Storyteller,\" by Walter Benjamin
 
 The art of storytelling is coming to an end. Less and less frequently
 do we encounter people with the ability to tell a tale properly. More
 and more often there is embarrassment all around when the wish to
 hear a story is expressed. It is as if something that seemed
 inalienable to us, the securest among our possessions, were taken
-from us: the ability to exchange experiences.[^cr1]
+from us: the ability to exchange experiences.[^2_AAA_Editorial_cr1]
 
 One reason for this phenomenon is obvious: experience has fallen in
-value\... \[The nature of every real story is that\] it contains,
+value... \[The nature of every real story is that\] it contains,
 openly or covertly, something useful. The usefulness may, in one
 case, consist in a moral; in another, in some practical advice, in a
 third, in a proverb or maxim. In every case the storyteller is a man
-who has counsel for his readers. But if today \"having counsel\" is
+who has counsel for his readers. But if today "having counsel\" is
 beginning to have an old-fashioned ring, this is because the
 communicability of experience is decreasing. In consequence we have
 no counsel either for ourselves or for others.
@@ -151,7 +151,7 @@ long time.
 Today people live in rooms that have never been touched by death, dry
 dwellers of eternity, and when their end approaches they are stowed
 away in sanatoria or hospitals by their heirs. It is, however,
-characteristic that not only a man\'s knowledge or wisdom, but above
+characteristic that not only a man's knowledge or wisdom, but above
 all his real life---and this is the stuff that stories are made
 of---first assumes transmissible form at the moment of his death.
 Just as a sequence of images is set in motion inside a man as his
@@ -166,7 +166,7 @@ Death is the sanction of everything that the storyteller can tell. He
 has borrowed his authority from death.
 
 
-\[\[I love this essay, although it doesn\'t address what seems to me
+[\[I love this essay, although it doesn\'t address what seems to me
 to be a distortion in the general view of the narrative process:
 story**telling**. In addition to the story which is told, there is
 the story withheld. Attraction, narrative suspense, emanates from the
@@ -174,37 +174,37 @@ latter. The story withheld has its own (buried) structure and
 tension. The reader marries the hidden story, not the visible one.
 That is why we continue to read a story that inspires dread. An
 attachment has been formed---surreptitiously. It operates like a
-craving, which is how I recognize Benjamin\'s reference to death. The
+craving, which is how I recognize Benjamin's reference to death. The
 craving for the unknown, as it is held by the act of storytelling,
-points to death (or its substitute, the body). (Roy)\]\]
+points to death (or its substitute, the body). (Roy)]\]
 
 
-## Excerpts from \"Fame,\" by Robert Gluck
+## Excerpts from "Fame,\" by Robert Gluck
 
-There are contradictory reasons when I use \"real\" people in my
+There are contradictory reasons when I use "real\" people in my
 work, and the contradictions comfort me. Any literary practice
-should, I think, derive from contradictory sources and motives\... I
+should, I think, derive from contradictory sources and motives... I
 name names to evoke the already-known, to make writing co-extend with
 the world and history, and to examine the fiction of personality, as
-well as the fiction of the word\.... I propose self-community-story
+well as the fiction of the word.... I propose self-community-story
 as a tonic for the loss of human scale; by naming
 self-community-story I participate in their disintegration, their
 progress from invisibility to something to be named and
 manipulated---to be reintegrated later in a new context, in a third
-term that history must provide.[^cr2]
+term that history must provide.[^2_AAA_Editorial_cr2]
 
 Prolonged scrutiny can become an expenditure of self, a potlatch of
-self. I\'ve come to experience the unreeling of interiority and
+self. I've come to experience the unreeling of interiority and
 sexual disclosure as such a loss, and also part of a historical
-trajectory. It\'s a writing activity that privileges the aggression
-of naming---an ongoing colonization of self into one\'s own language.
+trajectory. It's a writing activity that privileges the aggression
+of naming---an ongoing colonization of self into one's own language.
 Once something is named, you are in relation to it. Name the disease
 to cure it.
 
 We want to see a story as we see other representations: being hiding
 behind appearance---that is, hiding and revealing the body. But the
-use of real names \[in my work\] reorders connections and
-disjunctions. I do mean fragmentation. I don\'t want to make the
+use of real names [in my work\] reorders connections and
+disjunctions. I do mean fragmentation. I don't want to make the
 predictable distinction between story and fragmented writing. Naming
 names creates an open form that co-extends with the world. In a
 postmodern switch, it applies the open form of modernism to content
@@ -216,12 +216,12 @@ dynamics). The problem of figure and ground becomes a social one, and
 some of what is existential in the content is subtracted and
 reintegrated in the relation between reader and writer.
 
-\... Using real names provides a relation between the writer and
+... Using real names provides a relation between the writer and
 myself that carries some risk, like performance art. What I witness
 is always the same: any story hides and then reveals the body.
 
 
-\[\[Two aspects of narrative writing have been subjected to
+[\[Two aspects of narrative writing have been subjected to
 devastating critiques: the linearity of narrative, and the
 credibility of the narrator. (The popularity of the memoir is in part
 due to the diminished credibility of anything other than an
@@ -229,72 +229,72 @@ autobiographical voice.) The critical and political forces which
 produced these critiques have pushed experimental narrative writers
 to the boundary where form collapses into experience. The searching
 re-examination of narrative premises becomes part of the practice.
-(Roy)\]\]
+(Roy)]\]
 
 
-## Excerpts from \"Paragraphs Blowing On A Line,\" by Gail Scott
+## Excerpts from "Paragraphs Blowing On A Line,\" by Gail Scott
 
 ### Entry 11:
 
 She sees the present as a great tear, a great rip in the surface of
 things: the gap of which is at first impossible for her to move
-across (*\...does not thinking seek forever to clamp a dressing over
+across (*...does not thinking seek forever to clamp a dressing over
 the gaping and violent wound of the impossibility of
-thought\...[^cr4] It is awareness of this that
+thought...[^2_AAA_Editorial_cr4] It is awareness of this that
 makes linear narrative impossible. A virtually tragic awareness, for
-the writing \"I,\" which modernists began to \"deconstruct\" as they
+the writing "I,\" which modernists began to \"deconstruct\" as they
 recognized that gap (accepted to give up power) has, in her case,
-been \"deconstructed\" a priori by social conditions. She is not only
-split between the self and the \"real\", but also within the
-self\...[^cr3]
+been "deconstructed\" a priori by social conditions. She is not only
+split between the self and the "real\", but also within the
+self...[^2_AAA_Editorial_cr3]
 
-So the question becomes how to write across the almost \...
-hysterical \... overdetermination of her gaps\...
+So the question becomes how to write across the almost ...
+hysterical ... overdetermination of her gaps\...
 
 Maybe my resistance to the narrative conventions of the novel have to
 do with what I think of as its Protestant qualities: its earnest
-representation of the \"real,\" its greed for action, its preference
+representation of the "real,\" its greed for action, its preference
 for the concrete over the philosophical.
 
 A compromise might be possible: structuring the story by means of the
-fluctuations in her \... (dare I?) hysterical voice. The use of the
-voice invoking a poetic meaning in excess of the sentence\....
+fluctuations in her ... (dare I?) hysterical voice. The use of the
+voice invoking a poetic meaning in excess of the sentence....
 
 Blows: violent and unusual interruptions in her narrative
 texture-which texture the writing is hopefully starting to discover.
 More and more I intuit that it has to do with starting from a
-negative point: a crushed ego that doesn\'t see its boundaries.
+negative point: a crushed ego that doesn't see its boundaries.
 
 ### Entry 25
 
 During this whole process I have been caught between the need to
 accomplish this thing, which is both to posit some new kind of
 subject and to have the sense of being a subject myself; and yet to
-resist repeating, by creating a \"feminist narrative,\" what Barthes
-calls \... the staging of a new \"father,\" a new hierarchy of
+resist repeating, by creating a "feminist narrative,\" what Barthes
+calls ... the staging of a new \"father,\" a new hierarchy of
 acceptable concepts. (*Every narrative (every unveiling of the truth)
-is a staging of the \... father.*) Maybe what my heroine discovers in
-trying to write her novel is only that the novel doesn\'t suit the
-(diffuse?) women\'s way of seeing things. Where there is closure
-(firm conclusions) in \"straight writing\" there are spaces,
+is a staging of the ... father.*) Maybe what my heroine discovers in
+trying to write her novel is only that the novel doesn't suit the
+(diffuse?) women's way of seeing things. Where there is closure
+(firm conclusions) in "straight writing\" there are spaces,
 questions in hers. Even her anecdotes point to other possible
 representations, leave themselves open for reader intervention.
 
 Still, given that my firm and conscious intention has been to counter
 (patriarchal) ideology in this process, the poststructuralist recipe
-for taking apart everything from the sentence to the author won\'t
+for taking apart everything from the sentence to the author won't
 entirely do. Presumably I have to at least propose some other
-direction: language slips all around us. One\'s response to that is a
+direction: language slips all around us. One's response to that is a
 question of the relationship between writing (what it comprises of
 consciousness) and body. Again to quote Barthes: *The text needs its
 shadow. This shadow is a* bit *of ideology, a* bit *of
 representation, a* bit *of subject: ghosts, pockets, traces,
 necessary clouds. Subversion must produce its own chiaroscuro.*
 
-\[\[It is generally true that reviews of experimental narrative do
+[\[It is generally true that reviews of experimental narrative do
 not have a critical vocabulary for what the writer is doing. The goal
-seems to be attaching a label to the content without \"giving it
-away\". Narrative practice, as a field of critical inquiry, is in a
+seems to be attaching a label to the content without "giving it
+away". Narrative practice, as a field of critical inquiry, is in a
 practically fetal state. Theory borrowed from poetics is not adequate
 for describing or investigating how narratives work, what is at stake
 in narrative, the social field narratives both operate within and set
@@ -304,26 +304,26 @@ indistinguishable from background noise, unless the critical piece is
 written by the writer herself. If narrative writers want the deepest
 issues in their work to be visible, they must supply the critical
 ideas that drive their practice. This journal will hopefully be a
-place that supports the development of that discussion. (Roy)\]\]
+place that supports the development of that discussion. (Roy)]\]
 
 
-## Excerpts from \"Interview with Carla Harryman,\" by Chris Tysh
+## Excerpts from "Interview with Carla Harryman,\" by Chris Tysh
 
-Tysh: \"The I expands,\" you wrote in \"Realism.\" In this age of
+Tysh: "The I expands,\" you wrote in \"Realism.\" In this age of
 decentered subjectivities, how do you deploy the narrative machinery
-of the \"I\" and the various sensibilities it is associated with?
+of the "I\" and the various sensibilities it is associated with?
 Could you discuss the techniques with which you defamiliarize your
 use of the first-person pronoun and in general address the issue of
-the speaking subject in your prose. Who speaks?[^cr5]
+the speaking subject in your prose. Who speaks?[^2_AAA_Editorial_cr5]
 
 Harryman: My answer to this question is complex and leads to
 difficulties because I associate the I with power, control,
 destruction, gender, and whatever might transpire or exhibit itself
 between the poles of animation and passivity. Mine is an unwieldy set
 of interests, less easy to organize into the kinds of discussion that
-the problems of \"confession\" or \"authenticity\" lend themselves
+the problems of "confession\" or \"authenticity\" lend themselves
 to; even so, as you will see, I am concerned with the relation of the
-\"self\" to the limits of knowledge.
+"self\" to the limits of knowledge.
 
 When I think about the I, what first comes to mind is omniscience in
 novels. (My understanding of literary device and the problem of
@@ -338,57 +338,57 @@ in uncovering the hidden, expansive I. What happens when one
 concretizes it, making it evident in the writing, is carnivalesque.
 My writing parades various self-conscious positions in regard to
 constructs such as authorship, omniscience, and agency. It chooses to
-reflect upon the positions it takes and the relations it draws\...
+reflect upon the positions it takes and the relations it draws...
 
 The deployment of the I through the autobiographical, the fictive,
 abstraction, argumentation is involved in the breaking up of unities.
 The I, as I think you are suggesting, does not expand but disperses.
 If the text is the social body, the I is mobile within it. If I is
-that which is not the body, it attempts to identify with the body\'s
+that which is not the body, it attempts to identify with the body's
 fleshiness. The I can be a code for seeking pleasure and examining
 freedom. Then it becomes troubled by its demands, for the relation of
 the self to the world is always troubling; it is never adequate and
 the I in its freedom is too willing to give up civility, a cherished
 element of comedy.
 
-[^cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
+[^2_AAA_Editorial_cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
 
-[^cr2]: Glück, Robert. \"Fame.\" **Poetics Journal**, Number 10, June 1998.
+[^2_AAA_Editorial_cr2]: Glück, Robert. "Fame.\" **Poetics Journal**, Number 10, June 1998.
 
-[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women\'s Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
+[^2_AAA_Editorial_cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women's Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
 
 
-[^cr4]: Gayatri Chakravorty Spivak, Translator\'s Preface to
+[^2_AAA_Editorial_cr4]: Gayatri Chakravorty Spivak, Translator's Preface to
 Jacques Derrida, On Grammatology (Johns Hopkins University Press,
 1976).
 
-[^cr5]: Carla Harryman. \"Interview by Chris Tysh.\" Number 10, June 1998.
+[^2_AAA_Editorial_cr5]: Carla Harryman. "Interview by Chris Tysh.\" Number 10, June 1998.
 
 
 ## Quotes from Gail Scott
 
 ### From *Eros The Bittersweet*, by Anne Carson
 
-\"...Whenever passion seems within reach, *aidos* falls like a
-veil.... This *aidos* is the archaic ethic of \'shamefastness\'. .
+"...Whenever passion seems within reach, *aidos* falls like a
+veil.... This *aidos* is the archaic ethic of 'shamefastness\'. .
 . . Ahprodite is the divinity in charge of the perversities of
 *aidos* within the novel. She is the chief designer and chief
-subverter of the story\'s changing triangles, both patron and enemy,
+subverter of the story's changing triangles, both patron and enemy,
 inspiring with a passion strong enough to resist all the temptations
-that she herself proceeds to hurl against it.... Aphrodite\'s role
+that she herself proceeds to hurl against it.... Aphrodite's role
 in novels is an ambivalent, not to say paradoxical, one like the role
-of Eros in archaic poetry.\" Eros, p. 79-80
+of Eros in archaic poetry." Eros, p. 79-80
 
-\[Carson\'s Greeks lined up Eros versus \'shamefastness,\' which I
-contemporaneously interpret not as \'chastity\' but as \'cover-up\';
-class has entered discourse: shame is private and social (Scott)\]
+[Carson\'s Greeks lined up Eros versus \'shamefastness,\' which I
+contemporaneously interpret not as 'chastity\' but as \'cover-up\';
+class has entered discourse: shame is private and social (Scott)]
 
 
 ### From *The Shell and the Kernel* (Vol. 1) by Nicholas Abraham and Maria Torok
 
 ...What haunts are not the dead, but the gaps left within us by
 the secrets of others...
-...It is reasonable to maintain that the \'phantom effect\'
+...It is reasonable to maintain that the 'phantom effect\'
 progressively fades during its transmission from one generation to
 the next and that, finally, it disappears. Yet, this is not at all
 the case when shared or complementary phantoms find a way of being
@@ -397,9 +397,9 @@ To stage a word, whether metaphorically, as an alloseme, or as a
 cryptonym-constitutes an attempt at exorcism, an attempt, that is, to
 relieve the unconscious by placing the effects of the phantom in the
 social realm.
-...The phantom\'s periodic and compulsive return lies beyond the
+...The phantom's periodic and compulsive return lies beyond the
 scope of symptom formation in the sense of a return of the repressed;
-it works like a ventriloquist, like a stranger within the subject\'s
+it works like a ventriloquist, like a stranger within the subject's
 own mental topography. The imaginings issuing from the presence of a
 stranger have nothing to do with fantasy strictly speaking. They
 neither preserve a topgraphical status quo nor announce a shift in
@@ -407,12 +407,12 @@ it. Instead, by their gratuitousness in relation to the subject, they
 create the impression of surrealistic flights of fancy or of
 oulipo-like verbal feats.
 
-\[I like to think of the phantom dressed up in a cloak studded with
+[I like to think of the phantom dressed up in a cloak studded with
 the latest consumer items, on his way to the zoo. I like the play
 between contiguity and disjunction implied by attempting to converse
 with the unspeakable. This makes strange sentences that swing
-\"both\" ways, dialoguing with both the uncanny and the social: a
-rhetorical edge is added to poetic thinking. (Scott)\]
+"both\" ways, dialoguing with both the uncanny and the social: a
+rhetorical edge is added to poetic thinking. (Scott)]
 
 ### From *Zoo or Letters Not About Love* by Viktor Shklovsky
 
@@ -423,55 +423,55 @@ our summer cottage. When I grew up, she came to see me, always with
 presents; she remained standing and spoke to me in the formal way;
 then, when everyone left, she sat down to drink tea with me and used
 the familiar form . When I became an adult, I began to understand her
-cheerful disposition: \'My mistress lives with another woman; it\'s
-beyond me-just like nuns!\' And she\'d roar with laughter\--...She
+cheerful disposition: 'My mistress lives with another woman; it\'s
+beyond me-just like nuns!' And she\'d roar with laughter\--...She
 had a special smell, like her wooden trunk when she lifted the lid:
 calico and apples. A tlted nose, knowing eyes...
-\"One time she was working in a very rich household. The house was
+"One time she was working in a very rich household. The house was
 robbed...
-Papa asked her: \'And where were you when the house was robbed?\'
-\'At the Novo-Devichy Convent visiting a nun.\'
-\'Well, then, tell them and they\'ll let you go.\'
-\'What? And get a nun mixed up in such business, master!\'
-So she didn\'t say a word, but sat in prison until the thieves were
+Papa asked her: 'And where were you when the house was robbed?\'
+'At the Novo-Devichy Convent visiting a nun.\'
+'Well, then, tell them and they\'ll let you go.\'
+'What? And get a nun mixed up in such business, master!\'
+So she didn't say a word, but sat in prison until the thieves were
 found and she was released.
 Then, after the revolution, Mama tried to persuade her to go vote,
 but she said that after that business with the silver spoons, she
-wouldn\'t go near the police station for love or money.
+wouldn't go near the police station for love or money.
 
-\[This passage, though \"authored\" by Sklovsky, is actually by Elsa
-Triolet, Shklovsky\'s beloved at the time. He integrated her letters
+[This passage, though \"authored\" by Sklovsky, is actually by Elsa
+Triolet, Shklovsky's beloved at the time. He integrated her letters
 into his own fiction. I had intended to quote Shklovsky; whose manner
 of stringing together seemingly cut-up prose lines to effect
-narrative \'continuity\' is exemplary. Not only shame, but also
-authorship, get partly buried here. (Scott)\]
+narrative 'continuity\' is exemplary. Not only shame, but also
+authorship, get partly buried here. (Scott)]
 
 
-### From Lyn Hejinian\'s Introduction to Jena Osman\'s *Character*
+### From Lyn Hejinian's Introduction to Jena Osman\'s *Character*
 
 Performance requires the person who is the actor (i.e. already a
 character) to be in character, and this, in turn, cannot occur
-without performance. This produces not a tautology (\"performance
-requires performance\") but a bifurcation-character occurring as a
-performance in and of itself; or, as Osman says (in \"The Figural
-Cabinet\"), \"the taking place is double.\"
-Such double-mindedness, which is to say this \'self\'conscious, is
+without performance. This produces not a tautology ("performance
+requires performance") but a bifurcation-character occurring as a
+performance in and of itself; or, as Osman says (in "The Figural
+Cabinet"), \"the taking place is double.\"
+Such double-mindedness, which is to say this 'self\'conscious, is
 central to Brechtian theater; it forms the basis on which alterities
 can come into (the) play. It is characteristic, too, of everyone who
 is forced into identity-consciousness, as W.E.B. Du Bois pointed out
 long ago in The Souls of Black Folk, a work which itself has been
-described (by Houston Baker) as a \"cultural performance.\" More
-recently, the notion that \"identity\" is itself performative has
+described (by Houston Baker) as a "cultural performance.\" More
+recently, the notion that "identity\" is itself performative has
 been greatly elaborated by theorists such as Judith Butler.
-Identity-the sense of difference that belongs to one\'s
-self-sameness-is itself \"character,\" something that \"takes
-place.\" This means both that it is an occurrence or event-it
+Identity-the sense of difference that belongs to one's
+self-sameness-is itself "character,\" something that \"takes
+place." This means both that it is an occurrence or event-it
 happens-and that it involves taking up a position among others (as
 might be indicated by stage directions: *Enter Woman, wearing a hat,*
 etc.)
 
 
-### From \"Not All Halfbreed Mothers\" in *I Knew Two Métis Women*, by Greg Scofield
+### From "Not All Halfbreed Mothers\" in *I Knew Two Métis Women*, by Greg Scofield
 
 | Not all halfbreed mothers
 | wear cowboy shirts or hats,
@@ -499,7 +499,7 @@ etc.)
 | drink
 
 | red rose, blue ribbon,
-| Kelowna Red, Labatt\'s Blue.
+| Kelowna Red, Labatt's Blue.
 
 ## Quotes from Mary Burger
 
@@ -514,7 +514,7 @@ this scurvy and disastrous world of ours. --- I wish I had been born
 on the Moon, or in any of the planets (except Jupiter or Saturn,
 because I never could bear cold weather), for it could not well have
 fared worse with me in any of them (though I will not answer for
-Venus) than it has in this vile, dirty planet of ours, --- which o\'
+Venus) than it has in this vile, dirty planet of ours, --- which o'
 my conscience, with reverence be it spoken, I take to be made up of
 the shreds and clippings of the rest; --- not but the planet is well
 enough, provided a man could be born in it to a great title or to a
@@ -555,8 +555,8 @@ tedious in its telling. Therefore, my dear friend and companion, if
 you should think me somewhat sparing of my narrative on my first
 setting out, --- bear with me, --- and let me go on, and tell my
 story my own way: --- or if I should seem now and then to trifle upon
-the road, --- or should sometimes put on a fool\'s cap with a bell to
-it, for a moment or two as we pass along, --- don\'t fly off, --- but
+the road, --- or should sometimes put on a fool's cap with a bell to
+it, for a moment or two as we pass along, --- don't fly off, --- but
 rather courteously give me credit for a little more wisdom than
 appears upon my outside; --- and as we jog on, either laugh with me,
 or at me, or in short, do anything, --- only keep your temper.
@@ -622,7 +622,7 @@ importance of dreaming in the life of the hoodlum, but what I want
 particularly to show you by means of it is that I shall surround
 myself only with roughnecks of undistinguished personality, with none
 of the nobility that comes from heroism. My loved ones will be those
-whom you would call \"hoodlums of the worst sort.\"
+whom you would call "hoodlums of the worst sort.\"
 
 Darling counted the bills. He took ten for himself, put them into his
 pocket and handed the rest to Our Lady, who stood there dumbfounded.
@@ -632,7 +632,7 @@ I leave you free to imagine any dialogue you please. Choose whatever
 may charm you. Have it, if you like, that they hear the voice of the
 blood, or that they fall in love at first sight, or that Darling, by
 indisputable signs invisible to the vulgar eye, betrays the fact that
-he is a thief\...Conceive the wildest improbabilities. Have it that
+he is a thief...Conceive the wildest improbabilities. Have it that
 the depths of their being are thrilled at accosting each other in
 slang. Tangle them suddenly in a swift embrace or a brotherly kiss.
 Do whatever you like.
@@ -646,7 +646,7 @@ philosophy, because of the fundamental nature of the subject itself.
 A good analogy for this model making is the construction of a map of
 a city. The city and the map of the city are two distinct things that
 no one would confuse. This confusion is harder to avoid in cosmology.
-To be useful, the map must be faithful to some of the city\'s
+To be useful, the map must be faithful to some of the city's
 interesting properties. Furthermore, the map is constructed according
 to some specific conventions: major roads are in red; north is at the
 top; and so on. Also, a map does not try to define what a road is.
@@ -704,11 +704,11 @@ mountains. Somewhere between fear and sex. Somewhere between God and
 the Devil passion is and the way there is sudden and the way back is
 worse.
 
-I\'m surprised at myself for talking in this way. I\'m young, the
+I'm surprised at myself for talking in this way. I\'m young, the
 world is before me, there will be others. I feel my first streak of
-defiance since I met her. My first upsurge of self. I won\'t see her
+defiance since I met her. My first upsurge of self. I won't see her
 again. I can go home, throw aside these clothes and move on. I can
-move out if I like. I\'m sure the meat man can be persuaded to take
+move out if I like. I'm sure the meat man can be persuaded to take
 me to Paris for a favour or two.
 
 > Passion, I spit on it.

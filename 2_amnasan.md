@@ -1,7 +1,6 @@
 
-# The Universes: On Semantics and Learning
+# Mike Amnasan: The Universes: On Semantics and Learning
 
-Mike Amnasan
 
 
  
@@ -9,28 +8,28 @@ Mike Amnasan
 
 ## 1
 
-I can\'t tell you what I was just thinking. As in Augustine\'s view
+**I can't tell you** what I was just thinking. As in Augustine\'s view
 of intuition, the associations I registered were too free of any
 repeatable limitations for me to verbalize the experience. Perhaps
 these associations were of diverging thoughts that have not departed
 my mind. The most handy example of something similar is the
 simultaneity of sense perception. Each sense perception is
 specialized and in that respect removed from the whole and yet also
-registered in the same moment. In the thought I\'m speaking of there
+registered in the same moment. In the thought I'm speaking of there
 were different concerns, we might even say a universe of concerns
 none of which I can fully express. This complex event might be
 considered incidental in regard to what I have learned to value. I am
 now attempting to acquire a greater appreciation of something I
-cannot verbalize, meaningful associations I can\'t excite a
+cannot verbalize, meaningful associations I can't excite a
 recurrence of through keying words into a computer.
 
 Semantic sensation is never original. It must always be familiar.
 Language does excite original sensations, as in the sound of a
-speaker\'s voice, but the semantic experience itself is never sound
+speaker's voice, but the semantic experience itself is never sound
 or vision, or any other sense perception of the material universe.
 Original experience of semantics would be like immediately
 comprehending a language we never heard before. This kind of
-appreciation is possible with music. Music we\'ve never heard before
+appreciation is possible with music. Music we've never heard before
 can be immediately appreciated as music, but semantics, like memory,
 must always be a response to what is already familiar.
 
@@ -71,7 +70,7 @@ we can only appreciate what language excites an interest in. If
 meaning originated in language semantics could not have the benefits
 I hope for. The use of language would be the limits of its effect,
 and all the incidental experiences that I accrue on a construction
-site, when I seldom talk, and much more rarely about what I\'m now
+site, when I seldom talk, and much more rarely about what I'm now
 writing, would go for nought---or worse. My time on a construction
 site would suspend the cognition I long to learn from. What I then
 felt to be my most prized asset, the verbal, and all my work with the
@@ -85,7 +84,7 @@ impacted by my regard for language, and this involves study that is,
 in part, motivated by a desire to develop an understanding through
 which I can regard different aspects of my life as of mutual value. I
 want this view to be revised within different kinds of experience
-that I am never fully \"conscious\" of---even if some rehearsal of
+that I am never fully "conscious\" of---even if some rehearsal of
 what I cannot register is, at this very moment, being performed as
 simultaneous events in my mind. Language is not only directed toward
 fortuitous limitations, but also toward realizing a universality that
@@ -118,7 +117,7 @@ As you read these words they arouse an immaterial universe
 simultaneous with your perceptions of material reality. A simplified
 version of what happens is this: the stimuli from your eyes travels
 along the optic pathway until it enters the region of the cerebral
-cortex associated with language.[^1] This
+cortex associated with language.[^2_amnasan_1] This
 linguistic region responds only to the familiar stimuli, the marks,
 that spur semantic sensations. Stimuli from the eyes passes on to the
 visual area of the occipital lobe where it excites the visual
@@ -134,7 +133,7 @@ the surface of our skin was never exclusively devoted to creating
 sense perceptions of the material universe. Our perceptions may be
 more of an afterthought. It is possible for a creature to have an
 eye, and to respond consistently to stimuli from that eye without the
-luxury of any visual impressions.[^2] Such
+luxury of any visual impressions.[^2_amnasan_2] Such
 behavior would not be derived from cognition minus sense perception,
 but rather a reaction lacking in a consistent impression that could
 become either reliable or doubtful.
@@ -184,9 +183,9 @@ regard, is whether or not we can become proficient without limiting
 the focus of our interests. Can we learn, not only from close study
 with expedient results, but also through a delayed cognitive response
 that includes more material than we can consider within any close
-reading? In \"The Love of Reading\" Virginia Woolf speaks of \"the
-process of after-reading.\" After a book is read it takes on a shape
-\"held in the mind\" (416). After-reading may occur days after the
+reading? In "The Love of Reading\" Virginia Woolf speaks of \"the
+process of after-reading." After a book is read it takes on a shape
+"held in the mind\" (416). After-reading may occur days after the
 book has been set aside, and this later experience may become related
 to other experience; simultaneous mental events that were incidental
 at the time of reading may become appreciated as meaningful
@@ -208,10 +207,10 @@ discipline if close reading, or some similar attention, was
 exclusively how we learn, and perhaps my confidence in being able to
 offer useful models is deluded. Within a fairly isolated effort I
 cannot tell the difference between adding to current understandings
-and my own ignorance of other people\'s efforts that I may simply
+and my own ignorance of other people's efforts that I may simply
 repeat. I may expend time and energy in a direction others have long
 ago recognized the folly of. To some extent this is rhetorical in
-that I have found confirmation for my efforts in books I\'ve recently
+that I have found confirmation for my efforts in books I've recently
 read---but I do depend upon intuition to an extent that may seem
 sloppy to anyone who expects strong textual support for what I might
 propose.
@@ -229,12 +228,12 @@ following day. Perhaps there were events occurring within cognition
 that were registered as successful writing---but I was learning a new
 emphasis on the familiar, at the same time as I was making language,
 and I was not *only* reading the effect of what I was keying into my
-computer. I don\'t mean to suggest that this considerable cognitive
+computer. I don't mean to suggest that this considerable cognitive
 delay is the only way we learn in regard to language. Certainly there
 are occasions in which learning is derived from a close focus on a
 passage that is difficult to comprehend without repeated readings in
 which significant aspects of language begin to emerge, and it may
-seem that we are bringing meaning into \"consciousness.\" But even
+seem that we are bringing meaning into "consciousness.\" But even
 this instance of close attention requires a non-linguistic, cognitive
 response to make the already familiar appreciable.
 
@@ -297,22 +296,22 @@ feel *that* as my physical body, alone in an unsympathetic universe,
 the vulnerability, the loss of control over the sensations of my
 skin, my face, my mannerisms and my speech if I speak out in a
 classroom or within some other public event. This physical experience
-disrupts my sense of being a coherent whole \"conscious\" of who I
+disrupts my sense of being a coherent whole "conscious\" of who I
 am, and these occasions have always had this effect on me, but
 earlier in my life I felt this disruption as revealing weakness, and
 perhaps it does, but it is the weakness of risking a social life.
 
 Poor beginnings left me too confident in my own mental resources in
 comparison to the culturally-deprived interactions I was limited to.
-Like Nietzsche\'s mosquito \"feeling within itself the flying center
-of the world\" (42), isolated efforts tend to return me to an
-exaggerated sense of \"self-importance.\" There is nothing within
+Like Nietzsche's mosquito \"feeling within itself the flying center
+of the world" (42), isolated efforts tend to return me to an
+exaggerated sense of "self-importance.\" There is nothing within
 cognition and semantics to prevent me from being highly successful at
 meeting my own expectations, and imaginary others as well---though I
 will, at the same time, feel a nagging suspicion that something is
 missing. I have become deceived in regard to the expectations of
-those others who I anticipate impressing. Augustine states \"If I am
-deceived, I am\" (33), and it seems that he is talking about being
+those others who I anticipate impressing. Augustine states "If I am
+deceived, I am" (33), and it seems that he is talking about being
 deceived in a social context. If I realize that I have been deceived
 in anticipating the expectations of others I am a social being
 learning from the effect of rallying my senses to deal with the
@@ -321,12 +320,12 @@ vulnerability of interacting.
 Paradoxically it would seem that we exist, as social beings, because
 we are not in full control of our body, our appearance, voice,
 mannerisms, what anything we express means. Judith Butler states,
-\"If one always risks meaning something other than what one thinks
+"If one always risks meaning something other than what one thinks
 one utters, then one is, as it were, vulnerable in a specifically
 linguistic sense to a social life of language that exceeds the
-purview of the subject who speaks\" (87). If we have no disruptive
-memory of interacting with others, we not only do not \"exceed the
-purview of the subject who speaks,\" we slip into a false consensus
+purview of the subject who speaks" (87). If we have no disruptive
+memory of interacting with others, we not only do not "exceed the
+purview of the subject who speaks," we slip into a false consensus
 of what the language we use means.
 
 Learning requires an infusion of original experience from the
@@ -348,11 +347,11 @@ incidental to reading.
 I exaggerate. Our other senses do, and must, remain significant while
 we read. The historical examples that Martin Jay provides in
 **Downcast Eyes** suggest that a greater attention to text can result
-in the denigration of vision as the purveyor of \"truth,\" but, as
+in the denigration of vision as the purveyor of "truth,\" but, as
 Jay points out, this need not result in the denigration of vision as
-a rich experience. I don\'t know that reading and writing as a form
+a rich experience. I don't know that reading and writing as a form
 of sensory deprivation has ever been studied, or how it could be
-researched since anyone isolated in their efforts, in the manner I\'m
+researched since anyone isolated in their efforts, in the manner I'm
 suggesting, would not succeed in drawing attention to himself, and
 so, for me, this must remain autobiographical, a concern I will
 return to.
@@ -400,7 +399,7 @@ an individual effort. And yet despite these important reasons to
 quote others, in my own experience in community colleges, citing was
 introduced as having two major concerns.
 
-The first was plagiarism: stealing another\'s ideas. The second was
+The first was plagiarism: stealing another's ideas. The second was
 the need to provide textual evidence to confirm the worth of anything
 we propose. I particularly remember fliers handed out in each class
 defining plagiarism and warning against it---though I never knew who
@@ -417,10 +416,10 @@ call attention to the first person plural of critical writing, the
 others we cannot fully separate from our own experience of learning.
 
 I remember, as a teenager, lying drunk on my back, in the back yard
-of my parents\' tract home. I was too inebriated to do much more than
+of my parents' tract home. I was too inebriated to do much more than
 move my head from side to side, through which I could see the stucco
 back of the house, and the garage which, among other things,
-sheltered my father\'s automotive tools (the trade he taught in a
+sheltered my father's automotive tools (the trade he taught in a
 local high school). Letting my head roll in the other direction, I
 could see the redwood fence at the back of the yard. Looking straight
 ahead I saw the sky, representing my freedom to seek out a being
@@ -430,7 +429,7 @@ to the bone from all others. Even if my difference felt undeniable
 within a tract home development in the San Gabriel Valley, it was an
 impression formed in relation to a very small number of people, a
 tiny perspective within the sprawling suburbs of Los Angeles. I
-didn\'t have sufficient evidence to confirm or deny what I firmly
+didn't have sufficient evidence to confirm or deny what I firmly
 believed---and I never would even if I expanded the world I took an
 interest in. My disposition was not due to a lack of similarity to
 others, but rather that I saw them much as I regarded myself as an
@@ -462,13 +461,13 @@ simultaneous experience as a construction worker, even if it is an
 inferior position from which to participate in a mutual critical
 effort. Should I tell you of running to the underground MUNI in the
 dark of morning, while pulling a dirty sweat shirt over my head,
-because I lingered too long reading over this I\'m working on? We
-don\'t really know how important this personal information might be
+because I lingered too long reading over this I'm working on? We
+don't really know how important this personal information might be
 if thrown into the mix of critical writing. Perhaps the singular,
 where a plural is wanted, carries with it an overblown sense of the
 subject writing, which should be dissipated within a mutual effort in
 which having been influenced by others is strongly highlighted and
-rightfully so, and I\'ll return to that soon.
+rightfully so, and I'll return to that soon.
 
 Sheet Metal work, my only income, has been recently altered by the
 growing aesthetic preference for exposed duct, and this has created a
@@ -481,7 +480,7 @@ to quickly handle the duct into aesthetic lines. We are unlikely to
 see it painted within a finished building---which is just as well in
 that the finished vision will not include the heavy, galvanized
 air-tunnel, physically hoisted in a dusty, gutted building, a richer
-physical experience than keying words into a computer as I\'m doing
+physical experience than keying words into a computer as I'm doing
 now.
 
 One benefit of this work, an unexpected one considering that it would
@@ -509,55 +508,55 @@ research required to substantiate my claims---of doing the wrong
 work! This is the modus operandi I am most likely to be accused of,
 and that I feel a need to justify in that I find that if I always
 need textual evidence to back up whatever I propose, I cannot
-maintain momentum---at least at this time in my life. This doesn\'t
+maintain momentum---at least at this time in my life. This doesn't
 mean that anything I say comes out of the blue, but rather that I
-don\'t keep track of influences, especially since there tends to be
+don't keep track of influences, especially since there tends to be
 considerable delay, and a great deal of intervening experience before
 I arrive at what I may eventually express with some confidence. I
 might then speak of this universal exhaustion as a universal delay, a
 disjunctive interval, in which my efforts do not come to a sudden a
 halt when I must turn my attention to construction work. Construction
 work itself has more meaning as part of simultaneous projects like
-that which I\'m now working on.
+that which I'm now working on.
 
 
 
 ## Works Cited
 
-Augustine. **The Essential Augustine**. Ed. Vernon J. Bourke.
+Augustine. *The Essential Augustine*. Ed. Vernon J. Bourke.
 Indianapolis: Hackett, 1974.
 
-Butler, Judith. **Excitable Speech; A Politics of the Performative**.
+Butler, Judith. *Excitable Speech; A Politics of the Performative*.
 New York: Routledge, 1997.
 
-**Inside the Animal Mind**. Episode Three: \"Animal Consciousness.\"
+*Inside the Animal Mind*. Episode Three: "Animal Consciousness.\"
 Nature Video Library. Produced by Green Umbrella, Thirteen/ WNET New
 York and the BBC, 2000.
 
-Jay, Martin. **Downcast Eyes; The Denigration of Vision In
-Twentieth-Century French Thought**. Berkeley: University of
+Jay, Martin. *Downcast Eyes; The Denigration of Vision In
+Twentieth-Century French Thought*. Berkeley: University of
 California Press, 1994.
 
-Nietzsche, Friedrich. **On Truth and Lie in an Extra-Moral Sense**.
-**The Portable Nietzsche**. Trans. Walter Kaufmann. Ed. Walter
+Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense*.
+*The Portable Nietzsche*. Trans. Walter Kaufmann. Ed. Walter
 Kaufmann. New York: Viking, 1965.
 
 Pinker, Steven. **The Language Instinct; How the Mind Creates
 Language**. New York: Harper, 1995.
 
-Woolf, Virginia. \"Virginia Woolf: The Love of Reading.\" **A
-Bloomsbury Group Reader**. Ed. S.P. Rosenbaum. Oxford: Basil
+Woolf, Virginia. "Virginia Woolf: The Love of Reading.\" *A
+Bloomsbury Group Reader*, Ed. S.P. Rosenbaum. Oxford: Basil
 Blackwell, 1993. 415-418.
 
 
 
-[^1]: Steven Pinker states that \"\[Gazzaniga\'s coworkers\]
+[^2_amnasan_1]: Steven Pinker states that "\[Gazzaniga\'s coworkers\]
 found that all the areas that have been implicated in language are
 adjacent in one continuous territory. This region of the cortex, the
-left perisylvan region, can be considered to be the language organ\"
+left perisylvan region, can be considered to be the language organ"
 (307).
 
-[^2]: In the documentary Inside the Animal Mind a man, and
+[^2_amnasan_2]: In the documentary Inside the Animal Mind a man, and
 also a monkey, both suffering from blind sight, are shown to respond
 correctly to visual stimuli on their right side, visual stimuli that
 they do not register having seen.

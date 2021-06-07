@@ -1,6 +1,6 @@
 
 
-\mainmatter
+mainmatter
 
 
 
@@ -5205,11 +5205,11 @@ the place of a hand and a foot in place of a foot, an image in place
 of an image then you will enter the kingdom.
 
 
-## From *Foucault/Blanchot, Maurice Blanchot*: \"The Thought from the Outside\" by Michel Foucault
+## From *Foucault/Blanchot, Maurice Blanchot*: "The Thought from the Outside\" by Michel Foucault
 
 
 If the only site for language is indeed the solitary sovereignty of
-\"I speak\" then in principle nothing can limit it---not the one to
+"I speak\" then in principle nothing can limit it---not the one to
 whom it is addressed, not the truth of what it says, not the values
 or systems of representation it utilizes. In short, it is no longer
 discourse and the communication of meaning, but a spreading forth of
@@ -5238,7 +5238,7 @@ I have wandered: I have gone from place to place. I have stayed in
 one place, lived in a single room. I have been poor, then richer,
 then poorer than many people. As a child I had great passions, and
 everything I wanted was given to me. My childhood has disappeared, my
-youth his behind me. It doesn\'t matter. I am happy about what has
+youth his behind me. It doesn't matter. I am happy about what has
 been. I am pleased by what is, and what is to come suits me well
 enough.
 
@@ -5259,7 +5259,7 @@ calm? But I was scorched from head to foot; at night I would run
 through the streets and howl; during the day I would work calmly.
 
 
-## From \"Crossing into Poland\" by Isaac Babel trans. Walter Morison, **The Collected Stories**.
+## From "Crossing into Poland\" by Isaac Babel trans. Walter Morison, **The Collected Stories**.
 
 Fields flowered around us, crimson with poppies; a noontide breeze
 played in the yellowing rye; on the horizon virginal buckwheat rose
@@ -5279,9 +5279,9 @@ dotted with the square black patches of the wagons, and was full of
 confused sounds, of whistling and singing, that rose above the
 gleaming hollows, the serpentine trails of the moon.
 
-# Quotes from Camille Roy
+## Quotes from Camille Roy
 
-# Excerpts from \"The Storyteller,\" by Walter Benjamin
+# Excerpts from "The Storyteller,\" by Walter Benjamin
 
 The art of storytelling is coming to an end. Less and less frequently
 do we encounter people with the ability to tell a tale properly. More
@@ -5291,11 +5291,11 @@ inalienable to us, the securest among our possessions, were taken
 from us: the ability to exchange experiences.[^cr1]
 
 One reason for this phenomenon is obvious: experience has fallen in
-value\... \[The nature of every real story is that\] it contains,
+value... \[The nature of every real story is that\] it contains,
 openly or covertly, something useful. The usefulness may, in one
 case, consist in a moral; in another, in some practical advice, in a
 third, in a proverb or maxim. In every case the storyteller is a man
-who has counsel for his readers. But if today \"having counsel\" is
+who has counsel for his readers. But if today "having counsel\" is
 beginning to have an old-fashioned ring, this is because the
 communicability of experience is decreasing. In consequence we have
 no counsel either for ourselves or for others.
@@ -5318,7 +5318,7 @@ long time.
 Today people live in rooms that have never been touched by death, dry
 dwellers of eternity, and when their end approaches they are stowed
 away in sanatoria or hospitals by their heirs. It is, however,
-characteristic that not only a man\'s knowledge or wisdom, but above
+characteristic that not only a man's knowledge or wisdom, but above
 all his real life---and this is the stuff that stories are made
 of---first assumes transmissible form at the moment of his death.
 Just as a sequence of images is set in motion inside a man as his
@@ -5333,7 +5333,7 @@ Death is the sanction of everything that the storyteller can tell. He
 has borrowed his authority from death.
 
 
-\[\[I love this essay, although it doesn\'t address what seems to me
+[\[I love this essay, although it doesn\'t address what seems to me
 to be a distortion in the general view of the narrative process:
 story**telling**. In addition to the story which is told, there is
 the story withheld. Attraction, narrative suspense, emanates from the
@@ -5341,19 +5341,19 @@ latter. The story withheld has its own (buried) structure and
 tension. The reader marries the hidden story, not the visible one.
 That is why we continue to read a story that inspires dread. An
 attachment has been formed---surreptitiously. It operates like a
-craving, which is how I recognize Benjamin\'s reference to death. The
+craving, which is how I recognize Benjamin's reference to death. The
 craving for the unknown, as it is held by the act of storytelling,
-points to death (or its substitute, the body). (Roy)\]\]
+points to death (or its substitute, the body). (Roy)]\]
 
 
-## Excerpts from \"Fame,\" by Robert Gluck
+## Excerpts from "Fame,\" by Robert Gluck
 
-There are contradictory reasons when I use \"real\" people in my
+There are contradictory reasons when I use "real\" people in my
 work, and the contradictions comfort me. Any literary practice
-should, I think, derive from contradictory sources and motives\... I
+should, I think, derive from contradictory sources and motives... I
 name names to evoke the already-known, to make writing co-extend with
 the world and history, and to examine the fiction of personality, as
-well as the fiction of the word\.... I propose self-community-story
+well as the fiction of the word.... I propose self-community-story
 as a tonic for the loss of human scale; by naming
 self-community-story I participate in their disintegration, their
 progress from invisibility to something to be named and
@@ -5361,17 +5361,17 @@ manipulated---to be reintegrated later in a new context, in a third
 term that history must provide.[^cr2]
 
 Prolonged scrutiny can become an expenditure of self, a potlatch of
-self. I\'ve come to experience the unreeling of interiority and
+self. I've come to experience the unreeling of interiority and
 sexual disclosure as such a loss, and also part of a historical
-trajectory. It\'s a writing activity that privileges the aggression
-of naming---an ongoing colonization of self into one\'s own language.
+trajectory. It's a writing activity that privileges the aggression
+of naming---an ongoing colonization of self into one's own language.
 Once something is named, you are in relation to it. Name the disease
 to cure it.
 
 We want to see a story as we see other representations: being hiding
 behind appearance---that is, hiding and revealing the body. But the
-use of real names \[in my work\] reorders connections and
-disjunctions. I do mean fragmentation. I don\'t want to make the
+use of real names [in my work\] reorders connections and
+disjunctions. I do mean fragmentation. I don't want to make the
 predictable distinction between story and fragmented writing. Naming
 names creates an open form that co-extends with the world. In a
 postmodern switch, it applies the open form of modernism to content
@@ -5383,12 +5383,12 @@ dynamics). The problem of figure and ground becomes a social one, and
 some of what is existential in the content is subtracted and
 reintegrated in the relation between reader and writer.
 
-\... Using real names provides a relation between the writer and
+... Using real names provides a relation between the writer and
 myself that carries some risk, like performance art. What I witness
 is always the same: any story hides and then reveals the body.
 
 
-\[\[Two aspects of narrative writing have been subjected to
+[\[Two aspects of narrative writing have been subjected to
 devastating critiques: the linearity of narrative, and the
 credibility of the narrator. (The popularity of the memoir is in part
 due to the diminished credibility of anything other than an
@@ -5396,72 +5396,72 @@ autobiographical voice.) The critical and political forces which
 produced these critiques have pushed experimental narrative writers
 to the boundary where form collapses into experience. The searching
 re-examination of narrative premises becomes part of the practice.
-(Roy)\]\]
+(Roy)]\]
 
 
-## Excerpts from \"Paragraphs Blowing On A Line,\" by Gail Scott
+## Excerpts from "Paragraphs Blowing On A Line,\" by Gail Scott
 
 ### Entry 11:
 
 She sees the present as a great tear, a great rip in the surface of
 things: the gap of which is at first impossible for her to move
-across (*\...does not thinking seek forever to clamp a dressing over
+across (*...does not thinking seek forever to clamp a dressing over
 the gaping and violent wound of the impossibility of
-thought\...[^cr4] It is awareness of this that
+thought...[^cr4] It is awareness of this that
 makes linear narrative impossible. A virtually tragic awareness, for
-the writing \"I,\" which modernists began to \"deconstruct\" as they
+the writing "I,\" which modernists began to \"deconstruct\" as they
 recognized that gap (accepted to give up power) has, in her case,
-been \"deconstructed\" a priori by social conditions. She is not only
-split between the self and the \"real\", but also within the
-self\...[^cr3]
+been "deconstructed\" a priori by social conditions. She is not only
+split between the self and the "real\", but also within the
+self...[^cr3]
 
-So the question becomes how to write across the almost \...
-hysterical \... overdetermination of her gaps\...
+So the question becomes how to write across the almost ...
+hysterical ... overdetermination of her gaps\...
 
 Maybe my resistance to the narrative conventions of the novel have to
 do with what I think of as its Protestant qualities: its earnest
-representation of the \"real,\" its greed for action, its preference
+representation of the "real,\" its greed for action, its preference
 for the concrete over the philosophical.
 
 A compromise might be possible: structuring the story by means of the
-fluctuations in her \... (dare I?) hysterical voice. The use of the
-voice invoking a poetic meaning in excess of the sentence\....
+fluctuations in her ... (dare I?) hysterical voice. The use of the
+voice invoking a poetic meaning in excess of the sentence....
 
 Blows: violent and unusual interruptions in her narrative
 texture-which texture the writing is hopefully starting to discover.
 More and more I intuit that it has to do with starting from a
-negative point: a crushed ego that doesn\'t see its boundaries.
+negative point: a crushed ego that doesn't see its boundaries.
 
 ### Entry 25
 
 During this whole process I have been caught between the need to
 accomplish this thing, which is both to posit some new kind of
 subject and to have the sense of being a subject myself; and yet to
-resist repeating, by creating a \"feminist narrative,\" what Barthes
-calls \... the staging of a new \"father,\" a new hierarchy of
+resist repeating, by creating a "feminist narrative,\" what Barthes
+calls ... the staging of a new \"father,\" a new hierarchy of
 acceptable concepts. (*Every narrative (every unveiling of the truth)
-is a staging of the \... father.*) Maybe what my heroine discovers in
-trying to write her novel is only that the novel doesn\'t suit the
-(diffuse?) women\'s way of seeing things. Where there is closure
-(firm conclusions) in \"straight writing\" there are spaces,
+is a staging of the ... father.*) Maybe what my heroine discovers in
+trying to write her novel is only that the novel doesn't suit the
+(diffuse?) women's way of seeing things. Where there is closure
+(firm conclusions) in "straight writing\" there are spaces,
 questions in hers. Even her anecdotes point to other possible
 representations, leave themselves open for reader intervention.
 
 Still, given that my firm and conscious intention has been to counter
 (patriarchal) ideology in this process, the poststructuralist recipe
-for taking apart everything from the sentence to the author won\'t
+for taking apart everything from the sentence to the author won't
 entirely do. Presumably I have to at least propose some other
-direction: language slips all around us. One\'s response to that is a
+direction: language slips all around us. One's response to that is a
 question of the relationship between writing (what it comprises of
 consciousness) and body. Again to quote Barthes: *The text needs its
 shadow. This shadow is a* bit *of ideology, a* bit *of
 representation, a* bit *of subject: ghosts, pockets, traces,
 necessary clouds. Subversion must produce its own chiaroscuro.*
 
-\[\[It is generally true that reviews of experimental narrative do
+[\[It is generally true that reviews of experimental narrative do
 not have a critical vocabulary for what the writer is doing. The goal
-seems to be attaching a label to the content without \"giving it
-away\". Narrative practice, as a field of critical inquiry, is in a
+seems to be attaching a label to the content without "giving it
+away". Narrative practice, as a field of critical inquiry, is in a
 practically fetal state. Theory borrowed from poetics is not adequate
 for describing or investigating how narratives work, what is at stake
 in narrative, the social field narratives both operate within and set
@@ -5471,14 +5471,14 @@ indistinguishable from background noise, unless the critical piece is
 written by the writer herself. If narrative writers want the deepest
 issues in their work to be visible, they must supply the critical
 ideas that drive their practice. This journal will hopefully be a
-place that supports the development of that discussion. (Roy)\]\]
+place that supports the development of that discussion. (Roy)]\]
 
 
-## Excerpts from \"Interview with Carla Harryman,\" by Chris Tysh
+## Excerpts from "Interview with Carla Harryman,\" by Chris Tysh
 
-Tysh: \"The I expands,\" you wrote in \"Realism.\" In this age of
+Tysh: "The I expands,\" you wrote in \"Realism.\" In this age of
 decentered subjectivities, how do you deploy the narrative machinery
-of the \"I\" and the various sensibilities it is associated with?
+of the "I\" and the various sensibilities it is associated with?
 Could you discuss the techniques with which you defamiliarize your
 use of the first-person pronoun and in general address the issue of
 the speaking subject in your prose. Who speaks?[^cr5]
@@ -5488,9 +5488,9 @@ difficulties because I associate the I with power, control,
 destruction, gender, and whatever might transpire or exhibit itself
 between the poles of animation and passivity. Mine is an unwieldy set
 of interests, less easy to organize into the kinds of discussion that
-the problems of \"confession\" or \"authenticity\" lend themselves
+the problems of "confession\" or \"authenticity\" lend themselves
 to; even so, as you will see, I am concerned with the relation of the
-\"self\" to the limits of knowledge.
+"self\" to the limits of knowledge.
 
 When I think about the I, what first comes to mind is omniscience in
 novels. (My understanding of literary device and the problem of
@@ -5505,13 +5505,13 @@ in uncovering the hidden, expansive I. What happens when one
 concretizes it, making it evident in the writing, is carnivalesque.
 My writing parades various self-conscious positions in regard to
 constructs such as authorship, omniscience, and agency. It chooses to
-reflect upon the positions it takes and the relations it draws\...
+reflect upon the positions it takes and the relations it draws...
 
 The deployment of the I through the autobiographical, the fictive,
 abstraction, argumentation is involved in the breaking up of unities.
 The I, as I think you are suggesting, does not expand but disperses.
 If the text is the social body, the I is mobile within it. If I is
-that which is not the body, it attempts to identify with the body\'s
+that which is not the body, it attempts to identify with the body's
 fleshiness. The I can be a code for seeking pleasure and examining
 freedom. Then it becomes troubled by its demands, for the relation of
 the self to the world is always troubling; it is never adequate and
@@ -5520,42 +5520,42 @@ element of comedy.
 
 [^cr1]: Benjamin, Walter. **Illuminations**. (Shocken Books, © 1968).
 
-[^cr2]: Glück, Robert. \"Fame.\" **Poetics Journal**, Number 10, June 1998.
+[^cr2]: Glück, Robert. "Fame.\" **Poetics Journal**, Number 10, June 1998.
 
-[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women\'s Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
+[^cr3]: Scott, Gail. **Spaces Like Stairs: Essays by Gail Scott**. (Toronto, Ontario: The Women's Press, ©1989). Gail adds: "This diary was written over the years I worked on my novel, _Heroine_."
 
 
-[^cr4]: Gayatri Chakravorty Spivak, Translator\'s Preface to
+[^cr4]: Gayatri Chakravorty Spivak, Translator's Preface to
 Jacques Derrida, On Grammatology (Johns Hopkins University Press,
 1976).
 
-[^cr5]: Carla Harryman. \"Interview by Chris Tysh.\" Number 10, June 1998.
+[^cr5]: Carla Harryman. "Interview by Chris Tysh.\" Number 10, June 1998.
 
 
 ## Quotes from Gail Scott
 
 ### From *Eros The Bittersweet*, by Anne Carson
 
-\"...Whenever passion seems within reach, *aidos* falls like a
-veil.... This *aidos* is the archaic ethic of \'shamefastness\'. .
+"...Whenever passion seems within reach, *aidos* falls like a
+veil.... This *aidos* is the archaic ethic of 'shamefastness\'. .
 . . Ahprodite is the divinity in charge of the perversities of
 *aidos* within the novel. She is the chief designer and chief
-subverter of the story\'s changing triangles, both patron and enemy,
+subverter of the story's changing triangles, both patron and enemy,
 inspiring with a passion strong enough to resist all the temptations
-that she herself proceeds to hurl against it.... Aphrodite\'s role
+that she herself proceeds to hurl against it.... Aphrodite's role
 in novels is an ambivalent, not to say paradoxical, one like the role
-of Eros in archaic poetry.\" Eros, p. 79-80
+of Eros in archaic poetry." Eros, p. 79-80
 
-\[Carson\'s Greeks lined up Eros versus \'shamefastness,\' which I
-contemporaneously interpret not as \'chastity\' but as \'cover-up\';
-class has entered discourse: shame is private and social (Scott)\]
+[Carson\'s Greeks lined up Eros versus \'shamefastness,\' which I
+contemporaneously interpret not as 'chastity\' but as \'cover-up\';
+class has entered discourse: shame is private and social (Scott)]
 
 
 ### From *The Shell and the Kernel* (Vol. 1) by Nicholas Abraham and Maria Torok
 
 ...What haunts are not the dead, but the gaps left within us by
 the secrets of others...
-...It is reasonable to maintain that the \'phantom effect\'
+...It is reasonable to maintain that the 'phantom effect\'
 progressively fades during its transmission from one generation to
 the next and that, finally, it disappears. Yet, this is not at all
 the case when shared or complementary phantoms find a way of being
@@ -5564,9 +5564,9 @@ To stage a word, whether metaphorically, as an alloseme, or as a
 cryptonym-constitutes an attempt at exorcism, an attempt, that is, to
 relieve the unconscious by placing the effects of the phantom in the
 social realm.
-...The phantom\'s periodic and compulsive return lies beyond the
+...The phantom's periodic and compulsive return lies beyond the
 scope of symptom formation in the sense of a return of the repressed;
-it works like a ventriloquist, like a stranger within the subject\'s
+it works like a ventriloquist, like a stranger within the subject's
 own mental topography. The imaginings issuing from the presence of a
 stranger have nothing to do with fantasy strictly speaking. They
 neither preserve a topgraphical status quo nor announce a shift in
@@ -5574,12 +5574,12 @@ it. Instead, by their gratuitousness in relation to the subject, they
 create the impression of surrealistic flights of fancy or of
 oulipo-like verbal feats.
 
-\[I like to think of the phantom dressed up in a cloak studded with
+[I like to think of the phantom dressed up in a cloak studded with
 the latest consumer items, on his way to the zoo. I like the play
 between contiguity and disjunction implied by attempting to converse
 with the unspeakable. This makes strange sentences that swing
-\"both\" ways, dialoguing with both the uncanny and the social: a
-rhetorical edge is added to poetic thinking. (Scott)\]
+"both\" ways, dialoguing with both the uncanny and the social: a
+rhetorical edge is added to poetic thinking. (Scott)]
 
 ### From *Zoo or Letters Not About Love* by Viktor Shklovsky
 
@@ -5590,55 +5590,55 @@ our summer cottage. When I grew up, she came to see me, always with
 presents; she remained standing and spoke to me in the formal way;
 then, when everyone left, she sat down to drink tea with me and used
 the familiar form . When I became an adult, I began to understand her
-cheerful disposition: \'My mistress lives with another woman; it\'s
-beyond me-just like nuns!\' And she\'d roar with laughter\--...She
+cheerful disposition: 'My mistress lives with another woman; it\'s
+beyond me-just like nuns!' And she\'d roar with laughter\--...She
 had a special smell, like her wooden trunk when she lifted the lid:
 calico and apples. A tlted nose, knowing eyes...
-\"One time she was working in a very rich household. The house was
+"One time she was working in a very rich household. The house was
 robbed...
-Papa asked her: \'And where were you when the house was robbed?\'
-\'At the Novo-Devichy Convent visiting a nun.\'
-\'Well, then, tell them and they\'ll let you go.\'
-\'What? And get a nun mixed up in such business, master!\'
-So she didn\'t say a word, but sat in prison until the thieves were
+Papa asked her: 'And where were you when the house was robbed?\'
+'At the Novo-Devichy Convent visiting a nun.\'
+'Well, then, tell them and they\'ll let you go.\'
+'What? And get a nun mixed up in such business, master!\'
+So she didn't say a word, but sat in prison until the thieves were
 found and she was released.
 Then, after the revolution, Mama tried to persuade her to go vote,
 but she said that after that business with the silver spoons, she
-wouldn\'t go near the police station for love or money.
+wouldn't go near the police station for love or money.
 
-\[This passage, though \"authored\" by Sklovsky, is actually by Elsa
-Triolet, Shklovsky\'s beloved at the time. He integrated her letters
+[This passage, though \"authored\" by Sklovsky, is actually by Elsa
+Triolet, Shklovsky's beloved at the time. He integrated her letters
 into his own fiction. I had intended to quote Shklovsky; whose manner
 of stringing together seemingly cut-up prose lines to effect
-narrative \'continuity\' is exemplary. Not only shame, but also
-authorship, get partly buried here. (Scott)\]
+narrative 'continuity\' is exemplary. Not only shame, but also
+authorship, get partly buried here. (Scott)]
 
 
-### From Lyn Hejinian\'s Introduction to Jena Osman\'s *Character*
+### From Lyn Hejinian's Introduction to Jena Osman\'s *Character*
 
 Performance requires the person who is the actor (i.e. already a
 character) to be in character, and this, in turn, cannot occur
-without performance. This produces not a tautology (\"performance
-requires performance\") but a bifurcation-character occurring as a
-performance in and of itself; or, as Osman says (in \"The Figural
-Cabinet\"), \"the taking place is double.\"
-Such double-mindedness, which is to say this \'self\'conscious, is
+without performance. This produces not a tautology ("performance
+requires performance") but a bifurcation-character occurring as a
+performance in and of itself; or, as Osman says (in "The Figural
+Cabinet"), \"the taking place is double.\"
+Such double-mindedness, which is to say this 'self\'conscious, is
 central to Brechtian theater; it forms the basis on which alterities
 can come into (the) play. It is characteristic, too, of everyone who
 is forced into identity-consciousness, as W.E.B. Du Bois pointed out
 long ago in The Souls of Black Folk, a work which itself has been
-described (by Houston Baker) as a \"cultural performance.\" More
-recently, the notion that \"identity\" is itself performative has
+described (by Houston Baker) as a "cultural performance.\" More
+recently, the notion that "identity\" is itself performative has
 been greatly elaborated by theorists such as Judith Butler.
-Identity-the sense of difference that belongs to one\'s
-self-sameness-is itself \"character,\" something that \"takes
-place.\" This means both that it is an occurrence or event-it
+Identity-the sense of difference that belongs to one's
+self-sameness-is itself "character,\" something that \"takes
+place." This means both that it is an occurrence or event-it
 happens-and that it involves taking up a position among others (as
 might be indicated by stage directions: *Enter Woman, wearing a hat,*
 etc.)
 
 
-### From \"Not All Halfbreed Mothers\" in *I Knew Two Métis Women*, by Greg Scofield
+### From "Not All Halfbreed Mothers\" in *I Knew Two Métis Women*, by Greg Scofield
 
 | Not all halfbreed mothers
 | wear cowboy shirts or hats,
@@ -5666,7 +5666,7 @@ etc.)
 | drink
 
 | red rose, blue ribbon,
-| Kelowna Red, Labatt\'s Blue.
+| Kelowna Red, Labatt's Blue.
 
 ## Quotes from Mary Burger
 
@@ -5681,7 +5681,7 @@ this scurvy and disastrous world of ours. --- I wish I had been born
 on the Moon, or in any of the planets (except Jupiter or Saturn,
 because I never could bear cold weather), for it could not well have
 fared worse with me in any of them (though I will not answer for
-Venus) than it has in this vile, dirty planet of ours, --- which o\'
+Venus) than it has in this vile, dirty planet of ours, --- which o'
 my conscience, with reverence be it spoken, I take to be made up of
 the shreds and clippings of the rest; --- not but the planet is well
 enough, provided a man could be born in it to a great title or to a
@@ -5722,8 +5722,8 @@ tedious in its telling. Therefore, my dear friend and companion, if
 you should think me somewhat sparing of my narrative on my first
 setting out, --- bear with me, --- and let me go on, and tell my
 story my own way: --- or if I should seem now and then to trifle upon
-the road, --- or should sometimes put on a fool\'s cap with a bell to
-it, for a moment or two as we pass along, --- don\'t fly off, --- but
+the road, --- or should sometimes put on a fool's cap with a bell to
+it, for a moment or two as we pass along, --- don't fly off, --- but
 rather courteously give me credit for a little more wisdom than
 appears upon my outside; --- and as we jog on, either laugh with me,
 or at me, or in short, do anything, --- only keep your temper.
@@ -5789,7 +5789,7 @@ importance of dreaming in the life of the hoodlum, but what I want
 particularly to show you by means of it is that I shall surround
 myself only with roughnecks of undistinguished personality, with none
 of the nobility that comes from heroism. My loved ones will be those
-whom you would call \"hoodlums of the worst sort.\"
+whom you would call "hoodlums of the worst sort.\"
 
 Darling counted the bills. He took ten for himself, put them into his
 pocket and handed the rest to Our Lady, who stood there dumbfounded.
@@ -5799,7 +5799,7 @@ I leave you free to imagine any dialogue you please. Choose whatever
 may charm you. Have it, if you like, that they hear the voice of the
 blood, or that they fall in love at first sight, or that Darling, by
 indisputable signs invisible to the vulgar eye, betrays the fact that
-he is a thief\...Conceive the wildest improbabilities. Have it that
+he is a thief...Conceive the wildest improbabilities. Have it that
 the depths of their being are thrilled at accosting each other in
 slang. Tangle them suddenly in a swift embrace or a brotherly kiss.
 Do whatever you like.
@@ -5813,7 +5813,7 @@ philosophy, because of the fundamental nature of the subject itself.
 A good analogy for this model making is the construction of a map of
 a city. The city and the map of the city are two distinct things that
 no one would confuse. This confusion is harder to avoid in cosmology.
-To be useful, the map must be faithful to some of the city\'s
+To be useful, the map must be faithful to some of the city's
 interesting properties. Furthermore, the map is constructed according
 to some specific conventions: major roads are in red; north is at the
 top; and so on. Also, a map does not try to define what a road is.
@@ -5871,11 +5871,11 @@ mountains. Somewhere between fear and sex. Somewhere between God and
 the Devil passion is and the way there is sudden and the way back is
 worse.
 
-I\'m surprised at myself for talking in this way. I\'m young, the
+I'm surprised at myself for talking in this way. I\'m young, the
 world is before me, there will be others. I feel my first streak of
-defiance since I met her. My first upsurge of self. I won\'t see her
+defiance since I met her. My first upsurge of self. I won't see her
 again. I can go home, throw aside these clothes and move on. I can
-move out if I like. I\'m sure the meat man can be persuaded to take
+move out if I like. I'm sure the meat man can be persuaded to take
 me to Paris for a favour or two.
 
 > Passion, I spit on it.
@@ -5883,9 +5883,8 @@ me to Paris for a favour or two.
 > I spat into the canal.
 
 
-# The Universes: On Semantics and Learning
+# Mike Amnasan: The Universes: On Semantics and Learning
 
-Mike Amnasan
 
 
  
@@ -5893,28 +5892,28 @@ Mike Amnasan
 
 ## 1
 
-I can\'t tell you what I was just thinking. As in Augustine\'s view
+**I can't tell you** what I was just thinking. As in Augustine\'s view
 of intuition, the associations I registered were too free of any
 repeatable limitations for me to verbalize the experience. Perhaps
 these associations were of diverging thoughts that have not departed
 my mind. The most handy example of something similar is the
 simultaneity of sense perception. Each sense perception is
 specialized and in that respect removed from the whole and yet also
-registered in the same moment. In the thought I\'m speaking of there
+registered in the same moment. In the thought I'm speaking of there
 were different concerns, we might even say a universe of concerns
 none of which I can fully express. This complex event might be
 considered incidental in regard to what I have learned to value. I am
 now attempting to acquire a greater appreciation of something I
-cannot verbalize, meaningful associations I can\'t excite a
+cannot verbalize, meaningful associations I can't excite a
 recurrence of through keying words into a computer.
 
 Semantic sensation is never original. It must always be familiar.
 Language does excite original sensations, as in the sound of a
-speaker\'s voice, but the semantic experience itself is never sound
+speaker's voice, but the semantic experience itself is never sound
 or vision, or any other sense perception of the material universe.
 Original experience of semantics would be like immediately
 comprehending a language we never heard before. This kind of
-appreciation is possible with music. Music we\'ve never heard before
+appreciation is possible with music. Music we've never heard before
 can be immediately appreciated as music, but semantics, like memory,
 must always be a response to what is already familiar.
 
@@ -5955,7 +5954,7 @@ we can only appreciate what language excites an interest in. If
 meaning originated in language semantics could not have the benefits
 I hope for. The use of language would be the limits of its effect,
 and all the incidental experiences that I accrue on a construction
-site, when I seldom talk, and much more rarely about what I\'m now
+site, when I seldom talk, and much more rarely about what I'm now
 writing, would go for nought---or worse. My time on a construction
 site would suspend the cognition I long to learn from. What I then
 felt to be my most prized asset, the verbal, and all my work with the
@@ -5969,7 +5968,7 @@ impacted by my regard for language, and this involves study that is,
 in part, motivated by a desire to develop an understanding through
 which I can regard different aspects of my life as of mutual value. I
 want this view to be revised within different kinds of experience
-that I am never fully \"conscious\" of---even if some rehearsal of
+that I am never fully "conscious\" of---even if some rehearsal of
 what I cannot register is, at this very moment, being performed as
 simultaneous events in my mind. Language is not only directed toward
 fortuitous limitations, but also toward realizing a universality that
@@ -6002,7 +6001,7 @@ As you read these words they arouse an immaterial universe
 simultaneous with your perceptions of material reality. A simplified
 version of what happens is this: the stimuli from your eyes travels
 along the optic pathway until it enters the region of the cerebral
-cortex associated with language.[^1] This
+cortex associated with language.[^2_amnasan_1] This
 linguistic region responds only to the familiar stimuli, the marks,
 that spur semantic sensations. Stimuli from the eyes passes on to the
 visual area of the occipital lobe where it excites the visual
@@ -6018,7 +6017,7 @@ the surface of our skin was never exclusively devoted to creating
 sense perceptions of the material universe. Our perceptions may be
 more of an afterthought. It is possible for a creature to have an
 eye, and to respond consistently to stimuli from that eye without the
-luxury of any visual impressions.[^2] Such
+luxury of any visual impressions.[^2_amnasan_2] Such
 behavior would not be derived from cognition minus sense perception,
 but rather a reaction lacking in a consistent impression that could
 become either reliable or doubtful.
@@ -6068,9 +6067,9 @@ regard, is whether or not we can become proficient without limiting
 the focus of our interests. Can we learn, not only from close study
 with expedient results, but also through a delayed cognitive response
 that includes more material than we can consider within any close
-reading? In \"The Love of Reading\" Virginia Woolf speaks of \"the
-process of after-reading.\" After a book is read it takes on a shape
-\"held in the mind\" (416). After-reading may occur days after the
+reading? In "The Love of Reading\" Virginia Woolf speaks of \"the
+process of after-reading." After a book is read it takes on a shape
+"held in the mind\" (416). After-reading may occur days after the
 book has been set aside, and this later experience may become related
 to other experience; simultaneous mental events that were incidental
 at the time of reading may become appreciated as meaningful
@@ -6092,10 +6091,10 @@ discipline if close reading, or some similar attention, was
 exclusively how we learn, and perhaps my confidence in being able to
 offer useful models is deluded. Within a fairly isolated effort I
 cannot tell the difference between adding to current understandings
-and my own ignorance of other people\'s efforts that I may simply
+and my own ignorance of other people's efforts that I may simply
 repeat. I may expend time and energy in a direction others have long
 ago recognized the folly of. To some extent this is rhetorical in
-that I have found confirmation for my efforts in books I\'ve recently
+that I have found confirmation for my efforts in books I've recently
 read---but I do depend upon intuition to an extent that may seem
 sloppy to anyone who expects strong textual support for what I might
 propose.
@@ -6113,12 +6112,12 @@ following day. Perhaps there were events occurring within cognition
 that were registered as successful writing---but I was learning a new
 emphasis on the familiar, at the same time as I was making language,
 and I was not *only* reading the effect of what I was keying into my
-computer. I don\'t mean to suggest that this considerable cognitive
+computer. I don't mean to suggest that this considerable cognitive
 delay is the only way we learn in regard to language. Certainly there
 are occasions in which learning is derived from a close focus on a
 passage that is difficult to comprehend without repeated readings in
 which significant aspects of language begin to emerge, and it may
-seem that we are bringing meaning into \"consciousness.\" But even
+seem that we are bringing meaning into "consciousness.\" But even
 this instance of close attention requires a non-linguistic, cognitive
 response to make the already familiar appreciable.
 
@@ -6181,22 +6180,22 @@ feel *that* as my physical body, alone in an unsympathetic universe,
 the vulnerability, the loss of control over the sensations of my
 skin, my face, my mannerisms and my speech if I speak out in a
 classroom or within some other public event. This physical experience
-disrupts my sense of being a coherent whole \"conscious\" of who I
+disrupts my sense of being a coherent whole "conscious\" of who I
 am, and these occasions have always had this effect on me, but
 earlier in my life I felt this disruption as revealing weakness, and
 perhaps it does, but it is the weakness of risking a social life.
 
 Poor beginnings left me too confident in my own mental resources in
 comparison to the culturally-deprived interactions I was limited to.
-Like Nietzsche\'s mosquito \"feeling within itself the flying center
-of the world\" (42), isolated efforts tend to return me to an
-exaggerated sense of \"self-importance.\" There is nothing within
+Like Nietzsche's mosquito \"feeling within itself the flying center
+of the world" (42), isolated efforts tend to return me to an
+exaggerated sense of "self-importance.\" There is nothing within
 cognition and semantics to prevent me from being highly successful at
 meeting my own expectations, and imaginary others as well---though I
 will, at the same time, feel a nagging suspicion that something is
 missing. I have become deceived in regard to the expectations of
-those others who I anticipate impressing. Augustine states \"If I am
-deceived, I am\" (33), and it seems that he is talking about being
+those others who I anticipate impressing. Augustine states "If I am
+deceived, I am" (33), and it seems that he is talking about being
 deceived in a social context. If I realize that I have been deceived
 in anticipating the expectations of others I am a social being
 learning from the effect of rallying my senses to deal with the
@@ -6205,12 +6204,12 @@ vulnerability of interacting.
 Paradoxically it would seem that we exist, as social beings, because
 we are not in full control of our body, our appearance, voice,
 mannerisms, what anything we express means. Judith Butler states,
-\"If one always risks meaning something other than what one thinks
+"If one always risks meaning something other than what one thinks
 one utters, then one is, as it were, vulnerable in a specifically
 linguistic sense to a social life of language that exceeds the
-purview of the subject who speaks\" (87). If we have no disruptive
-memory of interacting with others, we not only do not \"exceed the
-purview of the subject who speaks,\" we slip into a false consensus
+purview of the subject who speaks" (87). If we have no disruptive
+memory of interacting with others, we not only do not "exceed the
+purview of the subject who speaks," we slip into a false consensus
 of what the language we use means.
 
 Learning requires an infusion of original experience from the
@@ -6232,11 +6231,11 @@ incidental to reading.
 I exaggerate. Our other senses do, and must, remain significant while
 we read. The historical examples that Martin Jay provides in
 **Downcast Eyes** suggest that a greater attention to text can result
-in the denigration of vision as the purveyor of \"truth,\" but, as
+in the denigration of vision as the purveyor of "truth,\" but, as
 Jay points out, this need not result in the denigration of vision as
-a rich experience. I don\'t know that reading and writing as a form
+a rich experience. I don't know that reading and writing as a form
 of sensory deprivation has ever been studied, or how it could be
-researched since anyone isolated in their efforts, in the manner I\'m
+researched since anyone isolated in their efforts, in the manner I'm
 suggesting, would not succeed in drawing attention to himself, and
 so, for me, this must remain autobiographical, a concern I will
 return to.
@@ -6284,7 +6283,7 @@ an individual effort. And yet despite these important reasons to
 quote others, in my own experience in community colleges, citing was
 introduced as having two major concerns.
 
-The first was plagiarism: stealing another\'s ideas. The second was
+The first was plagiarism: stealing another's ideas. The second was
 the need to provide textual evidence to confirm the worth of anything
 we propose. I particularly remember fliers handed out in each class
 defining plagiarism and warning against it---though I never knew who
@@ -6301,10 +6300,10 @@ call attention to the first person plural of critical writing, the
 others we cannot fully separate from our own experience of learning.
 
 I remember, as a teenager, lying drunk on my back, in the back yard
-of my parents\' tract home. I was too inebriated to do much more than
+of my parents' tract home. I was too inebriated to do much more than
 move my head from side to side, through which I could see the stucco
 back of the house, and the garage which, among other things,
-sheltered my father\'s automotive tools (the trade he taught in a
+sheltered my father's automotive tools (the trade he taught in a
 local high school). Letting my head roll in the other direction, I
 could see the redwood fence at the back of the yard. Looking straight
 ahead I saw the sky, representing my freedom to seek out a being
@@ -6314,7 +6313,7 @@ to the bone from all others. Even if my difference felt undeniable
 within a tract home development in the San Gabriel Valley, it was an
 impression formed in relation to a very small number of people, a
 tiny perspective within the sprawling suburbs of Los Angeles. I
-didn\'t have sufficient evidence to confirm or deny what I firmly
+didn't have sufficient evidence to confirm or deny what I firmly
 believed---and I never would even if I expanded the world I took an
 interest in. My disposition was not due to a lack of similarity to
 others, but rather that I saw them much as I regarded myself as an
@@ -6346,13 +6345,13 @@ simultaneous experience as a construction worker, even if it is an
 inferior position from which to participate in a mutual critical
 effort. Should I tell you of running to the underground MUNI in the
 dark of morning, while pulling a dirty sweat shirt over my head,
-because I lingered too long reading over this I\'m working on? We
-don\'t really know how important this personal information might be
+because I lingered too long reading over this I'm working on? We
+don't really know how important this personal information might be
 if thrown into the mix of critical writing. Perhaps the singular,
 where a plural is wanted, carries with it an overblown sense of the
 subject writing, which should be dissipated within a mutual effort in
 which having been influenced by others is strongly highlighted and
-rightfully so, and I\'ll return to that soon.
+rightfully so, and I'll return to that soon.
 
 Sheet Metal work, my only income, has been recently altered by the
 growing aesthetic preference for exposed duct, and this has created a
@@ -6365,7 +6364,7 @@ to quickly handle the duct into aesthetic lines. We are unlikely to
 see it painted within a finished building---which is just as well in
 that the finished vision will not include the heavy, galvanized
 air-tunnel, physically hoisted in a dusty, gutted building, a richer
-physical experience than keying words into a computer as I\'m doing
+physical experience than keying words into a computer as I'm doing
 now.
 
 One benefit of this work, an unexpected one considering that it would
@@ -6393,55 +6392,55 @@ research required to substantiate my claims---of doing the wrong
 work! This is the modus operandi I am most likely to be accused of,
 and that I feel a need to justify in that I find that if I always
 need textual evidence to back up whatever I propose, I cannot
-maintain momentum---at least at this time in my life. This doesn\'t
+maintain momentum---at least at this time in my life. This doesn't
 mean that anything I say comes out of the blue, but rather that I
-don\'t keep track of influences, especially since there tends to be
+don't keep track of influences, especially since there tends to be
 considerable delay, and a great deal of intervening experience before
 I arrive at what I may eventually express with some confidence. I
 might then speak of this universal exhaustion as a universal delay, a
 disjunctive interval, in which my efforts do not come to a sudden a
 halt when I must turn my attention to construction work. Construction
 work itself has more meaning as part of simultaneous projects like
-that which I\'m now working on.
+that which I'm now working on.
 
 
 
 ## Works Cited
 
-Augustine. **The Essential Augustine**. Ed. Vernon J. Bourke.
+Augustine. *The Essential Augustine*. Ed. Vernon J. Bourke.
 Indianapolis: Hackett, 1974.
 
-Butler, Judith. **Excitable Speech; A Politics of the Performative**.
+Butler, Judith. *Excitable Speech; A Politics of the Performative*.
 New York: Routledge, 1997.
 
-**Inside the Animal Mind**. Episode Three: \"Animal Consciousness.\"
+*Inside the Animal Mind*. Episode Three: "Animal Consciousness.\"
 Nature Video Library. Produced by Green Umbrella, Thirteen/ WNET New
 York and the BBC, 2000.
 
-Jay, Martin. **Downcast Eyes; The Denigration of Vision In
-Twentieth-Century French Thought**. Berkeley: University of
+Jay, Martin. *Downcast Eyes; The Denigration of Vision In
+Twentieth-Century French Thought*. Berkeley: University of
 California Press, 1994.
 
-Nietzsche, Friedrich. **On Truth and Lie in an Extra-Moral Sense**.
-**The Portable Nietzsche**. Trans. Walter Kaufmann. Ed. Walter
+Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense*.
+*The Portable Nietzsche*. Trans. Walter Kaufmann. Ed. Walter
 Kaufmann. New York: Viking, 1965.
 
 Pinker, Steven. **The Language Instinct; How the Mind Creates
 Language**. New York: Harper, 1995.
 
-Woolf, Virginia. \"Virginia Woolf: The Love of Reading.\" **A
-Bloomsbury Group Reader**. Ed. S.P. Rosenbaum. Oxford: Basil
+Woolf, Virginia. "Virginia Woolf: The Love of Reading.\" *A
+Bloomsbury Group Reader*, Ed. S.P. Rosenbaum. Oxford: Basil
 Blackwell, 1993. 415-418.
 
 
 
-[^1]: Steven Pinker states that \"\[Gazzaniga\'s coworkers\]
+[^2_amnasan_1]: Steven Pinker states that "\[Gazzaniga\'s coworkers\]
 found that all the areas that have been implicated in language are
 adjacent in one continuous territory. This region of the cortex, the
-left perisylvan region, can be considered to be the language organ\"
+left perisylvan region, can be considered to be the language organ"
 (307).
 
-[^2]: In the documentary Inside the Animal Mind a man, and
+[^2_amnasan_2]: In the documentary Inside the Animal Mind a man, and
 also a monkey, both suffering from blind sight, are shown to respond
 correctly to visual stimuli on their right side, visual stimuli that
 they do not register having seen.
@@ -6459,7 +6458,7 @@ they do not register having seen.
 
 ## Working Notes
 
-*As a poet, I\'m so intensely enamored of craft that the line can
+*As a poet, I'm so intensely enamored of craft that the line can
 become my taskmaster, both beloved and despised. When I began the
 piece herein, I intended it as a poem, endstopped and enjambed and
 all. But there were so many stories converging---an autobiographical
@@ -6467,51 +6466,51 @@ story, an ancient mythological story, the stories of numerous
 industries (the industry of patriarchy, the industry of meat, the
 industry of religion, the industry of death), the story of the
 archetypal presence in the day-to-day---that the messy horde of them
-resisted the line\'s enclosure. The mob had a mind of its own, came
+resisted the line's enclosure. The mob had a mind of its own, came
 to quorum instead in the alchemical vessel of the very tall tale. So,
 it was that a choice made itself.*
 
 ---
 
-My father was a lying drunk. My father\'s name was Sin. He chased my
+**My father was a lying drunk**. My father's name was Sin. He chased my
 mother with a tire iron about the yawning frontyard. Then he invented
 escape. As helpless in his absence as presence, my mother stood in
 the same yard and wept when the floodwaters rose. The neighborhood
 gossip, Tiresias, unzipped her cornstalk ears. She tossed her lit
 cigarette at the garden snakes fucking and pronounced herself a bard.
 She sat on her porch across the street and composed the epic of my
-parents\' frontyard which she sang in verses just brief enough for
+parents' frontyard which she sang in verses just brief enough for
 the neighbors, in passing, in learn how to hum. It was the din of the
 rain falling in squalls; sprung rhythm of maelstroms unravelled. This
 is how I became acquainted with some of my pastoral cycle. I learned
 to chant these slaughtering idylls from the bard across the way. I
 was there in the midst of foul weather. But I remember nothing I was
 not retold. These recollections are potsherds, fragments of sunken
-relief dredged up and presented with someone else\'s commentary, as
+relief dredged up and presented with someone else's commentary, as
 if behind glass.
 
 My memory is a museum of pieces of dubious provenience. The story
-I\'ll tell is 5000 years old and is nothing if not debatable. How am
+I'll tell is 5000 years old and is nothing if not debatable. How am
 I to tell it, then? How about:
 
 She ate me?
 
 She ate me all the way back.
 She ate me all the way back into childhood, all the way back through
-birth. She ate me back through conception. Back through my parents\'
+birth. She ate me back through conception. Back through my parents'
 wedding before The Vietnam War. Back to my father falling on a
 bloodied Korean slope (shrapnel fucking his thigh where metal will
 seep from his skin in the shower forty-eight years hence). She ate me
-before my mother\'s birth between The World Wars. She ate me before
+before my mother's birth between The World Wars. She ate me before
 The French-Indian War, The Spanish-American War, The Sino-Japanese
-War, The Franco-Prussian War. She ate me before The Ten Years\' War,
+War, The Franco-Prussian War. She ate me before The Ten Years' War,
 The Boer War, The Crimean War, The War of 1812. She ate me before The
 Seminole Wars, The Opium War, The Peninsular War. She ate me before
-The Seven Years\' War, The First and Second Silesian Wars, The Great
-Northern War, Queen Anne\'s War, King William\'s War, King Philip\'s
-War, and The War of Devolution. She ate me before The Thirty Years\'
+The Seven Years' War, The First and Second Silesian Wars, The Great
+Northern War, Queen Anne's War, King William\'s War, King Philip\'s
+War, and The War of Devolution. She ate me before The Thirty Years'
 War, The Wars of Religion, The Wars of the Roses, The Hussite Wars,
-and The Hundred Years\' War. She ate me before The Punic Wars, The
+and The Hundred Years' War. She ate me before The Punic Wars, The
 Sacred Wars, The Samnite Wars, The Messanian Wars, The Macedonian
 Wars, The Mithridatic Wars. She ate me before The Peloponnesian Wars,
 The Corinthian War, and The Trojan War. She ate me before The War
@@ -6525,20 +6524,20 @@ It was not entirely erotic. Entirely. It was grave.
 
 She ate me, but I buried myself. I had buried myself before. Locking
 the bathroom door as a girl and crouching down in the shower, my
-hands cusping my face and my face urged at the tiles, I\'d dream my
-dream of the grotto. From Latin for \"crypt,\" from Greek for
-\"vault,\" and in feminine form, \"to hide.\" Grotto, speleo-aqueous
+hands cusping my face and my face urged at the tiles, I'd dream my
+dream of the grotto. From Latin for "crypt,\" from Greek for
+"vault,\" and in feminine form, \"to hide.\" Grotto, speleo-aqueous
 myth of safety as in drip hole, gravity spring, lily pool, lost
 river.
 
-\"The possible use of limestone caves as shelters from the effects of
+"The possible use of limestone caves as shelters from the effects of
 nuclear weapons has received considerable attention in the past few
-years,\"[^1] in the juvenile water of the grotto
+years,"[^2_andrews_1] in the juvenile water of the grotto
 whispers the blind cave fish.
 
 Sin drew the living room blinds. Tiresias pressed her ear to the
 ground, discerning the clatter of hooves. Sin sat on the couch in his
-shorts and chained my mother, for his children\'s digestion, to the
+shorts and chained my mother, for his children's digestion, to the
 dissembling line of his industrial tongue. He stunned and stuck and
 scalded and scraped her. He split her along the backbone. While her
 head and her hocks and her skin were removed, we milled in the
@@ -6550,18 +6549,18 @@ maddened layer crushes the next which crushes the next, and so on.
 A wave of compression washes the herd. But the herd is still
 milling in random directions. The wave that started crisply,
 decomposes, becomes disorganized. By the time it reaches the
-opposite end of the pen, the pattern\'s a mess.
+opposite end of the pen, the pattern's a mess.
 
 The same thing happens to a wave of sound. Close to the source of
 sound, the compressions are patterns of tightly packed molecules.
 But the molecules have no direction in mind. They simply mill
 about. The compressions untighten as the wave of sound travels so
 that meaning near-grazes our ears. When the pattern is totally
-thronged by the milling, the herd hears nothing at all.[^2]
+thronged by the milling, the herd hears nothing at all.[^2_andrews_2]
 
-I woke to my own furious bleating. \"Kill her,\" I said. I thought
-this would preserve us. \"Kill her.\" And, \"Kill her.\" And, \"Kill
-her.\" My siblings fidgeted deafened and dumb. My mother was
+I woke to my own furious bleating. "Kill her,\" I said. I thought
+this would preserve us. "Kill her.\" And, \"Kill her.\" And, \"Kill
+her." My siblings fidgeted deafened and dumb. My mother was
 processed and canned. That night my father, laid drunk up in couvade,
 gave birth to much of me.
 
@@ -6581,8 +6580,8 @@ Thus he lay till the morning of the day appointed for his
 inhumation. The oven was being heated for the baking of the funeral
 meal when he awoke, climbed out of his coffin and walked
 downstairs, where he was found by the horrified cook, standing
-before the kitchen fire, complaining that he \'felt the
-cold.\'[^3]
+before the kitchen fire, complaining that he 'felt the
+cold.'[^2_andrews_3]
 
 Deboned ham, he lived for years after out of spite for my skilled
 accretion of matter from out of his pinwheeling arms. To me, he had
@@ -6625,7 +6624,7 @@ flowstones were cleft. When squeezing, scrambling, chimneying,
 jamming, rappelling myself into caveat, she ate me, which was as
 natural as a logarithm. It was her due.
 
-Tiresias\' slumlord husband, having made of his property a catafalque
+Tiresias' slumlord husband, having made of his property a catafalque
 and leased his tenants to incandescence, was arrested amidst the
 cremains. Tiresias packed her plucked feathers and eloped with eight
 billion flightless confessors. I was left, big toes tied together,
@@ -6633,9 +6632,9 @@ legging the walls of the impermeable gist. What was I to make of all
 this bruised and cutting matter? of the evisceration bequeathed me by
 pall-bearing parents? (My mother had selected my casket from an
 overnight catalogue while sipping a cup of coffee and sitting in a
-comfortable chair.[^4] My father had won first
+comfortable chair.[^2_andrews_4] My father had won first
 prize from the Académie de France for inventing a clawed forceps for
-pinching my corpse\'s nipples to assure that I was dead.[^5])
+pinching my corpse's nipples to assure that I was dead.[^2_andrews_5])
 
 I refused to play their thanatomime. I left them intoning Vade in
 Pacem. I took to speech.
@@ -6653,7 +6652,7 @@ my language was rendered offal.
 I had played awhile at cultic prostitute, at sheepfold, at castrate,
 at the loosening of hair. The suspect was an effigy who moonlighted
 mowing the yawning frontyard. He laid me in the lilies unmoored from
-Tiresias\' abandoned bed. He promised me strings and pulleys and
+Tiresias' abandoned bed. He promised me strings and pulleys and
 bells. But when I touched him, the webbing between my fingers grew
 opaque with loss of blood. The mirror he held to my mouth clouded a
 phrase of silver sulfide of which the text was ennui.
@@ -6663,7 +6662,7 @@ So I buried myself, and she ate me.
 The causal meaning of my descent has puzzled somatic scholars.
 Scholars have been inclined to dismiss as mere excuse my stated
 reasons: bull-like passion, raw desire, libido, ego,
-gestalt.[^6] The god gets antediluvean kinged. The
+gestalt.[^2_andrews_6] The god gets antediluvean kinged. The
 god gets hold of her leaking hair, and the god gets to wager a bet
 with the Huns: if he lops off her head and commands her to run, in
 how many steps will she crumble? The god gets the power of
@@ -6688,7 +6687,7 @@ putty and petrified like marble.
 The bookkeepers take to my carcass like germs. They digest me into
 the emergent naturalness of that improving stalagmite, the god. With
 the use of this technology, the bookkeepers patent the concept of
-\'freshness.\' My rind for the fruitful media.
+'freshness.\' My rind for the fruitful media.
 
 The morticians of the media feign post mortem inspection. My
 survival, assumed to be a chronic rash, is expurgated from the thin
@@ -6699,10 +6698,10 @@ But I live. I live to bury myself. I buried myself, and she ate me.
 It may seem paradoxical, but at the mouth of the dissolving solution
 was the fact that, in my depotentiation, I had begun to be decorated
 by features that did the most toward making me interesting to the
-average consumer in the age of space exploration.[^7] I had been fashioned, for instance, with wingspan and
+average consumer in the age of space exploration.[^2_andrews_7] I had been fashioned, for instance, with wingspan and
 tiny mythic hands for roosting, armed with light explosives, beneath
 the eaves of the uncooperative. Through the benevolence of chemical
-manufacturing concerns, I\'d been given an eerie dripping sound, the
+manufacturing concerns, I'd been given an eerie dripping sound, the
 seepage of fluids, and manifest changes in odor, flavor and
 appearance. I was steam-jacketed, coagulated, and encased. I wore
 like condensation the impervious rock of the crown, the anklets, the
@@ -6715,7 +6714,7 @@ with horns, knocked on the head, head rent like a pod releasing, who
 nevertheless, as the shackle embraced her, leapt and went running
 down Rte 17, who was shot in the back and dragged by a tractor back
 to be quartered and plucked. When I awoke, I went to the oak trees
-and began to root at their faults. If I\'m to be a stuck pig, I
+and began to root at their faults. If I'm to be a stuck pig, I
 thought, liken my final supper to a sumptuous mould.
 
 It was the me my father neglected to feign to give. It was the me of
@@ -6755,12 +6754,12 @@ tragic and the anti-tragic fusing. It was the future, and I craved it
 like a robber craves a crypt.
 
 Sarcophagus, a tin vault containing two essential pieces, sacro
-meaning \"flesh\" in Greek, and phagus meaning \"eater.\" But from
+meaning "flesh\" in Greek, and phagus meaning \"eater.\" But from
 flesh to eater we travel thousands of miles through the dross. At
 seven hungry borders bribe the seven crooked cops.
 
 I offered up bravura, and the greedy bones bit in. I left them
-nibbling the image I\'d assembled in the mirror. The goats and I grew
+nibbling the image I'd assembled in the mirror. The goats and I grew
 rubber souled and sloshed into the vibrant air. Beyond the vestibule,
 the atmosphere was profligate with battle. Draperies and canopies and
 columns fell apart. Across the continents of spore and bug, an oracle
@@ -6777,7 +6776,7 @@ floor was slick with my giving way. The goats of the underground
 donned mourning suit and veil. There was to be a feast. Bacterium
 shuffled in.
 
-I\'d come in making choice and cut, a bundle of nerve and muscle. I
+I'd come in making choice and cut, a bundle of nerve and muscle. I
 was sawed and reapportioned, matter rendered moot. Leg, loin, blade,
 rump, topside, sirloin, brisket, chuck, ribs and clod and sticking.
 We fucked alot, so fucking was a thing that I had left, but in the
@@ -6791,9 +6790,9 @@ that binds the human palate. She was starving, and she loathed and
 longed for being in my meat as when the slaughterhouse employee says,
 
 Stick that bitch. I grabbed her and flipped her over. She looked up
-at me. It was like she was saying, \"Yeah, I know it\'s your job,
-do it.\" That was the first time I ever looked into a live hog\'s
-eyes. And I stuck her. And she bled,[^8]
+at me. It was like she was saying, "Yeah, I know it\'s your job,
+do it." That was the first time I ever looked into a live hog\'s
+eyes. And I stuck her. And she bled,[^2_andrews_8]
 
 and he means that it is intimate, more intimate than family, more
 intimate than war. Despite the husbandry of scholars, we were not
@@ -6807,9 +6806,9 @@ mercy all at once.
 
 
 Hung up, I turned the green of badness and of newness. But when
-you\'re eaten raw and rotten, you sicken those who eat. Rumor has it
+you're eaten raw and rotten, you sicken those who eat. Rumor has it
 Sin became my out; but family matters less to him than dirt beneath
-his thumbnails. The truth is that she spit me up. The siren she\'s
+his thumbnails. The truth is that she spit me up. The siren she's
 remembered for was bellyache, not birth. She ate me; I was hard to
 eat. I bolted from her stomach, her feral burden sprung.
 
@@ -6830,7 +6829,7 @@ gemtop and the cone---make meals upon the pages, growing plump, in
 turn, to make a meal for a scoundrel faking at god. I said nothing is
 not debatable. Tiresias long sailed from here, her cruiseship sunk
 and done, I tell stories that she dictates from the hulls of former
-living. But the bowline of her narrative in my mouth\'s a fraying
+living. But the bowline of her narrative in my mouth's a fraying
 twist. And Tiresias a suburbanite of the artifice of up-and-up, this
 turn of gossip from the underground is mine to rip and knot.
 
@@ -6841,44 +6840,44 @@ meets a hungry hag who feeds upon his facial labyrinth. Sated, she
 strokes his eyes and gives him the gift of the vision of the spirits.
 In this way, he can navigate the landscape of the dead. If his face
 is smooth and left untouched, if he has no mark of carving, like a
-vulture she eats his eyes and picks his sockets empty. He\'s left to
+vulture she eats his eyes and picks his sockets empty. He's left to
 wander in forever, blinded like Tiresias in the myth.
 
 I said she ate me, though she was no hag, and I am not a warrior.
 These winding sheets I give you as a gift from past the border
 between self and dissolution, between semblance and disorder, between
-want and what\'s leftover, between killing and the cure is the tale
+want and what's leftover, between killing and the cure is the tale
 of simply sitting through the pains of being dressed by life, for
 life and life some more. For the lifting of the skin from bone is
-cursive to the examined body\'s page where we write scripts for
+cursive to the examined body's page where we write scripts for
 useful ruptures fed on ardor and on rage.
 
 -------------------------------------------------------------------
 
-**Archaeology**
 
 
-[^1]: George W. Moore and Brother G. Nicholas. **Speleology:
+
+[^2_andrews_1]: George W. Moore and Brother G. Nicholas. **Speleology:
 The Study of Caves**. Boston: D.C. Heath and Company. 1964.
 
-[^2]: Sara Stein. **The Science Book**. New York: Workman
+[^2_andrews_2]: Sara Stein. **The Science Book**. New York: Workman
 Publishing. 1979.
 
-[^3]: Kenneth V. Iserson, M.D. **Death to Dust: What Happens to
+[^2_andrews_3]: Kenneth V. Iserson, M.D. **Death to Dust: What Happens to
 Dead Bodies?** Tucson: Galen Press, Ltd. 1994.
 
-[^4]: Robert T. Hatch. **What Happens When You Die From Your
+[^2_andrews_4]: Robert T. Hatch. **What Happens When You Die From Your
 Last Breath to the First Spadeful**. New York: Carol Publishing
 Group. 1995.
 
-[^5]: Iserson.
+[^2_andrews_5]: Iserson.
 
-[^6]: Sylvia Brinton Perera. **Descent to the Goddess: A Way of
+[^2_andrews_6]: Sylvia Brinton Perera. **Descent to the Goddess: A Way of
 Initiation for Women**. Toronto: Inner City Books. 1981.
 
-[^7]: Moore and Nicholas.
+[^2_andrews_7]: Moore and Nicholas.
 
-[^8]: Gail A. Eisnitz. **Slaughterhouse: The Shocking Story of
+[^2_andrews_8]: Gail A. Eisnitz. **Slaughterhouse: The Shocking Story of
 Greed, Neglect and Inhumane Treatment Inside the U.S. Meat
 Industry**. Amherst, NY: Prometheus Books. 1997.
 
@@ -6988,12 +6987,12 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
 
 | Though made however visible, the signal
 | success becomes an end for putting up
-| one\'s evidence. The result is what sagged
+| one's evidence. The result is what sagged
 | thick beneath the contrary pole, sort of handed
 | down from the dishonor attaching to
 | productive early consequences of
 | your ownership. And so it is to be
-| \"community\" no longer but a stain,
+| "community\" no longer but a stain,
 | dependent for its livelihood on yes.
 
 |     Form of wasted effort
@@ -7002,7 +7001,7 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
 
 |     In evidence rendered
 
-|     Leisure in \"housewifing\"
+|     Leisure in "housewifing\"
 
 |     Rendered as a verb
 
@@ -7026,7 +7025,7 @@ Industry**. Amherst, NY: Prometheus Books. 1997.
 |       schemata, bent space.
 |       Past life replanted
 |       in the yard that
-|       hasn\'t time for second
+|       hasn't time for second
 |       planted feet to take
 |       the straddled upright measure of ruled, unruly stance.
 
@@ -7057,23 +7056,23 @@ all velvet-papered walls and lamplight, which the storyteller thought
 to foreclose every time the story drew the curtain on a scene, the
 contour of nose and cheekbone solidifying for a second in the soft
 billows of that gauzy fabric which served only to insure that an
-audience\'s interest remained with what the tale hoped to leave
+audience's interest remained with what the tale hoped to leave
 behind, in its jerky gait stumbling from episode to episode.
 
 Again, though, I am lying, as she draws the curtain back and lets the
 light fall upon you there, a bit below her in the street outside,
 where all presuppositions stand together in first and second persons,
-and says, \"I am not a bad habit, not on the order of the forces
-\'driving the urge to differentiate, to identify one and then two,\'
+and says, "I am not a bad habit, not on the order of the forces
+'driving the urge to differentiate, to identify one and then two,\'
 only for you to make the subsequent half-turn into saying that the
 latter follows the former, as misdirected speech follows curiosity
 about a lighted window in a cinderblock rental duplex on a dark night
 with all the sodium vapor lamps shattered, duping an accomplice into
-accompanying you to that theatrical \"bad neighborhood\" in which the
+accompanying you to that theatrical "bad neighborhood\" in which the
 passing audience method-acts its way into belief in the constitutive
 powers of its own direct address to the emptiness of its relation to
 the stage properties, when in fact I have been here, and have been
-telling the story of this circle of light, all along.\"
+telling the story of this circle of light, all along."
 
 ---
 
@@ -7085,19 +7084,19 @@ but whose lives, in the event, were compromised by one emergency
 after another, so that one or the other always got stuck waiting,
 picking up the check, taking the wrong bus home.
 
-\"Otherwise,\" he said, coming to his senses already in an anaphoric
+"Otherwise,\" he said, coming to his senses already in an anaphoric
 mood on the curled linoleum floor, decorated in a grease-beclouded
 floral pattern, of a dimly familiar kitchenette, talking to no one in
 particular, or else an offstage presence stuck in an abandoned
-episode, \"you\'d simply live the singer-songwriter myth, and have
+episode, "you\'d simply live the singer-songwriter myth, and have
 nothing to say for yourself but a lot of florid weeping and moaning.
 I knocked a little hole in your wall because I care. Pornography
 drives the photograph forward into full relation to its time, and
 becomes a method to produce clear prospects on what was once obscure.
 I continue to love your body, the taste of your tongue and sweaty
-ass, only because I simply can\'t imagine you, and see not you, but a
+ass, only because I simply can't imagine you, and see not you, but a
 broad expanse of sky, on the far side of every window into which I
-peep.\"
+peep."
 
 
 ---
@@ -7108,9 +7107,9 @@ epistemology and remembered the exact contour of every pain his body
 had ever suffered through, beaten into shape, even, perhaps
 especially, when his mind had been on something else. Sitting in the
 dark and hearing, from a door or two down the block, soft blowing on
-soprano sax, he experienced someone else\'s clarity out of phase.
+soprano sax, he experienced someone else's clarity out of phase.
 
-*\"I was afraid he was going to eat me,\"* a particularly
+*"I was afraid he was going to eat me,\"* a particularly
 disingenuous character in the family drama was just then reciting, in
 rehearsal with the cop with whom, arm in arm, he or she was coming up
 the walkway of half-buried railroad ties that kept the path from
@@ -7124,7 +7123,7 @@ exemplary, self-consuming skepticism. By the same token, though his
 skull was perforated as proof of the most certain kind, he could not
 grant the veracity of reports that told of a mutant, cannibal freak
 lying just beneath the surface of the duplex and chewing on the
-sleeper\'s head during the sticky night, but maintained that this Mr.
+sleeper's head during the sticky night, but maintained that this Mr.
 Article was, if anything, a fiction of grammar granted temporary
 substance by the growing thickness of ideological descriptions of
 landscape. Meanwhile the sax was licking lascivious promises into his
@@ -7158,9 +7157,9 @@ earlier drivers had created their pastoral investments with property
 in rolling parkland. In the windows which were not plywood painted to
 resemble glass, but behind which were walls painted to resemble
 all-encompassing skies, people would perform the parlor drama of
-their social obligation to your passing. Going through someone\'s
-trash, or the stack of papers on someone\'s desk, or the pages
-inserted by a printer\'s error into someone\'s typescript, was a hot
+their social obligation to your passing. Going through someone's
+trash, or the stack of papers on someone's desk, or the pages
+inserted by a printer's error into someone\'s typescript, was a hot
 and dirty intimacy. The substance of a whole affair might take root
 in a similar sense of euphemism.*
 
@@ -7221,17 +7220,17 @@ in a similar sense of euphemism.*
 
 
 [^brady_note2]:
-Once upon a time, you were expected here, and when you didn\'t
+Once upon a time, you were expected here, and when you didn't
 show, a place was set for someone who looked more or less unlike you.
 You are sure to congratulate yourself for having caught me in this
-situation, making it up as I go along, but no matter, my aim\'s to
+situation, making it up as I go along, but no matter, my aim's to
 bend all light into reflection, and so I have pre-empted your
 discovery of this point of fact. *In this strange phase of love the
 personality of another person becomes so enlarged, so deepened, that
 the curiosity which you now feel stirring inside you with regard to
 the smallest details of my daily life, is the same thirst for
 knowledge with which I once studied history.* You have knocked a hole
-in someone\'s wall and now there is nothing to do but look through,
+in someone's wall and now there is nothing to do but look through,
 even as you realize that here is not the character for whom you
 looked, but perhaps a near relation, a time perhaps a bit early for
 your arrival, in which a beakless old waterbird wanders in circles
@@ -7246,21 +7245,21 @@ outside of a train of events you were only moments ago riding as a
 casually interested commuter toward some other destination
 entirely---a long time, then, since you were a child, shooting at
 every hint of movement with a pellet gun by the shore of the
-artificial lake behind your father\'s rental duplex, knocking holes
+artificial lake behind your father's rental duplex, knocking holes
 in beaks of birds to create the asymmetry out of which a story might
 take flight, *but in this case the mind, merely by recalling the
-pain, created it afresh,* lifting \"that of which we cannot speak\"
+pain, created it afresh,* lifting "that of which we cannot speak\"
 into a chiaroscuro of yellow lamplight swirling down a drain into
 darkness as warm showers fell upon you from the hidden nozzle of
 theatrical night.
 
-\"Tell me everything you saw, and what you think it means,\"
+"Tell me everything you saw, and what you think it means,\"
 stage-whispers Grace Kelly in the fascinated hush that cuts off the
 supply of light, her absent presence in this vignette responding to
 your recitation, which takes up each sentence in the discarded papers
 blowing around against the all-encompassing sky and makes of it an
 opening whose dimensions are given in the aperture of the vocative
-\"O.\" Framed thus in the round zoom lens of surveillance, do you now
+"O.\" Framed thus in the round zoom lens of surveillance, do you now
 see the dashing figure you cut from afar brought into the tightest
 close-up, made ugly and atomic?
 
@@ -7277,7 +7276,7 @@ torments an instant, a slap, a kiss these are the names of cities
 like Venice or Reading, Tongue and Pueblo, the names of characters
 Fabrice, Laure or Emma. The words sharpened over the years and the
 novels, words one spoke while breathing badly, while laughing, while
-spitting, while sucking an olive, the verbs we add to the lips\'
+spitting, while sucking an olive, the verbs we add to the lips'
 pleasure, to success, to a certain death. These are words like knee
 or cheek or still others stretching as far as the eye can see making
 us lean over the void, stretch like cats in the morning these are the
@@ -7287,16 +7286,16 @@ in our jaws like an abscess. These are words spoken from memory, from
 want or from pride, very often words pronounced with love while
 placing hands on nape of neck or filling a glass of port. These are
 words whose etymology must be sought, that must then be plastered to
-what\'s called a wall of sound, in a manner like those who cry out in
+what's called a wall of sound, in a manner like those who cry out in
 pain and sigh with pleasure that wander in dreams and documents
-assault the heart\'s mysterious obscurity. These are words like bay,
+assault the heart's mysterious obscurity. These are words like bay,
 hill, wadi, via, street[^*] stasse dispersed through the dictionary
 between flame-trees and neons, cemeteries, dismal and forests. These
 are words sound the body of meanings that are claws or soft[^*] on our
 chests, cold, shivers, furrows and fear in the back without waiting
 while we try to split the sleek future tense with trenchant
 quotations. These are words swallowers of fire and life, one no
-longer knows whether they\'re Latin, French, Italian, Sanskrit,
+longer knows whether they're Latin, French, Italian, Sanskrit,
 Mandarin, Andalusian, Arabic or English, whether they hide a number,
 an animal or old anguishes eager to gush before our eyes like cloned
 shadows filled with light and great myths.
@@ -7344,7 +7343,7 @@ ironic---and simply leaves him, his marriage proposal, his simple,
 open face, to return to her lair in the crowded city, her archly
 urban self in the witheringly sophisticated intellectual world.
 
-In \"withering,\" a possibility that what is socially belittling
+In "withering,\" a possibility that what is socially belittling
 might also be personally devastating. That the intricate architecture
 of social standing might collapse occasionally, like a poorly braced
 studio set, to reveal something more like an experience arrived at
@@ -7353,10 +7352,10 @@ through contemplation.
 When the modestly privileged, moderately young childless couple who
 attend the adoption picnic focus on the same large-eyed, attractive
 kid (that is, the querulous wife focuses. The ironic husband, whose
-disavowal of the thing expected of him mimics Kevin Spacey\'s in
-\"American Beauty,\" instead alights for awhile with an aloof, jaded
+disavowal of the thing expected of him mimics Kevin Spacey's in
+"American Beauty,\" instead alights for awhile with an aloof, jaded
 teenager, whose unflinching lack of delusion contributes to the
-reader\'s own worldliness), that is, the moderately young,
+reader's own worldliness), that is, the moderately young,
 uncomfortably nervous wife alights on the same doe-eyed little boy
 attended to by an imposing Texas judge and his Barbara Bush-edition
 wife. It is an orphan fair. Like all bazaars, the most attractive
@@ -7368,7 +7367,7 @@ are powerful, and they are malevolent. The judge and his wife invite
 the more modest couple to their lair, a large house on a large piece
 of land by a lake.
 
-With \"lair,\" variously, the idea that the seeming impotence of the
+With "lair,\" variously, the idea that the seeming impotence of the
 self-conscious intellectual (the New York writer snagged in the
 loneliness of her cleverness, the cleverness of her loneliness), the
 rueful split between the life of the heart and the life of the mind,
@@ -7378,48 +7377,48 @@ world. The dissonance between what you know and what you need---this
 is the price charged for entry to the club. And who complains? Does a
 young gymnast object that her muscle-strapped torso and thighs set
 her apart from other girls? The world-weariness might be counted as a
-privilege; anyway it\'s displayed often enough to be interpreted that
+privilege; anyway it's displayed often enough to be interpreted that
 way.
 
 Through the battlefield drills of drinks, dinner, after-dinner
-segregation of husbands and wives, the older couple\'s battle plan
+segregation of husbands and wives, the older couple's battle plan
 emerges. The Texas wife begins an oblique attack, a narrative of a
-foster child they\'d had, a black toddler taken from an addicted
+foster child they'd had, a black toddler taken from an addicted
 mother. His mounting health problems and learning disabilities,
 together with the difficulty in keeping a nanny---when enough details
-had been laid out, the concluding sentence wasn\'t needed.
+had been laid out, the concluding sentence wasn't needed.
 
 The off-register comments from the Texas wife about her foster child,
-about finding the boy a nanny \"of his own kind\" and a school with
-\"all different races, the Mexicans and the Chinese and the Indians
-and all that,\" created another clear space in the story, a way to
+about finding the boy a nanny "of his own kind\" and a school with
+"all different races, the Mexicans and the Chinese and the Indians
+and all that," created another clear space in the story, a way to
 tell what is right.
 
-In the kitchen, away from the women, the judge\'s assault was direct:
+In the kitchen, away from the women, the judge's assault was direct:
 he confronted the husband with ammunition gathered from his
-labyrinthine legal connections: evidence of the husband\'s expulsion
+labyrinthine legal connections: evidence of the husband's expulsion
 from college 15 years ago for selling pot, evidence that the judge,
 with a final flourish of legal muscles, had already inserted into the
-husband\'s case file at the adoption agency. This in the few days
+husband's case file at the adoption agency. This in the few days
 since the couples met.
 
-But since the cunning of great power isn\'t really the story, or
+But since the cunning of great power isn't really the story, or
 enough of a story, it was necessary for the judge to punch the
 husband in the nose and knock him down before the couple, and the
-story, could leave the judge\'s house.
+story, could leave the judge's house.
 
-The women\'s exchanges, happening at the same time, were far less
-direct than the men\'s but resulted in arguably more damage, like a
-barbed hook that\'s slipped smoothly into the skin and then twisted.
+The women's exchanges, happening at the same time, were far less
+direct than the men's but resulted in arguably more damage, like a
+barbed hook that's slipped smoothly into the skin and then twisted.
 
-It\'s true too that the young wife and husband wanted different
+It's true too that the young wife and husband wanted different
 things (as different as a doe-eyed youngster from a disaffected
 teen), a further cause of dissatisfaction.
 
 The obliquity of the wives and the passive irony of the young husband
 all form a rueful cognizance that weighs down to the point of
-paralysis. And yet it\'s that ruefulness that cradles its hands
-around the narrative\'s delicate crown jewel.
+paralysis. And yet it's that ruefulness that cradles its hands
+around the narrative's delicate crown jewel.
 
 Like a lead musician the fiction narrator repeats and elaborates a
 single sensitive melody line, or crescendos on a particular note of
@@ -7451,9 +7450,9 @@ beckoning whistle coming in through the window of a quiet room.
 In this version, the non-fiction narrator is free to both love and
 despise her volatile, negligent parents, her alcoholic mother who
 disappears on binges and returns home to demand attention and
-threaten suicide; she\'s free to both admire and resent her slightly
-older, vastly more sexually experienced sister; she\'s free to fear
-and adore the coltish, sanguine boy she\'s had a crush on since age
+threaten suicide; she's free to both admire and resent her slightly
+older, vastly more sexually experienced sister; she's free to fear
+and adore the coltish, sanguine boy she's had a crush on since age
 six. The non-fiction narrator elides between bewilderment and passion
 for her own still strange sexual feelings and for the obvious,
 pronounced desire that persists between her parents even in the midst
@@ -7466,12 +7465,12 @@ ball.
 In the photo, a snapshot salvaged from one of those summers that were
 both vacant and teeming, she is 15. Her long hair blown a little into
 her face, head tilted a little to the side, lashes lightly mascarad
-or just naturally thick and dark---she is the early 70\'s icon of
-innocent sexiness, the womanly girl, what Ali McGraw, \"Love Story,\"
-and John Denver\'s \"Sunshine\" all immortalized, but what she seems
+or just naturally thick and dark---she is the early 70's icon of
+innocent sexiness, the womanly girl, what Ali McGraw, "Love Story,\"
+and John Denver's \"Sunshine\" all immortalized, but what she seems
 to be without trying, maybe without even really knowing.
 
-It\'s that not knowing, or anyway not always needing to know, that
+It's that not knowing, or anyway not always needing to know, that
 the non-fiction narrator settles for, but that the fiction narrator
 battles like a riptide.
 
@@ -7485,10 +7484,10 @@ escape is always in progress.
 ## Works Cited
 
 
-J. Robert Lennon, \"No Life.\" The New Yorker, Sept. 4, 2000.
+J. Robert Lennon, "No Life.\" The New Yorker, Sept. 4, 2000.
 Pp. 74-81.
 
-Mary Karr, \"The Hot Dark.\" The New Yorker, Sept. 4, 2000.
+Mary Karr, "The Hot Dark.\" The New Yorker, Sept. 4, 2000.
 Pp. 42-49.
 
 # Margaret Christakos: Often She Finds Butchers Flirtatious
@@ -7499,13 +7498,13 @@ Pp. 42-49.
 
 ### Working Notes
 
-*Charisma[^note1] is \"for the chorus of us.\" I wrote Charisma over a period
+*Charisma[^note1] is "for the chorus of us.\" I wrote Charisma over a period
 of nine years, moving through and enervated by the political
 prescriptions of middle-class feminist academia; craning my gaze on
-women through the hourglass of my wounded relationship with \"mother,
-sister, grandmother\"; diving through several portals of baby-shit
+women through the hourglass of my wounded relationship with "mother,
+sister, grandmother"; diving through several portals of baby-shit
 and bliss to wear the secret subcultural drape of motherhood; its
-repeated re-shapings of Normal greeting my sense of \"what happens\"
+repeated re-shapings of Normal greeting my sense of "what happens\"
 as a waking frequency of turgid extremes. I realized that straight
 novels had always bored me, why I masturbated to make them more
 interesting. I would need fiction to become a foodlike procession, an
@@ -7521,7 +7520,7 @@ An overflow of interaction, so that the negotiated space of
 consensual relationship capsizes. As when one is in love with more
 than one lover, or dreaming, or in hate, an oxymoronic prostrate
 agent (who is) subject to the re-calibration of self-limits and
-society\'s clichés about who/what is \"hot.\" I wanted to write the
+society's clichés about who/what is \"hot.\" I wanted to write the
 storiedness of bisexual subjectivity (even tho maybe rejected by
 queer command-central) as a kaleidoscopic inner identity script of
 positive contradictions and overflow, and to acclaim cunt-agency for
@@ -7533,10 +7532,10 @@ theory showers.*
 
 *When you winked your way through the glass we knew it was a cover.
 We wondered about ourselves then, about the social organization of
-gender categories, about barriers to the heteroerotic\--we mean
-hetero as in plural, different and manifold\--desires we could feel,
+gender categories, about barriers to the heteroerotic--we mean
+hetero as in plural, different and manifold--desires we could feel,
 we wanted you for our tutors in studies of the self, ours and yours.
-To tell the story because it\'s a-hankering to be told. The novel was
+To tell the story because it's a-hankering to be told. The novel was
 more cyclonic in form before the final edit; I attributed extra value
 to narrative contiguities once I had hung out with non-writers and
 babies for a while. I wanted the book to fly.*
@@ -7548,13 +7547,13 @@ babies for a while. I wanted the book to fly.*
 Often she finds butchers flirtatious; out on Danforth Avenue where
 the anemic lamb carcasses suspend for three or four seconds her trust
 in bodily safety, before the mind rescues her from moral crisis. Just
-a piece of meat like any. It\'s the hook, the hook that hooks, that
+a piece of meat like any. It's the hook, the hook that hooks, that
 perforates the eye, the brain, the guts of sympathy which must be let
 down, rinsed and laid in the cedar drawer until autumn. A time when
 ghouls are acceptable again and the skeletal dance of baby sheep is
 seasonally admired. Dressed in his white blood-smeared coat, he is
 like any irresistible and prodigious surgeon. He wears the coat, the
-lamb\'s clotted juices and pristine plate glass. He sees the world
+lamb's clotted juices and pristine plate glass. He sees the world
 through hooked sides of things. Why be afraid?
 
 Flirtation has to do with how the lambs are led along the corridor of
@@ -7564,18 +7563,18 @@ beasts, rather, and strangers who may be beastly though their
 flirting may become on occasion beautiful. The natural frame of the
 plate glass composes him in savoury labour, up to the wristwatch in
 precision. He peeks through the space where the organs were to a
-woman\'s tenuous shock. Hooked by the blood of someone else. Thing
+woman's tenuous shock. Hooked by the blood of someone else. Thing
 else. Some other thing‚s public juice. And the fixed sway of the dead
 meat muscle---Cameo is a sitting duck.
 
 Cameo coaxes the lamb chops from their wax paper sleeve and lays them
-on sizzling garlic. She scoops mint jelly into one of her mom\'s old
+on sizzling garlic. She scoops mint jelly into one of her mom's old
 teacups, and amuses herself while the meat goes bloody by holding the
 porcelain overhead---there they are, as delightful as when she was a
-girl, green shadows flickering through the cup\'s delicate filigree.
+girl, green shadows flickering through the cup's delicate filigree.
 Impatient to eat, she flips the chops, sniffing in their high
 corduroy bloom, flexing her knees to an old disco song. Gradually the
-element\'s blue flame singes her dreamy gaze and she fidgets with her
+element's blue flame singes her dreamy gaze and she fidgets with her
 too-tight bra strap, then jets out her arms at right angles and
 croons into the kitchen window, hopping from one foot to the other
 and pulsing her hips. Soon, the smell is so velvety she is near
@@ -7589,11 +7588,11 @@ averting its eyes, a dinner guest of inferior status. Well, fine. She
 just wants to fade in front of the McNeil-Lehrer Report while reading
 Interview. Clarence Thomas is deplorable and River Phoenix has
 siblings named Rain, Liberty and Summer, and Keanu Reeves is part
-Hawaiian---so that\'s it---explaining his preternatural gaze. She
-thinks about licking his eyelids. She doesn\'t mind such overlays,
+Hawaiian---so that's it---explaining his preternatural gaze. She
+thinks about licking his eyelids. She doesn't mind such overlays,
 allowing that the real Keen and his big-screen simulacra have little
 in common. The pastoral fogs up and loses its colour when she
-remembers Keanu went to the same high school as an ex-lover\'s
+remembers Keanu went to the same high school as an ex-lover's
 sister, Korona, the mesmerically sirenic just-past-teenagehood dyke
 who moves like a rock stud at the Marzipan Room. Same eyes. She
 considers herself curled up in a wet tongue licking those eyelids.
@@ -7622,8 +7621,8 @@ She writhes about rubbing herself while holding him tucked under one
 arm, then says, Do you want to lick me? He wags his tongue, starts
 slurping at her vulva. After a moment he stops and looks up, cream
 all over his soft little chin. She runs the tapwater and says
-maternally, Do you want a drink? She tells people who ask that she\'s
-keeping him if no one claims him back. The dream\'s meaning escapes
+maternally, Do you want a drink? She tells people who ask that she's
+keeping him if no one claims him back. The dream's meaning escapes
 her over the cup of coffee she leans into the next morning, before
 she goes to the deli where the Polish butcher will wink at her, Ah,
 look at the glow on that one, making a big deal, and Cameo will like
@@ -7633,9 +7632,9 @@ motherishness.
 All week, in fact, she thinks a wordless blur of foodstuffs. The
 bakery woos, Fresh Valentine Cakes Available. Signs like this keep
 Cameo on track from day to day, remind her that English is the
-official language even for her meandering body\'s new requirements.
+official language even for her meandering body's new requirements.
 When the other butcher, the young one out on the Danforth, slicks his
-sweet right eyebrow to the ceiling, he is flirting in the queen\'s
+sweet right eyebrow to the ceiling, he is flirting in the queen's
 own tongue, though his first language is probably Greek. In a fit of
 hysteria libidinosa he might mutter in his mother tongue if she
 lapped his incurvate dimples. Or would he wish this? Cameo silently
@@ -7644,32 +7643,32 @@ opchay, opchay, why waste such a precise and professional syntax! Try
 to make sense, baby-mother, she chides herself, tenting her shoulders
 forward to contain the cross-continental sound loop. A sign propped
 up in the cooler says, Fresh Lamb Whole Or Pieces Suit Your Fancy.
-Speechless again, she sees that the flirtatious butcher\'s open
+Speechless again, she sees that the flirtatious butcher's open
 freezer is layered with the slight upside-down leftovers of lambs
 dreaming the disembodied envelopes of fur back onto their rib cages.
-She starts shivering. He says, What\'ll it be, miss? With those eyes,
+She starts shivering. He says, What'll it be, miss? With those eyes,
 he could be her cousin. When Cameo comes here she dislikes the
-imbalance, like she\'s a plate in a dish rack about to topple, but
+imbalance, like she's a plate in a dish rack about to topple, but
 she does come. And each time: the frightening image of a man with a
 knife imposes itself into the hem of her ahem-hawing as she stands at
 the pink-smeared counter. For what order to be uttered, or redress to
-arise. Sawdust in her nostrils, metal blade at her view\'s rim.
+arise. Sawdust in her nostrils, metal blade at her view's rim.
 Always at the edges his hand the wrist the blood the appetite.
 Sudden. Her eyes close.
 
 ---
 
 
-Once Cameo had thought about mother\'s cream in a strange way, a way
+Once Cameo had thought about mother's cream in a strange way, a way
 she could not after that first time continue to speak of. She began
 to live it in code, through images of food, since cream was a food to
 begin with. There was no other sort of cream she could allow out of a
-mother\'s body. When she thought of cream or milk her thoughts often
+mother's body. When she thought of cream or milk her thoughts often
 turned quite pleasurably to snow, and then her arms would be swimming
 in it, folding it back onto itself like slow motion film images of
 milk spilling on a tabletop. Liking this picture, she had always
 wanted to go swinging in a snowstorm, but was thwarted by Parks &
-Rec\'s policy of packing the playground away in late November.
+Rec's policy of packing the playground away in late November.
 Children were known to get overheated and absent-minded in their
 snowsuits, and the city could not be responsible for them burrowing
 sleepily into snowbanks and freezing to death. She had almost frozen
@@ -7677,7 +7676,7 @@ once, surrendering too long on the walk home from school. The cold
 felt like milk being swallowed as it slowly entered her, and she
 thought of her mother, paying the babysitter for the hour of
 lunchtime she was wasting flatbacked on the bank, thinking of milk
-and a creaminess she couldn\'t place but missed somehow, like snow
+and a creaminess she couldn't place but missed somehow, like snow
 angels in summer.
 
 ---
@@ -7698,39 +7697,39 @@ the shop, from her gut hankering for the woman between them.
 ### MARILYN
 
 Happiness has to do with how the sleep goes and goes away, flood
-water evaporating into mist. Cameo\'s eyes brighten, she pushes
+water evaporating into mist. Cameo's eyes brighten, she pushes
 upright and steps into the word Hi. Speaking first in her own person
-and then in the echo of her aunt\'s spritely eyes. Wanna come,
+and then in the echo of her aunt's spritely eyes. Wanna come,
 sweetums, and meet Marilyn? Her aunt deftly snaps closed the hand
-pouches on Cameo\'s jumpsuit, wedges each cluster of toes into its
-rubber foot envelope. Let\'s go fast, auntie says. Fast, Cameo
-doubles, the way she doubles everything in her aunt\'s face, her
+pouches on Cameo's jumpsuit, wedges each cluster of toes into its
+rubber foot envelope. Let's go fast, auntie says. Fast, Cameo
+doubles, the way she doubles everything in her aunt's face, her
 sparkle, the discourse of her desire, Cameo would say now. Discourse
 and desire.
 
 That night, the mother and the aunt sit on chairs pulled tight to the
 kitchen table. Their elbows grind into the wood surface connecting
-them. A glass of milk slides around in its own white spillage. Don\'t
-you ever take Cameo there again. How can you be so pigheaded? Don\'t
-you speak about me, we\'re talking about you. You have no right to
+them. A glass of milk slides around in its own white spillage. Don't
+you ever take Cameo there again. How can you be so pigheaded? Don't
+you speak about me, we're talking about you. You have no right to
 talk about me like this, Chari, you have no clue. All I know---Is
 nothing, is pig shit. Is what is moral. Your morality is a castoff,
 from Dad, from the system, from the goddamned church. And what
 happened to you, how did you get to be so selfish? Being true to
-myself isn\'t selfish. No, Seal, what you are is confused, and I want
-you to keep my daughter out of your selfish confusion. This isn\'t
-Cameo\'s problem, it\'s yours, can\'t you admit it? If anyone here\'s
-got a problem, Seal, it\'s you, end of conversation.
+myself isn't selfish. No, Seal, what you are is confused, and I want
+you to keep my daughter out of your selfish confusion. This isn't
+Cameo's problem, it\'s yours, can\'t you admit it? If anyone here\'s
+got a problem, Seal, it's you, end of conversation.
 
 Cameo backs down the hallway chewing the tough thumbnail she has
-detached absent-mindedly. Her mother\'s curt voice flip-flops like
+detached absent-mindedly. Her mother's curt voice flip-flops like
 bad perfume in her senses. But Marilyn gave her two balloons. Aunt
 Chloris bought them all ice cream cones, and together they had swung
 her in giant leaping steps up the grassy hill. She had been dangling
 like a fish, giggling heartily, and the women both guffawed, a fish?
-You‚re a whale of a girl, and don\'t you forget it!
+You‚re a whale of a girl, and don't you forget it!
 
-Womens\' creamy cream. Their cream. Mama\'s creaminess. Ooosshhh.
+Womens' creamy cream. Their cream. Mama\'s creaminess. Ooosshhh.
 
 [^note1] Pedlar Press, Toronto: 2000
 
@@ -7744,21 +7743,21 @@ Womens\' creamy cream. Their cream. Mama\'s creaminess. Ooosshhh.
 **I'm a failed short story writer** in the traditional sense. I write
 the way I write because I have no choice. I wish I could write in a
 traditional narrative shape (plot, characters, conflict), I mean that
-I don\'t do characters that begin to talk and speak as independent
-entities with free will. I\'ve always been attracted to language more
+I don't do characters that begin to talk and speak as independent
+entities with free will. I've always been attracted to language more
 than plot and character. And I hate most fiction. I hate the whole
 artificial structure of popular fiction yet love artificial elevated
 language. My last attempt at straight fiction has left me stuck with
 6 pages of notes about Southern Indiana carnival life. But every once
 in a while I fall in love enough to keep going.
 
-I focus on sentences and images. I like to describe. I\'m most
+I focus on sentences and images. I like to describe. I'm most
 influenced by documentary film and photographic essays at the moment,
 and taking a cue from visual artists and piling up a lot of shit
 (dumping memories, images, found objects into a journal), then
-sculpting it for a shape. I use narrative to connect, also I\'m a
-sucker for a narrative riff and for beauty. I\'m called a poet and
-prose writer and I\'m at home with both titles: however, my main
+sculpting it for a shape. I use narrative to connect, also I'm a
+sucker for a narrative riff and for beauty. I'm called a poet and
+prose writer and I'm at home with both titles: however, my main
 company consists of poets and poetry is a large chunk of my literary
 diet. Of course, I follow the proponents of narrativity, whose
 writers are working out the same issues.
@@ -7768,14 +7767,14 @@ my home, specifically the brief section between Cooper Union and
 Houston, an area that contains the remnants of SRO hotels and the
 remains of the 1890s Bowery that are slated to be demolished by The
 Bowery Development Plan in the next decade. The artist coop that used
-to be McGurk\'s Suicide Hall, named so because prostitutes used to
+to be McGurk's Suicide Hall, named so because prostitutes used to
 fling themselves out the windows, the Sunshine Hotel and various soup
 kitchens will be extinct. The project is centered on documenting and
 reacting to the layers of debris, including the human kind that layer
 the streets. The intention is not to romanticize the suffering or
 demonize the Bowery residents but rather to comment on poverty,
 class, suffering and my own dilemma and identifications as a teacher
-and poet one paycheck away from the street. It\'s the transparent
+and poet one paycheck away from the street. It's the transparent
 medium I walk through with my own poverty. Needless to say that for
 me, the Bowery has taken on a metaphysical weight as a passage and
 frame of mind as well as a power spot where ghosts and the nearly
@@ -7784,7 +7783,7 @@ replace them.
 
 I have failed at traditional forms but I suspect that in the long run
 those forms have failed me. Maybe, maybe not. Each writer must make
-and break her own rules. As for now, I\'m at work observing,
+and break her own rules. As for now, I'm at work observing,
 discovering obsessions, and devising a container to carry it all in.
 
 
@@ -7807,15 +7806,15 @@ and other, a study of self in family, a study of family as self.
 However is about family, about the process of aging and the
 injustices this culture (as if a singular referent could actually
 take on so much meaning) inflicts on the old. However is an
-ethnography of the last few weeks of my grandmother\'s life and her
+ethnography of the last few weeks of my grandmother's life and her
 shouting right back at me - you got it wrong and right, a little
 right. However is in prose because this process of description is too
 messy for a pretty mobile of string and glass. However is in prose
 because prose is the viscous tissue of body and there is a lot of
 body, its excrement, in this piece. However is in prose because, as
-James Clifford wrote in the Predicament of Culture, \"participant
+James Clifford wrote in the Predicament of Culture, "participant
 observation obliges its practitioners to experience, at a bodily as
-well as intellectual level, the vicissitudes of translation.\"
+well as intellectual level, the vicissitudes of translation."
 However is in prose because there is too much, rather than too
 little, to say.
 
@@ -7879,7 +7878,7 @@ hold me in their earliest versions so I am no longer part of
 description, an obstacle even to the sight of family. Perhaps I am
 these trees along the freeway dusty with carbon monoxide or the
 eucalyptus behind the nursing home shedding. The body takes much
-longer to break free of limbs, forgetting my other daughter\'s name
+longer to break free of limbs, forgetting my other daughter's name
 
  
 
@@ -7902,9 +7901,9 @@ poets of English will take a text-could be a phone book, could be a
 love letter, could be the instruction manual for a pocket
 fisherman-and create astonishing juxtapositions which in turn create
 narrative fireworks in the mind of an ordinary, pre-programmed
-English-speaking reader like me. \"A comfortable twig for the heroine
+English-speaking reader like me. "A comfortable twig for the heroine
 in the town. I feel more refreshed than anyone. My daughter has
-arrived at puberty.\" Their ability to do this rests on their
+arrived at puberty." Their ability to do this rests on their
 inability to remember or even understand the original context.
 
 When the pervasive, mass-produced poetry of (culturally and
@@ -7914,19 +7913,19 @@ results is something infinitely more imaginative and disruptive.
 These mutant words and phrases are the visible residues of desire, in
 that they are produced by the conjunction of the foreign-language
 longing for the power of English, and the longing of the
-English-speaking reader for the novelty of otherness. The name \"Bits
-World\" is derived from the name of a Japanese stationery brand,
-\"Bits Goods\": notebooks bearing slogans such as \"I\'m an useful
-and enjoyable stationery. Let\'s get along with me!\" The name also
-describes the writing/performance techniques I\'ve been experimenting
-with. (I sometimes use the more academic-sounding moniker \"discourse
-collage.\")
+English-speaking reader for the novelty of otherness. The name "Bits
+World" is derived from the name of a Japanese stationery brand,
+"Bits Goods\": notebooks bearing slogans such as \"I\'m an useful
+and enjoyable stationery. Let's get along with me!\" The name also
+describes the writing/performance techniques I've been experimenting
+with. (I sometimes use the more academic-sounding moniker "discourse
+collage.")
 
 In performance, this piece is accompanied by travel slides collected
-from second-hand shops: pictures of famous landmarks (Saint Basil\'s
+from second-hand shops: pictures of famous landmarks (Saint Basil's
 Cathedral in Moscow), not so famous landmarks (anonymous obelisks on
 the side of the highway), people at the beach, road signs in various
-languages. There\'s a shot of a wooden Santa Claus cut-out surrounded
+languages. There's a shot of a wooden Santa Claus cut-out surrounded
 by palm trees, shots taken from buses and trains, shots of totem
 poles and castles and flamingoes: typical scenes from the great
 20th-Century-Enlightenment project of Tourism. The slides emphasize
@@ -7944,7 +7943,7 @@ into bliss. It had become necessary. The winter came fast and hard,
 and it stayed a long time. The potatoes froze in the ground, there
 was not enough wood for the stove, and the modem was too slow. There
 was a war, and people were being asked to recycle aluminum. It was
-the off-season. I am so sleepy right now, but I\'ll tell you
+the off-season. I am so sleepy right now, but I'll tell you
 something: you should regard every anomaly as an opportunity to be
 awestruck.
 
@@ -7953,13 +7952,13 @@ railroad tracks, and later in the same place she found a dead
 calculator. Her friend went to the hospital. His cornea was wrinkled
 and it was making his eyelids stick together. It was the off-season.
 He closed up the shop and went out in search of a sandwich and a
-malted milk. \"Oh God damn it for Christ\'s sake,\" he said. Love.
+malted milk. "Oh God damn it for Christ\'s sake,\" he said. Love.
 What was this thing that so many poets made such a fuss about? When
 they first met, they stayed indoors all the time. He was agoraphobic
 and she was afraid to be alone.
 
 In those days everyone had a story to tell. Losing a toe to frostbite
-or getting one\'s head stuck in a milk can. Outside, the streets were
+or getting one's head stuck in a milk can. Outside, the streets were
 dirty and cold. They needed distraction. They wanted to see
 everything, so they would be distracted from everything else. He is a
 man in fine fettle. He possesses a generous spirit, and she has nice
@@ -7967,37 +7966,37 @@ manners. She knew when she got up that morning it would not be an
 ordinary day. They took a lot of things with them: it was not the
 things they were trying to escape so much as the origins of things.
 They had to forget where ideas came from in order to find them
-interesting again. She justified the trip as \"radical chemotherapy
-for my cancerous soul.\"
+interesting again. She justified the trip as "radical chemotherapy
+for my cancerous soul."
 
-All the hotels were filled with celebrities they didn\'t know. People
+All the hotels were filled with celebrities they didn't know. People
 were eating their dinners alone in restaurants. The mountains were
 dream-like and seemed smaller than she had imagined. On the side of
 the highway there were farmers selling Kool-aid. The amusement park
 employees were not amused. Of all the rides, the bus back to the city
 was the one they liked most. There was a restaurant that served
-nothing but insects, and another one that served only tofu. \"Can you
-drive a standard?\" he asked. They drove a Chevy to the levee and
+nothing but insects, and another one that served only tofu. "Can you
+drive a standard?" he asked. They drove a Chevy to the levee and
 drove a Ford to the fjord. They tried to make themselves more
 interesting by being interested in more things. Some of the maps had
-to be stretched to make them fit. \"You can\'t get there from here,\"
-he said. \"It seems like I can\'t even get here from here,\" she
+to be stretched to make them fit. "You can\'t get there from here,\"
+he said. "It seems like I can\'t even get here from here,\" she
 replied.
 
 Everywhere they went, the souvenirs had been made somewhere else.
-\"There are so many beautiful places in the world,\" she said. \"But
-they are so disorganized.\" They couldn\'t picture themselves in any
+"There are so many beautiful places in the world,\" she said. \"But
+they are so disorganized." They couldn\'t picture themselves in any
 tragic news reports, so when the boat was overcrowded and barely out
-of the water, they didn\'t complain. The hotel room was exactly six
+of the water, they didn't complain. The hotel room was exactly six
 feet long by three feet wide by three feet high, and it had a TV. Oh,
-I\'m so drowsy. What should we do? Let\'s go for a stroll by the
+I'm so drowsy. What should we do? Let\'s go for a stroll by the
 river, for a change of pace. Do you want to see a movie? It seems
 silly to go to a movie theatre. They called home and left messages
 for themselves. When they found an internet caf they digitized
 postcards and emailed them to friends. Tourism is the greatest gift
-of the twentieth century, they thought. \"The reason I\'m always
-having fun,\" she said, \"is that I\'m doing what I like. I\'m the
-happiest loser alive,\" she said. \"My specialty is nonchalance,\" he
+of the twentieth century, they thought. "The reason I\'m always
+having fun," she said, \"is that I\'m doing what I like. I\'m the
+happiest loser alive," she said. \"My specialty is nonchalance,\" he
 said.
 
 Ten miles out of the city they saw the most amazing sight they had
@@ -8025,14 +8024,14 @@ passed a frozen waterfall. They found a newspaper and discovered that
 there had been an election while they were gone. The war had moved on
 to a different part of the world. The stars fizzled and went out. The
 leaves were vivid in a way that made them feel light-headed. Sunrise
-above the clouds doesn\'t compare with this, he admitted. \"It\'s
-so\... ineffable!\" she exclaimed. \"That exclamation mark,\" he
-said, \"that exclamation mark is the last exclamation mark you\'ll
-ever need.\"
+above the clouds doesn't compare with this, he admitted. \"It\'s
+so... ineffable!\" she exclaimed. \"That exclamation mark,\" he
+said, "that exclamation mark is the last exclamation mark you\'ll
+ever need."
 
 Two people are travelling on a train. Watching tiny villages and
-fields go by, having sex in the washroom. \"It\'s bits world,\" she
-says. It\'s bits world. Let\'s get along with me. I am an edifying
+fields go by, having sex in the washroom. "It\'s bits world,\" she
+says. It's bits world. Let\'s get along with me. I am an edifying
 and enjoyable text-based performance artist, and this is most
 comfortable performance you have ever run into. Wherever you may be,
 whoever you are, when you think of usefulness, think of Bits.
@@ -8217,16 +8216,16 @@ in her hand, amazed at what she's seeing.
 ## Working Notes
 
 **Serialscribbler** (as the title suggests) is an ongoing work, so far
-only in prose, though there\'s no rule about that. It started a
+only in prose, though there's no rule about that. It started a
 couple of years ago, when I sent out a piece of scribble on a
 postcard every day to someone I knew around the world. The texts were
 continuous (a lot of drivel thrown in) but each recipient only
-received a fragment. The idea was to re-integrate other people\'s
+received a fragment. The idea was to re-integrate other people's
 (not necessarily writers or artists of any description) responses in
-my own writing. So far, that hasn\'t happened, and after some 120
+my own writing. So far, that hasn't happened, and after some 120
 postcards I stopped sending them out, especially as the internet
 seems to throw a slightly anachronistic twist on the project. For the
-time being, then, it\'s still an open-ended project and anything
+time being, then, it's still an open-ended project and anything
 might happen with it.
 
 From some working notes on Serialscribbler found in my notebooks
@@ -8238,7 +8237,7 @@ power to seize it, let alone transform it.
 Serialscribbler---what is more than language in it---
 now sit in Waterloo station
 now hear & be tempted to bark
-but not bark, quarantine---look up \"bark\"---
+but not bark, quarantine---look up "bark\"---
 then & now reconciled (thru fog)---may as well not pay & suffer the
 consequences---what if someone gets up & leaves in the middle of a
 word---how do we find the middle of a word---if poetry is an
@@ -8261,12 +8260,12 @@ Sometimes it happens that even Serialscribbler, who by definition is
 busy at all times if not totally self-absorbed to the point of
 oblivion, sometimes (I say) it happens that Serialscribbler will
 devote some attention to another experience, eg, reading a
-stranger\'s book or looking at a sculpture, even feeling it to gain
+stranger's book or looking at a sculpture, even feeling it to gain
 some tactile experience of it.
 
-I write in prose by default . I don\'t know where to break the line
-in free verse and I don\'t like having the line-lengths predetermined
-by fixed verse forms. It\'s an interim solution. I write in prose but
+I write in prose by default . I don't know where to break the line
+in free verse and I don't like having the line-lengths predetermined
+by fixed verse forms. It's an interim solution. I write in prose but
 think in poetry.
 
 ## Serialscribbler
@@ -8281,35 +8280,35 @@ into another the way dough is turned before being given time to rise.
 I dredge up the analogy (more fiddling) with a tinge of regret, even
 shame, for bread is my favourite food in all the world---I suppose I
 would kill for it---and to mention editor in the same breath as bread
-seems almost blasphemous; ah, but I remember there\'s a limit to
-words and it\'s just been reached. So let\'s step back a step,
+seems almost blasphemous; ah, but I remember there's a limit to
+words and it's just been reached. So let\'s step back a step,
 retract that near-blasphemous breath, inhale deeply, say: I fiddle is
 to say I scribble within the confines of my own space, despite the
-neighbours\' persistent complaints about the screeching and
+neighbours' persistent complaints about the screeching and
 scratching, their calling in the police who, in any event, are
 powerless to stop me fiddling when I explain that the noise is just a
 scribbling, a turning of one word into another in the manner of
-kneading dough, careful to point out that I\'m not inciting any
+kneading dough, careful to point out that I'm not inciting any
 revolutionary acts by invoking the analogy and, at the same time,
 carefully keeping editor out of view lest he give the wrong
-impression or, perhaps, because I\'m ashamed of him. Upon leaving the
-police shake my hand---I\'ve always had a way with the police, as one
+impression or, perhaps, because I'm ashamed of him. Upon leaving the
+police shake my hand---I've always had a way with the police, as one
 has with children or animals---and I resume my fiddling. Editor is
 hurt, professionally and physically, and since this has just been
 established as his necessary condition, we are now both faced with a
 steep learning curve which we need to get used to, each in his own
 way.
 
-I am no virtuoso, it must be said, and fiddle only because I\'m
+I am no virtuoso, it must be said, and fiddle only because I'm
 curious; my fiddling is spurred on by a vague desire to discover the
-new sounds rather than improve or polish the old ones. That\'s not to
-say I don\'t appreciate the old ones, much in the way editor does,
-but it\'s not enough to fulfil my desire. Editor, in contrast, has a
+new sounds rather than improve or polish the old ones. That's not to
+say I don't appreciate the old ones, much in the way editor does,
+but it's not enough to fulfil my desire. Editor, in contrast, has a
 way of expunging the new sounds with a stroke of his pen, somewhat
 like an abortionist, fossilizing them before they ever take flight.
 He believes my desire is misguided, that there is a better way of
 channeling and controlling it, that it should be put to better use.
-While he was fit and able he\'d always wanted to have a virtuoso at
+While he was fit and able he'd always wanted to have a virtuoso at
 hand (forgive the expression) and had dreamed of making me one of his
 own. Ah, but there are too many virtuosos, cried Robert Schumann,
 spitting on the polished parquet floor. Editor is confounded by the
@@ -8334,7 +8333,7 @@ part because its structural complexities would be overbearing, while
 on his part the aesthetic and moral dimensions would defy his
 comprehension); rather the smallest grain of truth is often enough to
 maintain the fragile rapport between us. So for the moment editor and
-I live side by side, reconciled to each other\'s exclusionary habits;
+I live side by side, reconciled to each other's exclusionary habits;
 I fiddling, he nodding his wobbling head, keeping time for the sake
 of appearances. Occasionally, when our respective tasks come full
 circle and we turn a mutual glance of recognition towards each other,
@@ -8344,15 +8343,15 @@ dripping like bird shit on the cafe table, as life flows to and fro
 on the pavement before our eyes---his, like mine, darting back and
 forth with unabashed lust as one young woman or another comes into
 view---only to have our little reveries promptly interrupted by a
-waitress asking, \"Are you all right, sir?\" So that I\'m forced to
+waitress asking, "Are you all right, sir?\" So that I\'m forced to
 look up and around me, awkwardly, desperately. Editor has suddenly
 absconded and left me to answer her simple query. In a futile attempt
-to grasp a pen with my mouth and scribble \"yes\" on any scrap of
+to grasp a pen with my mouth and scribble "yes\" on any scrap of
 paper, I have, not for the first time in my life, accidentally
 overturned the table and chairs. Remorse for my reprehensible
 behaviour towards editor momentarily seizes me, and a shameful tear
 is about to fill my eye as the waitress, brimming with kindness and
-efficiency, comforts me: \"Don\'t worry, sir, it\'s all right.\"
+efficiency, comforts me: "Don\'t worry, sir, it\'s all right.\"
 Dutifully she bends down and shuffles on all fours as she cleans up
 the mess around my truncated legs; her breasts, liberally exposed to
 my parched and crippled gaze, sway slightly with her scrubbing
@@ -8372,14 +8371,14 @@ must watch my posture at all times---me, a cripple, watch my
 posture!---make sure my eye-line does not stray too far from the
 strings, and always keep my feet firmly planted on the ground. Such,
 at least, were the rules given at the outset, when I was a mere
-sub-scribe, long before I became a student, and although I\'m now at
+sub-scribe, long before I became a student, and although I'm now at
 post-graduate level the same rules still apply, the cardinal one
-among them being \"never drift into mindless reverie.\" The trick, as
-another tutor advised us, is to dream without affecting a dreamer\'s
-countenance, to cast one\'s mind off in some direction while the
+among them being "never drift into mindless reverie.\" The trick, as
+another tutor advised us, is to dream without affecting a dreamer's
+countenance, to cast one's mind off in some direction while the
 (very same) mind stays focused, enrapt by the intricacies of the
-hands\' manoeuvres. As you can see, I haven\'t given up yet, perhaps
-because I\'ve noticed that over the years tutors come and go, experts
+hands' manoeuvres. As you can see, I haven\'t given up yet, perhaps
+because I've noticed that over the years tutors come and go, experts
 become fallible, if not completely discredited, histories get
 revised, wars start up and arrive at their conclusions, stores change
 ownership, buildings get torn down and re-built, and things generally
@@ -8392,18 +8391,18 @@ attention to it, however, could prove tragically fatal under certain
 circumstances---for example, if a scribbler were to be retroactively
 regarded as talented, even a genius, and we, human kind, belatedly
 berated ourselves for having been so deaf, so blind, and beat our
-breasts with futile lamentations, and tore each others\' hearts out
+breasts with futile lamentations, and tore each others' hearts out
 with proprietary fingernails, and waged suicidal wars in the name of
 said dead scribbler, now canonised, his or her pen emblazoned on the
 national pennant billowing proudly over our burning libraries, day
 and night, etc. But in the case of students, even at post-graduate
 level, such potential catastrophes are highly improbable, as unlikely
-as a cataclysmic end of days, so there\'s really no need to fret, no
+as a cataclysmic end of days, so there's really no need to fret, no
 need to get anxious over our performance, no need (or indeed desire)
 to seek encouragement from our peers or advice from experts, because
 scribbling is merely a process, nothing more, a perpetual practice
 session with or without a fiddle, and in any case, as otologists have
-shown, the human ear\'s threshold for noise rises by the hour, edging
+shown, the human ear's threshold for noise rises by the hour, edging
 nearer to a level of infinity with every exclamation, every grunt and
 moan, every scratch or tap of the finger, with every etched
 apostrophe or comma on a blank page. As one of our most distinguished
@@ -8411,22 +8410,22 @@ tutors put it: *Our potential capacity to listen to everything will
 shake the foundations of our belief systems to their core.* I was
 thinking, as it happened, about the word as the foundation of faith
 (not my original thought, just pondering an old one) when he added:
-*It\'s something we should consider with the utmost gravity and
+*It's something we should consider with the utmost gravity and
 tackle with a measured rationality.* I think he was soft peddling
 doom, imploring us to reinstate a more humane threshold for the
-ear\'s intake of noise before it\'s too late. Too late for what, I
+ear's intake of noise before it\'s too late. Too late for what, I
 wanted to ask, eager to join the debate. But being a cripple, being
 doomed to my studies, playing uncontrollably with my fiddle, I would
 have been unable to get my point across to him, over there, on stage,
 behind the podium, without upsetting the furniture and provoking a
 riot. All the same, upon leaving I reflected that despite my
-restraint it was an interesting outing for a bleak winter\'s
+restraint it was an interesting outing for a bleak winter's
 afternoon, and I went away believing that my knowledge had increased
 by two- or threefold.
 
-Although I\'m sometimes mistaken for a cripple, sometimes I\'m not.
+Although I'm sometimes mistaken for a cripple, sometimes I\'m not.
 It is therefore just as true to say that I am as that I am not a
-cripple, and it\'s a matter of political interpretation whether you
+cripple, and it's a matter of political interpretation whether you
 believe one or the other of these truths. My identity as a scribbler
 has not been affected one way or the other in this respect, but this
 is probably due to the perverse social conventions of our time. In
@@ -8438,13 +8437,13 @@ the free world, where we take pride in the fact that we can air these
 issues openly and hold interesting debates at our local cafés or on
 television or occasionally even on a bus, on the way home from work,
 though that is still somewhat rare owing to our collective fatigue
-after work. But those of us who don\'t work, who are less weary, will
+after work. But those of us who don't work, who are less weary, will
 not hesitate to launch into such democratic debate if we should come
 upon a fellow non-worker on the bus, even heading home at 5 a.m.
 after an all-night party, just when our fellow workers are setting
 off to work on that bus, though they may not be sufficiently awake to
 participate in the debate and are possibly too preoccupied with their
-night\'s dreams, reconstructing the details, thinking of plausible
+night's dreams, reconstructing the details, thinking of plausible
 explanations for implausible events, half-consciously tying together
 random associations in their minds, their hands struggling to support
 their drooping yawning heads, their bleary eyes peering into the
@@ -8473,7 +8472,7 @@ they are today.
 
 Since then reverie has been my precise goal, and my fiddling studies
 are only a means of dealing with the pragmatic side of other
-dreamers\' dreams. One fine day, as we return from our afternoon
+dreamers' dreams. One fine day, as we return from our afternoon
 ritual of ogling nymphs on the banks of the boulevard, editor and I
 will come upon a list of words posted on our door, with a set of
 instructions to consider their place in my scribbling. Editor is keen
@@ -8504,17 +8503,17 @@ capitalized or not, the words are easily comprehensible, so I feel at
 least partially redeemed by my scribbling studies, imagining that any
 reader would understand them: the typography and size of a word has
 no bearing on its meaning, I remind editor, though it may be argued
-there\'s a difference in degree. Though I would have preferred the
+there's a difference in degree. Though I would have preferred the
 initial words without capitals, it seems pointless (and too
 difficult) to change them now. (Perhaps in future the software
 writer, a being of necessity in the future, will include an
-instruction that would allow the computer\'s editor to distinguish
+instruction that would allow the computer's editor to distinguish
 between a list of items and lines of verse; perhaps another
 instruction might be added that would allow its editor to discern a
-writer\'s intended nuance for a given word, or line, and
-automatically capitalise such words---for example, \"life\" as typed
-in by an immortal\'s fingers.) But this is beside the point. The
-point is I don\'t understand why or how language and writing coexist,
+writer's intended nuance for a given word, or line, and
+automatically capitalise such words---for example, "life\" as typed
+in by an immortal's fingers.) But this is beside the point. The
+point is I don't understand why or how language and writing coexist,
 though I understand and to some extent sympathize with the historical
 expediencies that have conjoined them. But how, after so many
 thought-bearing hours in such claustrophobic proximity, have they
@@ -8522,7 +8521,7 @@ failed to find their separate autonomous domains? Have they just
 grown used to each other and learned to be mutually tolerant? Have
 they gone a step further (backwards, it seems) and learned to
 coexist, perhaps even to love each other in our thought processes? If
-that were so---though I don\'t for a moment believe it---why? what
+that were so---though I don't for a moment believe it---why? what
 for? We scribble, day in, day out. If we advance, writing lies in
 wait, ready to devour us; if we retreat, language stabs us in the
 back. Would it not be better if we had neither---no language, no
@@ -8530,28 +8529,28 @@ writing---if there were no scribbling, no anti-scribbling, no pauses
 and deliberations over their duration, if everything were simply a
 constant torrent of some alien construct pouring into the well of
 truth, that shameless metaphor born from the union of language and
-writing. I\'m not alone in this my bafflement. My incomprehension is
+writing. I'm not alone in this my bafflement. My incomprehension is
 borne out by the writers I read, writers who have nothing to do with
-language, who don\'t know the meaning of the word, writers as removed
+language, who don't know the meaning of the word, writers as removed
 from representations of time, event, expectation and futures as Greek
 shards, who have as little idea about shame, the private, the secret
 in writing as that extrovert Yaweh, who have never even heard of a
 narrative concept. Those writers I read, those are the writers I
-write, that is, those writers I re-write; that\'s why they write and
+write, that is, those writers I re-write; that's why they write and
 why I write, why we, they and I, write, tuning our scribbling fiddles
 to a sorrowful pitch. Editor reads the very same writers I write, and
 yet invariably incinerates their pages, marking every word for
 approval before burning them, and sometimes adding a last-minute
 grammatical correction in his head. But editor reads only what has
-already been written, texts, what may never be re-written, that\'s
+already been written, texts, what may never be re-written, that's
 impossible, what may only be read over and over and over. Whereas I
 and the writers I read write only to re-write each other and will not
 allow ourselves, for our verbs are many, to be re-written otherwise,
 distracted by a shopping list of contingencies with moral and
-historical imperatives, since we\'re ambitious to succeed our
+historical imperatives, since we're ambitious to succeed our
 scribbling with our failure. That shopping list belongs in my pocket.
 It is revealed (like a furtive cigarette in the street) when I go
-shopping and use language as a counter, when I\'m talking face to
+shopping and use language as a counter, when I'm talking face to
 face, seeking out your immediate reply, my lips smacking each other,
 my jaws moving like pincers, my tongue slithering between movements
 of jaws and lips, my vocal chords dilating or contracting like
@@ -8564,12 +8563,12 @@ life, in death, after the flesh has rotted away and the worms have
 moved to another body, yet language itself can never exhume the
 writing that went on (perhaps on a daily basis) before the final
 heartbeat. While the writer, o scribbler, is steeped in shame, in
-some perverse privacy or in the self\'s profoundest secret, the body
+some perverse privacy or in the self's profoundest secret, the body
 of writing is perpetuated in its own skin, marking out its own
 as-ifness the way silence delineates the borders of language. Let us
-admit, let\'s say, that I have murdered you and am now stricken with
-remorse, dumb with shame and crippled by guilt; whatever I\'ve done,
-whatever else I\'m doing, I am not writing. I am outside the writing,
+admit, let's say, that I have murdered you and am now stricken with
+remorse, dumb with shame and crippled by guilt; whatever I've done,
+whatever else I'm doing, I am not writing. I am outside the writing,
 doomed to carry in my language as author some pitiful mental
 inflammation throbbing with a succession of phonemes, each in turn
 having been orphaned by its murderous language, the same that suckled
@@ -8579,8 +8578,8 @@ writing proceeds what if, scribbling, it revealed itself in some
 sacred alphabet, a revelation earmarked as a future holy text, as
 though writing were shame and privacy and secrecy itself, to be
 divulged in our death? And what if that as-if were an angel,
-classical, orthodox, with the power to unleash language\'s ultimate
-terror---though I and the writers I re-write don\'t know what that
+classical, orthodox, with the power to unleash language's ultimate
+terror---though I and the writers I re-write don't know what that
 might be---would editor allow it to fulfil its divine mission, or
 would he intervene and, effectively, overthrow the lord in our
 household? Such questions seem infinitely difficult when, of an
@@ -8592,7 +8591,7 @@ definitive in its ambiguities, but cannot be as passionate about it
 as I am about a poetry of ambiguous definitions. Reaching for the
 list of words on the door, he calls me a hypocrite.
 
-I was so ashamed that, if writing were language, \"so\" would never
+I was so ashamed that, if writing were language, "so\" would never
 survive under the burden it claims to support, for shame draws us
 back through time, as even the earliest scribblers evoking Paradise
 were at pains to point out, and during that interregnum every act of
@@ -8617,41 +8616,41 @@ he offered.
 
 
 **My book** (*Cool for You[^note1]) is absolutely an
-extension of my poetry practice, I\'ve even come to refer to it and
-maybe the class of novels it\'s a member of as the poet\'s novel.
-Having written a novel I don\'t have to protect myself from the
-disparaging term poet\--yet I\'m more clearly a poet than ever. I
+extension of my poetry practice, I've even come to refer to it and
+maybe the class of novels it's a member of as the poet\'s novel.
+Having written a novel I don't have to protect myself from the
+disparaging term poet--yet I\'m more clearly a poet than ever. I
 mean a poem is an extravagant grandiose and trembling form, for
-better or worse always alive, I think, and I\'ve brought those
-weaknesses and virtues into novel writing and I\'m dying to do it
+better or worse always alive, I think, and I've brought those
+weaknesses and virtues into novel writing and I'm dying to do it
 again. As a younger poet I was urged (in order to be important) to
-think large, to write the long poem, but I think this is it. It\'s
+think large, to write the long poem, but I think this is it. It's
 epic poetry in the sense that the epic poem is a communal form, and
-long and social. I wrote it for you. That\'s what the title means in
-a way. I know there\'s a more technical definition for epic poetry
-but that seems the best way to get it wrong. I\'m more interested in
-what Joyce Carol Oates did in **Blonde** than Seamus Heaney\'s prize
+long and social. I wrote it for you. That's what the title means in
+a way. I know there's a more technical definition for epic poetry
+but that seems the best way to get it wrong. I'm more interested in
+what Joyce Carol Oates did in **Blonde** than Seamus Heaney's prize
 cow. Poets should write novels en masse and reinvent the form and
 really muck up the landscape. I often think of Leslie Scalapino
 telling me that her long book the return of painting, etc. was called
 a novel because a novel means you start at the beginning and you read
 to the end. It was a way to guarantee she could be read differently.
-I don\'t care about that particular aspect, the front to back thing
+I don't care about that particular aspect, the front to back thing
 but being read differently of course is nice. Time is my real subject
-and calling a book a novel immediately adjusts the reader\'s
+and calling a book a novel immediately adjusts the reader's
 perception of time.
 
 My book is shuffled if you take the long view. When I started to
 write the first chapter which was a story, the whole thing is a story
 for me, it occurred to me that a novel could just be all these
 stories shuffled, and I thought of books I loved long ago, Julio
-Cortazar\'s Hopscotch. I read that book straight through, but I read
+Cortazar's Hopscotch. I read that book straight through, but I read
 it differently knowing that he had that chart at the front suggesting
 you could alternately read it this way, and that the book could
-permute all these different ways. I\'m in love with the form of the
+permute all these different ways. I'm in love with the form of the
 novel being molten, not putting the power of reordering in the hands
 of the reader but to extend to the reader a sense that the form of
-the book is as accidental as life. It\'s studied, damn studied, the
+the book is as accidental as life. It's studied, damn studied, the
 cool casual life as is the cool casual novel, but as accidental as
 say the zabruder footage. Some guy happened to be there with his
 camera, and as it turns out history was made. As it turns out he gave
@@ -8659,20 +8658,20 @@ us our only window onto that day in Dallas. When one realizes that
 John Clare inadvertently gave us the first No Trespassing signs in
 literature you realize bumpkins must write first, not last.
 
-One more note on that---everything\'s visual and in even or
-especially in advertising the oddly cropped shot is what\'s used.
-Literature as it\'s sold today is so backwards. Hand held literature
-is of course what I\'m selling. It\'s not a memoir, it\'s a
+One more note on that---everything's visual and in even or
+especially in advertising the oddly cropped shot is what's used.
+Literature as it's sold today is so backwards. Hand held literature
+is of course what I'm selling. It\'s not a memoir, it\'s a
 recording. And even purporting to be a bad recording at times. As a
 female writer the pose of awkwardness is very dangerous though
 because at this post feminist moment one should be a top, one should
 win etc. But female in history is ground down, anonymous, untold.
-That\'s the story that\'s interesting.
+That's the story that\'s interesting.
 
-And another thing: more poet\'s novel. In **Chelsea Girl\'s** \"My
-Father\'s Alcoholism\" was the story where I stretched myself, and
+And another thing: more poet's novel. In **Chelsea Girl\'s** \"My
+Father's Alcoholism\" was the story where I stretched myself, and
 tried to write out of pools and see how they would build. I just
-literally go into a room (one labeled my father\'s alcoholism) and
+literally go into a room (one labeled my father's alcoholism) and
 begin inventorying the memories, the substance of the memory, the
 materiality of it. The fur of childhood, not the feelings. When I was
 done with one I would wait and let another one grow. It really is
@@ -8682,69 +8681,69 @@ their side. My hope is that by being as solipsistically in my mind,
 downloading erratic shaped drops and letting some momentum build on
 that order, rather than an order based on action, you can kind of
 reverse our assumptions about activity. Or maybe I mean self.
-There\'s a beautiful math to it, like music if you just let yourself
-go and describe the experience of your life like it\'s some public
+There's a beautiful math to it, like music if you just let yourself
+go and describe the experience of your life like it's some public
 spectacle you are privy to and you‚ re waiting for the music of the
 information along with everyone else. I feel less alone when I tell
 my most private stories than any other time. This does link up to
 performance. When you are acting or even reciting a text you wrote
-and you\'re on a darkened stage under a pool of light there\'s a
-terror as you\'re singing along with the text, its like driving, that
+and you're on a darkened stage under a pool of light there\'s a
+terror as you're singing along with the text, its like driving, that
 moment at night when you think shit I could just pile into the
 opposite lane and that would be it. The self could just smash into
 the light and dark and be gone forever. So you feel contained within
 the details by that sense of danger and that provides the tension
-while you proceed lavishly downloading \"me\" in every ribbony way I
+while you proceed lavishly downloading "me\" in every ribbony way I
 can imagine.
 
-The limitations of \"New York School\" have been what Frank did, what
-John does, are you like Jimmy. Mustn\'t forget Kenneth or Barbara.
-It\'s like Mt. Rushmore. You can say some quick thing about them
-all---it\'s chatty abstraction, it\'s American speech, and I\'ve
+The limitations of "New York School\" have been what Frank did, what
+John does, are you like Jimmy. Mustn't forget Kenneth or Barbara.
+It's like Mt. Rushmore. You can say some quick thing about them
+all---it's chatty abstraction, it\'s American speech, and I\'ve
 learned different things from all of them but since they are just
-people I think it\'s tone that people wind up miming, or concerns
+people I think it's tone that people wind up miming, or concerns
 rather than electricity, the weight and pause and incredible expanse
 of the exploring mind in speech. I discovered what I sound like long
-ago and of course I go where they wouldn\'t and couldn\'t so it\'s
+ago and of course I go where they wouldn't and couldn\'t so it\'s
 sort of like explaining why you prefer not being a corpse. New York
-school mimed is worse than academic, it\'s like my dad being a
+school mimed is worse than academic, it's like my dad being a
 mailman coming home with the Ivy League clothes from the Harvard
 dorms where he had his route. You have to blow that up pretty quickly
-but it\'s just sad. Let\'s face it, they were just as New critical as
+but it's just sad. Let\'s face it, they were just as New critical as
 everyone else in the fifties. They all would assert the poetry was
-not about them. It\'s about skimming the surface of the self. Using
+not about them. It's about skimming the surface of the self. Using
 that facility to shape the poem. My dirty secret has always been that
-it\'s of course about me. But I have been educated to believe I\'m no
-one so there\'s a different self operating and I\'m desperate to
-unburden my self of my self so I\'m coming from nowhere and
-returning. That\'s sort of classic. You just cannot underestimate the
+it's of course about me. But I have been educated to believe I\'m no
+one so there's a different self operating and I\'m desperate to
+unburden my self of my self so I'm coming from nowhere and
+returning. That's sort of classic. You just cannot underestimate the
 massive difference in writing out of female anonymity. It blows all
 the styles out of the water.
 
 I think the form of the novel gives dignity to my shame. Sometimes
-I\'m just ashamed to block the sun. Performance, and I include
+I'm just ashamed to block the sun. Performance, and I include
 readings in that, makes the body be the container for the work. It is
 when you write the words of course. The body always seems like the
 shame. The camera must cut away to the trees, the animal is telling
-too much. The animal doesn\'t want to die etc. If you\'ve ever sat on
+too much. The animal doesn't want to die etc. If you\'ve ever sat on
 a panel when some people read and some people speak directly the
-difference in those two deliveries in terms of the room\'s
+difference in those two deliveries in terms of the room's
 interaction with the speakers is immeasurable. The dangerous loose
 canon is *how* we conduct public life---we want to stifle the stray
-remark and we want to house it. I\'m totally translating that impulse
+remark and we want to house it. I'm totally translating that impulse
 into a several hundred page thing, my sorrowful body is now text.
-It\'s like a zoo.
+It's like a zoo.
 
-One last thought. In the **Times** there\'s occasionally these
+One last thought. In the **Times** there's occasionally these
 articles where the great artist, Brice Marden or whoever takes us
 into the met to see the work that is interesting to them. I started
 reading Robert Smithson a couple of years ago and his move out of the
-studio helped me understand the poet\'s situation, having no such
+studio helped me understand the poet's situation, having no such
 institution to tour through, having no **Times** to conduct the tour
 in, and possibly being invisible because of that. Smithson yearned to
 kick free of that structure that has been happily plunked down ever
 more solidly. It seems like a novel is the only way to prove I was
-here. Exactly how I was here. It\'s a social poetic invention.
+here. Exactly how I was here. It's a social poetic invention.
 
 
 
@@ -8761,22 +8760,22 @@ here. Exactly how I was here. It\'s a social poetic invention.
 
 ## Working Notes
 
-> \"Mr. Narrator, this is Bob Dylan to me.\" 
+> "Mr. Narrator, this is Bob Dylan to me.\" 
 > 
-> --- D. Boon, The Minutemen, \"History Lesson-Part II\"
+> --- D. Boon, The Minutemen, "History Lesson-Part II\"
 
-**In June 2000**, I had a crisis. In a club called \"Fun,\" an dank,
+**In June 2000**, I had a crisis. In a club called "Fun,\" an dank,
 empty club deep in Chinatown, I sat down for an interview for the VH1
 show SoundAffects, and talked about how Queen changed my life.
 
 I left so much out in that interview that I tried to write more
 poems about Queen, but hit a wall. Call it problems with
-verisimilitude, whatever it was, poems weren\'t doing the trick.
+verisimilitude, whatever it was, poems weren't doing the trick.
 
 So I started writing a confessional book, freeing myself from what I
-think are very real aesthetic contraints on today\'s poem. The result
+think are very real aesthetic contraints on today's poem. The result
 is a kind of prose poem, with narration leading to definitive moments
-where I think my history and the object of my obsession\'s
+where I think my history and the object of my obsession's
 history-and I say this with a straight face-intersect.
  
 ---
@@ -8787,12 +8786,12 @@ The day I bought the *Flash Gordon* soundtrack, the cashier, whom I
 knew to be in a shitty suburban punk band, offered me my first record
 store clerk snide comment.
 
-\"Nice bass line,\" he said, looking down at the banana yellow album
+"Nice bass line,\" he said, looking down at the banana yellow album
 on the counter, punching up the price.
 
 I walked away, meek and ashamed that my purchase had not passed
 muster. He was, of course, referring to the single-note bass line in
-\"Flash\'s Theme,\" the single from on the soundtrack. But I was
+"Flash\'s Theme,\" the single from on the soundtrack. But I was
 steamed. It was one of those times you think of with the perfect
 comeback later that night, and you lay there, beating yourself up for
 not coming up with it at the time.
@@ -8803,39 +8802,39 @@ Vicious, wandering into the wrong room, as was his custom, came upon
 Freddie Mercury, sitting at a piano. His customary four fingers of
 vodka in hand.
 
-\"Ah, Freddie Mercury,\" Sid said, proud of his recognition.
-\"Bringing ballet to the masses then?\"
+"Ah, Freddie Mercury,\" Sid said, proud of his recognition.
+"Bringing ballet to the masses then?\"
 
 Freddie looked up from the keys, and, not missing a beat, offered his
 reply.
 
-\"Oh yes, Mister Ferocious. Well, we\'re doing our best, my dear.\"
+"Oh yes, Mister Ferocious. Well, we\'re doing our best, my dear.\"
 
 
-## *Prophet\'s Song*
+## *Prophet's Song*
 
 
 | Chunky on the shag rug
-| I\'m looking for my anthem
-| I\'m looking for my headphones
-| I\'m looking for the bare spot
+| I'm looking for my anthem
+| I'm looking for my headphones
+| I'm looking for the bare spot
 | On the rug to wallow side-
 | Stepped on the chair-stopped
 | Door, and as I blast my ears
 | Out with *A Night at the Opera,*
-| I\'m looking at pictures of you
+| I'm looking at pictures of you
 | My catholic princes, my mother
-| Father proxy, I\'m in London
+| Father proxy, I'm in London
 | With you now, the koi pond, the flamingo,
 | The statues, the hymnal,
 | The Aretha Franklin song at the funeral,
 | Alone on a pew, watching the water,
 | Watching the bare spot on the rug
 | Filled with pictures on the floor,
-| I\'m ignoring the knocks on the door
-| I\'m ignoring the knocks on the door
+| I'm ignoring the knocks on the door
+| I'm ignoring the knocks on the door
 | Stepped and stripped on the chair-
-| Stopped door, I\'m listening, listening.
+| Stopped door, I'm listening, listening.
 
 
 ---
@@ -8851,7 +8850,7 @@ songs, readjusting in my chair, preparing for the first listen.
 Rooting for them, noting who wrote which track, soaking up the        
 essence of each of them while listening to their song. And the order, 
 the plot that album took, the lead-off rocker, the last song on side  
-2\'s power ballad. The internal band politics I imagined in the       
+2's power ballad. The internal band politics I imagined in the       
 making of that order. The Greek lettering in a concentric dance on    
 the cheapo compilations.                                              
 
@@ -8862,7 +8861,7 @@ big hair, teal drawstring pants, and Ronald Reagan, I think of Queen,
 of course, and how, shifting to their big synthesizer singles, they   
 would graft a medley of past songs on the end of extended versions.   
 Or how their videos for these songs had montage footage of concerts   
-all over the world, all of which I found lame. I\'ve come up with     
+all over the world, all of which I found lame. I've come up with     
 three possible reasons:                                               
 
 1. A retrospective impulse, not provided by the rock literary        
@@ -8874,7 +8873,7 @@ and vodka human beings can afford, a few way overdue divorces, and
 a general lack of interest in the current song at hand, pressure      
 from EMI and Capitol to pad out singles with no non-album B-sides.    
 
-3. Because they can. They\'re Queen, the greatest fucking rock band  
+3. Because they can. They're Queen, the greatest fucking rock band  
 there ever was or ever will be, and they can do whatever the hell     
 they want.                                                            
 
@@ -8886,10 +8885,10 @@ around me, or maybe they come to me. These ghosts appear as people I
 meet by chance, people who actually saw Queen in concert.
 
 Adding insult to injury, these people usually have seen them, like,
-four, five times. I\'ll corner them, say, at a barbeque, ask
-him---it\'s always a guy---a battery of questions.
+four, five times. I'll corner them, say, at a barbeque, ask
+him---it's always a guy---a battery of questions.
 
-\'What songs do you remember,\' or, \'What was Freddie wearing\"
+'What songs do you remember,\' or, \'What was Freddie wearing\"
 might be lead-offs. I move on to set lists, how they sounded.
 Inevitably, these people tire of my inquiries, and run back to their
 wives.
@@ -8901,12 +8900,12 @@ Davis.* Got it for ten dollars. The Queen album cost 50 cents.
 
 My new copy of *Live Killers,* the one with all four members onstage,
 with arms raised receiving adulation from the crowd, had four photos
-inserted inside one of the albums\' slots. I remembered how I used to
+inserted inside one of the albums' slots. I remembered how I used to
 stick girly photos inside an album I had designated for this purpose,
 to retrieve them in private moments.
 
 The dates on the back of the photos were 1979, the year the album
-came out. In one picture, a guy is grabbing a blonde girl\'s bare
+came out. In one picture, a guy is grabbing a blonde girl's bare
 tits from behind, cupping them. In another, the same guy, his faint
 brown mustache rides an ear-to-ear smile. His pants are completely
 down. The third and fourth document the amount of coke the two had in
@@ -8915,23 +8914,23 @@ taking a turn snorting three and four-inch lines.
 
 The way I find out about someone seeing Queen in concert is the
 following. After my meek confession of my love for the band, after a
-longer conversation about music, there\'s a set-up for the other
+longer conversation about music, there's a set-up for the other
 person to mention his own guilty generational pleasure. For instance,
 he liked Styx at one time, he saw Journey once on the Escape tour.
 Then, my reasoning goes, the path is made for me to say that my
 favorite band is not some hip or critically acclaimed band, either;
-that it is, in fact, Queen. It\'s like I\'m outing myself, and then
+that it is, in fact, Queen. It's like I\'m outing myself, and then
 the guy--- always a guy---tries to console me, tells me about the
 times he had seen Queen at concert. Then, I get to ask the battery of
-questions. It\'s a safe framing for the information that I
-mythopoetically need to hear. \"They rocked the Garden or wherever,\"
-or \"they blew my mind, man,\" while off-hand remarks for some, is
+questions. It's a safe framing for the information that I
+mythopoetically need to hear. "They rocked the Garden or wherever,\"
+or "they blew my mind, man,\" while off-hand remarks for some, is
 music to my ears.
 
 During one easy-going outing/concert re-creation session, I brought
 up these found photos I found in the yard sale copy of *Live
 Killers.* I was trying to spice up the conversation. I told him about
-the pictures---the girl\'s tits, the guy\'s pants completely down,
+the pictures---the girl's tits, the guy\'s pants completely down,
 the smiling pictures, the coke. We both laughed. I excused myself,
 offering to buy him a drink at the bar.
 
@@ -8960,7 +8959,7 @@ would lay on my bed, jerking off.
 ## Denial
 
 | It was at the Queenvention
-| summer of \'91
+| summer of '91
 | when I met the old ladies
 | with the pasty photo albums
 | old 45s pressed binders
@@ -8971,28 +8970,28 @@ would lay on my bed, jerking off.
 | wine, admired Freddie Mercury
 | and Brian in the lights
 | of their hometowns, smelled
-| Roger\'s real tiger skin trousers.
-| What we didn\'t know.
+| Roger's real tiger skin trousers.
+| What we didn't know.
 | A hotel caterer grabs me
 | in the video room, she shakes me,
-| really, and asks *What in God\'s name
-| is this?* I ask back: Haven\'t you heard
+| really, and asks *What in God's name
+| is this?* I ask back: Haven't you heard
 | crazy little thing called love? *Oh, yeah,*
 | she says. *They still around?*
 | I pull her aside
 | to make sure the Russians
-| don\'t hear her. We look
+| don't hear her. We look
 | at the new pictures, the ones
 | with the thin body draped
 | with thick sweatshirts.
 | *Will they ever tour again?*
 | asks one. And I was always
 | of the consoling mind,
-| defining God by what he doesn\'t do.
+| defining God by what he doesn't do.
 | His impotence is His mercy,
 | and so forth. This, however,
-| didn\'t wash with the ladies
-| of the Holiday Inn. *He\'s just
+| didn't wash with the ladies
+| of the Holiday Inn. *He's just
 | getting skinny, is all.*
 | We danced that night,
 | haunted by the snapshots,
@@ -9023,34 +9022,34 @@ One afternoon in 1984, when my parents were out, I called the Fan
 Club in London, using the phone number from the album jacket of *The
 Works.* Ostensibly, I wanted to ask about my membership renewal, but
 I also wanted to talk to someone else who actually liked my favorite
-band. I would announce myself---\"Hello from America!\" ---ask the
+band. I would announce myself---"Hello from America!\" ---ask the
 man who answers about the weather, if a band member had been around
-that day. *Of course they hadn\'t,* I thought to myself, scoldingly.
+that day. *Of course they hadn't,* I thought to myself, scoldingly.
 But of course I had to ask: *the man on the phone being so much
 closer to them.* Getting down to business, I inquire about my poster
 and new fan club newsletter, which I had yet to receive.
 
-I say something about how I feel like I\'m the only fan in America.
+I say something about how I feel like I'm the only fan in America.
 
-\"Would be nice to live in England, where everyone\'s a fan,\" I say,
-mopingly. \"Well,\" the English-accented man says on the other end.
-\"We did have another person from America send something in,\" he
+"Would be nice to live in England, where everyone\'s a fan,\" I say,
+mopingly. "Well,\" the English-accented man says on the other end.
+"We did have another person from America send something in,\" he
 says off-handedly.
 
-\"Really!\" I say. I am excited, panting. \"Who?\"
+"Really!\" I say. I am excited, panting. \"Who?\"
 
 This could be someone I could correspond with, without running up my
-parent\'s phone bill. Maybe, just maybe, it was a woman, killing two
+parent's phone bill. Maybe, just maybe, it was a woman, killing two
 birds with one stone: my love life and my cultural exile.
 
-He looks up the person. \"Yes,\" he said, flipping through papers.
-\"And that person\...that person\...is\...*you*.\"
+He looks up the person. "Yes,\" he said, flipping through papers.
+"And that person\...that person\...is\...*you*.\"
 
 Both of us paused at this, the brutal, Spinal Tap pity of this, the
-newest single, \"Hammer to Fall,\" failing to even dent the charts in
+newest single, "Hammer to Fall,\" failing to even dent the charts in
 the U.S.
 
-I don\'t think I ever felt so alone.
+I don't think I ever felt so alone.
 
 
 # Doug Rice: Because the Night,  from *Skin Prayers*
@@ -9059,15 +9058,15 @@ I don\'t think I ever felt so alone.
  
 
 
-*\"Because the Night\" was written out of a struggle to understand my
+*"Because the Night\" was written out of a struggle to understand my
 own uncertainties about gender and desire. For me, this battle has
 always been sexual as well as religious. Traditional forms of
 discourse-the memoir, realism, and so on-fail to engage in or express
 this indeterminacy. I, thus, had to discover a language and syntax
 that could express the confusion of the central character. I have
 never believed in my own sex (that of a biological male) nor have I
-felt that I am a woman \"trapped\" inside the body of a man. This
-queer space of my own \"becoming\" demands different structures of
+felt that I am a woman "trapped\" inside the body of a man. This
+queer space of my own "becoming\" demands different structures of
 representation.*
 
 -------------------------------------------------------------------
@@ -9099,15 +9098,15 @@ the awakening of love. My thighs like the threat of open scissors. My
 lips tremble. Speak, why does he not speak? So much dust.
 
 I was taught to fear monsters under my bed, bogeymen in the walls,
-and angry angels hanging upside down from the ceiling. \"They will,\"
-Daddy told me, \"bite off your toes and toss them into the
-Monongahela River.\" Mother flicking and flicking the light switch.
+and angry angels hanging upside down from the ceiling. "They will,\"
+Daddy told me, "bite off your toes and toss them into the
+Monongahela River." Mother flicking and flicking the light switch.
 Three times. Me begging her to turn off the lights. Be done with it.
 She stood in the shadows of the doorway chewed away at her nails.
 Between her teeth. Pulled them off her fingers. Spit them onto the
-floor. In the morning my feet bleed. \"The monsters will carry you
-off to hell,\" mother warns me. \"In hell, you can\'t ever be a
-girl.\" I keep my eyes open, wide-awake, deep through these godless
+floor. In the morning my feet bleed. "The monsters will carry you
+off to hell," mother warns me. \"In hell, you can\'t ever be a
+girl." I keep my eyes open, wide-awake, deep through these godless
 nights into mornings riddled by junk madness. In stillness, not a
 breath, not a word of this to anyone. I wait never to speak for my
 father to come home from work. Every minute, every night, I wait for
@@ -9149,7 +9148,7 @@ into your skin the Lord. No. I do not fear the boys in the
 neighborhood. The ones spitting on street corners. I only fear
 displeasing you. My soul this pain in here to take. Every single
 night small men with dusty skin sneak through my bedroom window, wake
-me from nightmares, from God\'s breath with their mad tales and
+me from nightmares, from God's breath with their mad tales and
 pointy fingers. Seven screaming horses. Their voices, pain escaping
 from the shadows. Breathing their voices into my bones. I could not
 see myself dressed in these clothes. Drunken nights on a boat. I
@@ -9161,7 +9160,7 @@ desire spoke in tongues of a world out past Babcock Boulevard.
 Carried rumors to me of a land that was somehow not Pittsburgh. Me,
 silent and still, in my barren bed all alone filled with waiting.
 Glow-in-the-dark familial lines of blood being worn away by the
-passing of each minute. My mother\'s alarm clock on the night stand
+passing of each minute. My mother's alarm clock on the night stand
 breaks into my bones. One by one. This rib then that one. Ticking my
 body into a nightly ruin. My all alone, nearly dead eyes, squeezed
 shut. Desires of my body unable to forget those foreign fingers
@@ -9236,14 +9235,14 @@ down the hall, she would scream that she, from this day forth, would
 only have sex with animals. Only consent to wild, senseless fucking.
 Sudden and random.
 
-At night, this father\'s body became another anonymous encounter with
+At night, this father's body became another anonymous encounter with
 my flesh.
 
 The dried, flaking skin of my fingers. Rotten flesh. Have you ever
 touched me in the winter? The miracle of her fingers inside my mouth.
 But she looked away. Picked at the bark of an old tree. For a long
 time I have been frightened of the uncleanliness of my Father. I am
-impure. I say, \"I am impure.\" My body, I longing for one warm
+impure. I say, "I am impure.\" My body, I longing for one warm
 night. One night of sleep. A way back inside where she forgets who I
 am. The dark room where there are no lights. Nails, inherited from
 ancient women driven mad against the moon and sons of fathers without
@@ -9282,7 +9281,7 @@ my desire. I will not move from here until you have restored the
 inside of my throat. My fingers I dip into the Holy Water. Receive
 communion down into me with loving you. Small lips opened and
 waiting. Interrupted by kisses. Each night more desperate than the
-night before. \"Just one more time,\" I hear him say. I cover my
+night before. "Just one more time,\" I hear him say. I cover my
 mouth with my hands. Try not to breathe so much. Afraid I will awaken
 God. If only for some water. If only some water beneath this red
 rock. My skin dried by the sun. Rocks. Rubbing. Toil. He pulls my
@@ -9308,13 +9307,13 @@ nothing. My sister, not me, trying to say I. This is my body to
 follow the will of the Father. Once my father made me sleep in mud.
 Rain. God makes it rain and the earth turns into mud and me unlocking
 the door I enter the house. My body leaving marks on the kitchen
-floor. God\'s soil. Wet. Footprints. Toes in the carpet. In my sleep,
-I open the door of my parents\' room. I always wanted to be a good
-girl. Steal my father with a whisper. Take him away from my mother\'s
+floor. God's soil. Wet. Footprints. Toes in the carpet. In my sleep,
+I open the door of my parents' room. I always wanted to be a good
+girl. Steal my father with a whisper. Take him away from my mother's
 body into the shadows with promises of kisses. I drag him through the
 dark corridors and up onto my bed. Pull off his clothes. And he
 begins the punishing of me for having eyes too much like my
-mother\'s. My hands on his back. Fingers digging into his skin. To
+mother's. My hands on his back. Fingers digging into his skin. To
 die with his red blood under my fingernails. To swallow him. His cum
 inside me. So my body will become a witness. I throw my head back.
 Tossed scraggly blonde hair. Dust. Blind ancestors. Holding tight his
@@ -9342,8 +9341,8 @@ holds the whip. You will listen to my voice today.
 I remember my father could not talk in my bed. Night after night, my
 deaf and dumb father cracking open my forehead. Burning into my
 bones. His elbows in my flesh. Fists everywhere. Purple morning skin.
-My wrists, twisted behind my back, small in the traps of my father\'s
-hands. Burning Indian. Blemishes of a father\'s hurried love.
+My wrists, twisted behind my back, small in the traps of my father's
+hands. Burning Indian. Blemishes of a father's hurried love.
 Promises made, spoken in spit. Every inch of him on top of my skin
 and bones. Him. My father weighed 183 pounds. This, my body will
 never forget. Sometimes he weighed more. Sometimes less. His knees
@@ -9372,7 +9371,7 @@ Nights. Both. Or desires.
 | Sleeping itself. When he is
 | finally asleep, the body can resume
 | remaking itself or
-| call on a project of outright fabrication. He doesn\'t
+| call on a project of outright fabrication. He doesn't
 | know his own story, except as he respires it.
 | Cells re-coat. Dreams are irrelevant. Connective
 | tissue lengthens, glossing itself.
@@ -9392,7 +9391,7 @@ Nights. Both. Or desires.
 | by virtue of her not sleeping--- She decides to notice
 | his repose; she decides not to.
 | She considers that she is eavesdropping
-| somnolence, but it\'s not so
+| somnolence, but it's not so
 
 | in a tale that cannot be permeated. Corpuscles
 | mending themselves. Insomniac,
@@ -9414,22 +9413,22 @@ Nights. Both. Or desires.
 
 ## Working Notes
 
-###  WRITING THE TELLING\'S WANTING
+###  WRITING THE TELLING'S WANTING
 
 *Reading this excerpt from **The Parable**, what comes to mind is the
-uncertainty of the \"I\" that is speaking, that wants to speak the
+uncertainty of the "I\" that is speaking, that wants to speak the
 speech of narrative, the speech enacted by writing. Narrative is a
 story, but to focus solely on the object is to diminish the subject
 that tells even as the subject is writing the telling. And this
-telling is a wanting to tell that is also the telling\'s failure. The
+telling is a wanting to tell that is also the telling's failure. The
 telling fails to achieve the aim of the wanting and diminishes the
 story being told, but not the wanting. All the while the voice of the
 invisible speaker grows louder, deafening the reader with the sound
 of words babbling over into writing. French literary theory calls
 this babble* desire*; in **The Parable**, this desire is part of the
-opening, is what opens up the story\'s opening to the reader, the
+opening, is what opens up the story's opening to the reader, the
 hole in the fabric of the story allowing writing to shine blankly
-onto the narrative of character. \"Of that I can be sure\"---with
+onto the narrative of character. "Of that I can be sure\"---with
 this phrase the main character is the only plot. The speech moves
 somewhere, introduces two additional characters than that of the
 narrator, two colleagues, but they are the reason the narrator has a
@@ -9439,15 +9438,15 @@ speaks as long as the speech s/he makes convinces the reader that
 silence is the only possibility. The additional characters only serve
 to distance the narrator from the rest of the world framed within the
 speech being made, the world that this speech unfurls and thus uses
-to gain the reader\'s confidence. It is this confidence that the
-story elicits, but only at the reader\'s behest: \"the meaning of
-this is unclear,\" as in \"still caught in an approach---and this
-approach is a parable which I am writing.\" I would second the idea
+to gain the reader's confidence. It is this confidence that the
+story elicits, but only at the reader's behest: \"the meaning of
+this is unclear," as in \"still caught in an approach---and this
+approach is a parable which I am writing." I would second the idea
 of narrative as something that approaches a subject, that approaches
-language even, but does not touch it, and this subject\'s being
+language even, but does not touch it, and this subject's being
 untouched is what **The Parable** radiates outwards towards the
-reader. As in Polanski\'s **The Tenant**, the narrator goes crazy
-because he\'s alone in a room---the total devastation of narrative,
+reader. As in Polanski's **The Tenant**, the narrator goes crazy
+because he's alone in a room---the total devastation of narrative,
 what makes writing jump into the still air.*
 
 -------------------------------------------------------------------
@@ -9461,11 +9460,11 @@ unclear, since it was she who had invited me to join them. Perhaps he
 felt that I had interrupted them; they were, after all, talking in
 her office, not his, meaning he had approached her because he must
 have needed her confidence. I had broken that trust with my
-appearance at the door; I shouldn\'t have come in at all had the door
+appearance at the door; I shouldn't have come in at all had the door
 not been open and had the sound of their voices not reached me in the
 hall. I had other duties to attend to---this is true---but I was
 unable to begin, and when I heard their voices, I sought them out to
-forget these duties. A simple conversation with one\'s colleagues
+forget these duties. A simple conversation with one's colleagues
 often helps one to pass over the entire world in silence, and I
 longed for the communion with others my work so rarely provides.
 
@@ -9509,13 +9508,13 @@ own experiences in dealing with them. Even though he was now
 speaking---and he was looking directly at her, he had moved closer to
 her, their knees were almost touching while I had somehow pushed my
 chair further into the corner---even though he was now speaking only
-to her, and I couldn\'t hear what he was saying, she was looking at
+to her, and I couldn't hear what he was saying, she was looking at
 me, she was smiling, she had liked what I said. Yes, she liked me
 very much. She thought I was intelligent, an intellectual. Yes, an
 intellectual. But I could not make him turn around, I could not make
 him face me. I wanted him to tell me if he had eaten.
 
-\"But I\'m eating now; we\'re both eating now, don\'t you see?\"
+"But I\'m eating now; we\'re both eating now, don\'t you see?\"
 
 I saw no food on the table---but the table had just now appeared, or
 it had just been cleared---and their mouths were moving words, they
@@ -9523,7 +9522,7 @@ pushed words through the air---perhaps these words were being tested.
 I could hear these words now---perhaps the words were being
 tested---they were faint against the table and the door, they were
 talking only of work, of speaking, and how to speak soundly without
-raising one\'s voice. She was not eating---she was looking at my
+raising one's voice. She was not eating---she was looking at my
 pants; I had at least taken care of them: I had ironed and pressed
 them, I had scrubbed until all the stains had disappeared. But I was
 sweating now, and he had all the advantage for it. I was smiling, I
@@ -9533,9 +9532,9 @@ slightly sick, but I was still hungry, and the fact that I had not
 lost my appetite caused me to cry out---now I was feeling slightly
 giddy.
 
-\"I\'m now on my way to eat---\" I stepped towards the door.
+"I\'m now on my way to eat---\" I stepped towards the door.
 
-\"But won\'t you join us?\" She was holding out her plate of food to
+"But won\'t you join us?\" She was holding out her plate of food to
 me.
 
 I took it; he handed me a fork. I would eat, which would give me the
@@ -9560,8 +9559,8 @@ among us, and I struggled to keep my breathing even and measured by
 grasping irregularly at the air with my mouth. He spoke, and he would
 always speak, first.
 
-\"But you should eat more slowly! At the very least you should know
-that!\"
+"But you should eat more slowly! At the very least you should know
+that!"
 
 She had opened the windows. The air was slow in coming, but when it
 finally reached me, I already felt that it had calmed me and that the
@@ -9572,8 +9571,8 @@ my shirt untucked because I could work more easily without it stuffed
 into my pants. He handed me a napkin and resumed, his talk easily
 inflated by this gesture he had made only for me.
 
-\"One should always be present. Yes, at the very least, one should
-face one\'s responsibilities!\"
+"One should always be present. Yes, at the very least, one should
+face one's responsibilities!\"
 
 His hand had taken my plate away from me. How very odd this seems to
 me now, I must say, for just as I had earlier seen no food, I had now
@@ -9617,10 +9616,10 @@ he must have filled it again after taking it from me, for I was so
 hungry that I had cleaned the food off of it almost immediately--- he
 had placed my plate on a small filing cabinet just to his right,
 where he had also laid his glasses aside, and now he picked them up,
-although he didn\'t put them on his face---he kept kneading them with
+although he didn't put them on his face---he kept kneading them with
 his fingers while he launched into a new speech about the endless
-dedication to one\'s work and how this dedication must be final, the
-endpoint of one\'s goals in life. He spoke about the future and how
+dedication to one's work and how this dedication must be final, the
+endpoint of one's goals in life. He spoke about the future and how
 it could be filled with nothing but work itself and those whom the
 work served. He was furious now, he was no longer whispering, he was
 standing between the two of us, and the look on her face told me it
@@ -9638,7 +9637,7 @@ us. I very well could have done this, which tells me that if this
 action was possible, then I must have done it, for I have learned
 that one does what it is possible for one to do in any situation and
 no more. So this is what I must have done, since my clothes had
-already disarmed me \-- although I was happy, perhaps I even felt
+already disarmed me -- although I was happy, perhaps I even felt
 ecstasy, in them. I reached across him and took back my plate, but
 the food was cold, and I ate it hastily and without pleasure, meaning
 that this moment, as did the others, belonged to him, and he had
@@ -9647,7 +9646,7 @@ invented it purely to vex me and cause my immediate dismissal.
 But I did not withdraw---if you read the transcripts, you will
 clearly see this, there are three voices on that tape. It was she who
 kept silent for most of the remaining time, smiling when I pointed
-out options that he hadn\'t yet considered, and pulling her mouth
+out options that he hadn't yet considered, and pulling her mouth
 taut when he derailed the conversation with anger. The tapes tell the
 truth, that is why I carry my recorder in my pocket. How was I to
 know that he was taping all of this as well, and that he would hand
@@ -9666,7 +9665,7 @@ it is better to circumvent what is said about one than to wait for
 the speech to arise and become writing, or policy, as they say. They
 say this, I know, because now I can hear them talking in the room
 adjacent to the empty cell in which I am writing this, and I have
-heard them say this word---\"policy\"---no less than ten times in the
+heard them say this word---"policy\"---no less than ten times in the
 half-hour that I have been able to overhear them. Surely, you will
 say, that ten times in half an hour is not that many times for a word
 to be said--- once every three minutes---and this is true, but in
@@ -9700,11 +9699,11 @@ moment on she was lost to us. I was very happy---I will even go so
 far here as to say I was ecstatic, and the traces of this feeling are
 still with me now, for it was no longer my responsibility to get rid
 of her, a job I had feared from the outset because I had thought that
-whatever I would do to her would not escape him, and I didn\'t want
+whatever I would do to her would not escape him, and I didn't want
 him to know, or to guess at, anything else about me besides what I
 had already told him. He may not have initially intended this effect,
 but he surely could not have failed to notice that she was gone, she
-was leaving, she would be leaving, and even if she didn\'t move from
+was leaving, she would be leaving, and even if she didn't move from
 her chair, we both knew that she would neither speak nor look at us
 for the remainder of the afternoon. She only looked down at her
 hands, alternating this with a look at the floor, successfully
@@ -9714,7 +9713,7 @@ we were entirely free to say whatever we needed to.
 And yet I soon missed her, for the talk was a tougher climb than
 ever, as he asked me to repeat myself several times, and more than
 that, to define certain words for him. Really, I was defining
-everything for him, he couldn\'t understand me, and because I was an
+everything for him, he couldn't understand me, and because I was an
 intellectual and he was not, we had no language in common. And I was
 straining, I was at my very limits---limits which it has, you must
 know, taken me years to build and even longer to expand---and it
@@ -9730,7 +9729,7 @@ she was also an intellectual--- this is true---but she was only an
 intellectual when she needed to be, when the situation demanded this
 of her. This demand arose out of my presence, since any other speech
 handcuffed me and angered me to the point of irrefutable testimony in
-the form of logical arguments or \"auditory editorializing\" as I
+the form of logical arguments or "auditory editorializing\" as I
 like to call it. I have only this term to introduce to the world, and
 when I told him of this discovery (my new way of working), he scowled
 in disapproval and then launched into a prolonged battle cry that
@@ -9765,18 +9764,18 @@ a parable which I am writing.
  
 
 
-## \"Both And\": A Statement for Narrativity
+## "Both And\": A Statement for Narrativity
 
 *Bob Glück gave me back the sentence, a line of elastic stretching
 across the page. I had stood at the edge of the lyric and fallen in.
 I had swallowed the lyric and choked on it. I had been lured into the
-lyric\'s boudoir and slammed my elbows against the walls just trying
+lyric's boudoir and slammed my elbows against the walls just trying
 to turn around. I was out of metaphors.
 Though I still engage the lyric, writing in prose allows me a kind of
 freedom to explore the nether regions of sexuality and gender, to
 stroke the unnamable places, to crack my head up against the jagged
-edge. My world is troubled by \"either ors\": straight or gay, male
-or female, black or white, poetry or prose. I\'m lodged in the cracks
+edge. My world is troubled by "either ors\": straight or gay, male
+or female, black or white, poetry or prose. I'm lodged in the cracks
 between them, dynamiting my way out.*
 
 -------------------------------------------------------------------
@@ -9787,11 +9786,11 @@ My boy-girl princess all groovy this evening, sharp with elbows and
 shoulder blades. Desire across boundaries too sharp to cross. 24
 hours of comfortable heat.
 
-Our skins slide across. Sweet-cheeked girl peck. A baby\'s unformed
+Our skins slide across. Sweet-cheeked girl peck. A baby's unformed
 milky bones.
 
-A pact to reflect daily resonances. \"I miss you,\" means \"Do you
-miss me?\"
+A pact to reflect daily resonances. "I miss you,\" means \"Do you
+miss me?"
 
 A cupboard and a roof. Rough wooden shelves soaked with white paint.
 The smell of oil flares our nostrils.
@@ -9819,7 +9818,7 @@ The containment I experience through your matter-of-fact nod proceeds
 outbursts designed to unloose your fibrillar emotions. Dichotomies
 which bore me.
 
-What\'s the gift, the partial barter, which promotes our stasis---you
+What's the gift, the partial barter, which promotes our stasis---you
 waiting for disintegration, and I for a stable distance. I can accept
 your intimacy in your absence.
 
@@ -9840,19 +9839,19 @@ and let us look into the light of the morning.
 
 ## 7. Bait and Switch
 
-Or simply that it\'s me and not other other. Even if it is.
+Or simply that it's me and not other other. Even if it is.
 
-Dodie turns up the \"D\" in degenerate. The irony that fucking
+Dodie turns up the "D\" in degenerate. The irony that fucking
 boys--- not girls---made me into a first-class pervert. I laid claim
 to his dick like it was my own---a rightful part of myself gone
-missing. This one said he couldn\'t fuck me without getting
+missing. This one said he couldn't fuck me without getting
 emotionally involved. He could clasp both of my wrists in one muscled
 hand. Prone, I lay on top of him, my body floating on an island.
 
 In a semi-trance state he discovers his desire to kill his mother. He
-says, \"Many women had paid for what you have done.\" In fairy tales,
+says, "Many women had paid for what you have done.\" In fairy tales,
 Mom is always to blame. My left thumbnail refuses to adhere. If I
-were to fall in love, I\'d have to bring the white trash with me. I
+were to fall in love, I'd have to bring the white trash with me. I
 hide my guilty desire to spend long periods of time alone.
 
 Of course, when I wanted something, I always knew it. The very
@@ -9862,7 +9861,7 @@ desire completely---while I was filled voraciously with need. Greed,
 while unbecoming in a woman, is prized in men.
 
 Another claimed that my very presence increased his need to be more
-\"manly.\" He opened doors for me, refused cute pet names, and fucked
+"manly.\" He opened doors for me, refused cute pet names, and fucked
 me righteously.
 
 My body demanded something to show for itself. Writing is thievery,
@@ -9890,8 +9889,8 @@ button to pubic bone. Brand-new scar.
 She wears high heels like in dreams. Stunned. Apostate.
 
 I could have said he only fell for tragic women, but I was falling
-for tragic men. You know, their darkness, their pain. \"You light up
-my life, you give me hope, to carry on,\" Debby Boone was singing to
+for tragic men. You know, their darkness, their pain. "You light up
+my life, you give me hope, to carry on," Debby Boone was singing to
 me.
 
 I turned to my girlfriends. They had strong shoulders and clear
@@ -9916,7 +9915,7 @@ all fair game. Down to the very last vowel. Avowal.
 
 Two loulous wrapped rapt in bed sheets.
 
-Baby\'s got Mingus Fingers. All around and through me. To thrill me.
+Baby's got Mingus Fingers. All around and through me. To thrill me.
 
 Baby done gone and you know it know. Something to show for. Here and
 before now. Baby done proved it.
@@ -9937,11 +9936,11 @@ dress.
 She had a sense that the dream had ended and she had slept on.
 Further and farther. Up and away.
 
-The first time he entered me he said, \"I think we\'ve got a match
-baby,\" and I sealed this sentence in my heart and swallowed the key.
+The first time he entered me he said, "I think we\'ve got a match
+baby," and I sealed this sentence in my heart and swallowed the key.
 
-Unmatched by, \"I think I\'m falling in love with you, you
-son-of-a-bitch,\" and later this made me smile, laughing at myself.
+Unmatched by, "I think I\'m falling in love with you, you
+son-of-a-bitch," and later this made me smile, laughing at myself.
 
 What she was staving off or holding out against. A grammar of
 indeterminancy. A cold water walk-up.
@@ -9959,12 +9958,12 @@ Purple-black nipples. Smooth, round ass.
 Endless expanse of what if. Figure brought into fruition. A thorough
 dressing down. Round or through me. A voice on the wire.
 
-Or if I wrote \"wife.\" Rife. Theocracy. Meritorious.
+Or if I wrote "wife.\" Rife. Theocracy. Meritorious.
 
-Mercy. For the woman\'s clandestine, zippered heart. Miles I have
+Mercy. For the woman's clandestine, zippered heart. Miles I have
 come before you. Previously unknown.
 
-Everyone got what he came for. A schedule to rival the master\'s.
+Everyone got what he came for. A schedule to rival the master's.
 Departures and arrivals. A vagabond. A conductor.
 
 Miles I crossed the desert for water. Previously alone.
@@ -9987,10 +9986,10 @@ arrived. Before any words were spoken, I recognized him by the sound
 of his breathing.
 
 She drove her new BMW up to the GoodWill and was confused by the
-people staring. I smiled and tried to act \"natural.\"
+people staring. I smiled and tried to act "natural.\"
 
 I was the second man to fuck him. The first he met while he was still
-in school. \"Don\'t you go to UCLA?\" It was a kind of code.
+in school. "Don\'t you go to UCLA?\" It was a kind of code.
 
 At the end of the day, his body a destination. Miles on a train I
 have traveled postponing pleasure. Our voices hang in the air, I
@@ -10020,7 +10019,7 @@ The whiteness of my arms practically glowing in the dimmed light, up
 against his dark, supple skin.
 
 When I fucked him, a high, clear-pitched sigh rang out from his mouth
-each time he exhaled. \"Go easy, baby,\" he said. And I withdrew my
+each time he exhaled. "Go easy, baby,\" he said. And I withdrew my
 dick, softly, gently exploring his ass until I gave it to him once
 again harder. He tossed his head back sharply, his locks raining off
 his face.
@@ -10033,7 +10032,7 @@ Solidity in solitude. A place in the life cycle. Searching on hands
 and knees. He fucked me so hard that I bled. Four fingers in my cunt,
 nearly a fist.
 
-\"What I feel for you now is all I will ever feel for you.\" And
+"What I feel for you now is all I will ever feel for you.\" And
 ever. A straightjacket.
 
 Given to histrionics. Or expected.
@@ -10064,13 +10063,13 @@ Philadelphia, June 1989.*
 
 -------------------------------------------------------------------
 
-I\'m interested in the utilization of both poetic and narrative
+I'm interested in the utilization of both poetic and narrative
 tensions: the flagrant surfaces of lyric, the sweet dream of storied
 events, the terror of ellipsis, the audacity of dislocation, the
 irreversible solidity of the past tense, the incarnate lure of
 pronouns, the refractability of pronouns, the simultaneity of times,
-the weights and balances of sentences. I\'m interested in lyric\'s
-authenticity of demonstration and narrative\'s drama of integration;
+the weights and balances of sentences. I'm interested in lyric\'s
+authenticity of demonstration and narrative's drama of integration;
 lyric, whose operation is display, and narrative, whose method is
 seduction. I describe a set of binary terms across which I see
 writing passing an exchange of values, and it becomes a multiple
@@ -10078,14 +10077,14 @@ texture/text---writing in just those created tensions between surface
 vocalic tangibility and referential transparency; between theme and
 emptiness, measure and interruption, the eternal present and past of
 memory/future of dream; all present, all heightened, operational.
-Such conflated writing would be worthy of Barthes\'s definition of
-the text: \"not a coexistence of meanings but a passage, an
+Such conflated writing would be worthy of Barthes's definition of
+the text: "not a coexistence of meanings but a passage, an
 overcrossing; thus it answers not to an interpretation, even a
-liberal one, but to an explosion, a dissemination.\" [^1]
+liberal one, but to an explosion, a dissemination." [^2_shurin_1]
 One seeks to be out of order, to shiver out of
 subjectivity, to shake off the mask of the material and to shimmy in
 its arms, to finally retreat from logic and advance by radial
-maneuvers, gathering meaning. \"To break the sentence,\" says Rachel
+maneuvers, gathering meaning. "To break the sentence,\" says Rachel
 Blau DuPlessis---and here the sentence carries its overtone of
 imprisonment without parole---
 
@@ -10093,55 +10092,55 @@ rejects not grammar especially, but rhythm, pace, flow, expression:
 the structuring of the female voice by the male voice, female tone
 and manner by male expectations, female writing by male emphasis,
 female writing by existing conventions of gender---in short, any
-way in which dominant structures shape muted ones. [^2]
+way in which dominant structures shape muted ones. [^2_shurin_2]
 
 One looks for alternate methods to proceed, to use and subvert the
 codes at hand: stanza, line break, character, plot, point of view.
 
-In \"The New Sentence,\" Ron Silliman suggests ways in which the
+In "The New Sentence,\" Ron Silliman suggests ways in which the
 prose poem has used combined and measured sentences to interiorize
 poetic structure, foregrounding language operations and surface
 values in a writing mode---prose---whose usual form is the syllogism,
-building structures of projection and depth. \"The torquing which is
-normally triggered by linebreaks,\" he points out, \"the function of
+building structures of projection and depth. "The torquing which is
+normally triggered by linebreaks," he points out, \"the function of
 which is to enhance ambiguity and polysemy, has now moved into the
-grammar of the sentence.\" [^3] The paragraph as a
+grammar of the sentence." [^2_shurin_3] The paragraph as a
 unit of quantity and the sentence as a unit of measure, altered
 sentence structure, controlled and limited integration: these devices
 begin to conflate the values of poetry with those of prose. Other
 writers have pursued not just prose but narrative prose, and
-foregrounded narrative codes to awaken a reader\'s attention to
+foregrounded narrative codes to awaken a reader's attention to
 process as well as result. In his novel, Jack the Modernist, Robert
 Glück uses metaphorical and metonymic litanies side by side, showing
 off the writing as writing as he demonstrates that the devices are
 not mutually exclusive.
 
 I grab his cock, unpromising, and he says in mock bewilderment,
-\"What\'s that?\" As it hardens I answer for him, \"It\'s my
+"What\'s that?\" As it hardens I answer for him, \"It\'s my
 appendicitis, my inchworm, my slug, my yardstick, my viola da
 gamba, my World Trade Center, my banana, my statutory rape, my late
 string quartet, my garden god, my minaret, my magnum opus, my
 datebook, my hornet, my Giacometti, my West Side Story, my lance,
 my cannon, my nose-job, my hot dog, my little sparrow, my worm on
 the sidewalk after a storm, my candle, my Bic, my unicorn, my
-drawbridge, my white whale... [^4]
+drawbridge, my white whale... [^2_shurin_4]
 
-and on for another sixty substitutions, \"my cyclops ... my Venus of
-Willendorf ... my Dark Tower.\" Four pages later the elaborative
+and on for another sixty substitutions, "my cyclops ... my Venus of
+Willendorf ... my Dark Tower." Four pages later the elaborative
 metonymic process of prose takes over from the comparative
 metaphorical process of poetry.
 
 My troubles were too numerous to consider all at once, their sheer
-quantity defeated me. My mom would say, \"Write a list, get a
+quantity defeated me. My mom would say, "Write a list, get a
 handle on your problems, deprive them of their active ingredient,
-time.\" So I found a clean page in my yellow legal tablet ...
+time." So I found a clean page in my yellow legal tablet ...
 Nuclear catastrophe, destitution, famine, additives, melanomas,
 losing face, U.S. involvement in El Salvador and Nicaragua, Puerto
 Rico, South Korea, Chile, Lebanon and Argentina, war in the Middle
 East, genocide of Guatemalan Indians and extermination of the
 native peoples of Brazil, Philippines, Australia, answering the
 telephone ... toxic waste, snipers, wrinkles, cult murderers, my
-car ... [^5]
+car ... [^2_shurin_5]
 
 Though these are both descriptive processes, they are not
 transparent; the reader is aware of being in a list, enjoys the
@@ -10156,24 +10155,24 @@ level of plot, speech, and action exercises on him is loosened. His
 attention may wander, but it may also adjust to a changed mode of
 apprehension. I am suggesting that the more circumstantial the
 description and the more separate from the narrative in which it is
-embedded, the greater will be the reader\'s part, and the more he
+embedded, the greater will be the reader's part, and the more he
 will be forced to assume a stance for which the narrative proper
 offers little support.... When the familiar codes of narrative are
 blocked or diverted, reading/writing becomes problematic, and the
 subject of/in the narrative shifts from the characters or the
-author to the reader.... [^6]
+author to the reader.... [^2_shurin_6]
 
 This problematization forces the reader to ask questions, to become
 active in the role of reader, and Glück reinforces this tendency by
-confronting the reader directly in his stories, \"You\'ll understand
-my fear,\" he says, \"because television has trained us to understand
-the fear of a running man;\" and, \"I can only give this story, which
-is the same as sitting with my back to you;\" and, \"Tell me, given
+confronting the reader directly in his stories, "You\'ll understand
+my fear," he says, \"because television has trained us to understand
+the fear of a running man;" and, \"I can only give this story, which
+is the same as sitting with my back to you;" and, \"Tell me, given
 the options, where would your anger have taken you---where has it
-taken you?\" By confronting the reader, Glück not only breaks the
+taken you?" By confronting the reader, Glück not only breaks the
 window of his narrative but creates and engages an audience, creates
 a social registration for his writing by direct address, by luring
-the \"real\" time of the reader into the \"dream\" time of his story.
+the "real\" time of the reader into the \"dream\" time of his story.
 The foregrounding of devices and codes does not neutralize them, they
 are too full of historical determination, but it can ritualize them,
 or expose their ritualization; reveal them not as necessities but
@@ -10184,42 +10183,42 @@ orders of linear development, unity of time/tense---and apart from
 the modernist reconstructing modes of memory and dream. A prose whose
 paragraphic groupings themselves might be based on measure, whose
 higher integrations might be thematic or associational rather than
-developmental. \"How tenacious is our happiness!\" says Kevin Killian
-in Shy. \"Unlike narrative, it invents and eludes itself from moment
+developmental. "How tenacious is our happiness!\" says Kevin Killian
+in Shy. "Unlike narrative, it invents and eludes itself from moment
 to moment; it lacks conventions; its shape has no outline, its formal
-properties those of the cloud---numinous, portentous, hungry....\"
-[^7] And then goes on to produce a narrative with
+properties those of the cloud---numinous, portentous, hungry...."
+[^2_shurin_7] And then goes on to produce a narrative with
 properties of the cloud, numinous and hungry, where characters search
 for themselves alongside the writer as a character himself, where
 persons encounter each other but never stoop so low as to engage in a
 plot.
 
 The ceiling was gray and smooth as the beach that Gunther Fielder
-lived by. Flat, and peaceful, the way that \"now\" is without a
+lived by. Flat, and peaceful, the way that "now\" is without a
 past or future to rock it up any. He could focus on the gray and
-try to hypnotize himself, closer towards death. \"Do it,\" he
+try to hypnotize himself, closer towards death. "Do it,\" he
 demanded.
 
-\"My name is Harry Van,\" he said. It sounded so false.
-He said it over and over, didn\'t ring true somehow. Like somebody
-else who you couldn\'t remember. Well try again, something new.
+"My name is Harry Van,\" he said. It sounded so false.
+He said it over and over, didn't ring true somehow. Like somebody
+else who you couldn't remember. Well try again, something new.
 
-\"I\'m David Bowie,\" he said, experimenting. \"I have
-come to earth a space invader, hot tramp, I love you so.\" Oh that
-was so suffragette, trying to \"be\" a star.
+"I\'m David Bowie,\" he said, experimenting. \"I have
+come to earth a space invader, hot tramp, I love you so." Oh that
+was so suffragette, trying to "be\" a star.
 
-He\'d start again. \"Hi, my name is Mark the dead boy,\"
+He'd start again. \"Hi, my name is Mark the dead boy,\"
 he said with great difficulty.
 
 Yes.
 
-\"Are you Kevin Killian,\" he replied. \"Can I help
-you?\" Just like the Hot Line!
+"Are you Kevin Killian,\" he replied. \"Can I help
+you?" Just like the Hot Line!
 
 These voices came out of his mouth from nowhere, between
 heaven and earth, this conversation developing like a photograph
 pulled from its tray full of crystal chemicals. Emergent.
-[^8]
+[^2_shurin_8]
 
 These voices attack the proposition that characters or author must be
 unified presences, and suggest that self itself may not be locatable
@@ -10229,13 +10228,13 @@ He is telling you now a story about narrativity, he is telling her
 story. She finds the story as she looks at each other: so many faces.
 She is crossing gender from the start, she wants you to know she is
 Elizabeth Taylor---and has the Halloween photos to prove it. He is a
-boy playing Puck in a high school production of A Midsummer Night\'s
-Dream wearing ballet slippers forever. \"I have died and am in a
+boy playing Puck in a high school production of A Midsummer Night's
+Dream wearing ballet slippers forever. "I have died and am in a
 novel and was a lyric poet, certainly, who attracted crowds to
-mountaintops.\" [^9] I come after Robert Duncan but
+mountaintops." [^2_shurin_9] I come after Robert Duncan but
 before Norma Cole. My name is
-\"Broiling-Days-In-A-Little-Patch-Of-Shade.\" \"For better or
-worse,\" says Flaubert,
+"Broiling-Days-In-A-Little-Patch-Of-Shade.\" \"For better or
+worse," says Flaubert,
 
 > it is a delicious thing to write, to be no longer yourself but to
 > move in an entire universe of your own creating. Today, for
@@ -10243,57 +10242,57 @@ worse,\" says Flaubert,
 > forest on an autumn afternoon under the yellow leaves, and I was
 > also the horses, the leaves, the wind, the words my people uttered,
 > even the red sun that made them almost close their love-drowned
-> eyes. [^10]
+> eyes. [^2_shurin_10]
 
-\"Voice,\" \"Person,\" \"Point of View\"---always singular---propose
+"Voice,\" \"Person,\" \"Point of View\"---always singular---propose
 a unified filter through which events may be organized, and as
 filters screen properties, screen out toxins and tannins and pieces
-too big to fit neatly. But pluralities are possible. \"I see only
-from one point of view,\" says Lacan, \"but in my existence I am
-looked at from all sides.\" ^[11](#WC11)^ []{#text11}Pronouns are
+too big to fit neatly. But pluralities are possible. "I see only
+from one point of view," says Lacan, \"but in my existence I am
+looked at from all sides." ^[11](#WC11)^ []{#text11}Pronouns are
 known as shifters because they are by nature unstable linguistic
 units, referring not to people but to moving circumstances of speech
 and audition, visibility and perception. As such they are fictional
 opportunities; unlike names they permit a character to be subject and
 object, to ride the Wheel of Person, speak and be spoken of with
 equal weight, inhabit simultaneity. Here is a poem from Alice
-Notley\'s sequence, \"Congratulating Wedge\":
+Notley's sequence, \"Congratulating Wedge\":
 
-| No I wouldn\'t know why anyone would
+| No I wouldn't know why anyone would
 | want to write like that. I should never
 | have had to do it. We were used to this
-| other thing we always know like when we\'re
-| here. And you have this clear head and you\'re
-| seeing things and there they are. You don\'t
-| notice they\'re spelled. That\'s how you
-| know you\'re alive. I never saw you
+| other thing we always know like when we're
+| here. And you have this clear head and you're
+| seeing things and there they are. You don't
+| notice they're spelled. That\'s how you
+| know you're alive. I never saw you
 | looking like a dictionary definition and if I
-| did I wouldn\'t tell nobody. People
-| aren\'t like that. They say, Hey
+| did I wouldn't tell nobody. People
+| aren't like that. They say, Hey
 | asshole motherfucker turn that radio
-| off! But the sun\'s playing on it! But
-| it ain\'t real, you dumb package!
+| off! But the sun's playing on it! But
+| it ain't real, you dumb package!
 | I recognize every package the way it
-| comes. Now I\'m mixed up. But I
+| comes. Now I'm mixed up. But I
 | always wanted to be a package, person
 | thinks. Do they? Or, I gotta de-
 | fine this package, me. Or, God if only
-| I was a package but I\'m not.
-[^12]
+| I was a package but I'm not.
+[^2_shurin_12]
 
 What are people like and what method correctly presents/represents
 them; from what angles are they constructed and who construes the
-angles into voice? In her mind as \"I,\" out of her mind as \"she,\"
-confronting or confronted by \"you\"; conspiratorially social and
-partial as \"we\"; part of one another, occasionally indistinct,
-certainly indiscreet, we are and we are not separate people. \"My
-premise, in general and in writing,\" says Leslie Scalapino, \"is
+angles into voice? In her mind as "I,\" out of her mind as \"she,\"
+confronting or confronted by "you\"; conspiratorially social and
+partial as "we\"; part of one another, occasionally indistinct,
+certainly indiscreet, we are and we are not separate people. "My
+premise, in general and in writing," says Leslie Scalapino, \"is
 that I do not think there is a man, or woman, or society, social
-construction; though it is there. It is not there.\" [^13]
+construction; though it is there. It is not there." [^2_shurin_13]
 I have been marginalized as a poet, homosexual,
 counterculture protester, drug taker, transvestite and Jew; I am as
 interested in boundaries for what lies outside them as in. I would
-like to drop my \"characters\" onto the sharpened point of a
+like to drop my "characters\" onto the sharpened point of a
 gemstone, so that the radial fractures would illuminate a
 comprehensive pluralistic image.
 
@@ -10305,7 +10304,7 @@ have parallel numbers, pronouns and verbs parallel persons; tenses
 must agree to produce time that resembles progression. Business
 conveniences that make of stories little prisons of discrete power
 relations with seemingly invisible walls. I am not talking about
-referentiality vs. non-referentiality; I\'m talking about how
+referentiality vs. non-referentiality; I'm talking about how
 narrative referentiality might be better served. Gender is
 foregrounded and elementalized, digressions are trivialized, passive
 constructions frowned upon. As Sara Schulman points out, try to tell
@@ -10314,26 +10313,26 @@ her, she looked at her, she said---and aside from homophobia, what
 terrors would such unlocations unleash? Normative pronoun usage
 subjects self and other to power/dominance models of unity and
 authority, of he over she and it beneath them. For pure syntax there
-is Charley Shively\'s reduction of the phallocentric rule: \"the
-subject fucks the object.\"[^14]
+is Charley Shively's reduction of the phallocentric rule: \"the
+subject fucks the object."[^2_shurin_14]
 
 Here is Leslie Scalapino writing:
 
 > The young person living there, having an intense tortured as if
 > tearing in half pain in the middle, waking lying asleep, though
 > this had only occurred this one time. The day and night being free
-> of the one person, who hadn\'t had this tortured sharp pain as if
+> of the one person, who hadn't had this tortured sharp pain as if
 > to tear her in half except this one time, the man lying waking
 > staying gently with her during it through the soft darkness and
 > then ending in the warm balmy day with the people around who go
-> down the street.[^15]
+> down the street.[^2_shurin_15]
 
-Passive participial constructions which don\'t inhabit time,
+Passive participial constructions which don't inhabit time,
 genderless and then confusing gender assignations, unlocated relative
 pronouns, erratic time shifts without one simple present tense: an
 amalgam of person and event that keeps elements suspended and active,
-\"an explosion, a dissemination\" of meaning. \"His mouth are
-everywhere,\" I wrote erotically in \"Honor Roll,\" insisting that
+"an explosion, a dissemination\" of meaning. \"His mouth are
+everywhere," I wrote erotically in \"Honor Roll,\" insisting that
 the plural verb was truer to the polyvalence of desire.
 
 And I have neither a coherent story to tell nor can I cop a coherent
@@ -10341,38 +10340,38 @@ attitude to give my voice a characteristic singularity. I was born in
 sleep and raised in sleep and wake up to find myself sleepwalking.
 The figures I know all have shadows; some figures are smaller than
 their shadows. In the first photo I am a soft blasted thing, mouth
-open tongue hanging, blotto. Six weeks premature, I was still \"in
-here\" out there. The world was unformed, coalescent. His story is
+open tongue hanging, blotto. Six weeks premature, I was still "in
+here" out there. The world was unformed, coalescent. His story is
 the story of an intuited world, a story where digressions may be the
 point, where ellipsis is an accurate representation of what there is.
 
 This world in its order decomposes into air, simultaneously present
 and absent. A writing, then, of enmeshed simultaneities, which gives
 sufficient weight to its constituent presences so that they verge
-upon each other. The material relations of the Unknown. \"The stuff
-of the psyche,\" says Herakleitos, \"is a smoke-like substance of
+upon each other. The material relations of the Unknown. "The stuff
+of the psyche," says Herakleitos, \"is a smoke-like substance of
 finest particles, that give rise to all other things.... it is
-constantly in motion: only movement can know movement.\"
-[^16] His story pulls the reader down from the
+constantly in motion: only movement can know movement."
+[^2_shurin_16] His story pulls the reader down from the
 surface of language not to rest but to ride back and forth between
-the manifest and imaginary worlds, among selves. \"I wanted to write
-a story,\" he begins, \"to talk about the outside world and escape my
+the manifest and imaginary worlds, among selves. "I wanted to write
+a story," he begins, \"to talk about the outside world and escape my
 projections, but the outside world could not escape from my
-projections. I wanted to write not \'my\' story but \'theirs\'; I
-wanted to write about evil.\" He looks at his fingers to escape your
+projections. I wanted to write not 'my\' story but \'theirs\'; I
+wanted to write about evil." He looks at his fingers to escape your
 accusations; a sunbeam deconstructs him into motes. He is happy
 dissolved there, and wants to write from such dissolutions, melting
-into the grain of his lover\'s nipples. He has no lover; he has
-entered an argument about narrative and political ruination. \"Tell
-me your story,\" he asks, and you do.
+into the grain of his lover's nipples. He has no lover; he has
+entered an argument about narrative and political ruination. "Tell
+me your story," he asks, and you do.
 
 Here in this dialogue writing relies less on information, as Walter
-Benjamin shows, than on the moral power of interpretation, \"to keep
-a story free from explanation.\" It is left up to the reader to
-\"interpret things the way he understands them, and thus narrative
-achieves an amplitude that information lacks.\"[^17]
+Benjamin shows, than on the moral power of interpretation, "to keep
+a story free from explanation." It is left up to the reader to
+"interpret things the way he understands them, and thus narrative
+achieves an amplitude that information lacks."[^2_shurin_17]
 Here a fabricated house open to the wind is both a shelter
-and a sharpener of the wind\'s bite, a house of shadows and a moving
+and a sharpener of the wind's bite, a house of shadows and a moving
 shadow that resembles a house. Narrativity, the action not the thing,
 a happening semblance that is and is not a story, a gift given and
 taken away so that one must finally stand fulfilled by transgression.
@@ -10382,52 +10381,52 @@ circular, partial---and so, complete.
 
 
 
-[^1:]: Barthes, Roland, **Image - Music - Text**, Hill and
+[^2_shurin_1]: Barthes, Roland, **Image - Music - Text**, Hill and
 Wang, 1977, p. 159. 
 
-[^2:]: DuPlessis, Rachel Blau, **Writing beyond the Ending**,
+[^2_shurin_2]: DuPlessis, Rachel Blau, **Writing beyond the Ending**,
 Indiana University Press, 1985, p. 32.
 
-[^3:]: Silliman, Ron, \"The New Sentence,\" in **Talks,
+[^2_shurin_3]: Silliman, Ron, "The New Sentence,\" in **Talks,
 Hills** 6/7, 1980, p. 214.
 
-[^4:]: Glück, Robert, **Jack The Modernist**, Gay Presses of
+[^2_shurin_4]: Glück, Robert, **Jack The Modernist**, Gay Presses of
 New York, 1985, p. 27.
 
-[^5:]: ibid., p.32.
+[^2_shurin_5]: ibid., p.32.
 
-[^6:]: Gelley, Alexander, **Narrative Crossings**, The Johns
+[^2_shurin_6]: Gelley, Alexander, **Narrative Crossings**, The Johns
 Hopkins University Press, 1987, p. 14.
 
-[^7:]: Killian, Kevin, **Shy**, The Crossing Press, 1989, p.
+[^2_shurin_7]: Killian, Kevin, **Shy**, The Crossing Press, 1989, p.
 103.
 
-[^8:]: ibid., p. 161.
+[^2_shurin_8]: ibid., p. 161.
 
-[^9:]: Palmer, Michael, **Sun**, North Point Press, 1989, p.
+[^2_shurin_9]: Palmer, Michael, **Sun**, North Point Press, 1989, p.
 83.
 
-[^10:]: Flaubert, Gustave, **The Letters of Gustave Flaubert,
+[^2_shurin_10]: Flaubert, Gustave, **The Letters of Gustave Flaubert,
 1830-1857**, The Belknap Press of Harvard University Press, 1979,
 p. 203.
 
-[^11:]: Gelley, op. cit., p. 27.
+[^2_shurin_11]: Gelley, op. cit., p. 27.
 
-[^12:]: Notley, **Alice, Margaret & Dusty**, Coffee House
+[^2_shurin_12]: Notley, **Alice, Margaret & Dusty**, Coffee House
 Press, 1985, p. 68.
 
-[^13:]: Scalapino, Leslie, in correspondence, 1989.
+[^2_shurin_13]: Scalapino, Leslie, in correspondence, 1989.
 
-[^14:]: Shively, Charley, **The Advocate**, \#342,
+[^2_shurin_14]: Shively, Charley, **The Advocate**, #342,
 May 13, 1982, p. 24.
 
-[^15:]: Scalapino, Leslie, **The Return of Painting**,
+[^2_shurin_15]: Scalapino, Leslie, **The Return of Painting**,
 manuscript.
 
-[^16:]: Herakleitos, **Herakleitos and Diogenes**, trans.
+[^2_shurin_16]: Herakleitos, **Herakleitos and Diogenes**, trans.
 Davenport, Grey Fox Press, 1976, p. 18.
 
-[^17:]: Benjamin Walter, **Illuminations**, Schocken Books,
+[^2_shurin_17]: Benjamin Walter, **Illuminations**, Schocken Books,
 1969, p. 89. 
 
  
@@ -10458,13 +10457,13 @@ promise of passing time (in an eroticized dance with death), and are
 not led toward syllogism and deduction but discover, instead,
 induction, investigation, participation?
 
-Aaron Shurin, in \"Narrativity,\" proposes that \"writing might use
+Aaron Shurin, in "Narrativity,\" proposes that \"writing might use
 narrative without succumbing to its hegemonic orders of linear
 development, unity of time/tense-and apart from the modernist
 reconstructing modes of memory and dream. A prose whose paragraphic
 groupings themselves might be based on measure, whose higher
 integrations might be thematic or associational rather than
-developmental.\"
+developmental."
 
 When liberated from plodding development, can narrative, loaded with
 its historical implications, move us away from the discrete series
@@ -10476,11 +10475,11 @@ and veer toward witness, philosophy, discovery?
 
 Turn your face toward the back seat. Walk up the stairs to an
 apartment set in stone. Listen to the parking lot below. A man lies
-on the outside of a fence, exhaling. This is the view of others\'
+on the outside of a fence, exhaling. This is the view of others'
 rooftops, making them into little pieces of pie. Rows of fluorescent
 tubes. On the islands of a nearly drained sea, turtles lie exposed
 and cracked roots tremble in a particularly strong wind. The mail is
-delivered with surprising accuracy down the storm drain. You\'re
+delivered with surprising accuracy down the storm drain. You're
 alarmed by the presence of gunmen in your hotel room.
 
 ## 2:49am
@@ -10504,7 +10503,7 @@ house. They lie in a casual circle sleeping on the ocean floor.
 
 ## 4:59am
 
-He pats his suit pocket, fingers the traveler\'s checks in his shoes.
+He pats his suit pocket, fingers the traveler's checks in his shoes.
 Trucks begin to unload themselves all around. Drop off to sleep. Many
 floors up the windows are missing. Entry is enclosed. Water continues
 to drip.
@@ -10519,7 +10518,7 @@ out the sick and the old.
 ## 5:13am
 
 Synapse. The kingfisher hovers. Get together. A crush of grace. The
-beats between are short. A real taste. A hand\'s distance from the
+beats between are short. A real taste. A hand's distance from the
 floor. Wings over balconies, through glass. On the inside of the
 skin, very sweet and it becomes petrified.
 
@@ -10529,7 +10528,7 @@ A car brings someone to this very corner. The greatest are able to
 brace themselves, to support a moving supply. This too is style, you
 think. Behind you in the car is a man. Turn around quickly to find
 the shell of a turtle. You tremble at the lack of knowledge, at the
-blue light. You\'re alarmed now by the lack of presence.
+blue light. You're alarmed now by the lack of presence.
 
 ## 4:22pm
 
@@ -10611,8 +10610,8 @@ later; the film crew never make it home.
 He walks loose-limbed, does not drink and eats rarely. His skin seems
 beetroot-stained; his hair greys in slippery afternoon light.
 
-Is that your key? he asks, but his mind\'s not on the answer. Calm
-down, she says, but that\'s another conversation. The coffee\'s
+Is that your key? he asks, but his mind's not on the answer. Calm
+down, she says, but that's another conversation. The coffee\'s
 beginning to boil over.
 
 Charts on the wall hang loose on their drawing pins. He turns to sit
@@ -10624,9 +10623,9 @@ Gun emplacements fall apart. The cliff edges towards them. Roads
 widen; building spreads; red ants extend across the bottom field; the
 climbing rose gets rangy.
 
-A woman makes a big noise, kissing her child; most of it\'s
+A woman makes a big noise, kissing her child; most of it's
 pre-contact. The child responds with a startled pleasure yelp. A
-drill bit cuts through steel. She rubs her nose against the child\'s
+drill bit cuts through steel. She rubs her nose against the child's
 nose. Some moisture is transferred. I see it glisten as they pull
 back from each other. All the colours of the rainbow, says the woman.
 
@@ -10634,13 +10633,13 @@ A glittering sphere swings with other reflected spheres below it,
 doubling on the glittering surface of the wet floors, reflecting
 against a wall. The spheres and their reflections merge.
 
-Day\'s lights come on. The hall is well lit now. It\'s almost white.
+Day's lights come on. The hall is well lit now. It\'s almost white.
 Reflections make illusions of space, imaginary corridors between
 darker reflections.
 
 A bright empty day. Light from sea is brighter than light from rocks.
 Both make it difficult to see. Steps come out of clouds. Something
-which menaces hover\... more than two things, remaining one thing, a
+which menaces hover... more than two things, remaining one thing, a
 body with paws and emerging tongues. An almost-silvery watery day.
 
 A flock of birds, the letters of a shout, rising from a farm, among
@@ -10653,7 +10652,7 @@ speaking of something flying and something explosive and something
 breaking and useful rolling downhill, an old wrecked car in a quarry,
 a navigation aid, a broken sign on the headland, a set of tools
 spilling from a dropped tool box. A piece of soft paper blows through
-the complex\.... The wind drops.
+the complex.... The wind drops.
 
 They are making this place their own, spreading their refuse! The
 walls are large and solid; but the inscriptions are unreadable and
@@ -10685,7 +10684,7 @@ a scuttling come out; the words of the tune he had been singing on a
 screen of temporary blindness; smiles form between words; loved faces
 and feared faces take on the words. Behind him, someone is calling
 smiles into his camera. These words too shelter in the dark place;
-lights in the head die\... The transformation ceases. It is still too
+lights in the head die... The transformation ceases. It is still too
 dark to see; the sight is fading, light from the bomb bay as it
 opens; a city burning. It is black with no breath upon waters and no
 thing flying over; not night because night had a beginning and will
@@ -10725,27 +10724,27 @@ tumbled in its reel.
 A water wheel turns double imaged in an unprecedented flow of water.
 Several stage lights stutter. A flint on a lighter sparks briefly and
 he blows smoke into the eyes of one trying to help him. Someone has
-spilt motor oil and it\'s everywhere.
+spilt motor oil and it's everywhere.
 
 Leaves and red metal. A sheet of red metal, a field of green
-leaves\...
+leaves...
 
 Words painted with yellow paint on sodden fencing wood, fallen
-over\...
+over...
 
 Roots of a tree which has been uprooted, hanging over the hole it had
 itself made, displaced, and cut through straight eighteen inches up
-its trunk\...
+its trunk...
 
-An old concrete platform towered over by flowering lupines\...
+An old concrete platform towered over by flowering lupines...
 
-A bus goes by\...
+A bus goes by...
 
-A blue plastic crate\...
+A blue plastic crate...
 
 At the top of the hill, several stories of reflecting glass throw
 back the hill and sky valley in unexpectedly-shaped segments,
-duplicating disarraying simultaneously\...
+duplicating disarraying simultaneously...
 
 A dovecote in slow process of falling down the side of a disused
 railway embankment, collapsing as it does so. Paint flakes from it.
@@ -10758,7 +10757,7 @@ new direction on a bus wind.
 
 A man with a large beer gut and a cap over his eyes; a large black
 key; an hysterical person between headlights; testicles and heads
-hanging from butchers\' hooks; a hole in perimeter fencing; warning
+hanging from butchers' hooks; a hole in perimeter fencing; warning
 signs in empty corridors; a security guard exploding in gun fire; a
 woman reaching for the moon; a bus turning in a circle, on and on; an
 opportunity for metamorphosis; a clout hammer hard on a pair of
@@ -10772,14 +10771,14 @@ showing a binary code progression; a cave painting; a picture of a
 tomb; a smiling robber; levels of pain; an army unit; false images,
 including misleading images; row upon row upon row of a man calling,
 making excessive claims in a high-pitched voice; blue water inside
-words you\'ve used; a poseur trying to organize a trip, invoking the
-spirit of Columbus; two men rubbing their legs against each other\'s
-warily, fingering knives; a period of blackness; there isn\'t much
+words you've used; a poseur trying to organize a trip, invoking the
+spirit of Columbus; two men rubbing their legs against each other's
+warily, fingering knives; a period of blackness; there isn't much
 truth in anything you say.
 
-Panic in the rowboats - there\'s so much steam hardly any of them can
+Panic in the rowboats - there's so much steam hardly any of them can
 see what they are doing - and they speak frantically, aggressive, but
-no one gets hurt. They\'re trying to get aboard a large model boat.
+no one gets hurt. They're trying to get aboard a large model boat.
 
 The sand is green and the sea yellow, all out of focus. He floats,
 somehow, in the cave. His feet are not in the sea, most certainly;
@@ -10792,14 +10791,14 @@ forest is in focus. A forest with a yellow sky.
 
 Light white dust pouring through a down-angled window in a thick
 wall. A vast cello bowed by someone even vaster. She cannot see
-across the room. It\'s far too far. All she can see is the cello and
+across the room. It's far too far. All she can see is the cello and
 a shadow of the player. Towards her feet, the curvature of the Earth
-distorts her body\'s shape.
+distorts her body's shape.
 
 Two suitcases, wide open, sprawled across the living room floor,
 clothing items and other personal things hanging out of them; a
 vacuum cleaner cable, the vacuum cleaner tube turned over itself;
-there\'s hardly any place to sit; carpet predominantly red and brown;
+there's hardly any place to sit; carpet predominantly red and brown;
 the people hardly real, as if remembered from a long while back;
 murmur and mumble of their voices, less clear the more one
 concentrates, less interesting the more one hears.
@@ -10810,7 +10809,7 @@ bird, gliding, high up; distance collapses as the light goes, the
 whole fleet becomes a shadow and the shadow merges with the
 atmosphere between, called darkness; a light is on at the vanity
 table; a breeze lifts the curtains; the wallpaper gleams in the
-indirect light, a cloying smell of scent I can\'t quite place, the
+indirect light, a cloying smell of scent I can't quite place, the
 breath of someone.
 
 A black and white photograph lying semi-crumpled on the floor picked
@@ -10826,7 +10825,7 @@ camera hardens; there is a smell of damp; muffled voices at a
 distance.
 
 Freight yards stretch to the horizon; trains come here from all nodes
-on the Earth\'s surface.
+on the Earth's surface.
 
 Bright light illuminates the public house opposite; but it is not the
 light of day, rather a video screen of bright colours.
@@ -10876,7 +10875,7 @@ eyes being shot from their sockets, bulbs and lampholders from
 lampshades, guts from torn bodies, presents dropped from Christmas
 stockings; and it begins to lumber like an early attempt to
 demonstrate the reality of the skeletons of giant animals; the
-road\'s been lost for ever; and the voice, not just falsely jocular,
+road's been lost for ever; and the voice, not just falsely jocular,
 but sounding false as it imitates a falsely jocular voice, speaks:
 you turn upon your own centre like a paper spill.
 
@@ -10885,14 +10884,14 @@ following obediently, throws a scarf counterclockwise around her neck
 and moves forward striding high, features blotted out to protect the
 guilty; the film merges with and is taken over by a second film quite
 unrelated; the street is ended violently by cobbled nineteen
-nineties\' chic; a man walks a woman in a wheel chair up the centre
+nineties' chic; a man walks a woman in a wheel chair up the centre
 of the street which ends at a sort of knuckle joint, asserting thus a
 vortex of cobble stones trying to force one away from further
 progress, cut into a portrait of a monstrous wide-armed Christ above
 a city and thence into a pasty white sun hanging in a mist; a silver
 screw dropping through a Victorian municipal glass roof.
 
-A foam cut out angel fights a cat; the cat\'s cut out, aggressive,
+A foam cut out angel fights a cat; the cat's cut out, aggressive,
 back bent to give it power; the angel, hides within her string bag,
 the one expression she has appropriate because so ambiguous, a
 measure of concern, a measure of dismay, a measure of remoteness.

@@ -5,15 +5,15 @@
  
 
 
-*\"Because the Night\" was written out of a struggle to understand my
+*"Because the Night\" was written out of a struggle to understand my
 own uncertainties about gender and desire. For me, this battle has
 always been sexual as well as religious. Traditional forms of
 discourse-the memoir, realism, and so on-fail to engage in or express
 this indeterminacy. I, thus, had to discover a language and syntax
 that could express the confusion of the central character. I have
 never believed in my own sex (that of a biological male) nor have I
-felt that I am a woman \"trapped\" inside the body of a man. This
-queer space of my own \"becoming\" demands different structures of
+felt that I am a woman "trapped\" inside the body of a man. This
+queer space of my own "becoming\" demands different structures of
 representation.*
 
 -------------------------------------------------------------------
@@ -45,15 +45,15 @@ the awakening of love. My thighs like the threat of open scissors. My
 lips tremble. Speak, why does he not speak? So much dust.
 
 I was taught to fear monsters under my bed, bogeymen in the walls,
-and angry angels hanging upside down from the ceiling. \"They will,\"
-Daddy told me, \"bite off your toes and toss them into the
-Monongahela River.\" Mother flicking and flicking the light switch.
+and angry angels hanging upside down from the ceiling. "They will,\"
+Daddy told me, "bite off your toes and toss them into the
+Monongahela River." Mother flicking and flicking the light switch.
 Three times. Me begging her to turn off the lights. Be done with it.
 She stood in the shadows of the doorway chewed away at her nails.
 Between her teeth. Pulled them off her fingers. Spit them onto the
-floor. In the morning my feet bleed. \"The monsters will carry you
-off to hell,\" mother warns me. \"In hell, you can\'t ever be a
-girl.\" I keep my eyes open, wide-awake, deep through these godless
+floor. In the morning my feet bleed. "The monsters will carry you
+off to hell," mother warns me. \"In hell, you can\'t ever be a
+girl." I keep my eyes open, wide-awake, deep through these godless
 nights into mornings riddled by junk madness. In stillness, not a
 breath, not a word of this to anyone. I wait never to speak for my
 father to come home from work. Every minute, every night, I wait for
@@ -95,7 +95,7 @@ into your skin the Lord. No. I do not fear the boys in the
 neighborhood. The ones spitting on street corners. I only fear
 displeasing you. My soul this pain in here to take. Every single
 night small men with dusty skin sneak through my bedroom window, wake
-me from nightmares, from God\'s breath with their mad tales and
+me from nightmares, from God's breath with their mad tales and
 pointy fingers. Seven screaming horses. Their voices, pain escaping
 from the shadows. Breathing their voices into my bones. I could not
 see myself dressed in these clothes. Drunken nights on a boat. I
@@ -107,7 +107,7 @@ desire spoke in tongues of a world out past Babcock Boulevard.
 Carried rumors to me of a land that was somehow not Pittsburgh. Me,
 silent and still, in my barren bed all alone filled with waiting.
 Glow-in-the-dark familial lines of blood being worn away by the
-passing of each minute. My mother\'s alarm clock on the night stand
+passing of each minute. My mother's alarm clock on the night stand
 breaks into my bones. One by one. This rib then that one. Ticking my
 body into a nightly ruin. My all alone, nearly dead eyes, squeezed
 shut. Desires of my body unable to forget those foreign fingers
@@ -182,14 +182,14 @@ down the hall, she would scream that she, from this day forth, would
 only have sex with animals. Only consent to wild, senseless fucking.
 Sudden and random.
 
-At night, this father\'s body became another anonymous encounter with
+At night, this father's body became another anonymous encounter with
 my flesh.
 
 The dried, flaking skin of my fingers. Rotten flesh. Have you ever
 touched me in the winter? The miracle of her fingers inside my mouth.
 But she looked away. Picked at the bark of an old tree. For a long
 time I have been frightened of the uncleanliness of my Father. I am
-impure. I say, \"I am impure.\" My body, I longing for one warm
+impure. I say, "I am impure.\" My body, I longing for one warm
 night. One night of sleep. A way back inside where she forgets who I
 am. The dark room where there are no lights. Nails, inherited from
 ancient women driven mad against the moon and sons of fathers without
@@ -228,7 +228,7 @@ my desire. I will not move from here until you have restored the
 inside of my throat. My fingers I dip into the Holy Water. Receive
 communion down into me with loving you. Small lips opened and
 waiting. Interrupted by kisses. Each night more desperate than the
-night before. \"Just one more time,\" I hear him say. I cover my
+night before. "Just one more time,\" I hear him say. I cover my
 mouth with my hands. Try not to breathe so much. Afraid I will awaken
 God. If only for some water. If only some water beneath this red
 rock. My skin dried by the sun. Rocks. Rubbing. Toil. He pulls my
@@ -254,13 +254,13 @@ nothing. My sister, not me, trying to say I. This is my body to
 follow the will of the Father. Once my father made me sleep in mud.
 Rain. God makes it rain and the earth turns into mud and me unlocking
 the door I enter the house. My body leaving marks on the kitchen
-floor. God\'s soil. Wet. Footprints. Toes in the carpet. In my sleep,
-I open the door of my parents\' room. I always wanted to be a good
-girl. Steal my father with a whisper. Take him away from my mother\'s
+floor. God's soil. Wet. Footprints. Toes in the carpet. In my sleep,
+I open the door of my parents' room. I always wanted to be a good
+girl. Steal my father with a whisper. Take him away from my mother's
 body into the shadows with promises of kisses. I drag him through the
 dark corridors and up onto my bed. Pull off his clothes. And he
 begins the punishing of me for having eyes too much like my
-mother\'s. My hands on his back. Fingers digging into his skin. To
+mother's. My hands on his back. Fingers digging into his skin. To
 die with his red blood under my fingernails. To swallow him. His cum
 inside me. So my body will become a witness. I throw my head back.
 Tossed scraggly blonde hair. Dust. Blind ancestors. Holding tight his
@@ -288,8 +288,8 @@ holds the whip. You will listen to my voice today.
 I remember my father could not talk in my bed. Night after night, my
 deaf and dumb father cracking open my forehead. Burning into my
 bones. His elbows in my flesh. Fists everywhere. Purple morning skin.
-My wrists, twisted behind my back, small in the traps of my father\'s
-hands. Burning Indian. Blemishes of a father\'s hurried love.
+My wrists, twisted behind my back, small in the traps of my father's
+hands. Burning Indian. Blemishes of a father's hurried love.
 Promises made, spoken in spit. Every inch of him on top of my skin
 and bones. Him. My father weighed 183 pounds. This, my body will
 never forget. Sometimes he weighed more. Sometimes less. His knees

@@ -5,22 +5,22 @@
 
 ## Working Notes
 
-###  WRITING THE TELLING\'S WANTING
+###  WRITING THE TELLING'S WANTING
 
 *Reading this excerpt from **The Parable**, what comes to mind is the
-uncertainty of the \"I\" that is speaking, that wants to speak the
+uncertainty of the "I\" that is speaking, that wants to speak the
 speech of narrative, the speech enacted by writing. Narrative is a
 story, but to focus solely on the object is to diminish the subject
 that tells even as the subject is writing the telling. And this
-telling is a wanting to tell that is also the telling\'s failure. The
+telling is a wanting to tell that is also the telling's failure. The
 telling fails to achieve the aim of the wanting and diminishes the
 story being told, but not the wanting. All the while the voice of the
 invisible speaker grows louder, deafening the reader with the sound
 of words babbling over into writing. French literary theory calls
 this babble* desire*; in **The Parable**, this desire is part of the
-opening, is what opens up the story\'s opening to the reader, the
+opening, is what opens up the story's opening to the reader, the
 hole in the fabric of the story allowing writing to shine blankly
-onto the narrative of character. \"Of that I can be sure\"---with
+onto the narrative of character. "Of that I can be sure\"---with
 this phrase the main character is the only plot. The speech moves
 somewhere, introduces two additional characters than that of the
 narrator, two colleagues, but they are the reason the narrator has a
@@ -30,15 +30,15 @@ speaks as long as the speech s/he makes convinces the reader that
 silence is the only possibility. The additional characters only serve
 to distance the narrator from the rest of the world framed within the
 speech being made, the world that this speech unfurls and thus uses
-to gain the reader\'s confidence. It is this confidence that the
-story elicits, but only at the reader\'s behest: \"the meaning of
-this is unclear,\" as in \"still caught in an approach---and this
-approach is a parable which I am writing.\" I would second the idea
+to gain the reader's confidence. It is this confidence that the
+story elicits, but only at the reader's behest: \"the meaning of
+this is unclear," as in \"still caught in an approach---and this
+approach is a parable which I am writing." I would second the idea
 of narrative as something that approaches a subject, that approaches
-language even, but does not touch it, and this subject\'s being
+language even, but does not touch it, and this subject's being
 untouched is what **The Parable** radiates outwards towards the
-reader. As in Polanski\'s **The Tenant**, the narrator goes crazy
-because he\'s alone in a room---the total devastation of narrative,
+reader. As in Polanski's **The Tenant**, the narrator goes crazy
+because he's alone in a room---the total devastation of narrative,
 what makes writing jump into the still air.*
 
 -------------------------------------------------------------------
@@ -52,11 +52,11 @@ unclear, since it was she who had invited me to join them. Perhaps he
 felt that I had interrupted them; they were, after all, talking in
 her office, not his, meaning he had approached her because he must
 have needed her confidence. I had broken that trust with my
-appearance at the door; I shouldn\'t have come in at all had the door
+appearance at the door; I shouldn't have come in at all had the door
 not been open and had the sound of their voices not reached me in the
 hall. I had other duties to attend to---this is true---but I was
 unable to begin, and when I heard their voices, I sought them out to
-forget these duties. A simple conversation with one\'s colleagues
+forget these duties. A simple conversation with one's colleagues
 often helps one to pass over the entire world in silence, and I
 longed for the communion with others my work so rarely provides.
 
@@ -100,13 +100,13 @@ own experiences in dealing with them. Even though he was now
 speaking---and he was looking directly at her, he had moved closer to
 her, their knees were almost touching while I had somehow pushed my
 chair further into the corner---even though he was now speaking only
-to her, and I couldn\'t hear what he was saying, she was looking at
+to her, and I couldn't hear what he was saying, she was looking at
 me, she was smiling, she had liked what I said. Yes, she liked me
 very much. She thought I was intelligent, an intellectual. Yes, an
 intellectual. But I could not make him turn around, I could not make
 him face me. I wanted him to tell me if he had eaten.
 
-\"But I\'m eating now; we\'re both eating now, don\'t you see?\"
+"But I\'m eating now; we\'re both eating now, don\'t you see?\"
 
 I saw no food on the table---but the table had just now appeared, or
 it had just been cleared---and their mouths were moving words, they
@@ -114,7 +114,7 @@ pushed words through the air---perhaps these words were being tested.
 I could hear these words now---perhaps the words were being
 tested---they were faint against the table and the door, they were
 talking only of work, of speaking, and how to speak soundly without
-raising one\'s voice. She was not eating---she was looking at my
+raising one's voice. She was not eating---she was looking at my
 pants; I had at least taken care of them: I had ironed and pressed
 them, I had scrubbed until all the stains had disappeared. But I was
 sweating now, and he had all the advantage for it. I was smiling, I
@@ -124,9 +124,9 @@ slightly sick, but I was still hungry, and the fact that I had not
 lost my appetite caused me to cry out---now I was feeling slightly
 giddy.
 
-\"I\'m now on my way to eat---\" I stepped towards the door.
+"I\'m now on my way to eat---\" I stepped towards the door.
 
-\"But won\'t you join us?\" She was holding out her plate of food to
+"But won\'t you join us?\" She was holding out her plate of food to
 me.
 
 I took it; he handed me a fork. I would eat, which would give me the
@@ -151,8 +151,8 @@ among us, and I struggled to keep my breathing even and measured by
 grasping irregularly at the air with my mouth. He spoke, and he would
 always speak, first.
 
-\"But you should eat more slowly! At the very least you should know
-that!\"
+"But you should eat more slowly! At the very least you should know
+that!"
 
 She had opened the windows. The air was slow in coming, but when it
 finally reached me, I already felt that it had calmed me and that the
@@ -163,8 +163,8 @@ my shirt untucked because I could work more easily without it stuffed
 into my pants. He handed me a napkin and resumed, his talk easily
 inflated by this gesture he had made only for me.
 
-\"One should always be present. Yes, at the very least, one should
-face one\'s responsibilities!\"
+"One should always be present. Yes, at the very least, one should
+face one's responsibilities!\"
 
 His hand had taken my plate away from me. How very odd this seems to
 me now, I must say, for just as I had earlier seen no food, I had now
@@ -208,10 +208,10 @@ he must have filled it again after taking it from me, for I was so
 hungry that I had cleaned the food off of it almost immediately--- he
 had placed my plate on a small filing cabinet just to his right,
 where he had also laid his glasses aside, and now he picked them up,
-although he didn\'t put them on his face---he kept kneading them with
+although he didn't put them on his face---he kept kneading them with
 his fingers while he launched into a new speech about the endless
-dedication to one\'s work and how this dedication must be final, the
-endpoint of one\'s goals in life. He spoke about the future and how
+dedication to one's work and how this dedication must be final, the
+endpoint of one's goals in life. He spoke about the future and how
 it could be filled with nothing but work itself and those whom the
 work served. He was furious now, he was no longer whispering, he was
 standing between the two of us, and the look on her face told me it
@@ -229,7 +229,7 @@ us. I very well could have done this, which tells me that if this
 action was possible, then I must have done it, for I have learned
 that one does what it is possible for one to do in any situation and
 no more. So this is what I must have done, since my clothes had
-already disarmed me \-- although I was happy, perhaps I even felt
+already disarmed me -- although I was happy, perhaps I even felt
 ecstasy, in them. I reached across him and took back my plate, but
 the food was cold, and I ate it hastily and without pleasure, meaning
 that this moment, as did the others, belonged to him, and he had
@@ -238,7 +238,7 @@ invented it purely to vex me and cause my immediate dismissal.
 But I did not withdraw---if you read the transcripts, you will
 clearly see this, there are three voices on that tape. It was she who
 kept silent for most of the remaining time, smiling when I pointed
-out options that he hadn\'t yet considered, and pulling her mouth
+out options that he hadn't yet considered, and pulling her mouth
 taut when he derailed the conversation with anger. The tapes tell the
 truth, that is why I carry my recorder in my pocket. How was I to
 know that he was taping all of this as well, and that he would hand
@@ -257,7 +257,7 @@ it is better to circumvent what is said about one than to wait for
 the speech to arise and become writing, or policy, as they say. They
 say this, I know, because now I can hear them talking in the room
 adjacent to the empty cell in which I am writing this, and I have
-heard them say this word---\"policy\"---no less than ten times in the
+heard them say this word---"policy\"---no less than ten times in the
 half-hour that I have been able to overhear them. Surely, you will
 say, that ten times in half an hour is not that many times for a word
 to be said--- once every three minutes---and this is true, but in
@@ -291,11 +291,11 @@ moment on she was lost to us. I was very happy---I will even go so
 far here as to say I was ecstatic, and the traces of this feeling are
 still with me now, for it was no longer my responsibility to get rid
 of her, a job I had feared from the outset because I had thought that
-whatever I would do to her would not escape him, and I didn\'t want
+whatever I would do to her would not escape him, and I didn't want
 him to know, or to guess at, anything else about me besides what I
 had already told him. He may not have initially intended this effect,
 but he surely could not have failed to notice that she was gone, she
-was leaving, she would be leaving, and even if she didn\'t move from
+was leaving, she would be leaving, and even if she didn't move from
 her chair, we both knew that she would neither speak nor look at us
 for the remainder of the afternoon. She only looked down at her
 hands, alternating this with a look at the floor, successfully
@@ -305,7 +305,7 @@ we were entirely free to say whatever we needed to.
 And yet I soon missed her, for the talk was a tougher climb than
 ever, as he asked me to repeat myself several times, and more than
 that, to define certain words for him. Really, I was defining
-everything for him, he couldn\'t understand me, and because I was an
+everything for him, he couldn't understand me, and because I was an
 intellectual and he was not, we had no language in common. And I was
 straining, I was at my very limits---limits which it has, you must
 know, taken me years to build and even longer to expand---and it
@@ -321,7 +321,7 @@ she was also an intellectual--- this is true---but she was only an
 intellectual when she needed to be, when the situation demanded this
 of her. This demand arose out of my presence, since any other speech
 handcuffed me and angered me to the point of irrefutable testimony in
-the form of logical arguments or \"auditory editorializing\" as I
+the form of logical arguments or "auditory editorializing\" as I
 like to call it. I have only this term to introduce to the world, and
 when I told him of this discovery (my new way of working), he scowled
 in disapproval and then launched into a prolonged battle cry that

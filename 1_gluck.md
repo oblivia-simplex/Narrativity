@@ -145,7 +145,7 @@ devices--while at the same time (as I wrote in 1981) the metatext
 "asks questions, asks for critical response, makes claims on the
 reader, elicits comments. In any case, text-metatext takes its form
 from the dialectical cleft between real life and life as it wants to
-be."[^1]
+be."[^1_gluck_1]
 
 We did not want to break the back of representation or to "punish"
 it for lying, but to elaborate narration on as many different planes
@@ -155,10 +155,10 @@ must accept its relation to power and recognize that at present group
 practice resides inside the commodity. Bruce wrote, "When evaluating
 image in American culture, isn't it a commodity whether anyone likes
 it or not? You make your additions and subtractions from that point
-on."[^2]
+on."[^1_gluck_2]
 
 In 1978, Bruce and I launched the Black Star Series and published my
-**Family Poems** and his **My Walk With Bob**, a lovely book.[^3] In
+**Family Poems** and his **My Walk With Bob**, a lovely book.[^1_gluck_3] In
 "Remarks on Narrative"---the afterword of **Family Poems**---Bruce
 wrote, "As has now been apparent for some time, the poetry of the
 '70s seems generally to have reached a point of stagnation,
@@ -166,7 +166,7 @@ increasing a kind of refinement of technique and available forms,
 without yet being able to profit greatly from the vigor, energy and
 accessibility that mark so much of the new Movement writing of gays,
 women and Third World writers, among others. Ultimately this impasse
-of poetry reflects conditions in society itself."[^4]
+of poetry reflects conditions in society itself."[^1_gluck_4]
 
 We appreciated the comedy of mounting an offensive ("A critique of
 the new trends toward conceptualization, linguistic abstraction and
@@ -217,7 +217,7 @@ O'Hara, that is, O'Hara and community, a version of which was
 published in the first issue of **Social Text** in 1979. He joined the
 Marxism and Theory Group at St. Cloud which gave birth to that
 journal. Bruce also wrote critical articles (especially tracking the
-"gay band" of the Berkeley Renaissance).([^4]) Bruce introduced me to
+"gay band" of the Berkeley Renaissance).([^1_gluck_4]) Bruce introduced me to
 most of the critics who would make a foundation for New Narrative
 writing.
 
@@ -278,7 +278,7 @@ Cooper or the subway graffitists again) up the ante on this factuality
 by weaving their own names, and those of friends and lovers, into
 their work. The writer/artist becomes exposed and vulnerable: you risk
 being foolish, mean-spirited, wrong. But if the writer's life is more
-open to judgement and speculation, so is the reader's." ([^6])
+open to judgement and speculation, so is the reader's." ([^1_gluck_6])
 
 Did we believe in the "truth and freedom" of sex? Certainly we were
 attracted to scandal and shame, where there is so much information. I
@@ -338,7 +338,7 @@ Cooper's **Safe** there's a feeling-tone like a Schnabel
 painting:the ground's these fragments of some past, the stag, the
 Roman column, whatever---on them a figure that doesn't quite exist
 but would maybe like to. The person/persona/thing the writer's trying
-to construct from images---"([^7])
+to construct from images---"([^1_gluck_7])
 
 In 1976, I started volunteering in the non-profit bookstore Small
 Press Traffic and became co-director not long after. From 1977 to
@@ -399,7 +399,7 @@ friendship. In one poem, Bruce (and Montaigne!) wrote, "In the
 friendship whereof I speak...our souls mingle and blend in a fusion
 so complete that the seam that joins them disappears and is found no
 more. If pressed to say why I loved him I'd reply, because it was
-him, because it was me."([^9])
+him, because it was me."([^1_gluck_9])
 
 In using the tag New Narrative, I concede there is such a thing. In
 the past I was reluctant to promote a literary school that endured
@@ -421,33 +421,33 @@ mainstream, or into 19th-century transparency.
 
 
 
-[^1]: Robert Gluck, "Caricature," **Soup: New Critical Perspectives** #4, ed. Bruce Boone (San Francisco, 1985), 28.
+[^1_gluck_1]: Robert Gluck, "Caricature," **Soup: New Critical Perspectives** #4, ed. Bruce Boone (San Francisco, 1985), 28.
 
-[^2]: Bruce Boone, "A Narrative Like a Punk Picture: Shocking Pinks,
+[^1_gluck_2]: Bruce Boone, "A Narrative Like a Punk Picture: Shocking Pinks,
 Lavenders, Magentas, Sickly Greens," **Poetics Journal** #5 ed.
 Barrett Watten and Lyn Hejinian, (Berkeley, May 1985) 92.
 
-[^3]: Black Star published **He Cried** by Dennis Cooper and **Lives of the Poets** by Steve Abbott. The Black Star Series still publishes,
+[^1_gluck_3]: Black Star published **He Cried** by Dennis Cooper and **Lives of the Poets** by Steve Abbott. The Black Star Series still publishes,
 most recently Camille Roy's **Swarm**, and soon John Norton's
 **Re:marriage**.
 
-[^4]: Bruce Boone, "Remarks on Narrative," afterward of **Family
+[^1_gluck_4]: Bruce Boone, "Remarks on Narrative," afterward of **Family
 Poems** by Robert Gluck, Black Star Series, San Francisco, 1979) 29.
 
-[^5]: "Spicer's Writing in Context," **Ironwood** 28, Tuscon, 1986.
+[^1_gluck_5]: "Spicer's Writing in Context," **Ironwood** 28, Tuscon, 1986.
 "Robert Duncan & Gay Community," **Ironwood** 22, (Robert Duncan
 Special Issue, Tuscon 1983. Bruce's studies have led him to eastern
 religion---now he's a non-denominational minister specializing in
 caring for people who are terminally ill.
 
-[^6]: Gluck, "Caricature," 19.
+[^1_gluck_6]: Gluck, "Caricature," 19.
 
-[^7]: Steve Abbott, "Notes on Boundaries, New Narrative," **Soup: New Critical Perspectives** #4) 81.
+[^1_gluck_7]: Steve Abbott, "Notes on Boundaries, New Narrative," **Soup: New Critical Perspectives** #4) 81.
 
-[^8]: Boone, "A Narrative Like a Punk Picture," **Poetics Journal**
+[^1_gluck_8]: Boone, "A Narrative Like a Punk Picture," **Poetics Journal**
 #5, 92.
 
-[^9]: La Fontaine, "Perukes" (Black Star Series, 1981) 63.
+[^1_gluck_9]: La Fontaine, "Perukes" (Black Star Series, 1981) 63.
 
 
 

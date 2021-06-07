@@ -15,7 +15,7 @@
 | Sleeping itself. When he is
 | finally asleep, the body can resume
 | remaking itself or
-| call on a project of outright fabrication. He doesn\'t
+| call on a project of outright fabrication. He doesn't
 | know his own story, except as he respires it.
 | Cells re-coat. Dreams are irrelevant. Connective
 | tissue lengthens, glossing itself.
@@ -35,7 +35,7 @@
 | by virtue of her not sleeping--- She decides to notice
 | his repose; she decides not to.
 | She considers that she is eavesdropping
-| somnolence, but it\'s not so
+| somnolence, but it's not so
 
 | in a tale that cannot be permeated. Corpuscles
 | mending themselves. Insomniac,

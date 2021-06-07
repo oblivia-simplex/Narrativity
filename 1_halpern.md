@@ -26,7 +26,7 @@ default simply because there is no other way actively to be here.
 bound to practice. In Latin, the root meaning appears to have doubled,
 manifesting an otherwise latent critical difference. There is at once
 *(g)narus*: knowing, expert, skillful; and *narro*: to relate or tell.
-([^1]) A fault---mine, and ours---runs thru the space between. *Fault*:
+([^1_halpern_1]) A fault---mine, and ours---runs thru the space between. *Fault*:
 deficiency, lack, scarcity; as well as slip, error, mistake. Also,
 more critically: *fault* as dislocation or a break in continuity of
 the strata or vein. *Here*, knowing is held in suspense and knowledge
@@ -38,7 +38,7 @@ one who tells. Here, between the overdetermined and the indeterminate,
 *narrative determines*, that is, it constrains and enables, just as it
 struggles and responds, testing the tension between knowing and
 composing. *Here, we make our narratives ourselves, but, in the first
-place, under very definite assumptions and conditions.* ([^2])
+place, under very definite assumptions and conditions.* ([^1_halpern_2])
 
 
 
@@ -373,7 +373,7 @@ equidistant from and coincident with I's every utterance. In relation
 to you, I's meanings are measured. Thus is I realistic without being
 real. Risking nothing short of love, the voice aims at "a particular
 absolute... it aims beyond particular objects to that 'something
-more' that exceeds them." ([^3]) That part of you that always remains.
+more' that exceeds them." ([^1_halpern_3]) That part of you that always remains.
 
 
 ## II. Politically
@@ -588,7 +588,7 @@ and intensify our desire for another way.
 
 
 And only by way of narrative might we unriddle "this knot of
-imaginary servitude that love must always undo again." ([^4])
+imaginary servitude that love must always undo again." ([^1_halpern_4])
 
 
 ## Bibliography
@@ -624,9 +624,9 @@ Press, 1977.
 
 
 
-[^1]: Hayden White notes this etymology in **The Content of the Form***.*
+[^1_halpern_1]: Hayden White notes this etymology in **The Content of the Form***.*
 
-[^2]: Frederich Engels writes in his letter to Joseph Block, September 21,
+[^1_halpern_2]: Frederich Engels writes in his letter to Joseph Block, September 21,
 1890: "We make our history ourselves, but, in the first place under
 very definite assumptions and conditions." Glossing this line in
 **Marxism and Literature**, Raymond Williams writes, "What this
@@ -636,9 +636,9 @@ agency: 'we make our history ourselves.' The 'definite' or
 of this agency: in fact 'determination' as 'the setting of
 limits'".
 
-[^3]: Copjec, Joan, **Read My Desire**, p. 148.
+[^1_halpern_3]: Copjec, Joan, **Read My Desire**, p. 148.
 
-[^4]: Lacan, "The Mirror Stage.*"*
+[^1_halpern_4]: Lacan, "The Mirror Stage.*"*
 
 
 
