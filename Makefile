@@ -2,6 +2,7 @@ TITLE="Narrativity"
 BASE?="narrativity"
 OUT="./out"
 BUILD="./build"
+CONTENT="./content/"
 ASTERISM_SVG="pandanus.svg"
 export ASTERISM_PNG="pandanus.png"
 FONT="Tex Gyre Pagella"
@@ -32,7 +33,7 @@ cleanbuild:
 	rm -rf $(BUILD)
 
 collate: outdir 
-	cat frontmatter.md [1-2]_*.md backmatter.md > $(BUILD)/$(BASE).md
+	cat $(CONTENT)/frontmatter.md $(CONTENT)/[1-2]_*.md $(CONTENT)/backmatter.md > $(BUILD)/$(BASE).md
 
 mobi: epub
 	ebook-convert $(BUILD)/$(BASE).epub $(BUILD)/$(BASE).mobi
