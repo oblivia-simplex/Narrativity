@@ -11437,11 +11437,9 @@ scratching his head, dandruff rising.
 # From the Forum
 
 ```
-
 Date Posted: 11:52:22 03/13/00 Mon
 Author: Elizabeth Treadwell
 Subject: Re: A Long Note...
-
 ```
 
 A public thank you to Bob Gluck for his "Long Note" in
@@ -11544,11 +11542,9 @@ visionary and bearer of the fabric of civilization.
 
 
 ```
-
 Date Posted: 15:47:48 03/20/00 Mon
 Author: Laird Hunt
 Subject: Re: Dan Machlin's Response to "The Avenue"
-
 ```
 
 
@@ -11613,7 +11609,18 @@ Subject: Materialism
 ---
 
 ```
+Date Posted: 06:25:42 08/11/01 Sat
+Author: Ann Bogle
+Subject: Prosetics anthology
+```
 
+Ann Bogle and Mark Wallace (NOTHING HAPPENED AND BESIDES I WASN'T THERE, TELLING IT SLANT)are planning to co-edit a volume of essays on innovative writing practice, called PROSETICS, to include essays about fiction and prose form. Our emphasis will be on practice rather than on theory, and with that in mind, we will also welcome writing about writing that does not fall under the rubric "essay." We will consider as-yet unpublished work as well as reprints. Send notes of interest to Ann Bogle at AMBogle@aol.com.
+
+Ann Bogle's short stories have been published in THE QUARTERLY, FICTION INTERNATIONAL, GULF COAST, and WASHINGTON REVIEW ("My Crush on Daniel Ortega"). Her mixed-genre prose work has been anthologized in NEUROMANTIC FICTION, a Black Ice Anthology (excerpts, "This Was Called War At One Time"), 2001. Fourteen of her prose poems, XAM: Paragraph Series, will be issued by Xexoxial Endarchy fall 2001.
+
+---
+
+```
 Date Posted: 05:51:03 09/13/01 Thu
 Author: Codfish
 Subject: thuder
@@ -11624,7 +11631,6 @@ Subject: thuder
 ---
 
 ```
-
 Date Posted: 10:41:06 01/28/02 Mon
 Author: original_sin
 Subject: entertained
@@ -11664,7 +11670,6 @@ In reply to: original_sin 's message, "entertained" on 10:38:04 01/28/02 Mon
 ---
 
 ```
-
 Date Posted: 09:58:54 03/11/03 Tue
 Author: Jeff Harrison
 Subject: ON NARRATIVITY
@@ -11706,20 +11711,6 @@ the sequence knew when to switch off...
 ---
 
 ```
-
-Date Posted: 06:25:42 08/11/01 Sat
-Author: Ann Bogle
-Subject: Prosetics anthology
-```
-
-Ann Bogle and Mark Wallace (NOTHING HAPPENED AND BESIDES I WASN'T THERE, TELLING IT SLANT)are planning to co-edit a volume of essays on innovative writing practice, called PROSETICS, to include essays about fiction and prose form. Our emphasis will be on practice rather than on theory, and with that in mind, we will also welcome writing about writing that does not fall under the rubric "essay." We will consider as-yet unpublished work as well as reprints. Send notes of interest to Ann Bogle at AMBogle@aol.com.
-
-Ann Bogle's short stories have been published in THE QUARTERLY, FICTION INTERNATIONAL, GULF COAST, and WASHINGTON REVIEW ("My Crush on Daniel Ortega"). Her mixed-genre prose work has been anthologized in NEUROMANTIC FICTION, a Black Ice Anthology (excerpts, "This Was Called War At One Time"), 2001. Fourteen of her prose poems, XAM: Paragraph Series, will be issued by Xexoxial Endarchy fall 2001.
-
----
-
-```
-
 Date Posted: 13:31:03 04/21/03 Mon
 Author: Jeff Harrison
 Subject: Virginia Missive Trio
@@ -11770,7 +11761,6 @@ THIMBLE PINCH: There ARE lizards in the desert. There are lizards everywhere, ex
 ---
 
 ```
-
 Date Posted: 12:56:28 06/02/03 Mon
 Author: Jeff Harrison
 Subject: VIRGINIA FROM THE BONES OUTWARD
@@ -11801,7 +11791,6 @@ fistful of cloth.
 ---
 
 ```
-
 Date Posted: 15:31:15 09/15/03 Mon
 Author: Reza Mokhtari
 Subject: Killers & Acker
@@ -11814,7 +11803,6 @@ To do so, I would be very pleased if you would gracefully help me on achieving t
 ---
 
 ```
-
 Date Posted: 05:19:24 10/28/03 Tue
 Author: brian kauffman
 Subject: after reading issue 3
@@ -11827,7 +11815,6 @@ xoxo brian
 ---
 
 ```
-
 Date Posted: 11:42:43 07/09/00 Sun
 Author: Andrew Tully
 Subject: Missing Links
@@ -11859,7 +11846,6 @@ Rod
 
 
 ```
-
 Date Posted: 11:44:15 10/08/04 Fri
 Author: emmett
 Subject: mentally artauded
@@ -11881,7 +11867,6 @@ We produce language to transmit our thoughts, evading inevitables. We speak to l
 ---
 
 ```
-
 Date Posted: 16:25:37 01/20/05 Thu
 Author: Martin Gray
 Subject: narrativity in poetic biography
@@ -11892,7 +11877,6 @@ Subject: narrativity in poetic biography
 ---
 
 ```
-
 Date Posted: 14:53:06 01/06/05 Thu
 Author: Greg Placonouris
 Subject: Desire's textual mediation 

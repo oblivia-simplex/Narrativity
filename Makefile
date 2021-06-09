@@ -16,8 +16,8 @@ outdir:
 	mkdir -p $(OUT) $(BUILD)
 	cp images/* $(BUILD)
 
-zip: all
-	cd $(OUT) && zip -r ../MortalLeap.zip .
+zip: narrativity_website
+	zip -r $(BUILD)/narrativity_website.zip narrativity_website
 
 cover:
 	convert images/cover.jpg \
@@ -71,9 +71,9 @@ html: collate metadata
 
 
 
-pdf: pdf2
+pdf: zip pdf2
 	# add the website mirror as a polyglot appendix
-	cat website_clone.zip $(BUILD)/$(BASE).pdf > $(OUT)/$(BASE).pdf
+	cat $(BUILD)/narrativity_website.zip $(BUILD)/$(BASE).pdf > $(OUT)/$(BASE).pdf
 
 metadata: 
 	sed -i "s/^identifier:.*/identifier: `git log -n1 | grep ^Date | cut -d: -f2-`/"  title.txt
