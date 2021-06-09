@@ -2,6 +2,7 @@ TITLE="Narrativity"
 BASE?="narrativity"
 OUT="./out"
 BUILD="./build"
+SCRIPTS="./scripts"
 CONTENT="./content/"
 ASTERISM_SVG="pandanus.svg"
 export ASTERISM_PNG="pandanus.png"
@@ -59,7 +60,7 @@ epub: collate metadata
 	    --epub-cover-image=$(BUILD)/cover.png \
 	    title.txt $(BUILD)/$(BASE).md
 # insert the asterism image into the epub
-	./add_media.sh $(BUILD)/$(BASE).epub images/$(ASTERISM_SVG)
+	$(SCRIPTS)/add_media.sh $(BUILD)/$(BASE).epub images/$(ASTERISM_SVG)
 	cp $(BUILD)/$(BASE).epub $(OUT)
 
 html: collate metadata
